@@ -1,4 +1,6 @@
-soccerdata
-pandas
+fotmob-wrapper
+aiohttp
 requests
+pandas
+soccerdata
 lxml
