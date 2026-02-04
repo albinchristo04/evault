@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T22:44:18.072994+00:00",
+  "lastUpdated": "2026-02-04T23:02:30.975199+00:00",
   "matchCount": 101,
   "liveCount": 8,
   "matches": [
@@ -8,14 +8,14 @@
       "home": "EC Jacuipense",
       "away": "Jequie",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/410824.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/584242.png",
       "league": "Baiano",
       "leagueId": 914393,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "45",
       "time": "2026-02-04T22:15:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 917618,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "HT",
       "time": "2026-02-04T22:00:00.000Z"
     },
     {
@@ -45,37 +45,22 @@
       "leagueId": 920002,
       "country": "COL",
       "status": "LIVE",
-      "minute": "12‎’‎",
+      "minute": "30‎’‎",
       "time": "2026-02-04T22:30:00.000Z"
-    },
-    {
-      "id": "fm-5136744",
-      "home": "Fuerte San Francisco",
-      "away": "CD Águila",
-      "homeScore": 2,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1525664.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49739.png",
-      "league": "Primera Division - Clausura",
-      "leagueId": 919025,
-      "country": "SLV",
-      "status": "LIVE",
-      "minute": "82‎’‎",
-      "time": "2026-02-04T21:00:00.000Z"
     },
     {
       "id": "fm-5136747",
       "home": "Zacatecoluca",
       "away": "Hercules",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1783451.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49747.png",
       "league": "Primera Division - Clausura",
       "leagueId": 919025,
       "country": "SLV",
       "status": "LIVE",
-      "minute": "70‎’‎",
+      "minute": "88‎’‎",
       "time": "2026-02-04T21:15:00.000Z"
     },
     {
@@ -83,14 +68,14 @@
       "home": "CD Cacahuatique",
       "away": "Firpo",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1662005.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49744.png",
       "league": "Primera Division - Clausura",
       "leagueId": 919025,
       "country": "SLV",
       "status": "LIVE",
-      "minute": "55‎’‎",
+      "minute": "74‎’‎",
       "time": "2026-02-04T21:30:00.000Z"
     },
     {
@@ -98,14 +83,14 @@
       "home": "Flamengo",
       "away": "Internacional",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9770.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8702.png",
       "league": "Serie A",
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "HT",
       "time": "2026-02-04T22:00:00.000Z"
     },
     {
@@ -120,23 +105,8 @@
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "HT",
       "time": "2026-02-04T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5152323",
-      "home": "Independiente Yumbo",
-      "away": "Real Cartagena",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4400.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7731.png",
-      "league": "Primera B Apertura",
-      "leagueId": 920002,
-      "country": "COL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-04T23:00:00.000Z"
     },
     {
       "id": "fm-5103383",
@@ -149,6 +119,21 @@
       "league": "Serie A",
       "leagueId": 268,
       "country": "BRA",
+      "status": "LIVE",
+      "minute": "1‎’‎",
+      "time": "2026-02-04T23:00:00.000Z"
+    },
+    {
+      "id": "fm-5152323",
+      "home": "Independiente Yumbo",
+      "away": "Real Cartagena",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4400.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7731.png",
+      "league": "Primera B Apertura",
+      "leagueId": 920002,
+      "country": "COL",
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-04T23:00:00.000Z"
@@ -917,6 +902,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-04T20:00:00.000Z"
+    },
+    {
+      "id": "fm-5136744",
+      "home": "Fuerte San Francisco",
+      "away": "CD Águila",
+      "homeScore": 2,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1525664.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49739.png",
+      "league": "Primera Division - Clausura",
+      "leagueId": 919025,
+      "country": "SLV",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-04T21:00:00.000Z"
     },
     {
       "id": "fm-4834517",
