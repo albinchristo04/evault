@@ -1,28 +1,13 @@
 {
-  "lastUpdated": "2026-02-04T11:31:46.162789+00:00",
-  "matchCount": 107,
-  "liveCount": 4,
+  "lastUpdated": "2026-02-04T11:59:33.858825+00:00",
+  "matchCount": 106,
+  "liveCount": 3,
   "matches": [
-    {
-      "id": "fm-5085843",
-      "home": "Boluspor",
-      "away": "Alanyaspor",
-      "homeScore": 0,
-      "awayScore": 4,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4675.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4678.png",
-      "league": "Cup Grp. A",
-      "leagueId": 914675,
-      "country": "TUR",
-      "status": "LIVE",
-      "minute": "71‎’‎",
-      "time": "2026-02-04T10:00:00.000Z"
-    },
     {
       "id": "fm-1000005414",
       "home": "Chiangmai United",
       "away": "Police Tero FC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1016183.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165244.png",
@@ -30,7 +15,7 @@
       "leagueId": 9498,
       "country": "THA",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "HT",
       "time": "2026-02-04T11:00:00.000Z"
     },
     {
@@ -45,7 +30,7 @@
       "leagueId": 9498,
       "country": "THA",
       "status": "LIVE",
-      "minute": "1‎’‎",
+      "minute": "29‎’‎",
       "time": "2026-02-04T11:30:00.000Z"
     },
     {
@@ -60,7 +45,7 @@
       "leagueId": 9498,
       "country": "THA",
       "status": "LIVE",
-      "minute": "2‎’‎",
+      "minute": "30‎’‎",
       "time": "2026-02-04T11:30:00.000Z"
     },
     {
@@ -1174,21 +1159,6 @@
       "time": "2026-02-04T20:00:00.000Z"
     },
     {
-      "id": "fm-1000005999",
-      "home": "Wick Academy",
-      "away": "Forres Mechanics",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1776.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1809.png",
-      "league": "Highland / Lowland",
-      "leagueId": 9545,
-      "country": "SCO",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-04T20:00:00.000Z"
-    },
-    {
       "id": "fm-1000006714",
       "home": "Al Anwar",
       "away": "Al-Jubail",
@@ -1489,6 +1459,21 @@
       "time": "2026-02-04T00:30:00.000Z"
     },
     {
+      "id": "fm-5085843",
+      "home": "Boluspor",
+      "away": "Alanyaspor",
+      "homeScore": 0,
+      "awayScore": 4,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4675.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4678.png",
+      "league": "Cup Grp. A",
+      "leagueId": 914675,
+      "country": "TUR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-04T10:00:00.000Z"
+    },
+    {
       "id": "fm-5101917",
       "home": "Independiente Rivadavia",
       "away": "Sarmiento",
@@ -1496,6 +1481,21 @@
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161729.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/202757.png",
+      "league": "Liga Profesional Apertura",
+      "leagueId": 905256,
+      "country": "ARG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-04T00:15:00.000Z"
+    },
+    {
+      "id": "fm-5101918",
+      "home": "Instituto",
+      "away": "Lanus",
+      "homeScore": 2,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10090.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10082.png",
       "league": "Liga Profesional Apertura",
       "leagueId": 905256,
       "country": "ARG",
