@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "lastUpdated": "2026-02-04T07:10:32.563643+00:00",
+=======
+  "lastUpdated": "2026-02-04T07:00:12.615414+00:00",
+>>>>>>> 5f1c5a3aa70f0b4e48eae699c471e303e6796db7
   "matchCount": 112,
   "liveCount": 2,
   "matches": [
@@ -14,7 +18,11 @@
       "league": "A-League Women",
       "country": "AUS",
       "status": "LIVE",
+<<<<<<< HEAD
       "minute": "41‎’‎",
+=======
+      "minute": "30‎’‎",
+>>>>>>> 5f1c5a3aa70f0b4e48eae699c471e303e6796db7
       "time": "2026-02-04T06:30:00.000Z"
     },
     {
@@ -28,7 +36,11 @@
       "league": "OFC Pro League",
       "country": "INT",
       "status": "LIVE",
+<<<<<<< HEAD
       "minute": "77‎’‎",
+=======
+      "minute": "67‎’‎",
+>>>>>>> 5f1c5a3aa70f0b4e48eae699c471e303e6796db7
       "time": "2026-02-04T05:30:00.000Z"
     },
     {
