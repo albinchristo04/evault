@@ -9,11 +9,10 @@ function Footer() {
                 </div>
 
                 <nav className="footer-links">
-                    <a href="/about" className="footer-link">About</a>
-                    <a href="/privacy" className="footer-link">Privacy Policy</a>
-                    <a href="/terms" className="footer-link">Terms of Service</a>
-                    <a href="/contact" className="footer-link">Contact</a>
-                    <a href="/dmca" className="footer-link">DMCA</a>
+                    <a href="#about" className="footer-link">About</a>
+                    <a href="#privacy" className="footer-link">Privacy Policy</a>
+                    <a href="#contact" className="footer-link">Contact</a>
+                    <a href="#dmca" className="footer-link">DMCA</a>
                 </nav>
 
                 <p className="footer-copyright">
