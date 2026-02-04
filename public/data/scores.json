@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T09:06:58.766345+00:00",
+  "lastUpdated": "2026-02-04T10:00:11.969815+00:00",
   "matchCount": 107,
   "liveCount": 2,
   "matches": [
@@ -7,15 +7,15 @@
       "id": "fm-4965852",
       "home": "Sydney FC",
       "away": "Brisbane Roar FC",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675731.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675726.png",
       "league": "A-League Women",
       "leagueId": 9495,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "37‎’‎",
+      "minute": "71‎’‎",
       "time": "2026-02-04T08:30:00.000Z"
     },
     {
@@ -23,14 +23,14 @@
       "home": "Dynamo Kyiv U19",
       "away": "Atletico Madrid U19",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/580741.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581120.png",
       "league": "UEFA Youth League 16th Finals",
       "leagueId": 1000001112,
       "country": "INT",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "HT",
       "time": "2026-02-04T09:00:00.000Z"
     },
     {
