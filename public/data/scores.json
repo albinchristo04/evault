@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T06:47:39.252652+00:00",
+  "lastUpdated": "2026-02-04T06:52:00.256149+00:00",
   "matchCount": 3,
   "liveCount": 2,
   "matches": [
@@ -15,7 +15,7 @@
       "homeImage": null,
       "awayImage": null,
       "country": "England",
-      "time": "2026-02-04T06:47:39.252617+00:00"
+      "time": "2026-02-04T06:52:00.256112+00:00"
     },
     {
       "home": "Real Madrid",
@@ -29,13 +29,13 @@
       "homeImage": null,
       "awayImage": null,
       "country": "England",
-      "time": "2026-02-04T06:47:39.252617+00:00"
+      "time": "2026-02-04T06:52:00.256112+00:00"
     },
     {
       "home": "Arsenal",
       "away": "Chelsea",
       "status": "SCHEDULED",
-      "time": "2026-02-04T09:47:39.252617+00:00",
+      "time": "2026-02-04T09:52:00.256112+00:00",
       "league": "Premier League",
       "id": "demo3",
       "homeImage": null,
