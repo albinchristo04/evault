@@ -1,21 +1,47 @@
+import { useEffect } from 'react'
+
 function AdBanner({ slot }) {
-    // AdSense integration placeholder
-    // Replace with actual AdSense code when ready
+    // Ad slot configuration
+    const adSlots = {
+        header: {
+            slot: '8797884002',
+            style: { display: 'inline-block', width: '320px', height: '50px' }
+        },
+        mid: {
+            slot: '2063942933',
+            style: { display: 'inline-block', width: '250px', height: '250px' }
+        },
+        footer: {
+            slot: '9640222263',
+            style: { display: 'block' },
+            format: 'auto',
+            fullWidth: true
+        }
+    }
+
+    const adConfig = adSlots[slot] || adSlots.footer
+
+    useEffect(() => {
+        try {
+            // Push ad after component mounts
+            if (typeof window !== 'undefined' && window.adsbygoogle) {
+                (window.adsbygoogle = window.adsbygoogle || []).push({})
+            }
+        } catch (error) {
+            console.error('AdSense error:', error)
+        }
+    }, [])
 
     return (
         <div className="ad-banner" data-ad-slot={slot}>
-            {/* 
-        AdSense code will be inserted here
-        Example:
-        <ins className="adsbygoogle"
-          style={{ display: 'block' }}
-          data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
-          data-ad-slot="XXXXXXXXXX"
-          data-ad-format="auto"
-          data-full-width-responsive="true">
-        </ins>
-      */}
-            <span className="ad-banner-label">Advertisement</span>
+            <ins
+                className="adsbygoogle"
+                style={adConfig.style}
+                data-ad-client="ca-pub-7025462814384100"
+                data-ad-slot={adConfig.slot}
+                {...(adConfig.format && { 'data-ad-format': adConfig.format })}
+                {...(adConfig.fullWidth && { 'data-full-width-responsive': 'true' })}
+            />
         </div>
     )
 }
