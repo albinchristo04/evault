@@ -11,12 +11,21 @@ function Standings({ leagueId }) {
             try {
                 const response = await fetch(`/.netlify/functions/standings?id=${leagueId}`)
                 if (!response.ok) throw new Error('Failed to fetch standings')
+
+                const contentType = response.headers.get("content-type")
+                if (!contentType || !contentType.includes("application/json")) {
+                    console.error("Standings API returned non-JSON response:", contentType)
+                    setStandings([])
+                    return
+                }
+
                 const data = await response.json()
                 // Handle different structures (FotMob wrapper returns varied standings formats)
                 const table = data[0]?.table?.all || data.table?.all || []
                 setStandings(table)
             } catch (err) {
                 console.error('Error fetching standings:', err)
+                setStandings([])
             } finally {
                 setLoading(false)
             }

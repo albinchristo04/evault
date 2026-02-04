@@ -14,6 +14,14 @@ function MatchDetail({ matchId }) {
                 const cleanId = matchId.replace('fm-', '')
                 const response = await fetch(`/.netlify/functions/match_details?id=${cleanId}`)
                 if (!response.ok) throw new Error('Failed to fetch match details')
+
+                const contentType = response.headers.get("content-type")
+                if (!contentType || !contentType.includes("application/json")) {
+                    console.error("Match Details API returned non-JSON response:", contentType)
+                    setError('Could not load match details. Please try again later.')
+                    return
+                }
+
                 const result = await response.json()
                 setData(result)
             } catch (err) {
