@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "lastUpdated": "2026-02-04T07:39:16.966689+00:00",
+=======
+  "lastUpdated": "2026-02-04T07:42:33.830973+00:00",
+>>>>>>> 8415aaa7d9f058dc89d88bc709428dc928d75660
   "matchCount": 109,
   "liveCount": 1,
   "matches": [
@@ -15,7 +19,11 @@
       "leagueId": 9495,
       "country": "AUS",
       "status": "LIVE",
+<<<<<<< HEAD
       "minute": "53‎’‎",
+=======
+      "minute": "56‎’‎",
+>>>>>>> 8415aaa7d9f058dc89d88bc709428dc928d75660
       "time": "2026-02-04T06:30:00.000Z"
     },
     {
