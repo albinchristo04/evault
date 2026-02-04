@@ -1,10 +1,6 @@
 {
-<<<<<<< HEAD
-  "lastUpdated": "2026-02-04T07:39:16.966689+00:00",
-=======
-  "lastUpdated": "2026-02-04T07:42:33.830973+00:00",
->>>>>>> 8415aaa7d9f058dc89d88bc709428dc928d75660
-  "matchCount": 109,
+  "lastUpdated": "2026-02-04T08:18:07.169177+00:00",
+  "matchCount": 107,
   "liveCount": 1,
   "matches": [
     {
@@ -19,11 +15,7 @@
       "leagueId": 9495,
       "country": "AUS",
       "status": "LIVE",
-<<<<<<< HEAD
-      "minute": "53‎’‎",
-=======
-      "minute": "56‎’‎",
->>>>>>> 8415aaa7d9f058dc89d88bc709428dc928d75660
+      "minute": "92‎’‎",
       "time": "2026-02-04T06:30:00.000Z"
     },
     {
@@ -69,7 +61,7 @@
       "country": "ESP",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-02-04T17:30:00.000Z"
+      "time": "2026-02-04T17:45:00.000Z"
     },
     {
       "id": "fm-5126340",
@@ -282,21 +274,6 @@
       "time": "2026-02-04T19:15:00.000Z"
     },
     {
-      "id": "fm-5141119",
-      "home": "Maccabi Bnei Raina",
-      "away": "Hapoel Beer Sheva",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1121750.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9754.png",
-      "league": "Cup",
-      "leagueId": 9097,
-      "country": "ISR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-04T17:00:00.000Z"
-    },
-    {
       "id": "fm-5141118",
       "home": "Beitar Jerusalem",
       "away": "Bnei Yehuda Tel Aviv",
@@ -309,7 +286,22 @@
       "country": "ISR",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-02-04T18:30:00.000Z"
+      "time": "2026-02-04T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5141119",
+      "home": "Maccabi Bnei Raina",
+      "away": "Hapoel Beer Sheva",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1121750.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9754.png",
+      "league": "Cup",
+      "leagueId": 9097,
+      "country": "ISR",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-02-04T18:00:00.000Z"
     },
     {
       "id": "fm-5136267",
@@ -475,21 +467,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-04T19:45:00.000Z"
-    },
-    {
-      "id": "fm-4803556",
-      "home": "Jagiellonia Bialystok",
-      "away": "GKS Katowice",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1957.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4023.png",
-      "league": "Ekstraklasa",
-      "leagueId": 899985,
-      "country": "POL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-04T19:30:00.000Z"
     },
     {
       "id": "fm-4863659",
@@ -820,21 +797,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-04T21:30:00.000Z"
-    },
-    {
-      "id": "fm-4834518",
-      "home": "Domzale",
-      "away": "Maribor",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8154.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8340.png",
-      "league": "Prva Liga",
-      "leagueId": 173,
-      "country": "SVN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-04T14:00:00.000Z"
     },
     {
       "id": "fm-4834517",
@@ -1510,6 +1472,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-04T00:00:00.000Z"
+    },
+    {
+      "id": "fm-5098857",
+      "home": "CD Olimpia",
+      "away": "América",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6336.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6576.png",
+      "league": "CONCACAF Champions Cup",
+      "leagueId": 915924,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-04T02:00:00.000Z"
+    },
+    {
+      "id": "fm-5098858",
+      "home": "San Diego FC",
+      "away": "Pumas",
+      "homeScore": 4,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1701119.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1946.png",
+      "league": "CONCACAF Champions Cup",
+      "leagueId": 915924,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-04T04:00:00.000Z"
     }
   ]
 }
