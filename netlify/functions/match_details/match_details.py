@@ -10,9 +10,15 @@ def handler(event, context):
     query_params = event.get('queryStringParameters', {})
     match_id = query_params.get('id')
     
+    headers = {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*'
+    }
+
     if not match_id:
         return {
             'statusCode': 400,
+            'headers': headers,
             'body': json.dumps({'error': 'Missing match id'})
         }
 
@@ -25,40 +31,46 @@ def handler(event, context):
     except ValueError:
          return {
             'statusCode': 400,
+            'headers': headers,
             'body': json.dumps({'error': 'Invalid match id format'})
         }
 
     try:
         data = asyncio.run(fetch_match_data(clean_id))
-        
         return {
             'statusCode': 200,
-            'headers': {
-                'Content-Type': 'application/json',
-                'Access-Control-Allow-Origin': '*'
-            },
+            'headers': headers,
             'body': json.dumps(data)
         }
     except Exception as e:
+        print(f"Match Details Error: {str(e)}")
         return {
             'statusCode': 500,
-            'body': json.dumps({'error': str(e)})
+            'headers': headers,
+            'body': json.dumps({'error': str(e), 'details': 'Error orchestrating data fetch'})
         }
 
+async def fetch_with_timeout(coro, timeout=5, default=None):
+    try:
+        return await asyncio.wait_for(coro, timeout=timeout)
+    except Exception as e:
+        print(f"Fetch failed or timed out: {e}")
+        return default
+
 async def fetch_match_data(match_id):
-    """Parallel fetching of all relevant match endpoints."""
+    """Parallel fetching of all relevant match endpoints with timeouts."""
     async with FotMob(proxy_url="") as fotmob:
         # We target the most data-rich endpoints
-        tasks = [
-            fotmob.get_match_details(match_id),    # Main stats, lineups, H2H summary
-            fotmob.get_match_comments(match_id),   # Play by play
-            fotmob.get_match_odds(match_id),       # Betting info
-            fotmob.get_tv_listings(match_id, "US") # TV listings (defaulting to US for demo)
-        ]
+        # Note: some endpoints might fail for certain matches, we handle those gracefully
+        results = await asyncio.gather(
+            fetch_with_timeout(fotmob.get_match_details(match_id), timeout=8, default={}),
+            fetch_with_timeout(fotmob.get_match_comments(match_id), timeout=5, default=[]),
+            fetch_with_timeout(fotmob.get_match_odds(match_id), timeout=5, default={}),
+            fetch_with_timeout(fotmob.get_tv_listings(match_id, "US"), timeout=5, default={}),
+            return_exceptions=True
+        )
         
-        results = await asyncio.gather(*tasks, return_exceptions=True)
-        
-        # Build composite object
+        # results will contain the defaults or exceptions if gather itself failed (unlikely)
         return {
             'details': results[0] if not isinstance(results[0], Exception) else {},
             'comments': results[1] if not isinstance(results[1], Exception) else [],

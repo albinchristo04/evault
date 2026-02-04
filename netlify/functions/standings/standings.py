@@ -9,9 +9,15 @@ def handler(event, context):
     query_params = event.get('queryStringParameters', {})
     league_id = query_params.get('id')
     
+    headers = {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*'
+    }
+
     if not league_id:
         return {
             'statusCode': 400,
+            'headers': headers,
             'body': json.dumps({'error': 'Missing league id'})
         }
 
@@ -20,6 +26,7 @@ def handler(event, context):
     except ValueError:
          return {
             'statusCode': 400,
+            'headers': headers,
             'body': json.dumps({'error': 'Invalid league id format'})
         }
 
@@ -27,15 +34,13 @@ def handler(event, context):
         data = asyncio.run(fetch_standings(clean_id))
         return {
             'statusCode': 200,
-            'headers': {
-                'Content-Type': 'application/json',
-                'Access-Control-Allow-Origin': '*'
-            },
+            'headers': headers,
             'body': json.dumps(data)
         }
     except Exception as e:
         return {
             'statusCode': 500,
+            'headers': headers,
             'body': json.dumps({'error': str(e)})
         }
 
