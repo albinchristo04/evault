@@ -39,7 +39,8 @@ async def get_fotmob_wrapper_data():
     logger.info("Attempting Layer 1 (fotmob-wrapper)...")
     matches = []
     try:
-        async with FotMob() as fotmob:
+        # Pass empty proxy_url to potentially skip the broken default proxy
+        async with FotMob(proxy_url="") as fotmob:
             # The library might return a list or a dict depending on version
             data = await fotmob.todays_games()
             
@@ -53,6 +54,7 @@ async def get_fotmob_wrapper_data():
                 if not isinstance(league, dict): continue
                 
                 league_name = league.get('name', 'General')
+                league_id = league.get('id')
                 country = league.get('ccode', '')
                 
                 for m in league.get('matches', []):
@@ -95,6 +97,7 @@ async def get_fotmob_wrapper_data():
                         'homeImage': f"https://images.fotmob.com/image_resources/logo/teamlogo/{home_obj.get('id')}.png" if home_obj.get('id') else None,
                         'awayImage': f"https://images.fotmob.com/image_resources/logo/teamlogo/{away_obj.get('id')}.png" if away_obj.get('id') else None,
                         'league': league_name,
+                        'leagueId': league_id,
                         'country': country,
                         'status': status,
                         'minute': minute,

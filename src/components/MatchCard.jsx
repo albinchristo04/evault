@@ -43,52 +43,54 @@ function MatchCard({ match, isLive }) {
     }
 
     return (
-        <article className={`match-card ${isLive ? 'is-live' : ''}`}>
-            <header className="match-header">
-                <div className="match-league">
-                    <span>{country || ''}</span>
-                    <span>•</span>
-                    <span>{league || 'Unknown League'}</span>
-                </div>
-                {getStatusDisplay()}
-            </header>
-
-            <div className="match-body">
-                <div className="match-team home">
-                    <div className="match-team-logo">
-                        {homeImage ? (
-                            <img src={homeImage} alt={home} loading="lazy" />
-                        ) : (
-                            '🏠'
-                        )}
+        <a href={`#match/${match.id}`} className={`match-card-link ${isLive ? 'is-live-link' : ''}`}>
+            <article className={`match-card ${isLive ? 'is-live' : ''}`}>
+                <header className="match-header">
+                    <div className="match-league">
+                        <span>{country || ''}</span>
+                        <span>•</span>
+                        <span>{league || 'Unknown League'}</span>
                     </div>
-                    <span className="match-team-name">{home || 'Home Team'}</span>
-                </div>
+                    {getStatusDisplay()}
+                </header>
 
-                <div className="match-score">
-                    <span className="match-score-value">{homeScore ?? '-'}</span>
-                    <span className="match-score-separator">:</span>
-                    <span className="match-score-value">{awayScore ?? '-'}</span>
-                </div>
-
-                <div className="match-team away">
-                    <div className="match-team-logo">
-                        {awayImage ? (
-                            <img src={awayImage} alt={away} loading="lazy" />
-                        ) : (
-                            '✈️'
-                        )}
+                <div className="match-body">
+                    <div className="match-team home">
+                        <div className="match-team-logo">
+                            {homeImage ? (
+                                <img src={homeImage} alt={home} loading="lazy" />
+                            ) : (
+                                '🏠'
+                            )}
+                        </div>
+                        <span className="match-team-name">{home || 'Home Team'}</span>
                     </div>
-                    <span className="match-team-name">{away || 'Away Team'}</span>
-                </div>
-            </div>
 
-            {status === 'SCHEDULED' && time && (
-                <div className="match-time">
-                    Kick-off: <span className="match-time-value">{formatTime(time)}</span>
+                    <div className="match-score">
+                        <span className="match-score-value">{homeScore ?? '-'}</span>
+                        <span className="match-score-separator">:</span>
+                        <span className="match-score-value">{awayScore ?? '-'}</span>
+                    </div>
+
+                    <div className="match-team away">
+                        <div className="match-team-logo">
+                            {awayImage ? (
+                                <img src={awayImage} alt={away} loading="lazy" />
+                            ) : (
+                                '✈️'
+                            )}
+                        </div>
+                        <span className="match-team-name">{away || 'Away Team'}</span>
+                    </div>
                 </div>
-            )}
-        </article>
+
+                {status === 'SCHEDULED' && time && (
+                    <div className="match-time">
+                        Kick-off: <span className="match-time-value">{formatTime(time)}</span>
+                    </div>
+                )}
+            </article>
+        </a>
     )
 }
 

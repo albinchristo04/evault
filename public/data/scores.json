@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
-  "lastUpdated": "2026-02-04T06:58:08.603637+00:00",
+  "lastUpdated": "2026-02-04T07:10:32.563643+00:00",
   "matchCount": 112,
-=======
-  "lastUpdated": "2026-02-04T06:52:00.256149+00:00",
-  "matchCount": 3,
->>>>>>> e9b4f0706a552bf835461b9cc0204a7fa2891d11
   "liveCount": 2,
   "matches": [
     {
@@ -13,13 +8,13 @@
       "home": "Melbourne City FC",
       "away": "Western Sydney Wanderers FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675728.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675732.png",
       "league": "A-League Women",
       "country": "AUS",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "41‎’‎",
       "time": "2026-02-04T06:30:00.000Z"
     },
     {
@@ -33,7 +28,7 @@
       "league": "OFC Pro League",
       "country": "INT",
       "status": "LIVE",
-      "minute": "65‎’‎",
+      "minute": "77‎’‎",
       "time": "2026-02-04T05:30:00.000Z"
     },
     {
@@ -563,18 +558,10 @@
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/205189.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/517894.png",
       "league": "Premier League",
-<<<<<<< HEAD
       "country": "EGY",
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-04T15:00:00.000Z"
-=======
-      "id": "demo1",
-      "homeImage": null,
-      "awayImage": null,
-      "country": "England",
-      "time": "2026-02-04T06:52:00.256112+00:00"
->>>>>>> e9b4f0706a552bf835461b9cc0204a7fa2891d11
     },
     {
       "id": "fm-4899602",
@@ -582,7 +569,6 @@
       "away": "Al Masry SC",
       "homeScore": 0,
       "awayScore": 0,
-<<<<<<< HEAD
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585662.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101762.png",
       "league": "Premier League",
@@ -1416,29 +1402,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-04T15:00:00.000Z"
-=======
-      "status": "LIVE",
-      "minute": "15'",
-      "league": "La Liga",
-      "id": "demo2",
-      "homeImage": null,
-      "awayImage": null,
-      "country": "England",
-      "time": "2026-02-04T06:52:00.256112+00:00"
-    },
-    {
-      "home": "Arsenal",
-      "away": "Chelsea",
-      "status": "SCHEDULED",
-      "time": "2026-02-04T09:52:00.256112+00:00",
-      "league": "Premier League",
-      "id": "demo3",
-      "homeImage": null,
-      "awayImage": null,
-      "country": "England",
-      "homeScore": null,
-      "awayScore": null
->>>>>>> e9b4f0706a552bf835461b9cc0204a7fa2891d11
     }
   ]
 }
