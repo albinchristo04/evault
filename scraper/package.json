@@ -1,0 +1,14 @@
+{
+    "name": "evaulthub-scraper",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Flashscore live football scores scraper for EVaultHub",
+    "main": "index.js",
+    "scripts": {
+        "scrape": "node index.js",
+        "test": "node index.js --test"
+    },
+    "dependencies": {
+        "playwright": "^1.40.0"
+    }
+}

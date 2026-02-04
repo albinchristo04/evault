@@ -1,0 +1,107 @@
+{
+    "lastUpdated": "2026-02-04T11:00:00Z",
+    "matches": [
+        {
+            "id": "match-001",
+            "home": "Manchester United",
+            "away": "Liverpool",
+            "homeScore": 2,
+            "awayScore": 1,
+            "homeImage": null,
+            "awayImage": null,
+            "league": "Premier League",
+            "country": "England",
+            "status": "LIVE",
+            "minute": "67"
+        },
+        {
+            "id": "match-002",
+            "home": "Real Madrid",
+            "away": "Barcelona",
+            "homeScore": 1,
+            "awayScore": 1,
+            "homeImage": null,
+            "awayImage": null,
+            "league": "La Liga",
+            "country": "Spain",
+            "status": "LIVE",
+            "minute": "45+2"
+        },
+        {
+            "id": "match-003",
+            "home": "Bayern Munich",
+            "away": "Borussia Dortmund",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeImage": null,
+            "awayImage": null,
+            "league": "Bundesliga",
+            "country": "Germany",
+            "status": "SCHEDULED",
+            "time": "2026-02-04T18:30:00Z"
+        },
+        {
+            "id": "match-004",
+            "home": "AC Milan",
+            "away": "Inter Milan",
+            "homeScore": 3,
+            "awayScore": 2,
+            "homeImage": null,
+            "awayImage": null,
+            "league": "Serie A",
+            "country": "Italy",
+            "status": "FINISHED"
+        },
+        {
+            "id": "match-005",
+            "home": "PSG",
+            "away": "Marseille",
+            "homeScore": null,
+            "awayScore": null,
+            "homeImage": null,
+            "awayImage": null,
+            "league": "Ligue 1",
+            "country": "France",
+            "status": "SCHEDULED",
+            "time": "2026-02-04T20:00:00Z"
+        },
+        {
+            "id": "match-006",
+            "home": "Chelsea",
+            "away": "Arsenal",
+            "homeScore": 1,
+            "awayScore": 0,
+            "homeImage": null,
+            "awayImage": null,
+            "league": "Premier League",
+            "country": "England",
+            "status": "LIVE",
+            "minute": "23"
+        },
+        {
+            "id": "match-007",
+            "home": "Atletico Madrid",
+            "away": "Sevilla",
+            "homeScore": 2,
+            "awayScore": 0,
+            "homeImage": null,
+            "awayImage": null,
+            "league": "La Liga",
+            "country": "Spain",
+            "status": "FINISHED"
+        },
+        {
+            "id": "match-008",
+            "home": "Juventus",
+            "away": "Napoli",
+            "homeScore": null,
+            "awayScore": null,
+            "homeImage": null,
+            "awayImage": null,
+            "league": "Serie A",
+            "country": "Italy",
+            "status": "SCHEDULED",
+            "time": "2026-02-04T19:45:00Z"
+        }
+    ]
+}
