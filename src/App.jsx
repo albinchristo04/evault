@@ -68,10 +68,10 @@ function App() {
 
     const leagues = [...new Set(matches.map(m => m.league))].sort()
 
-    // Find leagueId for standings sidebar
+    // Find leagueId for standings sidebar (default to Premier League ID 47 if all selected)
     const activeLeagueId = selectedLeague !== 'all'
         ? matches.find(m => m.league === selectedLeague)?.leagueId
-        : null
+        : 47
 
     const filteredMatches = matches.filter(m => {
         const matchesLeague = selectedLeague === 'all' || m.league === selectedLeague

@@ -16,9 +16,17 @@ def handler(event, context):
             'body': json.dumps({'error': 'Missing match id'})
         }
 
-    clean_id = match_id
+    clean_id_str = match_id
     if match_id.startswith('fm-'):
-        clean_id = match_id.replace('fm-', '')
+        clean_id_str = match_id.replace('fm-', '')
+
+    try:
+        clean_id = int(clean_id_str)
+    except ValueError:
+         return {
+            'statusCode': 400,
+            'body': json.dumps({'error': 'Invalid match id format'})
+        }
 
     try:
         data = asyncio.run(fetch_match_data(clean_id))

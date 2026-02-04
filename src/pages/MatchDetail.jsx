@@ -54,6 +54,7 @@ function MatchDetail({ matchId }) {
     const { details, odds, comments, tv } = data || {}
     const general = details?.general || {}
     const content = details?.content || {}
+    const matchStats = content.stats?.Periods?.All?.stats || (Array.isArray(content.stats) ? content.stats : [])
     const h2h = content?.h2h || []
 
     return (
@@ -219,26 +220,33 @@ function MatchDetail({ matchId }) {
 
                 {activeTab === 'stats' && (
                     <div className="stats-container glass card animate-fade-in">
-                        {content.stats?.map((stat, i) => (
+                        {matchStats.map((group, i) => (
                             <div key={i} className="stat-group">
-                                <h5>{stat.title}</h5>
-                                {stat.stats?.map((s, j) => (
+                                <h5>{group.title}</h5>
+                                {group.stats?.map((s, j) => (
                                     <div key={j} className="stat-row">
                                         <div className="stat-header">
-                                            <span>{s.homeValue}</span>
+                                            <span>{s.stats[0]}</span>
                                             <span className="stat-label">{s.title}</span>
-                                            <span>{s.awayValue}</span>
+                                            <span>{s.stats[1]}</span>
                                         </div>
                                         <div className="stat-bars">
                                             <div className="stat-bar-bg">
-                                                <div className="stat-bar-fill home" style={{ width: `${(parseFloat(s.homeValue) / (parseFloat(s.homeValue) + parseFloat(s.awayValue)) * 100) || 50}%` }}></div>
-                                                <div className="stat-bar-fill away" style={{ width: `${(parseFloat(s.awayValue) / (parseFloat(s.homeValue) + parseFloat(s.awayValue)) * 100) || 50}%` }}></div>
+                                                <div
+                                                    className="stat-bar-fill home"
+                                                    style={{ width: `${(parseFloat(s.stats[0]) / (parseFloat(s.stats[0]) + parseFloat(s.stats[1])) * 100) || 50}%` }}
+                                                ></div>
+                                                <div
+                                                    className="stat-bar-fill away"
+                                                    style={{ width: `${(parseFloat(s.stats[1]) / (parseFloat(s.stats[0]) + parseFloat(s.stats[1])) * 100) || 50}%` }}
+                                                ></div>
                                             </div>
                                         </div>
                                     </div>
                                 ))}
                             </div>
                         ))}
+                        {matchStats.length === 0 && <p className="empty-text">Stats not available for this match.</p>}
                     </div>
                 )}
 

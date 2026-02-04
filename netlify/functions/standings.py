@@ -16,7 +16,15 @@ def handler(event, context):
         }
 
     try:
-        data = asyncio.run(fetch_standings(league_id))
+        clean_id = int(league_id)
+    except ValueError:
+         return {
+            'statusCode': 400,
+            'body': json.dumps({'error': 'Invalid league id format'})
+        }
+
+    try:
+        data = asyncio.run(fetch_standings(clean_id))
         return {
             'statusCode': 200,
             'headers': {
