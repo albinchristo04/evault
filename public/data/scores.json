@@ -1,22 +1,37 @@
 {
-  "lastUpdated": "2026-02-05T10:53:17.572665+00:00",
+  "lastUpdated": "2026-02-05T11:34:14.933656+00:00",
   "matchCount": 66,
-  "liveCount": 1,
+  "liveCount": 2,
   "matches": [
     {
       "id": "fm-5085952",
       "home": "Keçiörengücü",
       "away": "Gaziantep FK",
       "homeScore": 1,
-      "awayScore": 3,
+      "awayScore": 4,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8387.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4081.png",
       "league": "Cup Grp. C",
       "leagueId": 914677,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "73‎’‎",
       "time": "2026-02-05T10:00:00.000Z"
+    },
+    {
+      "id": "fm-1000005419",
+      "home": "Nakhon Pathom",
+      "away": "Chanthaburi FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165252.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1513932.png",
+      "league": "Thai League 2",
+      "leagueId": 9498,
+      "country": "THA",
+      "status": "LIVE",
+      "minute": "35‎’‎",
+      "time": "2026-02-05T11:00:00.000Z"
     },
     {
       "id": "fm-5159283",
@@ -782,21 +797,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-05T12:00:00.000Z"
-    },
-    {
-      "id": "fm-1000005419",
-      "home": "Nakhon Pathom",
-      "away": "Chanthaburi FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165252.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1513932.png",
-      "league": "Thai League 2",
-      "leagueId": 9498,
-      "country": "THA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-05T11:00:00.000Z"
     },
     {
       "id": "fm-1000005420",
