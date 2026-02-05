@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T23:21:19.673489+00:00",
+  "lastUpdated": "2026-02-05T23:48:19.935640+00:00",
   "matchCount": 66,
   "liveCount": 7,
   "matches": [
@@ -15,7 +15,7 @@
       "leagueId": 917618,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "61‎’‎",
+      "minute": "88‎’‎",
       "time": "2026-02-05T22:00:00.000Z"
     },
     {
@@ -37,16 +37,31 @@
       "id": "fm-5111307",
       "home": "Queretaro (W)",
       "away": "Club Leon (W)",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980706.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980705.png",
       "league": "Liga MX Femenil Clausura",
       "leagueId": 916500,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-05T23:00:00.000Z"
+    },
+    {
+      "id": "fm-5081656",
+      "home": "Corinthians",
+      "away": "Capivariano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9808.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581830.png",
+      "league": "Paulista A1",
+      "leagueId": 914533,
+      "country": "BRA",
+      "status": "LIVE",
+      "minute": "17‎’‎",
+      "time": "2026-02-05T23:30:00.000Z"
     },
     {
       "id": "fm-5152326",
@@ -60,14 +75,14 @@
       "leagueId": 920002,
       "country": "COL",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "58‎’‎",
       "time": "2026-02-05T22:30:00.000Z"
     },
     {
       "id": "fm-5103382",
       "home": "Bahia",
       "away": "Fluminense",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7877.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9863.png",
@@ -75,7 +90,7 @@
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "55‎’‎",
+      "minute": "82‎’‎",
       "time": "2026-02-05T22:00:00.000Z"
     },
     {
@@ -90,38 +105,8 @@
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "49‎’‎",
       "time": "2026-02-05T23:00:00.000Z"
-    },
-    {
-      "id": "fm-5074291",
-      "home": "Sporting CP",
-      "away": "AVS Futebol SAD",
-      "homeScore": 2,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9768.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1889.png",
-      "league": "Taca de Portugal",
-      "leagueId": 186,
-      "country": "POR",
-      "status": "LIVE",
-      "minute": "112‎’‎",
-      "time": "2026-02-05T20:45:00.000Z"
-    },
-    {
-      "id": "fm-5081656",
-      "home": "Corinthians",
-      "away": "Capivariano",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9808.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581830.png",
-      "league": "Paulista A1",
-      "leagueId": 914533,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-05T23:30:00.000Z"
     },
     {
       "id": "fm-5098859",
@@ -887,6 +872,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-05T18:30:00.000Z"
+    },
+    {
+      "id": "fm-5074291",
+      "home": "Sporting CP",
+      "away": "AVS Futebol SAD",
+      "homeScore": 3,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9768.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1889.png",
+      "league": "Taca de Portugal",
+      "leagueId": 186,
+      "country": "POR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-05T20:45:00.000Z"
     },
     {
       "id": "fm-1000003571",
