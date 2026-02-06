@@ -1,37 +1,52 @@
 {
-  "lastUpdated": "2026-02-06T02:49:38.327551+00:00",
+  "lastUpdated": "2026-02-06T04:29:53.041253+00:00",
   "matchCount": 152,
-  "liveCount": 2,
+  "liveCount": 3,
   "matches": [
     {
-      "id": "fm-5165197",
-      "home": "Inter de Santa Maria",
-      "away": "Avenida",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197884.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197888.png",
-      "league": "Gaucho Relegation Group",
-      "leagueId": 920288,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "84‎’‎",
-      "time": "2026-02-06T00:30:00.000Z"
-    },
-    {
-      "id": "fm-5111309",
-      "home": "FC Juarez (W)",
-      "away": "CF America (W)",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1066912.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980693.png",
+      "id": "fm-5111310",
+      "home": "Tigres (W)",
+      "away": "Cruz Azul (W)",
+      "homeScore": 3,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980701.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980700.png",
       "league": "Liga MX Femenil Clausura",
       "leagueId": 916500,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "81‎’‎",
-      "time": "2026-02-06T01:06:00.000Z"
+      "minute": "66‎’‎",
+      "time": "2026-02-06T03:00:00.000Z"
+    },
+    {
+      "id": "fm-5111311",
+      "home": "Atlas (W)",
+      "away": "Pumas (W)",
+      "homeScore": 4,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980704.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980695.png",
+      "league": "Liga MX Femenil Clausura",
+      "leagueId": 916500,
+      "country": "MEX",
+      "status": "LIVE",
+      "minute": "65‎’‎",
+      "time": "2026-02-06T03:06:00.000Z"
+    },
+    {
+      "id": "fm-4965883",
+      "home": "Wellington Phoenix",
+      "away": "Perth Glory",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1300347.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675730.png",
+      "league": "A-League Women",
+      "leagueId": 9495,
+      "country": "AUS",
+      "status": "LIVE",
+      "minute": "65‎’‎",
+      "time": "2026-02-06T03:00:00.000Z"
     },
     {
       "id": "fm-4813620",
@@ -1039,36 +1054,6 @@
       "time": "2026-02-06T22:00:00.000Z"
     },
     {
-      "id": "fm-5111310",
-      "home": "Tigres (W)",
-      "away": "Cruz Azul (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980701.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980700.png",
-      "league": "Liga MX Femenil Clausura",
-      "leagueId": 916500,
-      "country": "MEX",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-06T03:00:00.000Z"
-    },
-    {
-      "id": "fm-5111311",
-      "home": "Atlas (W)",
-      "away": "Pumas (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980704.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980695.png",
-      "league": "Liga MX Femenil Clausura",
-      "leagueId": 916500,
-      "country": "MEX",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-06T03:06:00.000Z"
-    },
-    {
       "id": "fm-5111312",
       "home": "Puebla (W)",
       "away": "Santos Laguna (W)",
@@ -1502,6 +1487,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-06T15:00:00.000Z"
+    },
+    {
+      "id": "fm-4890064",
+      "home": "Tanjong Pagar United FC",
+      "away": "Geylang International FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/243800.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/67380.png",
+      "league": "Premier League",
+      "leagueId": 461,
+      "country": "SIN",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-02-06T11:30:00.000Z"
     }
   ]
 }
