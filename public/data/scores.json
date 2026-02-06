@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T22:21:37.044235+00:00",
+  "lastUpdated": "2026-02-06T22:50:44.202498+00:00",
   "matchCount": 146,
   "liveCount": 5,
   "matches": [
@@ -8,14 +8,14 @@
       "home": "Magallanes",
       "away": "Deportes Santa Cruz",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/246503.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/584834.png",
       "league": "Cup Grp. G",
       "leagueId": 9091,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "59‎’‎",
+      "minute": "88‎’‎",
       "time": "2026-02-06T21:00:00.000Z"
     },
     {
@@ -23,14 +23,14 @@
       "home": "Albion",
       "away": "Liverpool FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/924934.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2219.png",
       "league": "Liga AUF Uruguaya Apertura",
       "leagueId": 920319,
       "country": "URU",
       "status": "LIVE",
-      "minute": "19‎’‎",
+      "minute": "HT",
       "time": "2026-02-06T22:00:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 916500,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "36‎’‎",
+      "minute": "HT",
       "time": "2026-02-06T21:45:00.000Z"
     },
     {
@@ -60,7 +60,7 @@
       "leagueId": 919709,
       "country": "VEN",
       "status": "LIVE",
-      "minute": "19‎’‎",
+      "minute": "HT",
       "time": "2026-02-06T22:00:00.000Z"
     },
     {
@@ -68,14 +68,14 @@
       "home": "Sportivo San Lorenzo",
       "away": "Recoleta",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/198186.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1427854.png",
       "league": "Division Profesional",
       "leagueId": 199,
       "country": "PAR",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "64‎’‎",
       "time": "2026-02-06T21:30:00.000Z"
     },
     {
