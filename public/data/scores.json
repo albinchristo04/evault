@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-02-06T08:05:51.783967+00:00",
+  "lastUpdated": "2026-02-06T08:59:00.757419+00:00",
   "matchCount": 152,
-  "liveCount": 0,
+  "liveCount": 2,
   "matches": [
+    {
+      "id": "fm-4965698",
+      "home": "Macarthur FC",
+      "away": "Perth Glory",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1209973.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7961.png",
+      "league": "A-League Men",
+      "leagueId": 901954,
+      "country": "AUS",
+      "status": "LIVE",
+      "minute": "23‎’‎",
+      "time": "2026-02-06T08:35:00.000Z"
+    },
+    {
+      "id": "fm-4879916",
+      "home": "PSIM Yogyakarta",
+      "away": "Persis Solo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585850.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/583034.png",
+      "league": "Super League",
+      "leagueId": 8983,
+      "country": "IDN",
+      "status": "LIVE",
+      "minute": "29‎’‎",
+      "time": "2026-02-06T08:30:00.000Z"
+    },
     {
       "id": "fm-4813620",
       "home": "Leeds",
@@ -122,21 +152,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-06T18:00:00.000Z"
-    },
-    {
-      "id": "fm-4965698",
-      "home": "Macarthur FC",
-      "away": "Perth Glory",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1209973.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7961.png",
-      "league": "A-League Men",
-      "leagueId": 901954,
-      "country": "AUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-06T08:35:00.000Z"
     },
     {
       "id": "fm-4818508",
@@ -706,7 +721,7 @@
       "country": "JPN",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-02-06T10:00:00.000Z"
+      "time": "2026-02-06T10:03:00.000Z"
     },
     {
       "id": "fm-5125168",
@@ -721,7 +736,7 @@
       "country": "JPN",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-02-06T10:00:00.000Z"
+      "time": "2026-02-06T10:03:00.000Z"
     },
     {
       "id": "fm-5125169",
@@ -736,7 +751,7 @@
       "country": "JPN",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-02-06T10:00:00.000Z"
+      "time": "2026-02-06T10:05:00.000Z"
     },
     {
       "id": "fm-4888379",
@@ -1483,21 +1498,6 @@
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2198.png",
       "league": "Premier League Championship Group",
       "leagueId": 919717,
-      "country": "WAL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-06T19:45:00.000Z"
-    },
-    {
-      "id": "fm-5142423",
-      "home": "Briton Ferry",
-      "away": "Haverfordwest",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/560955.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2194.png",
-      "league": "Premier League Relegation Group",
-      "leagueId": 919718,
       "country": "WAL",
       "status": "SCHEDULED",
       "minute": null,
