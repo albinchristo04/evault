@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-02-06T17:11:33.303865+00:00",
+  "lastUpdated": "2026-02-06T18:01:51.964923+00:00",
   "matchCount": 147,
-  "liveCount": 13,
+  "liveCount": 16,
   "matches": [
+    {
+      "id": "fm-4829836",
+      "home": "Greuther Fürth",
+      "away": "Magdeburg",
+      "homeScore": 1,
+      "awayScore": 4,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8357.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8188.png",
+      "league": "2. Bundesliga",
+      "leagueId": 146,
+      "country": "GER",
+      "status": "LIVE",
+      "minute": "31‎’‎",
+      "time": "2026-02-06T17:30:00.000Z"
+    },
+    {
+      "id": "fm-4829840",
+      "home": "Preussen Münster",
+      "away": "Bochum",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8171.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9911.png",
+      "league": "2. Bundesliga",
+      "leagueId": 146,
+      "country": "GER",
+      "status": "LIVE",
+      "minute": "31‎’‎",
+      "time": "2026-02-06T17:30:00.000Z"
+    },
     {
       "id": "fm-4961249",
       "home": "Sporting CP (W)",
@@ -15,14 +45,14 @@
       "leagueId": 905808,
       "country": "POR",
       "status": "LIVE",
-      "minute": "12‎’‎",
+      "minute": "HT",
       "time": "2026-02-06T17:00:00.000Z"
     },
     {
       "id": "fm-5165810",
       "home": "Krasnodar",
       "away": "Zenit",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/168719.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8698.png",
@@ -30,14 +60,14 @@
       "leagueId": 915708,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "85‎’‎",
       "time": "2026-02-06T16:15:00.000Z"
     },
     {
       "id": "fm-5164766",
       "home": "CR Vasco da Gama",
       "away": "Luthuli Brigades",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1704813.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1899968.png",
@@ -45,7 +75,7 @@
       "leagueId": 9473,
       "country": "RSA",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "HT",
       "time": "2026-02-06T17:00:00.000Z"
     },
     {
@@ -60,14 +90,14 @@
       "leagueId": 9473,
       "country": "RSA",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "HT",
       "time": "2026-02-06T17:00:00.000Z"
     },
     {
       "id": "fm-4803594",
       "home": "Korona Kielce",
       "away": "Zagłębie Lubin",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8245.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8021.png",
@@ -75,29 +105,29 @@
       "leagueId": 899985,
       "country": "POL",
       "status": "LIVE",
-      "minute": "11‎’‎",
+      "minute": "HT",
       "time": "2026-02-06T17:00:00.000Z"
     },
     {
-      "id": "fm-4809638",
-      "home": "CSKA Sofia",
-      "away": "Arda Kardzhali",
-      "homeScore": 2,
+      "id": "fm-4863674",
+      "home": "Freiburg (W)",
+      "away": "Bayern München (W)",
+      "homeScore": 0,
       "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10144.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/944173.png",
-      "league": "First Professional League",
-      "leagueId": 899885,
-      "country": "BUL",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/679909.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/671935.png",
+      "league": "Frauen-Bundesliga",
+      "leagueId": 9676,
+      "country": "GER",
       "status": "LIVE",
-      "minute": "65‎’‎",
-      "time": "2026-02-06T15:45:00.000Z"
+      "minute": "32‎’‎",
+      "time": "2026-02-06T17:30:00.000Z"
     },
     {
       "id": "fm-4814228",
       "home": "NK Lokomotiva",
       "away": "HNK Gorica",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/175388.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/206560.png",
@@ -105,14 +135,14 @@
       "leagueId": 252,
       "country": "CRO",
       "status": "LIVE",
-      "minute": "11‎’‎",
+      "minute": "HT",
       "time": "2026-02-06T17:00:00.000Z"
     },
     {
       "id": "fm-4816940",
       "home": "Odra Opole",
       "away": "Pogoń Siedlce",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8047.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/273750.png",
@@ -120,23 +150,8 @@
       "leagueId": 197,
       "country": "POL",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "HT",
       "time": "2026-02-06T17:00:00.000Z"
-    },
-    {
-      "id": "fm-4888378",
-      "home": "Elbasani",
-      "away": "Teuta Durres",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10038.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10037.png",
-      "league": "Kategoria Superiore",
-      "leagueId": 260,
-      "country": "ALB",
-      "status": "LIVE",
-      "minute": "81‎’‎",
-      "time": "2026-02-06T15:30:00.000Z"
     },
     {
       "id": "fm-4813186",
@@ -150,7 +165,7 @@
       "leagueId": 212,
       "country": "HUN",
       "status": "LIVE",
-      "minute": "24‎’‎",
+      "minute": "59‎’‎",
       "time": "2026-02-06T16:45:00.000Z"
     },
     {
@@ -165,7 +180,7 @@
       "leagueId": 900837,
       "country": "BIH",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "HT",
       "time": "2026-02-06T17:00:00.000Z"
     },
     {
@@ -173,21 +188,21 @@
       "home": "Al-Jazira",
       "away": "Al-Ain",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102101.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102117.png",
       "league": "Pro League",
       "leagueId": 538,
       "country": "UAE",
       "status": "LIVE",
-      "minute": "47‎’‎",
+      "minute": "97‎’‎",
       "time": "2026-02-06T16:00:00.000Z"
     },
     {
       "id": "fm-5099016",
       "home": "Qatar SC",
       "away": "Al-Rayyan",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101900.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101898.png",
@@ -195,8 +210,38 @@
       "leagueId": 535,
       "country": "QAT",
       "status": "LIVE",
-      "minute": "26‎’‎",
+      "minute": "54‎’‎",
       "time": "2026-02-06T16:45:00.000Z"
+    },
+    {
+      "id": "fm-4927490",
+      "home": "Al Nassr FC",
+      "away": "Al Ittihad",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png",
+      "league": "Saudi Pro League",
+      "leagueId": 536,
+      "country": "KSA",
+      "status": "LIVE",
+      "minute": "31‎’‎",
+      "time": "2026-02-06T17:30:00.000Z"
+    },
+    {
+      "id": "fm-1000003746",
+      "home": "Al Nassr",
+      "away": "Al Qadsiah",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1712820.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1712806.png",
+      "league": "Women’s Premier League",
+      "leagueId": 10783,
+      "country": "KSA",
+      "status": "LIVE",
+      "minute": "32‎’‎",
+      "time": "2026-02-06T17:30:00.000Z"
     },
     {
       "id": "fm-4813620",
@@ -272,36 +317,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-06T19:45:00.000Z"
-    },
-    {
-      "id": "fm-4829836",
-      "home": "Greuther Fürth",
-      "away": "Magdeburg",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8357.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8188.png",
-      "league": "2. Bundesliga",
-      "leagueId": 146,
-      "country": "GER",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-06T17:30:00.000Z"
-    },
-    {
-      "id": "fm-4829840",
-      "home": "Preussen Münster",
-      "away": "Bochum",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8171.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9911.png",
-      "league": "2. Bundesliga",
-      "leagueId": 146,
-      "country": "GER",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-06T17:30:00.000Z"
     },
     {
       "id": "fm-4846867",
@@ -557,21 +572,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-06T19:45:00.000Z"
-    },
-    {
-      "id": "fm-4863674",
-      "home": "Freiburg (W)",
-      "away": "Bayern München (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/679909.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/671935.png",
-      "league": "Frauen-Bundesliga",
-      "leagueId": 9676,
-      "country": "GER",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-06T17:30:00.000Z"
     },
     {
       "id": "fm-5165143",
@@ -1234,21 +1234,6 @@
       "time": "2026-02-06T18:00:00.000Z"
     },
     {
-      "id": "fm-4927490",
-      "home": "Al Nassr FC",
-      "away": "Al Ittihad",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png",
-      "league": "Saudi Pro League",
-      "leagueId": 536,
-      "country": "KSA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-06T17:30:00.000Z"
-    },
-    {
       "id": "fm-4906208",
       "home": "Cesena",
       "away": "Pescara",
@@ -1474,21 +1459,6 @@
       "time": "2026-02-06T19:00:00.000Z"
     },
     {
-      "id": "fm-1000003746",
-      "home": "Al Nassr",
-      "away": "Al Qadsiah",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1712820.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1712806.png",
-      "league": "Women’s Premier League",
-      "leagueId": 10783,
-      "country": "KSA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-06T17:30:00.000Z"
-    },
-    {
       "id": "fm-4893068",
       "home": "Sunderland",
       "away": "Sheffield United",
@@ -1502,6 +1472,36 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-06T19:00:00.000Z"
+    },
+    {
+      "id": "fm-4965697",
+      "home": "Wellington Phoenix",
+      "away": "Melbourne Victory",
+      "homeScore": 2,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/78785.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6230.png",
+      "league": "A-League Men",
+      "leagueId": 901954,
+      "country": "AUS",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-06T06:00:00.000Z"
+    },
+    {
+      "id": "fm-4965698",
+      "home": "Macarthur FC",
+      "away": "Perth Glory",
+      "homeScore": 2,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1209973.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7961.png",
+      "league": "A-League Men",
+      "leagueId": 901954,
+      "country": "AUS",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-06T08:35:00.000Z"
     }
   ]
 }
