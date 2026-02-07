@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-02-07T08:35:52.696584+00:00",
+  "lastUpdated": "2026-02-07T09:01:23.644724+00:00",
   "matchCount": 481,
-  "liveCount": 4,
+  "liveCount": 5,
   "matches": [
+    {
+      "id": "fm-4965701",
+      "home": "Western Sydney",
+      "away": "Melbourne City FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/323834.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
+      "league": "A-League Men",
+      "leagueId": 901954,
+      "country": "AUS",
+      "status": "LIVE",
+      "minute": "21‎’‎",
+      "time": "2026-02-07T08:35:00.000Z"
+    },
     {
       "id": "fm-5125173",
       "home": "Cerezo Osaka",
@@ -15,7 +30,7 @@
       "leagueId": 918259,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "71‎’‎",
+      "minute": "96‎’‎",
       "time": "2026-02-07T07:00:00.000Z"
     },
     {
@@ -30,7 +45,7 @@
       "leagueId": 8983,
       "country": "IDN",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "31‎’‎",
       "time": "2026-02-07T08:30:00.000Z"
     },
     {
@@ -45,7 +60,7 @@
       "leagueId": 8983,
       "country": "IDN",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "31‎’‎",
       "time": "2026-02-07T08:30:00.000Z"
     },
     {
@@ -60,7 +75,7 @@
       "leagueId": 9495,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "31‎’‎",
       "time": "2026-02-07T08:30:00.000Z"
     },
     {
@@ -812,21 +827,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-07T15:30:00.000Z"
-    },
-    {
-      "id": "fm-4965701",
-      "home": "Western Sydney",
-      "away": "Melbourne City FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/323834.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
-      "league": "A-League Men",
-      "leagueId": 901954,
-      "country": "AUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-07T08:35:00.000Z"
     },
     {
       "id": "fm-5080162",
