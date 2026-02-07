@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-02-07T07:57:25.846912+00:00",
+  "lastUpdated": "2026-02-07T08:35:52.696584+00:00",
   "matchCount": 481,
-  "liveCount": 2,
+  "liveCount": 4,
   "matches": [
-    {
-      "id": "fm-4965700",
-      "home": "Brisbane Roar FC",
-      "away": "Central Coast",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8118.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8164.png",
-      "league": "A-League Men",
-      "leagueId": 901954,
-      "country": "AUS",
-      "status": "LIVE",
-      "minute": "98‎’‎",
-      "time": "2026-02-07T06:00:00.000Z"
-    },
     {
       "id": "fm-5125173",
       "home": "Cerezo Osaka",
@@ -30,8 +15,53 @@
       "leagueId": 918259,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "71‎’‎",
       "time": "2026-02-07T07:00:00.000Z"
+    },
+    {
+      "id": "fm-4879919",
+      "home": "Bhayangkara Presisi Indonesia FC",
+      "away": "Borneo Samarinda",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/185749.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585858.png",
+      "league": "Super League",
+      "leagueId": 8983,
+      "country": "IDN",
+      "status": "LIVE",
+      "minute": "6‎’‎",
+      "time": "2026-02-07T08:30:00.000Z"
+    },
+    {
+      "id": "fm-4879918",
+      "home": "Persik",
+      "away": "Dewa United FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165197.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585860.png",
+      "league": "Super League",
+      "leagueId": 8983,
+      "country": "IDN",
+      "status": "LIVE",
+      "minute": "6‎’‎",
+      "time": "2026-02-07T08:30:00.000Z"
+    },
+    {
+      "id": "fm-4965885",
+      "home": "Melbourne Victory",
+      "away": "Newcastle Jets",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675734.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675729.png",
+      "league": "A-League Women",
+      "leagueId": 9495,
+      "country": "AUS",
+      "status": "LIVE",
+      "minute": "5‎’‎",
+      "time": "2026-02-07T08:30:00.000Z"
     },
     {
       "id": "fm-4813622",
@@ -1369,21 +1399,6 @@
       "time": "2026-02-07T13:00:00.000Z"
     },
     {
-      "id": "fm-5164772",
-      "home": "Lamontville Golden Arrows",
-      "away": "Orbit College",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102097.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/915983.png",
-      "league": "Cup",
-      "leagueId": 9473,
-      "country": "RSA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-07T13:00:00.000Z"
-    },
-    {
       "id": "fm-5164770",
       "home": "Tshakhuma Tsha Madzivhandil",
       "away": "Orlando Pirates",
@@ -1412,6 +1427,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-07T13:00:00.000Z"
+    },
+    {
+      "id": "fm-5164772",
+      "home": "Lamontville Golden Arrows",
+      "away": "Orbit College",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102097.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/915983.png",
+      "league": "Cup",
+      "leagueId": 9473,
+      "country": "RSA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-02-07T16:00:00.000Z"
     },
     {
       "id": "fm-5172668",
@@ -1472,36 +1502,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-07T21:00:00.000Z"
-    },
-    {
-      "id": "fm-4877985",
-      "home": "Enosis Paralimni",
-      "away": "Ethnikos Achnas",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4126.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8334.png",
-      "league": "Cyprus League",
-      "leagueId": 901499,
-      "country": "CYP",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-07T15:00:00.000Z"
-    },
-    {
-      "id": "fm-4828117",
-      "home": "VVV-Venlo",
-      "away": "FC Eindhoven",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9839.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6416.png",
-      "league": "Eerste Divisie",
-      "leagueId": 111,
-      "country": "NED",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-07T15:30:00.000Z"
     }
   ]
 }
