@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-02-07T15:22:54.797566+00:00",
-  "matchCount": 437,
-  "liveCount": 171,
+  "lastUpdated": "2026-02-07T15:48:27.685949+00:00",
+  "matchCount": 446,
+  "liveCount": 168,
   "matches": [
     {
       "id": "fm-4813615",
@@ -15,14 +15,14 @@
       "leagueId": 47,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "49‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
       "id": "fm-4813616",
       "home": "Arsenal",
       "away": "Sunderland",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8472.png",
@@ -30,7 +30,7 @@
       "leagueId": 47,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "49‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -38,14 +38,14 @@
       "home": "Burnley",
       "away": "West Ham",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
       "league": "Premier League",
       "leagueId": 47,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -60,7 +60,7 @@
       "leagueId": 47,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -68,14 +68,14 @@
       "home": "Wolves",
       "away": "Chelsea",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
       "league": "Premier League",
       "leagueId": 47,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -90,7 +90,7 @@
       "leagueId": 54,
       "country": "GER",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "55‎’‎",
       "time": "2026-02-07T14:30:00.000Z"
     },
     {
@@ -105,7 +105,7 @@
       "leagueId": 54,
       "country": "GER",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "59‎’‎",
       "time": "2026-02-07T14:30:00.000Z"
     },
     {
@@ -120,14 +120,14 @@
       "leagueId": 54,
       "country": "GER",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "59‎’‎",
       "time": "2026-02-07T14:30:00.000Z"
     },
     {
       "id": "fm-4829501",
       "home": "St. Pauli",
       "away": "VfB Stuttgart",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8152.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
@@ -135,14 +135,14 @@
       "leagueId": 54,
       "country": "GER",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "59‎’‎",
       "time": "2026-02-07T14:30:00.000Z"
     },
     {
       "id": "fm-4829503",
       "home": "Wolfsburg",
       "away": "Dortmund",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8721.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
@@ -150,14 +150,14 @@
       "leagueId": 54,
       "country": "GER",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "59‎’‎",
       "time": "2026-02-07T14:30:00.000Z"
     },
     {
       "id": "fm-4837333",
       "home": "Barcelona",
       "away": "Mallorca",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
@@ -165,7 +165,7 @@
       "leagueId": 87,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "31‎’‎",
       "time": "2026-02-07T15:15:00.000Z"
     },
     {
@@ -180,7 +180,7 @@
       "leagueId": 900416,
       "country": "CZE",
       "status": "LIVE",
-      "minute": "63‎’‎",
+      "minute": "88‎’‎",
       "time": "2026-02-07T14:00:00.000Z"
     },
     {
@@ -195,7 +195,7 @@
       "leagueId": 900416,
       "country": "CZE",
       "status": "LIVE",
-      "minute": "62‎’‎",
+      "minute": "87‎’‎",
       "time": "2026-02-07T14:00:00.000Z"
     },
     {
@@ -210,7 +210,7 @@
       "leagueId": 900416,
       "country": "CZE",
       "status": "LIVE",
-      "minute": "62‎’‎",
+      "minute": "87‎’‎",
       "time": "2026-02-07T14:00:00.000Z"
     },
     {
@@ -225,7 +225,7 @@
       "leagueId": 900543,
       "country": "SVK",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "61‎’‎",
       "time": "2026-02-07T14:30:00.000Z"
     },
     {
@@ -240,7 +240,7 @@
       "leagueId": 900543,
       "country": "SVK",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "61‎’‎",
       "time": "2026-02-07T14:30:00.000Z"
     },
     {
@@ -255,8 +255,23 @@
       "leagueId": 900543,
       "country": "SVK",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "54‎’‎",
       "time": "2026-02-07T14:30:00.000Z"
+    },
+    {
+      "id": "fm-4846869",
+      "home": "VfB Stuttgart II",
+      "away": "1860 München",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8458.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9753.png",
+      "league": "3. Liga",
+      "leagueId": 208,
+      "country": "GER",
+      "status": "LIVE",
+      "minute": "16‎’‎",
+      "time": "2026-02-07T15:30:00.000Z"
     },
     {
       "id": "fm-4818507",
@@ -270,7 +285,7 @@
       "leagueId": 900433,
       "country": "BEL",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -278,14 +293,14 @@
       "home": "Olympique Dcheira",
       "away": "FUS Rabat",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/570487.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102036.png",
       "league": "Botola Pro",
       "leagueId": 530,
       "country": "MAR",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -293,14 +308,14 @@
       "home": "Birmingham",
       "away": "Leicester",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8658.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
       "league": "Championship",
       "leagueId": 900638,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -315,29 +330,29 @@
       "leagueId": 900638,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
       "id": "fm-4825398",
       "home": "Hull",
       "away": "Bristol City",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8667.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8427.png",
       "league": "Championship",
       "leagueId": 900638,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
       "id": "fm-4825400",
       "home": "Preston",
       "away": "Portsmouth",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8411.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8462.png",
@@ -345,7 +360,7 @@
       "leagueId": 900638,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -360,7 +375,7 @@
       "leagueId": 900638,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "47‎’‎",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -375,7 +390,7 @@
       "leagueId": 900638,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -383,14 +398,14 @@
       "home": "FC Cardinals",
       "away": "Jacksa Spears",
       "homeScore": 2,
-      "awayScore": 2,
+      "awayScore": 4,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1899970.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/429860.png",
       "league": "Cup",
       "leagueId": 9473,
       "country": "RSA",
       "status": "LIVE",
-      "minute": "108‎’‎",
+      "minute": "128‎’‎",
       "time": "2026-02-07T13:00:00.000Z"
     },
     {
@@ -405,7 +420,7 @@
       "leagueId": 9473,
       "country": "RSA",
       "status": "LIVE",
-      "minute": "108‎’‎",
+      "minute": "128‎’‎",
       "time": "2026-02-07T13:00:00.000Z"
     },
     {
@@ -420,23 +435,53 @@
       "leagueId": 901499,
       "country": "CYP",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "49‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
-      "id": "fm-4803590",
-      "home": "Arka Gdynia",
-      "away": "Legia Warszawa",
-      "homeScore": 2,
+      "id": "fm-4828117",
+      "home": "VVV-Venlo",
+      "away": "FC Eindhoven",
+      "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8322.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8673.png",
-      "league": "Ekstraklasa",
-      "leagueId": 899985,
-      "country": "POL",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9839.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6416.png",
+      "league": "Eerste Divisie",
+      "leagueId": 111,
+      "country": "NED",
       "status": "LIVE",
-      "minute": "77‎’‎",
-      "time": "2026-02-07T13:45:00.000Z"
+      "minute": "14‎’‎",
+      "time": "2026-02-07T15:30:00.000Z"
+    },
+    {
+      "id": "fm-4815426",
+      "home": "NEC Nijmegen",
+      "away": "Heracles",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8464.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9791.png",
+      "league": "Eredivisie",
+      "leagueId": 900368,
+      "country": "NED",
+      "status": "LIVE",
+      "minute": "17‎’‎",
+      "time": "2026-02-07T15:30:00.000Z"
+    },
+    {
+      "id": "fm-4859849",
+      "home": "FC Utrecht (W)",
+      "away": "ADO Den Haag (W)",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1515299.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/401654.png",
+      "league": "Eredivisie Vrouwen",
+      "leagueId": 10289,
+      "country": "NED",
+      "status": "LIVE",
+      "minute": "18‎’‎",
+      "time": "2026-02-07T15:30:00.000Z"
     },
     {
       "id": "fm-5149989",
@@ -450,23 +495,38 @@
       "leagueId": 905534,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
       "id": "fm-5149990",
       "home": "Elgin City",
       "away": "Partick Thistle",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9914.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8426.png",
       "league": "FA Cup",
       "leagueId": 905534,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:00:00.000Z"
+    },
+    {
+      "id": "fm-4809640",
+      "home": "Levski Sofia",
+      "away": "Botev Vratsa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8632.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/187880.png",
+      "league": "First Professional League",
+      "leagueId": 899885,
+      "country": "BUL",
+      "status": "LIVE",
+      "minute": "18‎’‎",
+      "time": "2026-02-07T15:30:00.000Z"
     },
     {
       "id": "fm-4814229",
@@ -480,7 +540,7 @@
       "leagueId": 252,
       "country": "CRO",
       "status": "LIVE",
-      "minute": "60‎’‎",
+      "minute": "86‎’‎",
       "time": "2026-02-07T14:00:00.000Z"
     },
     {
@@ -488,14 +548,14 @@
       "home": "Carrick Rangers",
       "away": "Coleraine",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/187969.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2202.png",
       "league": "Irish Cup",
       "leagueId": 9389,
       "country": "NIR",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -503,14 +563,14 @@
       "home": "Cliftonville",
       "away": "Glenavon",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1703.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1956.png",
       "league": "Irish Cup",
       "leagueId": 9389,
       "country": "NIR",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "47‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -525,7 +585,7 @@
       "leagueId": 9389,
       "country": "NIR",
       "status": "LIVE",
-      "minute": "24‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -540,7 +600,7 @@
       "leagueId": 9389,
       "country": "NIR",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -548,14 +608,14 @@
       "home": "Portadown",
       "away": "Dungannon Swifts",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7984.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4615.png",
       "league": "Irish Cup",
       "leagueId": 9389,
       "country": "NIR",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -570,7 +630,7 @@
       "leagueId": 9389,
       "country": "NIR",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -585,22 +645,22 @@
       "leagueId": 901537,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
       "id": "fm-4883802",
       "home": "Brentwood Town",
       "away": "Cray Valley Paper Mills",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/282343.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/879819.png",
       "league": "Isthmian Premier Division",
       "leagueId": 901537,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "49‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -608,14 +668,14 @@
       "home": "Burgess Hill Town",
       "away": "St Albans",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/282340.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10174.png",
       "league": "Isthmian Premier Division",
       "leagueId": 901537,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "18‎’‎",
+      "minute": "43‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -630,7 +690,7 @@
       "leagueId": 901537,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "19‎’‎",
+      "minute": "44‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -638,14 +698,14 @@
       "home": "Lewes",
       "away": "Folkestone Invicta",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8660.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6206.png",
       "league": "Isthmian Premier Division",
       "leagueId": 901537,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "19‎’‎",
+      "minute": "44‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -653,29 +713,29 @@
       "home": "Potters Bar Town",
       "away": "Billericay",
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/282341.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2261.png",
       "league": "Isthmian Premier Division",
       "leagueId": 901537,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
       "id": "fm-4883810",
       "home": "Whitehawk",
       "away": "Hashtag United",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/282373.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1186081.png",
       "league": "Isthmian Premier Division",
       "leagueId": 901537,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -690,7 +750,7 @@
       "leagueId": 901075,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "3‎’‎",
+      "minute": "28‎’‎",
       "time": "2026-02-07T15:15:00.000Z"
     },
     {
@@ -705,7 +765,7 @@
       "leagueId": 915413,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "19‎’‎",
+      "minute": "44‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -720,7 +780,7 @@
       "leagueId": 915415,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "49‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -728,21 +788,21 @@
       "home": "Wimbledon",
       "away": "Reading",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/158319.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9798.png",
       "league": "League One",
       "leagueId": 900639,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
       "id": "fm-4825937",
       "home": "Bolton",
       "away": "Barnsley",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8559.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8283.png",
@@ -750,7 +810,7 @@
       "leagueId": 900639,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -758,14 +818,14 @@
       "home": "Huddersfield",
       "away": "Blackpool",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9796.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8483.png",
       "league": "League One",
       "leagueId": 900639,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -780,37 +840,37 @@
       "leagueId": 900639,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
       "id": "fm-4825942",
       "home": "Northampton",
       "away": "Stevenage",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8651.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10253.png",
       "league": "League One",
       "leagueId": 900639,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
       "id": "fm-4825943",
       "home": "Peterborough",
       "away": "Wigan",
-      "homeScore": 2,
-      "awayScore": 0,
+      "homeScore": 3,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8677.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8528.png",
       "league": "League One",
       "leagueId": 900639,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -818,14 +878,14 @@
       "home": "Plymouth",
       "away": "Lincoln",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8401.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8430.png",
       "league": "League One",
       "leagueId": 900639,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -833,14 +893,14 @@
       "home": "Rotherham",
       "away": "Cardiff",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8119.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8344.png",
       "league": "League One",
       "leagueId": 900639,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -855,7 +915,7 @@
       "leagueId": 900639,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -870,7 +930,7 @@
       "leagueId": 900639,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -885,7 +945,7 @@
       "leagueId": 900477,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -900,14 +960,14 @@
       "leagueId": 900477,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
       "id": "fm-4826506",
       "home": "Bristol Rovers",
       "away": "Chesterfield",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10104.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9786.png",
@@ -915,29 +975,29 @@
       "leagueId": 900640,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
       "id": "fm-4826507",
       "home": "Cheltenham",
       "away": "MK Dons",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8680.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8645.png",
       "league": "League Two",
       "leagueId": 900640,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
       "id": "fm-4826508",
       "home": "Colchester",
       "away": "Shrewsbury",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8416.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9896.png",
@@ -945,7 +1005,7 @@
       "leagueId": 900640,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -960,14 +1020,14 @@
       "leagueId": 900640,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
       "id": "fm-4826511",
       "home": "Gillingham",
       "away": "Tranmere",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10173.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8313.png",
@@ -975,22 +1035,22 @@
       "leagueId": 900640,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
       "id": "fm-4826512",
       "home": "Harrogate Town",
       "away": "Cambridge",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7946.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9834.png",
       "league": "League Two",
       "leagueId": 900640,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -1005,7 +1065,7 @@
       "leagueId": 900640,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -1013,14 +1073,14 @@
       "home": "Notts County",
       "away": "Barrow",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9819.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6350.png",
       "league": "League Two",
       "leagueId": 900640,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -1028,14 +1088,14 @@
       "home": "Walsall",
       "away": "Barnet",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10006.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8175.png",
       "league": "League Two",
       "leagueId": 900640,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:01:00.000Z"
     },
     {
@@ -1043,14 +1103,14 @@
       "home": "Edinburgh City",
       "away": "East Kilbride",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4130.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/575419.png",
       "league": "League Two",
       "leagueId": 900478,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1065,14 +1125,14 @@
       "leagueId": 900478,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "19‎’‎",
+      "minute": "44‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
       "id": "fm-5165621",
       "home": "Varzim",
       "away": "Amarante FC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1722.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/280216.png",
@@ -1080,8 +1140,38 @@
       "leagueId": 920295,
       "country": "POR",
       "status": "LIVE",
-      "minute": "16‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:00:00.000Z"
+    },
+    {
+      "id": "fm-4844345",
+      "home": "Estrela da Amadora",
+      "away": "Santa Clara",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1074320.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1567.png",
+      "league": "Liga Portugal",
+      "leagueId": 61,
+      "country": "POR",
+      "status": "LIVE",
+      "minute": "18‎’‎",
+      "time": "2026-02-07T15:30:00.000Z"
+    },
+    {
+      "id": "fm-4844344",
+      "home": "Moreirense",
+      "away": "Gil Vicente",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8348.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9764.png",
+      "league": "Liga Portugal",
+      "leagueId": 61,
+      "country": "POR",
+      "status": "LIVE",
+      "minute": "17‎’‎",
+      "time": "2026-02-07T15:30:00.000Z"
     },
     {
       "id": "fm-4844652",
@@ -1095,8 +1185,23 @@
       "leagueId": 185,
       "country": "POR",
       "status": "LIVE",
-      "minute": "61‎’‎",
+      "minute": "86‎’‎",
       "time": "2026-02-07T14:00:00.000Z"
+    },
+    {
+      "id": "fm-4844655",
+      "home": "Oliveirense",
+      "away": "Vizela",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1785.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4531.png",
+      "league": "Liga Portugal 2",
+      "leagueId": 185,
+      "country": "POR",
+      "status": "LIVE",
+      "minute": "18‎’‎",
+      "time": "2026-02-07T15:30:00.000Z"
     },
     {
       "id": "fm-5156342",
@@ -1110,7 +1215,7 @@
       "leagueId": 516,
       "country": "ALG",
       "status": "LIVE",
-      "minute": "57‎’‎",
+      "minute": "82‎’‎",
       "time": "2026-02-07T14:00:00.000Z"
     },
     {
@@ -1118,14 +1223,14 @@
       "home": "Aldershot Town",
       "away": "FC Halifax Town",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8465.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10195.png",
       "league": "National League",
       "leagueId": 901315,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1140,7 +1245,7 @@
       "leagueId": 901315,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1155,7 +1260,7 @@
       "leagueId": 901315,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1163,21 +1268,21 @@
       "home": "Morecambe",
       "away": "Truro City",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8489.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/177067.png",
       "league": "National League",
       "leagueId": 901315,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
       "id": "fm-4856877",
       "home": "Rochdale",
       "away": "Carlisle",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8493.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10196.png",
@@ -1185,7 +1290,7 @@
       "leagueId": 901315,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1200,7 +1305,7 @@
       "leagueId": 901315,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1215,7 +1320,7 @@
       "leagueId": 901315,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1230,14 +1335,14 @@
       "leagueId": 901315,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
       "id": "fm-4857465",
       "home": "Bedford Town",
       "away": "Chester FC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8717.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9797.png",
@@ -1245,7 +1350,7 @@
       "leagueId": 901317,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "47‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1260,14 +1365,14 @@
       "leagueId": 901317,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
       "id": "fm-4857468",
       "home": "Marine",
       "away": "Scarborough Athletic",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161816.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/580382.png",
@@ -1275,14 +1380,14 @@
       "leagueId": 901317,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "47‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
       "id": "fm-4857470",
       "home": "Peterborough Sports",
       "away": "Curzon",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/674289.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/158390.png",
@@ -1290,7 +1395,7 @@
       "leagueId": 901317,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "19‎’‎",
+      "minute": "44‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1305,7 +1410,7 @@
       "leagueId": 901317,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "19‎’‎",
+      "minute": "44‎’‎",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1320,7 +1425,7 @@
       "leagueId": 901317,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "HT",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1335,14 +1440,14 @@
       "leagueId": 901317,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
       "id": "fm-4857469",
       "home": "Merthyr Town",
       "away": "Chorley",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5762.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/274599.png",
@@ -1350,7 +1455,7 @@
       "leagueId": 901317,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "11‎’‎",
+      "minute": "36‎’‎",
       "time": "2026-02-07T15:10:00.000Z"
     },
     {
@@ -1365,7 +1470,7 @@
       "leagueId": 901319,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1380,7 +1485,7 @@
       "leagueId": 901319,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:00:00.000Z"
     },
     {
@@ -1388,119 +1493,14 @@
       "home": "Hampton & Richmond",
       "away": "Hornchurch",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/105552.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4047.png",
       "league": "National League South",
       "leagueId": 901319,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "21‎’‎",
-      "time": "2026-02-07T15:00:00.000Z"
-    },
-    {
-      "id": "fm-4858037",
-      "home": "Maidenhead United",
-      "away": "Farnborough",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/45725.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7954.png",
-      "league": "National League South",
-      "leagueId": 901319,
-      "country": "ENG",
-      "status": "LIVE",
-      "minute": "19‎’‎",
-      "time": "2026-02-07T15:00:00.000Z"
-    },
-    {
-      "id": "fm-4858039",
-      "home": "Salisbury",
-      "away": "Ebbsfleet United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1114695.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9794.png",
-      "league": "National League South",
-      "leagueId": 901319,
-      "country": "ENG",
-      "status": "LIVE",
-      "minute": "21‎’‎",
-      "time": "2026-02-07T15:00:00.000Z"
-    },
-    {
-      "id": "fm-4813190",
-      "home": "Debrecen",
-      "away": "Paksi SE",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8369.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7986.png",
-      "league": "NB I",
-      "leagueId": 212,
-      "country": "HUN",
-      "status": "LIVE",
-      "minute": "77‎’‎",
-      "time": "2026-02-07T13:45:00.000Z"
-    },
-    {
-      "id": "fm-4883345",
-      "home": "Ashton United",
-      "away": "Warrington Town",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161818.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/282389.png",
-      "league": "Northern Premier Division",
-      "leagueId": 901535,
-      "country": "ENG",
-      "status": "LIVE",
-      "minute": "21‎’‎",
-      "time": "2026-02-07T15:00:00.000Z"
-    },
-    {
-      "id": "fm-4883346",
-      "home": "Bamber Bridge",
-      "away": "Stockton Town",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/282395.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1087122.png",
-      "league": "Northern Premier Division",
-      "leagueId": 901535,
-      "country": "ENG",
-      "status": "LIVE",
-      "minute": "21‎’‎",
-      "time": "2026-02-07T15:00:00.000Z"
-    },
-    {
-      "id": "fm-4883348",
-      "home": "FC United of Manchester",
-      "away": "Prescot Cables",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161822.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161828.png",
-      "league": "Northern Premier Division",
-      "leagueId": 901535,
-      "country": "ENG",
-      "status": "LIVE",
-      "minute": "21‎’‎",
-      "time": "2026-02-07T15:00:00.000Z"
-    },
-    {
-      "id": "fm-4883349",
-      "home": "Guiseley",
-      "away": "Lancaster City",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4096.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4451.png",
-      "league": "Northern Premier Division",
-      "leagueId": 901535,
-      "country": "ENG",
-      "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45",
       "time": "2026-02-07T15:00:00.000Z"
     }
   ]
