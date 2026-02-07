@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T10:38:22.101782+00:00",
+  "lastUpdated": "2026-02-07T10:59:14.180360+00:00",
   "matchCount": 476,
   "liveCount": 4,
   "matches": [
@@ -8,14 +8,14 @@
       "home": "Hatayspor",
       "away": "Esenler Erokspor",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95749.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/863838.png",
       "league": "1. Lig",
       "leagueId": 165,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "28‎’‎",
       "time": "2026-02-07T10:30:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 165,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "27‎’‎",
       "time": "2026-02-07T10:30:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 899885,
       "country": "BUL",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "28‎’‎",
       "time": "2026-02-07T10:30:00.000Z"
     },
     {
@@ -53,14 +53,14 @@
       "home": "Persik",
       "away": "Dewa United FC",
       "homeScore": 2,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165197.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585860.png",
       "league": "Super League",
       "leagueId": 8983,
       "country": "IDN",
       "status": "LIVE",
-      "minute": "IR",
+      "minute": "127‎’‎",
       "time": "2026-02-07T08:30:00.000Z"
     },
     {
