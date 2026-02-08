@@ -1,22 +1,52 @@
 {
-  "lastUpdated": "2026-02-08T08:02:50.594810+00:00",
-  "matchCount": 353,
-  "liveCount": 2,
+  "lastUpdated": "2026-02-08T08:49:39.871045+00:00",
+  "matchCount": 352,
+  "liveCount": 4,
   "matches": [
     {
       "id": "fm-5125177",
       "home": "Tokyo Verdy",
       "away": "Mito Hollyhock",
-      "homeScore": 2,
-      "awayScore": 0,
+      "homeScore": 3,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6223.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162195.png",
       "league": "J. League 100 Year Vision League East",
       "leagueId": 917951,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "87‎’‎",
       "time": "2026-02-08T07:00:00.000Z"
+    },
+    {
+      "id": "fm-4879922",
+      "home": "PSBS Biak Numfor",
+      "away": "PSM Makassar",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585877.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165198.png",
+      "league": "Super League",
+      "leagueId": 8983,
+      "country": "IDN",
+      "status": "LIVE",
+      "minute": "20‎’‎",
+      "time": "2026-02-08T08:30:00.000Z"
+    },
+    {
+      "id": "fm-4879923",
+      "home": "Semen Padang",
+      "away": "Persita",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/215564.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165206.png",
+      "league": "Super League",
+      "leagueId": 8983,
+      "country": "IDN",
+      "status": "LIVE",
+      "minute": "20‎’‎",
+      "time": "2026-02-08T08:30:00.000Z"
     },
     {
       "id": "fm-4965884",
@@ -30,7 +60,7 @@
       "leagueId": 9495,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "2‎’‎",
+      "minute": "HT",
       "time": "2026-02-08T08:00:00.000Z"
     },
     {
@@ -1472,36 +1502,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-08T15:00:00.000Z"
-    },
-    {
-      "id": "fm-4863672",
-      "home": "Nürnberg (W)",
-      "away": "TSG 1899 Hoffenheim (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1513038.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/679910.png",
-      "league": "Frauen-Bundesliga",
-      "leagueId": 9676,
-      "country": "GER",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-08T17:30:00.000Z"
-    },
-    {
-      "id": "fm-5165145",
-      "home": "Internacional",
-      "away": "Sao Luiz",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8702.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197890.png",
-      "league": "Gaucho Playoff",
-      "leagueId": 920287,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-08T21:00:00.000Z"
     }
   ]
 }
