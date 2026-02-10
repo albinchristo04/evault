@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T22:51:30.689275+00:00",
+  "lastUpdated": "2026-02-10T23:36:42.450932+00:00",
   "matchCount": 111,
   "liveCount": 3,
   "matches": [
@@ -7,7 +7,7 @@
       "id": "fm-5080161",
       "home": "EC Jacuipense",
       "away": "Atletico Alagoinhas",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/410824.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197706.png",
@@ -15,38 +15,23 @@
       "leagueId": 914393,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "36‎’‎",
+      "minute": "63‎’‎",
       "time": "2026-02-10T22:15:00.000Z"
     },
     {
       "id": "fm-5111321",
       "home": "Puebla (W)",
       "away": "Atlas (W)",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980696.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980704.png",
       "league": "Liga MX Femenil Clausura",
       "leagueId": 916500,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "47‎’‎",
+      "minute": "92‎’‎",
       "time": "2026-02-10T21:45:00.000Z"
-    },
-    {
-      "id": "fm-5134466",
-      "home": "Cucuta",
-      "away": "Independiente Medellin",
-      "homeScore": 1,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6254.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2528.png",
-      "league": "Primera A Apertura",
-      "leagueId": 917521,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "85‎’‎",
-      "time": "2026-02-10T21:00:00.000Z"
     },
     {
       "id": "fm-5134467",
@@ -59,8 +44,8 @@
       "league": "Primera A Apertura",
       "leagueId": 917521,
       "country": "COL",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "16‎’‎",
       "time": "2026-02-10T23:20:00.000Z"
     },
     {
@@ -1247,6 +1232,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-10T19:45:00.000Z"
+    },
+    {
+      "id": "fm-5134466",
+      "home": "Cucuta",
+      "away": "Independiente Medellin",
+      "homeScore": 1,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6254.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2528.png",
+      "league": "Primera A Apertura",
+      "leagueId": 917521,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-10T21:00:00.000Z"
     },
     {
       "id": "fm-5152334",
