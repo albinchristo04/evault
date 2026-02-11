@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-02-11T10:08:15.292941+00:00",
+  "lastUpdated": "2026-02-11T11:08:35.774792+00:00",
   "matchCount": 113,
-  "liveCount": 2,
+  "liveCount": 6,
   "matches": [
     {
       "id": "fm-4933607",
@@ -15,7 +15,7 @@
       "leagueId": 903631,
       "country": "INT",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "51‎’‎",
       "time": "2026-02-11T10:00:00.000Z"
     },
     {
@@ -23,15 +23,75 @@
       "home": "Ulsan HD FC",
       "away": "Melbourne City FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133896.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
       "league": "AFC Champions League Elite East",
       "leagueId": 903631,
       "country": "INT",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "51‎’‎",
       "time": "2026-02-11T10:00:00.000Z"
+    },
+    {
+      "id": "fm-5126234",
+      "home": "Fredrikstad",
+      "away": "Toronto",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8417.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/56453.png",
+      "league": "Club Friendlies",
+      "leagueId": 915708,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "7‎’‎",
+      "time": "2026-02-11T11:00:00.000Z"
+    },
+    {
+      "id": "fm-1000005421",
+      "home": "Phrae United",
+      "away": "Nong Bua Pitchaya FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/578228.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/626806.png",
+      "league": "Thai League 2",
+      "leagueId": 9498,
+      "country": "THA",
+      "status": "LIVE",
+      "minute": "7‎’‎",
+      "time": "2026-02-11T11:00:00.000Z"
+    },
+    {
+      "id": "fm-1000005422",
+      "home": "Police Tero FC",
+      "away": "Rasi Salai United",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165244.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1798879.png",
+      "league": "Thai League 2",
+      "leagueId": 9498,
+      "country": "THA",
+      "status": "LIVE",
+      "minute": "9‎’‎",
+      "time": "2026-02-11T11:00:00.000Z"
+    },
+    {
+      "id": "fm-1000004945",
+      "home": "Sparta Prague",
+      "away": "Austria Wien W",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/401652.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1777852.png",
+      "league": "UEFA Women's Europa Cup",
+      "leagueId": 11129,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "8‎’‎",
+      "time": "2026-02-11T11:00:00.000Z"
     },
     {
       "id": "fm-4813625",
@@ -212,21 +272,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-11T19:45:00.000Z"
-    },
-    {
-      "id": "fm-5126234",
-      "home": "Fredrikstad",
-      "away": "Toronto",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8417.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/56453.png",
-      "league": "Club Friendlies",
-      "leagueId": 915708,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-11T11:00:00.000Z"
     },
     {
       "id": "fm-5137406",
@@ -1457,51 +1502,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-11T20:00:00.000Z"
-    },
-    {
-      "id": "fm-1000005957",
-      "home": "Buckie Thistle",
-      "away": "Turriff United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1630.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/351621.png",
-      "league": "Highland / Lowland",
-      "leagueId": 9545,
-      "country": "SCO",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-11T20:00:00.000Z"
-    },
-    {
-      "id": "fm-1000005421",
-      "home": "Phrae United",
-      "away": "Nong Bua Pitchaya FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/578228.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/626806.png",
-      "league": "Thai League 2",
-      "leagueId": 9498,
-      "country": "THA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-11T11:00:00.000Z"
-    },
-    {
-      "id": "fm-1000005422",
-      "home": "Police Tero FC",
-      "away": "Rasi Salai United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165244.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1798879.png",
-      "league": "Thai League 2",
-      "leagueId": 9498,
-      "country": "THA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-11T11:00:00.000Z"
     }
   ]
 }
