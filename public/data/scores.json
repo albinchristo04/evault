@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-02-11T09:07:00.821972+00:00",
+  "lastUpdated": "2026-02-11T10:08:15.292941+00:00",
   "matchCount": 113,
-  "liveCount": 0,
+  "liveCount": 2,
   "matches": [
+    {
+      "id": "fm-4933607",
+      "home": "Gangwon FC",
+      "away": "Shanghai Port",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/164734.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/198616.png",
+      "league": "AFC Champions League Elite East",
+      "leagueId": 903631,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "7‎’‎",
+      "time": "2026-02-11T10:00:00.000Z"
+    },
+    {
+      "id": "fm-4933608",
+      "home": "Ulsan HD FC",
+      "away": "Melbourne City FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133896.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
+      "league": "AFC Champions League Elite East",
+      "leagueId": 903631,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "8‎’‎",
+      "time": "2026-02-11T10:00:00.000Z"
+    },
     {
       "id": "fm-4813625",
       "home": "Aston Villa",
@@ -77,36 +107,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-11T20:15:00.000Z"
-    },
-    {
-      "id": "fm-4933607",
-      "home": "Gangwon FC",
-      "away": "Shanghai Port",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/164734.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/198616.png",
-      "league": "AFC Champions League Elite East",
-      "leagueId": 903631,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-11T10:00:00.000Z"
-    },
-    {
-      "id": "fm-4933608",
-      "home": "Ulsan HD FC",
-      "away": "Melbourne City FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133896.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
-      "league": "AFC Champions League Elite East",
-      "leagueId": 903631,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-11T10:00:00.000Z"
     },
     {
       "id": "fm-5118303",
