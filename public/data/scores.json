@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-02-12T20:33:23.962071+00:00",
+  "lastUpdated": "2026-02-12T21:04:00.048226+00:00",
   "matchCount": 59,
-  "liveCount": 14,
+  "liveCount": 13,
   "matches": [
     {
       "id": "fm-4813626",
@@ -15,7 +15,7 @@
       "leagueId": 47,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "34‎’‎",
+      "minute": "47‎’‎",
       "time": "2026-02-12T20:00:00.000Z"
     },
     {
@@ -23,21 +23,21 @@
       "home": "Marica FC",
       "away": "Sampaio Correa RJ",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1328537.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581903.png",
       "league": "Carioca Relegation Group",
       "leagueId": 920619,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "33‎’‎",
+      "minute": "HT",
       "time": "2026-02-12T20:00:00.000Z"
     },
     {
       "id": "fm-5173360",
       "home": "Atletico Madrid",
       "away": "Barcelona",
-      "homeScore": 2,
+      "homeScore": 4,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
@@ -45,7 +45,7 @@
       "leagueId": 138,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "33‎’‎",
+      "minute": "HT",
       "time": "2026-02-12T20:00:00.000Z"
     },
     {
@@ -53,30 +53,15 @@
       "home": "Royal Antwerp",
       "away": "Anderlecht",
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9988.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8635.png",
       "league": "Cup",
       "leagueId": 149,
       "country": "BEL",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "70‎’‎",
       "time": "2026-02-12T19:30:00.000Z"
-    },
-    {
-      "id": "fm-4828121",
-      "home": "FC Den Bosch",
-      "away": "FC Eindhoven",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9835.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6416.png",
-      "league": "Eerste Divisie",
-      "leagueId": 111,
-      "country": "NED",
-      "status": "LIVE",
-      "minute": "71‎’‎",
-      "time": "2026-02-12T19:00:00.000Z"
     },
     {
       "id": "fm-4898562",
@@ -90,7 +75,7 @@
       "leagueId": 901979,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "74‎’‎",
       "time": "2026-02-12T19:30:00.000Z"
     },
     {
@@ -105,7 +90,7 @@
       "leagueId": 901979,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "74‎’‎",
       "time": "2026-02-12T19:30:00.000Z"
     },
     {
@@ -120,7 +105,7 @@
       "leagueId": 901979,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "73‎’‎",
       "time": "2026-02-12T19:30:00.000Z"
     },
     {
@@ -135,22 +120,22 @@
       "leagueId": 901979,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "46‎’‎",
+      "minute": "76‎’‎",
       "time": "2026-02-12T19:30:00.000Z"
     },
     {
       "id": "fm-4898567",
       "home": "Pianese",
       "away": "Perugia",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/584069.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8685.png",
       "league": "Serie C Grp. B",
       "leagueId": 901979,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "74‎’‎",
       "time": "2026-02-12T19:30:00.000Z"
     },
     {
@@ -165,14 +150,14 @@
       "leagueId": 901979,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "72‎’‎",
       "time": "2026-02-12T19:30:00.000Z"
     },
     {
       "id": "fm-5105992",
       "home": "Sion",
       "away": "Basel",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10179.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9931.png",
@@ -180,14 +165,14 @@
       "leagueId": 900529,
       "country": "SUI",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "76‎’‎",
       "time": "2026-02-12T19:30:00.000Z"
     },
     {
       "id": "fm-5105993",
       "home": "Thun",
       "away": "Lausanne",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10191.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7730.png",
@@ -195,7 +180,7 @@
       "leagueId": 900529,
       "country": "SUI",
       "status": "LIVE",
-      "minute": "46‎’‎",
+      "minute": "76‎’‎",
       "time": "2026-02-12T19:30:00.000Z"
     },
     {
@@ -203,14 +188,14 @@
       "home": "Atletico Madrid (W)",
       "away": "Manchester United (W)",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/671936.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/954396.png",
       "league": "Women's Champions League Final Stage",
       "leagueId": 916099,
       "country": "INT",
       "status": "LIVE",
-      "minute": "33‎’‎",
+      "minute": "HT",
       "time": "2026-02-12T20:00:00.000Z"
     },
     {
@@ -587,6 +572,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-12T18:00:00.000Z"
+    },
+    {
+      "id": "fm-4828121",
+      "home": "FC Den Bosch",
+      "away": "FC Eindhoven",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9835.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6416.png",
+      "league": "Eerste Divisie",
+      "leagueId": 111,
+      "country": "NED",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-12T19:00:00.000Z"
     },
     {
       "id": "fm-5036358",
