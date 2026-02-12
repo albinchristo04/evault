@@ -1,51 +1,21 @@
 {
-  "lastUpdated": "2026-02-12T13:04:10.605386+00:00",
+  "lastUpdated": "2026-02-12T14:15:16.290793+00:00",
   "matchCount": 59,
-  "liveCount": 3,
+  "liveCount": 1,
   "matches": [
-    {
-      "id": "fm-5118301",
-      "home": "Bangkok United",
-      "away": "Macarthur FC",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102231.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1209973.png",
-      "league": "AFC Champions League Two Final Stage",
-      "leagueId": 903627,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "48‎’‎",
-      "time": "2026-02-12T12:15:00.000Z"
-    },
-    {
-      "id": "fm-4904819",
-      "home": "AP Brera Strumica",
-      "away": "Makedonija GP",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/769984.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/276798.png",
-      "league": "Prva Liga",
-      "leagueId": 249,
-      "country": "MKD",
-      "status": "LIVE",
-      "minute": "48‎’‎",
-      "time": "2026-02-12T12:00:00.000Z"
-    },
     {
       "id": "fm-4904820",
       "home": "Pelister",
       "away": "Rabotnicki",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 3,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1589.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8138.png",
       "league": "Prva Liga",
       "leagueId": 249,
       "country": "MKD",
       "status": "LIVE",
-      "minute": "4‎’‎",
+      "minute": "55‎’‎",
       "time": "2026-02-12T13:00:00.000Z"
     },
     {
@@ -754,6 +724,21 @@
       "time": "2026-02-12T10:00:00.000Z"
     },
     {
+      "id": "fm-5118301",
+      "home": "Bangkok United",
+      "away": "Macarthur FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102231.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1209973.png",
+      "league": "AFC Champions League Two Final Stage",
+      "leagueId": 903627,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-12T12:15:00.000Z"
+    },
+    {
       "id": "fm-5080168",
       "home": "Galicia EC",
       "away": "Jequie",
@@ -842,6 +827,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-12T01:30:00.000Z"
+    },
+    {
+      "id": "fm-4904819",
+      "home": "AP Brera Strumica",
+      "away": "Makedonija GP",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/769984.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/276798.png",
+      "league": "Prva Liga",
+      "leagueId": 249,
+      "country": "MKD",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-12T12:00:00.000Z"
     },
     {
       "id": "fm-5103386",
