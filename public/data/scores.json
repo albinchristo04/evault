@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-02-12T09:27:15.281225+00:00",
+  "lastUpdated": "2026-02-12T10:12:54.784585+00:00",
   "matchCount": 59,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
+    {
+      "id": "fm-5118297",
+      "home": "Pohang Steelers",
+      "away": "Gamba Osaka",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/109373.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6582.png",
+      "league": "AFC Champions League Two Final Stage",
+      "leagueId": 903627,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "13‎’‎",
+      "time": "2026-02-12T10:00:00.000Z"
+    },
     {
       "id": "fm-4813626",
       "home": "Brentford",
@@ -17,21 +32,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-12T20:00:00.000Z"
-    },
-    {
-      "id": "fm-5118297",
-      "home": "Pohang Steelers",
-      "away": "Gamba Osaka",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/109373.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6582.png",
-      "league": "AFC Champions League Two Final Stage",
-      "leagueId": 903627,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-12T10:00:00.000Z"
     },
     {
       "id": "fm-5118301",
