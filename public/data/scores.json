@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-02-12T22:17:16.901025+00:00",
+  "lastUpdated": "2026-02-12T22:52:37.174034+00:00",
   "matchCount": 59,
-  "liveCount": 5,
+  "liveCount": 6,
   "matches": [
     {
       "id": "fm-5176419",
       "home": "Ouvidorense",
       "away": "Atletico GO",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1696742.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165545.png",
       "league": "Goiano Playoff",
       "leagueId": 920551,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "15‎’‎",
+      "minute": "HT",
       "time": "2026-02-12T22:00:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "16‎’‎",
+      "minute": "HT",
       "time": "2026-02-12T22:00:00.000Z"
     },
     {
@@ -38,21 +38,21 @@
       "home": "Herrera FC",
       "away": "Union Cocle",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1514006.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1888923.png",
       "league": "LPF Clausura",
       "leagueId": 918463,
       "country": "PAN",
       "status": "LIVE",
-      "minute": "53‎’‎",
+      "minute": "88‎’‎",
       "time": "2026-02-12T21:00:00.000Z"
     },
     {
       "id": "fm-5134472",
       "home": "Chico FC",
       "away": "CD Jaguares",
-      "homeScore": 3,
+      "homeScore": 5,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6255.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/424270.png",
@@ -60,7 +60,7 @@
       "leagueId": 917521,
       "country": "COL",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "83‎’‎",
       "time": "2026-02-12T21:10:00.000Z"
     },
     {
@@ -68,15 +68,30 @@
       "home": "Athletico Paranaense",
       "away": "Santos FC",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10273.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8514.png",
       "league": "Serie A",
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "16‎’‎",
+      "minute": "51‎’‎",
       "time": "2026-02-12T22:00:00.000Z"
+    },
+    {
+      "id": "fm-5103384",
+      "home": "Fluminense",
+      "away": "Botafogo RJ",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9863.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8517.png",
+      "league": "Serie A",
+      "leagueId": 268,
+      "country": "BRA",
+      "status": "LIVE",
+      "minute": "21‎’‎",
+      "time": "2026-02-12T22:30:00.000Z"
     },
     {
       "id": "fm-5149644",
@@ -122,21 +137,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-12T23:20:00.000Z"
-    },
-    {
-      "id": "fm-5103384",
-      "home": "Fluminense",
-      "away": "Botafogo RJ",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9863.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8517.png",
-      "league": "Serie A",
-      "leagueId": 268,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-12T22:30:00.000Z"
     },
     {
       "id": "fm-5103387",
