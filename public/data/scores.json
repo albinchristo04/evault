@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-02-12T04:31:37.647972+00:00",
+  "lastUpdated": "2026-02-12T05:50:05.949481+00:00",
   "matchCount": 60,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5098870",
-      "home": "Monterrey",
-      "away": "Club Xelaju",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7849.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49758.png",
-      "league": "CONCACAF Champions Cup",
-      "leagueId": 915924,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "67‎’‎",
-      "time": "2026-02-12T03:00:00.000Z"
-    },
     {
       "id": "fm-4813626",
       "home": "Brentford",
@@ -767,6 +752,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-12T01:00:00.000Z"
+    },
+    {
+      "id": "fm-5098870",
+      "home": "Monterrey",
+      "away": "Club Xelaju",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7849.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49758.png",
+      "league": "CONCACAF Champions Cup",
+      "leagueId": 915924,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-12T03:00:00.000Z"
     },
     {
       "id": "fm-5080168",
