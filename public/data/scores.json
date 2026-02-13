@@ -1,21 +1,66 @@
 {
-  "lastUpdated": "2026-02-13T08:26:33.937505+00:00",
-  "matchCount": 166,
-  "liveCount": 1,
+  "lastUpdated": "2026-02-13T09:10:33.045901+00:00",
+  "matchCount": 167,
+  "liveCount": 4,
   "matches": [
+    {
+      "id": "fm-4965705",
+      "home": "Western Sydney",
+      "away": "Wellington Phoenix",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/323834.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/78785.png",
+      "league": "A-League Men",
+      "leagueId": 901954,
+      "country": "AUS",
+      "status": "LIVE",
+      "minute": "31‎’‎",
+      "time": "2026-02-13T08:35:00.000Z"
+    },
+    {
+      "id": "fm-4879925",
+      "home": "Persik",
+      "away": "PSIM Yogyakarta",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165197.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585850.png",
+      "league": "Super League",
+      "leagueId": 8983,
+      "country": "IDN",
+      "status": "LIVE",
+      "minute": "39‎’‎",
+      "time": "2026-02-13T08:30:00.000Z"
+    },
+    {
+      "id": "fm-4879926",
+      "home": "Persis Solo",
+      "away": "Madura United",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/583034.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165199.png",
+      "league": "Super League",
+      "leagueId": 8983,
+      "country": "IDN",
+      "status": "LIVE",
+      "minute": "39‎’‎",
+      "time": "2026-02-13T08:30:00.000Z"
+    },
     {
       "id": "fm-4965889",
       "home": "Brisbane Roar FC",
       "away": "Sydney FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675726.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675731.png",
       "league": "A-League Women",
       "leagueId": 9495,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "27‎’‎",
+      "minute": "54‎’‎",
       "time": "2026-02-13T08:00:00.000Z"
     },
     {
@@ -259,21 +304,6 @@
       "time": "2026-02-13T18:00:00.000Z"
     },
     {
-      "id": "fm-4965705",
-      "home": "Western Sydney",
-      "away": "Wellington Phoenix",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/323834.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/78785.png",
-      "league": "A-League Men",
-      "leagueId": 901954,
-      "country": "AUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-13T08:35:00.000Z"
-    },
-    {
       "id": "fm-4965706",
       "home": "Perth Glory",
       "away": "Newcastle Jets",
@@ -439,6 +469,21 @@
       "time": "2026-02-13T10:00:00.000Z"
     },
     {
+      "id": "fm-5126275",
+      "home": "Tromsø",
+      "away": "Bryne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8608.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8531.png",
+      "league": "Club Friendlies",
+      "leagueId": 915708,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-02-13T11:30:00.000Z"
+    },
+    {
       "id": "fm-5126236",
       "home": "Kongsvinger",
       "away": "KFUM",
@@ -482,6 +527,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-13T15:00:00.000Z"
+    },
+    {
+      "id": "fm-5181603",
+      "home": "Lyn",
+      "away": "Start",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10224.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9919.png",
+      "league": "Club Friendlies",
+      "leagueId": 915708,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-02-13T15:30:00.000Z"
     },
     {
       "id": "fm-5126237",
@@ -932,21 +992,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-13T13:00:00.000Z"
-    },
-    {
-      "id": "fm-4928033",
-      "home": "Hapoel Ironi Akko",
-      "away": "Hapoel Afula",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2093.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/426452.png",
-      "league": "Leumit League",
-      "leagueId": 901379,
-      "country": "ISR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-13T17:00:00.000Z"
     },
     {
       "id": "fm-5169188",
@@ -1457,51 +1502,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-13T19:45:00.000Z"
-    },
-    {
-      "id": "fm-5142426",
-      "home": "Cardiff Met University",
-      "away": "Llanelli",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/560953.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8341.png",
-      "league": "Premier League Relegation Group",
-      "leagueId": 919718,
-      "country": "WAL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-13T19:45:00.000Z"
-    },
-    {
-      "id": "fm-5142427",
-      "home": "Haverfordwest",
-      "away": "Bala Town",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2194.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/175654.png",
-      "league": "Premier League Relegation Group",
-      "leagueId": 919718,
-      "country": "WAL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-13T19:45:00.000Z"
-    },
-    {
-      "id": "fm-4910050",
-      "home": "Durban City",
-      "away": "TS Galaxy",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/149599.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/953498.png",
-      "league": "Premiership",
-      "leagueId": 902634,
-      "country": "RSA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-13T17:30:00.000Z"
     }
   ]
 }
