@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-02-13T11:36:37.527292+00:00",
+  "lastUpdated": "2026-02-13T11:59:30.819060+00:00",
   "matchCount": 163,
-  "liveCount": 6,
+  "liveCount": 5,
   "matches": [
     {
       "id": "fm-4870063",
       "home": "Igdir FK",
       "away": "Ümraniyespor",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1281818.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/281460.png",
       "league": "1. Lig",
       "leagueId": 165,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "67‎’‎",
       "time": "2026-02-13T10:30:00.000Z"
     },
     {
@@ -30,23 +30,8 @@
       "leagueId": 901954,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "56‎’‎",
       "time": "2026-02-13T10:45:00.000Z"
-    },
-    {
-      "id": "fm-5126276",
-      "home": "HamKam",
-      "away": "Sarpsborg 08",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8448.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8509.png",
-      "league": "Club Friendlies",
-      "leagueId": 915708,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "79‎’‎",
-      "time": "2026-02-13T10:00:00.000Z"
     },
     {
       "id": "fm-5125178",
@@ -60,7 +45,7 @@
       "leagueId": 918259,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "74‎’‎",
+      "minute": "97‎’‎",
       "time": "2026-02-13T10:00:00.000Z"
     },
     {
@@ -75,7 +60,7 @@
       "leagueId": 461,
       "country": "SIN",
       "status": "LIVE",
-      "minute": "4‎’‎",
+      "minute": "27‎’‎",
       "time": "2026-02-13T11:30:00.000Z"
     },
     {
@@ -90,7 +75,7 @@
       "leagueId": 523,
       "country": "IRN",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "29‎’‎",
       "time": "2026-02-13T11:30:00.000Z"
     },
     {
@@ -1502,6 +1487,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-13T19:45:00.000Z"
+    },
+    {
+      "id": "fm-5152335",
+      "home": "Real Cartagena",
+      "away": "Atletico FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7731.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193031.png",
+      "league": "Primera B Apertura",
+      "leagueId": 920002,
+      "country": "COL",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-02-13T22:30:00.000Z"
     }
   ]
 }
