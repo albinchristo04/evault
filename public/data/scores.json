@@ -1,22 +1,37 @@
 {
-  "lastUpdated": "2026-02-14T08:01:42.043434+00:00",
+  "lastUpdated": "2026-02-14T08:49:09.542443+00:00",
   "matchCount": 479,
-  "liveCount": 1,
+  "liveCount": 2,
   "matches": [
     {
-      "id": "fm-5125182",
-      "home": "FC Tokyo",
-      "away": "Urawa Red Diamonds",
+      "id": "fm-4965708",
+      "home": "Sydney FC",
+      "away": "Adelaide United",
       "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4399.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6244.png",
-      "league": "J. League 100 Year Vision League East",
-      "leagueId": 917951,
-      "country": "JPN",
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10164.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8008.png",
+      "league": "A-League Men",
+      "leagueId": 901954,
+      "country": "AUS",
       "status": "LIVE",
-      "minute": "92‎’‎",
-      "time": "2026-02-14T06:00:00.000Z"
+      "minute": "6‎’‎",
+      "time": "2026-02-14T08:35:00.000Z"
+    },
+    {
+      "id": "fm-4879928",
+      "home": "PSM Makassar",
+      "away": "Dewa United FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165198.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585860.png",
+      "league": "Super League",
+      "leagueId": 8983,
+      "country": "IDN",
+      "status": "LIVE",
+      "minute": "17‎’‎",
+      "time": "2026-02-14T08:30:00.000Z"
     },
     {
       "id": "fm-4829505",
@@ -797,21 +812,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-14T15:30:00.000Z"
-    },
-    {
-      "id": "fm-4965708",
-      "home": "Sydney FC",
-      "away": "Adelaide United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10164.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8008.png",
-      "league": "A-League Men",
-      "leagueId": 901954,
-      "country": "AUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-14T08:35:00.000Z"
     },
     {
       "id": "fm-5080166",
