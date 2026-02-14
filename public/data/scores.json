@@ -1,22 +1,37 @@
 {
-  "lastUpdated": "2026-02-14T08:49:09.542443+00:00",
+  "lastUpdated": "2026-02-14T09:16:58.380780+00:00",
   "matchCount": 479,
-  "liveCount": 2,
+  "liveCount": 4,
   "matches": [
     {
       "id": "fm-4965708",
       "home": "Sydney FC",
       "away": "Adelaide United",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10164.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8008.png",
       "league": "A-League Men",
       "leagueId": 901954,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "34‎’‎",
       "time": "2026-02-14T08:35:00.000Z"
+    },
+    {
+      "id": "fm-4926446",
+      "home": "Medeama SC",
+      "away": "Aduana Stars",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/106975.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/186663.png",
+      "league": "Premier League",
+      "leagueId": 522,
+      "country": "GHA",
+      "status": "LIVE",
+      "minute": "988‎’‎",
+      "time": "2026-02-14T09:00:00.000Z"
     },
     {
       "id": "fm-4879928",
@@ -30,8 +45,23 @@
       "leagueId": 8983,
       "country": "IDN",
       "status": "LIVE",
-      "minute": "17‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-02-14T08:30:00.000Z"
+    },
+    {
+      "id": "fm-4965890",
+      "home": "Perth Glory",
+      "away": "Canberra United FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675730.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675727.png",
+      "league": "A-League Women",
+      "leagueId": 9495,
+      "country": "AUS",
+      "status": "LIVE",
+      "minute": "18‎’‎",
+      "time": "2026-02-14T09:00:00.000Z"
     },
     {
       "id": "fm-4829505",
@@ -1472,36 +1502,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-14T23:00:00.000Z"
-    },
-    {
-      "id": "fm-5176418",
-      "home": "Goias",
-      "away": "CRAC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9862.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197769.png",
-      "league": "Goiano Playoff",
-      "leagueId": 920551,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-14T20:00:00.000Z"
-    },
-    {
-      "id": "fm-5176431",
-      "home": "Centro Oeste",
-      "away": "Aparecidense",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1860737.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/239122.png",
-      "league": "Goiano Relegation Playoff",
-      "leagueId": 920552,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-14T18:30:00.000Z"
     }
   ]
 }
