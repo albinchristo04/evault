@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-02-14T22:32:01.870479+00:00",
+  "lastUpdated": "2026-02-14T22:56:29.161888+00:00",
   "matchCount": 453,
-  "liveCount": 17,
+  "liveCount": 20,
   "matches": [
     {
       "id": "fm-5093634",
@@ -15,23 +15,68 @@
       "leagueId": 915413,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "145‎’‎",
+      "minute": "169‎’‎",
       "time": "2026-02-14T20:00:00.000Z"
+    },
+    {
+      "id": "fm-5169192",
+      "home": "Sport Boys",
+      "away": "Atletico Grau",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4412.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/920789.png",
+      "league": "Liga 1 Apertura",
+      "leagueId": 919710,
+      "country": "PER",
+      "status": "LIVE",
+      "minute": "23‎’‎",
+      "time": "2026-02-14T22:30:00.000Z"
     },
     {
       "id": "fm-5121858",
       "home": "Deportivo Mixco",
       "away": "Comunicaciones FC",
       "homeScore": 2,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188299.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49761.png",
       "league": "Liga Nacional Clausura",
       "leagueId": 917698,
       "country": "GUA",
       "status": "LIVE",
-      "minute": "67‎’‎",
+      "minute": "90",
       "time": "2026-02-14T21:00:00.000Z"
+    },
+    {
+      "id": "fm-5101946",
+      "home": "Huracan",
+      "away": "Sarmiento",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10081.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/202757.png",
+      "league": "Liga Profesional Apertura",
+      "leagueId": 905256,
+      "country": "ARG",
+      "status": "LIVE",
+      "minute": "10‎’‎",
+      "time": "2026-02-14T22:45:00.000Z"
+    },
+    {
+      "id": "fm-5101951",
+      "home": "Talleres",
+      "away": "Gimnasia Mendoza",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10101.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/568727.png",
+      "league": "Liga Profesional Apertura",
+      "leagueId": 905256,
+      "country": "ARG",
+      "status": "LIVE",
+      "minute": "10‎’‎",
+      "time": "2026-02-14T22:45:00.000Z"
     },
     {
       "id": "fm-5080123",
@@ -45,7 +90,7 @@
       "leagueId": 914388,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "HT",
       "time": "2026-02-14T22:00:00.000Z"
     },
     {
@@ -60,7 +105,7 @@
       "leagueId": 914388,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "HT",
       "time": "2026-02-14T22:00:00.000Z"
     },
     {
@@ -75,7 +120,7 @@
       "leagueId": 914388,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "26‎’‎",
+      "minute": "HT",
       "time": "2026-02-14T22:00:00.000Z"
     },
     {
@@ -83,14 +128,14 @@
       "home": "Itabirito",
       "away": "Atletico MG",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1593280.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10272.png",
       "league": "Mineiro",
       "leagueId": 914388,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "HT",
       "time": "2026-02-14T22:00:00.000Z"
     },
     {
@@ -105,7 +150,7 @@
       "leagueId": 914388,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "HT",
       "time": "2026-02-14T22:00:00.000Z"
     },
     {
@@ -113,21 +158,21 @@
       "home": "Uniao Recreativa dos Trabalhadores",
       "away": "Cruzeiro",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/510793.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9781.png",
       "league": "Mineiro",
       "leagueId": 914388,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "52‎’‎",
       "time": "2026-02-14T22:00:00.000Z"
     },
     {
       "id": "fm-5134476",
       "home": "Millonarios",
       "away": "Llaneros FC",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4403.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/348397.png",
@@ -135,7 +180,7 @@
       "leagueId": 917521,
       "country": "COL",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "63‎’‎",
       "time": "2026-02-14T21:30:00.000Z"
     },
     {
@@ -150,7 +195,7 @@
       "leagueId": 920002,
       "country": "COL",
       "status": "LIVE",
-      "minute": "32‎’‎",
+      "minute": "HT",
       "time": "2026-02-14T22:00:00.000Z"
     },
     {
@@ -165,7 +210,7 @@
       "leagueId": 920002,
       "country": "COL",
       "status": "LIVE",
-      "minute": "31‎’‎",
+      "minute": "HT",
       "time": "2026-02-14T22:00:00.000Z"
     },
     {
@@ -180,22 +225,7 @@
       "leagueId": 919426,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "72‎’‎",
-      "time": "2026-02-14T21:00:00.000Z"
-    },
-    {
-      "id": "fm-5142071",
-      "home": "Deportivo La Guaira",
-      "away": "Caracas",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/176496.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7850.png",
-      "league": "Primera Division - Apertura First Stage",
-      "leagueId": 919709,
-      "country": "VEN",
-      "status": "LIVE",
-      "minute": "70‎’‎",
+      "minute": "96‎’‎",
       "time": "2026-02-14T21:00:00.000Z"
     },
     {
@@ -210,14 +240,14 @@
       "leagueId": 919709,
       "country": "VEN",
       "status": "LIVE",
-      "minute": "31‎’‎",
+      "minute": "HT",
       "time": "2026-02-14T22:00:00.000Z"
     },
     {
       "id": "fm-5112832",
       "home": "Agropecuario",
       "away": "Deportivo Maipu",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/769348.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/213590.png",
@@ -225,7 +255,7 @@
       "leagueId": 916553,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "67‎’‎",
+      "minute": "90",
       "time": "2026-02-14T21:00:00.000Z"
     },
     {
@@ -240,8 +270,23 @@
       "leagueId": 916553,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "HT",
       "time": "2026-02-14T22:00:00.000Z"
+    },
+    {
+      "id": "fm-4930280",
+      "home": "Fort Lauderdale United FC (W)",
+      "away": "Brooklyn FC (W)",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1669153.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1669149.png",
+      "league": "USL Super League",
+      "leagueId": 901708,
+      "country": "USA",
+      "status": "LIVE",
+      "minute": "18‎’‎",
+      "time": "2026-02-14T22:30:00.000Z"
     },
     {
       "id": "fm-1000005619",
@@ -255,7 +300,7 @@
       "leagueId": 199,
       "country": "PAR",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "65‎’‎",
       "time": "2026-02-14T21:30:00.000Z"
     },
     {
@@ -272,21 +317,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-14T23:00:00.000Z"
-    },
-    {
-      "id": "fm-5169192",
-      "home": "Sport Boys",
-      "away": "Atletico Grau",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4412.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/920789.png",
-      "league": "Liga 1 Apertura",
-      "leagueId": 919710,
-      "country": "PER",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-14T22:30:00.000Z"
     },
     {
       "id": "fm-5166969",
@@ -347,36 +377,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-14T23:15:00.000Z"
-    },
-    {
-      "id": "fm-5101946",
-      "home": "Huracan",
-      "away": "Sarmiento",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10081.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/202757.png",
-      "league": "Liga Profesional Apertura",
-      "leagueId": 905256,
-      "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-14T22:45:00.000Z"
-    },
-    {
-      "id": "fm-5101951",
-      "home": "Talleres",
-      "away": "Gimnasia Mendoza",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10101.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/568727.png",
-      "league": "Liga Profesional Apertura",
-      "leagueId": 905256,
-      "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-14T22:45:00.000Z"
     },
     {
       "id": "fm-5134477",
@@ -497,21 +497,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-14T23:00:00.000Z"
-    },
-    {
-      "id": "fm-4930280",
-      "home": "Fort Lauderdale United FC (W)",
-      "away": "Brooklyn FC (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1669153.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1669149.png",
-      "league": "USL Super League",
-      "leagueId": 901708,
-      "country": "USA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-14T22:30:00.000Z"
     },
     {
       "id": "fm-1000005623",
@@ -1496,6 +1481,21 @@
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102769.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/164855.png",
+      "league": "CAF Champions League Grp. C",
+      "leagueId": 911133,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-14T13:00:00.000Z"
+    },
+    {
+      "id": "fm-5045249",
+      "home": "Mamelodi Sundowns FC",
+      "away": "MC Alger",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4530.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6353.png",
       "league": "CAF Champions League Grp. C",
       "leagueId": 911133,
       "country": "INT",
