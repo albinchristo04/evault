@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-02-14T10:44:37.919439+00:00",
+  "lastUpdated": "2026-02-14T11:02:35.310236+00:00",
   "matchCount": 467,
-  "liveCount": 4,
+  "liveCount": 5,
   "matches": [
     {
       "id": "fm-4870057",
@@ -15,7 +15,7 @@
       "leagueId": 165,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "13‎’‎",
+      "minute": "31‎’‎",
       "time": "2026-02-14T10:30:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 165,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "13‎’‎",
+      "minute": "31‎’‎",
       "time": "2026-02-14T10:30:00.000Z"
     },
     {
@@ -45,23 +45,38 @@
       "leagueId": 262,
       "country": "AZE",
       "status": "LIVE",
-      "minute": "13‎’‎",
+      "minute": "31‎’‎",
       "time": "2026-02-14T10:30:00.000Z"
     },
     {
-      "id": "fm-4965890",
-      "home": "Perth Glory",
-      "away": "Canberra United FC",
-      "homeScore": 1,
+      "id": "fm-4904181",
+      "home": "Norwich City U18",
+      "away": "Brighton & Hove Albion U18",
+      "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675730.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675727.png",
-      "league": "A-League Women",
-      "leagueId": 9495,
-      "country": "AUS",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113570.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113555.png",
+      "league": "Premier League U18",
+      "leagueId": 10068,
+      "country": "ENG",
       "status": "LIVE",
-      "minute": "87‎’‎",
-      "time": "2026-02-14T09:00:00.000Z"
+      "minute": "2‎’‎",
+      "time": "2026-02-14T11:00:00.000Z"
+    },
+    {
+      "id": "fm-1000005431",
+      "home": "Khonkaen United FC",
+      "away": "Chanthaburi FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/626802.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1513932.png",
+      "league": "Thai League 2",
+      "leagueId": 9498,
+      "country": "THA",
+      "status": "LIVE",
+      "minute": "3‎’‎",
+      "time": "2026-02-14T11:00:00.000Z"
     },
     {
       "id": "fm-4829505",
@@ -1204,6 +1219,21 @@
       "time": "2026-02-14T15:00:00.000Z"
     },
     {
+      "id": "fm-5174335",
+      "home": "Haras El Hodoud",
+      "away": "ZED FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101767.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585662.png",
+      "league": "Cup",
+      "leagueId": 9941,
+      "country": "EGY",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-02-14T12:30:00.000Z"
+    },
+    {
       "id": "fm-4877991",
       "home": "Akritas Chlorakas",
       "away": "Aris Limassol",
@@ -1472,36 +1502,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-14T20:00:00.000Z"
-    },
-    {
-      "id": "fm-5176431",
-      "home": "Centro Oeste",
-      "away": "Aparecidense",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1860737.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/239122.png",
-      "league": "Goiano Relegation Playoff",
-      "leagueId": 920552,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-14T18:30:00.000Z"
-    },
-    {
-      "id": "fm-4814230",
-      "home": "Dinamo Zagreb",
-      "away": "NK Istra 1961",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10156.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6038.png",
-      "league": "HNL",
-      "leagueId": 252,
-      "country": "CRO",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-14T14:00:00.000Z"
     }
   ]
 }
