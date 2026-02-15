@@ -1,21 +1,36 @@
 {
-  "lastUpdated": "2026-02-15T19:46:09.233826+00:00",
+  "lastUpdated": "2026-02-15T19:58:02.693353+00:00",
   "matchCount": 370,
-  "liveCount": 21,
+  "liveCount": 18,
   "matches": [
+    {
+      "id": "fm-4830650",
+      "home": "Lyon",
+      "away": "Nice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9831.png",
+      "league": "Ligue 1",
+      "leagueId": 53,
+      "country": "FRA",
+      "status": "LIVE",
+      "minute": "8‎’‎",
+      "time": "2026-02-15T19:45:00.000Z"
+    },
     {
       "id": "fm-4803283",
       "home": "Napoli",
       "away": "Roma",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
       "league": "Serie A",
       "leagueId": 55,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "1‎’‎",
+      "minute": "13‎’‎",
       "time": "2026-02-15T19:45:00.000Z"
     },
     {
@@ -23,14 +38,14 @@
       "home": "FC Schweinfurt",
       "away": "Ingolstadt",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7780.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8234.png",
       "league": "3. Liga",
       "leagueId": 208,
       "country": "GER",
       "status": "LIVE",
-      "minute": "57‎’‎",
+      "minute": "69‎’‎",
       "time": "2026-02-15T18:30:00.000Z"
     },
     {
@@ -45,23 +60,8 @@
       "leagueId": 900433,
       "country": "BEL",
       "status": "LIVE",
-      "minute": "50‎’‎",
+      "minute": "62‎’‎",
       "time": "2026-02-15T18:30:00.000Z"
-    },
-    {
-      "id": "fm-5169135",
-      "home": "FUS Rabat",
-      "away": "KACM",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102036.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102042.png",
-      "league": "Botola Pro",
-      "leagueId": 530,
-      "country": "MAR",
-      "status": "LIVE",
-      "minute": "86‎’‎",
-      "time": "2026-02-15T18:00:00.000Z"
     },
     {
       "id": "fm-5176420",
@@ -75,7 +75,7 @@
       "leagueId": 920551,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "45‎’‎",
+      "minute": "HT",
       "time": "2026-02-15T19:00:00.000Z"
     },
     {
@@ -90,7 +90,7 @@
       "leagueId": 920551,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "45‎’‎",
+      "minute": "HT",
       "time": "2026-02-15T19:00:00.000Z"
     },
     {
@@ -105,23 +105,8 @@
       "leagueId": 260,
       "country": "ALB",
       "status": "LIVE",
-      "minute": "50‎’‎",
+      "minute": "62‎’‎",
       "time": "2026-02-15T18:30:00.000Z"
-    },
-    {
-      "id": "fm-5169194",
-      "home": "Sport Huancayo",
-      "away": "FC Cajamarca",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165148.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1696744.png",
-      "league": "Liga 1 Apertura",
-      "leagueId": 919710,
-      "country": "PER",
-      "status": "LIVE",
-      "minute": "84‎’‎",
-      "time": "2026-02-15T18:00:00.000Z"
     },
     {
       "id": "fm-5165660",
@@ -135,7 +120,7 @@
       "leagueId": 920297,
       "country": "POR",
       "status": "LIVE",
-      "minute": "45‎’‎",
+      "minute": "HT",
       "time": "2026-02-15T19:00:00.000Z"
     },
     {
@@ -150,14 +135,14 @@
       "leagueId": 916290,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "85‎’‎",
+      "minute": "97‎’‎",
       "time": "2026-02-15T18:00:00.000Z"
     },
     {
       "id": "fm-4844357",
       "home": "AVS Futebol SAD",
       "away": "Estoril",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1889.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7842.png",
@@ -165,22 +150,7 @@
       "leagueId": 61,
       "country": "POR",
       "status": "LIVE",
-      "minute": "87‎’‎",
-      "time": "2026-02-15T18:00:00.000Z"
-    },
-    {
-      "id": "fm-4844666",
-      "home": "Uniao de Leiria",
-      "away": "FC Porto B",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9771.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/338304.png",
-      "league": "Liga Portugal 2",
-      "leagueId": 185,
-      "country": "POR",
-      "status": "LIVE",
-      "minute": "85‎’‎",
+      "minute": "99‎’‎",
       "time": "2026-02-15T18:00:00.000Z"
     },
     {
@@ -195,7 +165,7 @@
       "leagueId": 901481,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "15‎’‎",
+      "minute": "27‎’‎",
       "time": "2026-02-15T19:30:00.000Z"
     },
     {
@@ -210,14 +180,14 @@
       "leagueId": 902171,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "52‎’‎",
+      "minute": "64‎’‎",
       "time": "2026-02-15T18:30:00.000Z"
     },
     {
       "id": "fm-4898158",
       "home": "Lecco",
       "away": "Virtus Verona",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6512.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/474519.png",
@@ -225,14 +195,14 @@
       "leagueId": 901968,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "15‎’‎",
+      "minute": "27‎’‎",
       "time": "2026-02-15T19:30:00.000Z"
     },
     {
       "id": "fm-4899172",
       "home": "Potenza",
       "away": "Team Altamura",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6099.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/867623.png",
@@ -240,7 +210,7 @@
       "leagueId": 901990,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "15‎’‎",
+      "minute": "27‎’‎",
       "time": "2026-02-15T19:30:00.000Z"
     },
     {
@@ -255,23 +225,8 @@
       "leagueId": 900624,
       "country": "GRE",
       "status": "LIVE",
-      "minute": "37‎’‎",
+      "minute": "HT",
       "time": "2026-02-15T19:00:00.000Z"
-    },
-    {
-      "id": "fm-4824842",
-      "home": "Universitatea Craiova",
-      "away": "FCSB",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/480286.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9723.png",
-      "league": "Superliga",
-      "leagueId": 900636,
-      "country": "ROU",
-      "status": "LIVE",
-      "minute": "88‎’‎",
-      "time": "2026-02-15T18:00:00.000Z"
     },
     {
       "id": "fm-4862816",
@@ -300,7 +255,7 @@
       "leagueId": 127,
       "country": "ISR",
       "status": "LIVE",
-      "minute": "72‎’‎",
+      "minute": "84‎’‎",
       "time": "2026-02-15T18:15:00.000Z"
     },
     {
@@ -332,21 +287,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-15T20:00:00.000Z"
-    },
-    {
-      "id": "fm-4830650",
-      "home": "Lyon",
-      "away": "Nice",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9831.png",
-      "league": "Ligue 1",
-      "leagueId": 53,
-      "country": "FRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-15T19:45:00.000Z"
     },
     {
       "id": "fm-5177119",
@@ -1502,6 +1442,66 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-15T10:30:00.000Z"
+    },
+    {
+      "id": "fm-5164923",
+      "home": "Navad",
+      "away": "Mes Shahr Babak",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/958608.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/961464.png",
+      "league": "Azadegan League",
+      "leagueId": 9372,
+      "country": "IRN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-15T11:00:00.000Z"
+    },
+    {
+      "id": "fm-5164924",
+      "home": "Mes Kerman",
+      "away": "Mes Sungun",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101622.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1528916.png",
+      "league": "Azadegan League",
+      "leagueId": 9372,
+      "country": "IRN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-15T11:15:00.000Z"
+    },
+    {
+      "id": "fm-5164925",
+      "home": "FC Fard",
+      "away": "Ario Islamshahr",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1693132.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1431260.png",
+      "league": "Azadegan League",
+      "leagueId": 9372,
+      "country": "IRN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-15T11:30:00.000Z"
+    },
+    {
+      "id": "fm-5164926",
+      "home": "Naft Bandar Abbas",
+      "away": "Shenavarsazi Qeshm",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1675873.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1602400.png",
+      "league": "Azadegan League",
+      "leagueId": 9372,
+      "country": "IRN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-15T11:30:00.000Z"
     }
   ]
 }
