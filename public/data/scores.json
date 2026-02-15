@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T08:49:46.577405+00:00",
+  "lastUpdated": "2026-02-15T09:18:16.957452+00:00",
   "matchCount": 379,
   "liveCount": 2,
   "matches": [
@@ -15,14 +15,14 @@
       "leagueId": 918259,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "83‎’‎",
+      "minute": "Pen",
       "time": "2026-02-15T07:00:00.000Z"
     },
     {
       "id": "fm-4879930",
       "home": "Arema",
       "away": "Semen Padang",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165200.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/215564.png",
@@ -30,7 +30,7 @@
       "leagueId": 8983,
       "country": "IDN",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-02-15T08:30:00.000Z"
     },
     {
