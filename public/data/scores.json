@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-02-16T14:08:22.377002+00:00",
+  "lastUpdated": "2026-02-16T14:59:41.735273+00:00",
   "matchCount": 75,
-  "liveCount": 5,
+  "liveCount": 2,
   "matches": [
-    {
-      "id": "fm-4867609",
-      "home": "Septemvri Sofia",
-      "away": "Montana",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/312976.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/46475.png",
-      "league": "First Professional League",
-      "leagueId": 899885,
-      "country": "BUL",
-      "status": "LIVE",
-      "minute": "49‎’‎",
-      "time": "2026-02-16T13:00:00.000Z"
-    },
     {
       "id": "fm-5159580",
       "home": "East Bengal FC",
@@ -30,52 +15,22 @@
       "leagueId": 920186,
       "country": "IND",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "HT",
       "time": "2026-02-16T14:00:00.000Z"
-    },
-    {
-      "id": "fm-4946744",
-      "home": "FK Qabala",
-      "away": "Sabah FK",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8076.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/951893.png",
-      "league": "Premier League",
-      "leagueId": 262,
-      "country": "AZE",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-02-16T13:00:00.000Z"
-    },
-    {
-      "id": "fm-4904825",
-      "home": "Arsimi",
-      "away": "AP Brera Strumica",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1389831.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/769984.png",
-      "league": "Prva Liga",
-      "leagueId": 249,
-      "country": "MKD",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-02-16T13:00:00.000Z"
     },
     {
       "id": "fm-5180382",
       "home": "FK Kauno Zalgiris",
       "away": "FK Panevezys",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/439132.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/479143.png",
       "league": "Super Cup",
       "leagueId": 9493,
       "country": "LTU",
       "status": "LIVE",
-      "minute": "50‎’‎",
+      "minute": "82‎’‎",
       "time": "2026-02-16T13:15:00.000Z"
     },
     {
@@ -949,6 +904,21 @@
       "time": "2026-02-16T11:00:00.000Z"
     },
     {
+      "id": "fm-4867609",
+      "home": "Septemvri Sofia",
+      "away": "Montana",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/312976.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/46475.png",
+      "league": "First Professional League",
+      "leagueId": 899885,
+      "country": "BUL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-16T13:00:00.000Z"
+    },
+    {
       "id": "fm-5111328",
       "home": "CF America (W)",
       "away": "Monterrey (W)",
@@ -1039,6 +1009,21 @@
       "time": "2026-02-16T10:30:00.000Z"
     },
     {
+      "id": "fm-4946744",
+      "home": "FK Qabala",
+      "away": "Sabah FK",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8076.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/951893.png",
+      "league": "Premier League",
+      "leagueId": 262,
+      "country": "AZE",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-16T13:00:00.000Z"
+    },
+    {
       "id": "fm-5134482",
       "home": "Fortaleza FC",
       "away": "Chico FC",
@@ -1082,6 +1067,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-16T12:00:00.000Z"
+    },
+    {
+      "id": "fm-4904825",
+      "home": "Arsimi",
+      "away": "AP Brera Strumica",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1389831.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/769984.png",
+      "league": "Prva Liga",
+      "leagueId": 249,
+      "country": "MKD",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-16T13:00:00.000Z"
     },
     {
       "id": "fm-4951351",
