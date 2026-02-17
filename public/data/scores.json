@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-02-17T22:53:16.517413+00:00",
+  "lastUpdated": "2026-02-17T23:27:27.302861+00:00",
   "matchCount": 105,
-  "liveCount": 4,
+  "liveCount": 3,
   "matches": [
     {
       "id": "fm-5103756",
@@ -15,7 +15,7 @@
       "leagueId": 916146,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "65‎’‎",
       "time": "2026-02-17T22:00:00.000Z"
     },
     {
@@ -30,38 +30,8 @@
       "leagueId": 917618,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "9‎’‎",
+      "minute": "43‎’‎",
       "time": "2026-02-17T22:45:00.000Z"
-    },
-    {
-      "id": "fm-5121866",
-      "home": "Deportivo Achuapa",
-      "away": "Guastatoya",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188305.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188303.png",
-      "league": "Liga Nacional Clausura",
-      "leagueId": 917698,
-      "country": "GUA",
-      "status": "LIVE",
-      "minute": "90",
-      "time": "2026-02-17T21:00:00.000Z"
-    },
-    {
-      "id": "fm-5134485",
-      "home": "Alianza FC",
-      "away": "Cucuta",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193029.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6254.png",
-      "league": "Primera A Apertura",
-      "leagueId": 917521,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "90",
-      "time": "2026-02-17T21:00:00.000Z"
     },
     {
       "id": "fm-5134483",
@@ -74,8 +44,8 @@
       "league": "Primera A Apertura",
       "leagueId": 917521,
       "country": "COL",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "IR",
       "time": "2026-02-17T23:00:00.000Z"
     },
     {
@@ -1054,6 +1024,21 @@
       "time": "2026-02-17T03:10:00.000Z"
     },
     {
+      "id": "fm-5121866",
+      "home": "Deportivo Achuapa",
+      "away": "Guastatoya",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188305.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188303.png",
+      "league": "Liga Nacional Clausura",
+      "leagueId": 917698,
+      "country": "GUA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-17T21:00:00.000Z"
+    },
+    {
       "id": "fm-5147323",
       "home": "AS Soliman",
       "away": "Espérance",
@@ -1427,6 +1412,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-17T19:45:00.000Z"
+    },
+    {
+      "id": "fm-5134485",
+      "home": "Alianza FC",
+      "away": "Cucuta",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193029.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6254.png",
+      "league": "Primera A Apertura",
+      "leagueId": 917521,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-17T21:00:00.000Z"
     },
     {
       "id": "fm-5152341",
