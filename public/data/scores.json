@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-02-17T03:34:57.154691+00:00",
+  "lastUpdated": "2026-02-17T05:12:25.542185+00:00",
   "matchCount": 106,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5111331",
-      "home": "Mazatlan FC (W)",
-      "away": "Tigres (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1174027.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980701.png",
-      "league": "Liga MX Femenil Clausura",
-      "leagueId": 916500,
-      "country": "MEX",
-      "status": "LIVE",
-      "minute": "25‎’‎",
-      "time": "2026-02-17T03:10:00.000Z"
-    },
     {
       "id": "fm-5161867",
       "home": "Galatasaray",
@@ -1502,6 +1487,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-17T11:00:00.000Z"
+    },
+    {
+      "id": "fm-1000005440",
+      "home": "Bangkok FC",
+      "away": "Phrae United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/559842.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/578228.png",
+      "league": "Thai League 2",
+      "leagueId": 9498,
+      "country": "THA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-02-17T12:00:00.000Z"
     }
   ]
 }
