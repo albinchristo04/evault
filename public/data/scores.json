@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-02-18T23:03:51.610050+00:00",
+  "lastUpdated": "2026-02-18T23:42:29.843618+00:00",
   "matchCount": 62,
   "liveCount": 5,
   "matches": [
+    {
+      "id": "fm-5098863",
+      "home": "Defence Force",
+      "away": "Philadelphia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165465.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/191716.png",
+      "league": "CONCACAF Champions Cup",
+      "leagueId": 915924,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "36‎’‎",
+      "time": "2026-02-18T23:00:00.000Z"
+    },
     {
       "id": "fm-5080169",
       "home": "Vitoria",
@@ -15,7 +30,7 @@
       "leagueId": 914393,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "48‎’‎",
+      "minute": "63‎’‎",
       "time": "2026-02-18T22:15:00.000Z"
     },
     {
@@ -30,14 +45,14 @@
       "leagueId": 916146,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "77‎’‎",
       "time": "2026-02-18T22:00:00.000Z"
     },
     {
       "id": "fm-5176432",
       "home": "Aparecidense",
       "away": "Centro Oeste",
-      "homeScore": 2,
+      "homeScore": 4,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/239122.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1860737.png",
@@ -45,53 +60,23 @@
       "leagueId": 920552,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "31‎’‎",
+      "minute": "51‎’‎",
       "time": "2026-02-18T22:30:00.000Z"
-    },
-    {
-      "id": "fm-5136765",
-      "home": "CD Platense Municipal",
-      "away": "Fuerte San Francisco",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1280075.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1525664.png",
-      "league": "Primera Division - Clausura",
-      "leagueId": 919025,
-      "country": "SLV",
-      "status": "LIVE",
-      "minute": "86‎’‎",
-      "time": "2026-02-18T21:15:00.000Z"
     },
     {
       "id": "fm-5136762",
       "home": "Hercules",
       "away": "CD Cacahuatique",
-      "homeScore": 0,
-      "awayScore": 2,
+      "homeScore": 1,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49747.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1662005.png",
       "league": "Primera Division - Clausura",
       "leagueId": 919025,
       "country": "SLV",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "83‎’‎",
       "time": "2026-02-18T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5098863",
-      "home": "Defence Force",
-      "away": "Philadelphia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165465.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/191716.png",
-      "league": "CONCACAF Champions Cup",
-      "leagueId": 915924,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-18T23:00:00.000Z"
     },
     {
       "id": "fm-5161865",
@@ -692,6 +677,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-18T01:10:00.000Z"
+    },
+    {
+      "id": "fm-5136765",
+      "home": "CD Platense Municipal",
+      "away": "Fuerte San Francisco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1280075.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1525664.png",
+      "league": "Primera Division - Clausura",
+      "leagueId": 919025,
+      "country": "SLV",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-18T21:15:00.000Z"
     },
     {
       "id": "fm-4874837",
