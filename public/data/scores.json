@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-02-18T08:29:17.961307+00:00",
+  "lastUpdated": "2026-02-18T09:26:09.741757+00:00",
   "matchCount": 65,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
+    {
+      "id": "fm-1000005553",
+      "home": "NTV Tokyo Verdy Beleza",
+      "away": "Omiya Ardija Ventus",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/588613.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1261666.png",
+      "league": "WE League",
+      "leagueId": 9500,
+      "country": "JPN",
+      "status": "LIVE",
+      "minute": "23‎’‎",
+      "time": "2026-02-18T09:00:00.000Z"
+    },
     {
       "id": "fm-5161865",
       "home": "Qarabag FK",
@@ -842,21 +857,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-18T18:30:00.000Z"
-    },
-    {
-      "id": "fm-1000005553",
-      "home": "NTV Tokyo Verdy Beleza",
-      "away": "Omiya Ardija Ventus",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/588613.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1261666.png",
-      "league": "WE League",
-      "leagueId": 9500,
-      "country": "JPN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-18T09:00:00.000Z"
     },
     {
       "id": "fm-4893049",
