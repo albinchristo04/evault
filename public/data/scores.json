@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-02-18T10:11:17.765130+00:00",
+  "lastUpdated": "2026-02-18T11:09:05.561425+00:00",
   "matchCount": 65,
-  "liveCount": 3,
+  "liveCount": 4,
   "matches": [
     {
       "id": "fm-4933613",
@@ -15,7 +15,7 @@
       "leagueId": 903631,
       "country": "INT",
       "status": "LIVE",
-      "minute": "11‎’‎",
+      "minute": "52‎’‎",
       "time": "2026-02-18T10:00:00.000Z"
     },
     {
@@ -30,23 +30,38 @@
       "leagueId": 903631,
       "country": "INT",
       "status": "LIVE",
-      "minute": "11‎’‎",
+      "minute": "47‎’‎",
       "time": "2026-02-18T10:00:00.000Z"
     },
     {
-      "id": "fm-1000005553",
-      "home": "NTV Tokyo Verdy Beleza",
-      "away": "Omiya Ardija Ventus",
-      "homeScore": 1,
+      "id": "fm-5109259",
+      "home": "Ilves",
+      "away": "SJK",
+      "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/588613.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1261666.png",
-      "league": "WE League",
-      "leagueId": 9500,
-      "country": "JPN",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162146.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162162.png",
+      "league": "League Cup Grp. B",
+      "leagueId": 916380,
+      "country": "FIN",
       "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-02-18T09:00:00.000Z"
+      "minute": "8‎’‎",
+      "time": "2026-02-18T11:00:00.000Z"
+    },
+    {
+      "id": "fm-1000005441",
+      "home": "Pattaya Dolphins United",
+      "away": "Nakhon Pathom",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1513934.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165252.png",
+      "league": "Thai League 2",
+      "leagueId": 9498,
+      "country": "THA",
+      "status": "LIVE",
+      "minute": "9‎’‎",
+      "time": "2026-02-18T11:00:00.000Z"
     },
     {
       "id": "fm-5161865",
@@ -454,21 +469,6 @@
       "time": "2026-02-18T18:30:00.000Z"
     },
     {
-      "id": "fm-5109259",
-      "home": "Ilves",
-      "away": "SJK",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162146.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162162.png",
-      "league": "League Cup Grp. B",
-      "leagueId": 916380,
-      "country": "FIN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-18T11:00:00.000Z"
-    },
-    {
       "id": "fm-4825971",
       "home": "Wigan",
       "away": "Luton",
@@ -724,21 +724,6 @@
       "time": "2026-02-18T20:00:00.000Z"
     },
     {
-      "id": "fm-1000005441",
-      "home": "Pattaya Dolphins United",
-      "away": "Nakhon Pathom",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1513934.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165252.png",
-      "league": "Thai League 2",
-      "leagueId": 9498,
-      "country": "THA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-18T11:00:00.000Z"
-    },
-    {
       "id": "fm-1000005442",
       "home": "Songkhla United FC",
       "away": "Khonkaen United FC",
@@ -977,6 +962,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-18T01:10:00.000Z"
+    },
+    {
+      "id": "fm-1000005553",
+      "home": "NTV Tokyo Verdy Beleza",
+      "away": "Omiya Ardija Ventus",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/588613.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1261666.png",
+      "league": "WE League",
+      "leagueId": 9500,
+      "country": "JPN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-18T09:00:00.000Z"
     }
   ]
 }
