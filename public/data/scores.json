@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-02-18T04:28:40.615103+00:00",
+  "lastUpdated": "2026-02-18T05:45:06.137084+00:00",
   "matchCount": 64,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5098862",
-      "home": "Real Espana",
-      "away": "LAFC",
-      "homeScore": 1,
-      "awayScore": 5,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49783.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/867280.png",
-      "league": "CONCACAF Champions Cup",
-      "leagueId": 915924,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "64‎’‎",
-      "time": "2026-02-18T03:00:00.000Z"
-    },
     {
       "id": "fm-5161865",
       "home": "Qarabag FK",
@@ -887,6 +872,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-18T01:00:00.000Z"
+    },
+    {
+      "id": "fm-5098862",
+      "home": "Real Espana",
+      "away": "LAFC",
+      "homeScore": 1,
+      "awayScore": 6,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49783.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/867280.png",
+      "league": "CONCACAF Champions Cup",
+      "leagueId": 915924,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-18T03:00:00.000Z"
     },
     {
       "id": "fm-5080165",
