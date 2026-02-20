@@ -1,22 +1,37 @@
 {
-  "lastUpdated": "2026-02-20T21:55:23.736121+00:00",
+  "lastUpdated": "2026-02-20T22:23:51.059657+00:00",
   "matchCount": 164,
-  "liveCount": 17,
+  "liveCount": 14,
   "matches": [
     {
-      "id": "fm-4837351",
-      "home": "Athletic Club",
-      "away": "Elche",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
-      "league": "LaLiga",
-      "leagueId": 87,
-      "country": "ESP",
+      "id": "fm-5184049",
+      "home": "CODM Meknes",
+      "away": "Olympic Club de Safi",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102032.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102047.png",
+      "league": "Botola Pro",
+      "leagueId": 530,
+      "country": "MAR",
       "status": "LIVE",
-      "minute": "96‎’‎",
-      "time": "2026-02-20T20:00:00.000Z"
+      "minute": "22‎’‎",
+      "time": "2026-02-20T22:00:00.000Z"
+    },
+    {
+      "id": "fm-5184050",
+      "home": "Union Yacoub El-Mansour",
+      "away": "MAS Fes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1786714.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102043.png",
+      "league": "Botola Pro",
+      "leagueId": 530,
+      "country": "MAR",
+      "status": "LIVE",
+      "minute": "22‎’‎",
+      "time": "2026-02-20T22:00:00.000Z"
     },
     {
       "id": "fm-5180840",
@@ -30,7 +45,7 @@
       "leagueId": 920319,
       "country": "URU",
       "status": "LIVE",
-      "minute": "9‎’‎",
+      "minute": "37‎’‎",
       "time": "2026-02-20T21:45:00.000Z"
     },
     {
@@ -45,29 +60,14 @@
       "leagueId": 61,
       "country": "POR",
       "status": "LIVE",
-      "minute": "46‎’‎",
+      "minute": "75‎’‎",
       "time": "2026-02-20T20:45:00.000Z"
-    },
-    {
-      "id": "fm-5101958",
-      "home": "Defensa y Justicia",
-      "away": "Belgrano",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161730.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10092.png",
-      "league": "Liga Profesional Apertura",
-      "leagueId": 905256,
-      "country": "ARG",
-      "status": "LIVE",
-      "minute": "77‎’‎",
-      "time": "2026-02-20T20:15:00.000Z"
     },
     {
       "id": "fm-5101960",
       "home": "Estudiantes",
       "away": "Sarmiento",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10094.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/202757.png",
@@ -75,7 +75,7 @@
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "72‎’‎",
       "time": "2026-02-20T20:45:00.000Z"
     },
     {
@@ -83,14 +83,14 @@
       "home": "ASO Chlef",
       "away": "CS Constantine",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101629.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/277392.png",
       "league": "Ligue 1",
       "leagueId": 516,
       "country": "ALG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "62‎’‎",
       "time": "2026-02-20T21:00:00.000Z"
     },
     {
@@ -105,7 +105,7 @@
       "leagueId": 516,
       "country": "ALG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "60‎’‎",
       "time": "2026-02-20T21:00:00.000Z"
     },
     {
@@ -120,7 +120,7 @@
       "leagueId": 516,
       "country": "ALG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "60‎’‎",
       "time": "2026-02-20T21:00:00.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "leagueId": 516,
       "country": "ALG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "61‎’‎",
       "time": "2026-02-20T21:00:00.000Z"
     },
     {
@@ -143,30 +143,15 @@
       "home": "Tombense FC",
       "away": "Uniao Recreativa dos Trabalhadores",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/414725.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/510793.png",
       "league": "Mineiro Trofeu Inconfidencia Playoff",
       "leagueId": 921210,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "25‎’‎",
+      "minute": "HT",
       "time": "2026-02-20T21:30:00.000Z"
-    },
-    {
-      "id": "fm-5100802",
-      "home": "Dundalk",
-      "away": "Drogheda United",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1853.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8339.png",
-      "league": "Premier Division",
-      "leagueId": 126,
-      "country": "IRL",
-      "status": "LIVE",
-      "minute": "98‎’‎",
-      "time": "2026-02-20T20:00:00.000Z"
     },
     {
       "id": "fm-5152343",
@@ -180,7 +165,7 @@
       "leagueId": 920002,
       "country": "COL",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "65‎’‎",
       "time": "2026-02-20T21:00:00.000Z"
     },
     {
@@ -195,7 +180,7 @@
       "leagueId": 919426,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "63‎’‎",
       "time": "2026-02-20T21:00:00.000Z"
     },
     {
@@ -210,38 +195,8 @@
       "leagueId": 919709,
       "country": "VEN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "65‎’‎",
       "time": "2026-02-20T21:00:00.000Z"
-    },
-    {
-      "id": "fm-4871591",
-      "home": "Ponferradina",
-      "away": "CF Talavera de la Reina",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8005.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/357239.png",
-      "league": "Primera Federacion - Group 1",
-      "leagueId": 901480,
-      "country": "ESP",
-      "status": "LIVE",
-      "minute": "77‎’‎",
-      "time": "2026-02-20T20:15:00.000Z"
-    },
-    {
-      "id": "fm-5187243",
-      "home": "Al Talaba",
-      "away": "Al Quwa Al Jawiya",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101660.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101656.png",
-      "league": "Stars League",
-      "leagueId": 905798,
-      "country": "IRQ",
-      "status": "LIVE",
-      "minute": "77‎’‎",
-      "time": "2026-02-20T20:15:00.000Z"
     },
     {
       "id": "fm-1000005630",
@@ -255,38 +210,8 @@
       "leagueId": 199,
       "country": "PAR",
       "status": "LIVE",
-      "minute": "26‎’‎",
+      "minute": "HT",
       "time": "2026-02-20T21:30:00.000Z"
-    },
-    {
-      "id": "fm-5184049",
-      "home": "CODM Meknes",
-      "away": "Olympic Club de Safi",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102032.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102047.png",
-      "league": "Botola Pro",
-      "leagueId": 530,
-      "country": "MAR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-20T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5184050",
-      "home": "Union Yacoub El-Mansour",
-      "away": "MAS Fes",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1786714.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102043.png",
-      "league": "Botola Pro",
-      "leagueId": 530,
-      "country": "MAR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-20T22:00:00.000Z"
     },
     {
       "id": "fm-5178235",
@@ -452,6 +377,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-20T01:00:00.000Z"
+    },
+    {
+      "id": "fm-4837351",
+      "home": "Athletic Club",
+      "away": "Elche",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
+      "league": "LaLiga",
+      "leagueId": 87,
+      "country": "ESP",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-20T20:00:00.000Z"
     },
     {
       "id": "fm-4830658",
@@ -1249,6 +1189,21 @@
       "time": "2026-02-20T18:45:00.000Z"
     },
     {
+      "id": "fm-5101958",
+      "home": "Defensa y Justicia",
+      "away": "Belgrano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161730.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10092.png",
+      "league": "Liga Profesional Apertura",
+      "leagueId": 905256,
+      "country": "ARG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-20T20:15:00.000Z"
+    },
+    {
       "id": "fm-4832075",
       "home": "Annecy FC",
       "away": "Red Star",
@@ -1474,6 +1429,21 @@
       "time": "2026-02-20T19:45:00.000Z"
     },
     {
+      "id": "fm-5100802",
+      "home": "Dundalk",
+      "away": "Drogheda United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1853.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8339.png",
+      "league": "Premier Division",
+      "leagueId": 126,
+      "country": "IRL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-20T20:00:00.000Z"
+    },
+    {
       "id": "fm-5100805",
       "home": "Shamrock Rovers",
       "away": "St. Patrick's Athletic",
@@ -1496,6 +1466,36 @@
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101752.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585662.png",
+      "league": "Premier League",
+      "leagueId": 901925,
+      "country": "EGY",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-20T19:30:00.000Z"
+    },
+    {
+      "id": "fm-4899620",
+      "home": "Ismaily SC",
+      "away": "Wadi Degla FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101746.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/205190.png",
+      "league": "Premier League",
+      "leagueId": 901925,
+      "country": "EGY",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-20T19:30:00.000Z"
+    },
+    {
+      "id": "fm-4899619",
+      "home": "Pyramids FC",
+      "away": "Ceramica Cleopatra",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/517894.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/608449.png",
       "league": "Premier League",
       "leagueId": 901925,
       "country": "EGY",
