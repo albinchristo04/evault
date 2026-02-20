@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-02-20T09:38:51.408433+00:00",
+  "lastUpdated": "2026-02-20T10:20:37.540584+00:00",
   "matchCount": 169,
-  "liveCount": 3,
+  "liveCount": 1,
   "matches": [
     {
       "id": "fm-4965709",
       "home": "Adelaide United",
       "away": "Perth Glory",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8008.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7961.png",
@@ -15,38 +15,8 @@
       "leagueId": 901954,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "87‎’‎",
       "time": "2026-02-20T08:35:00.000Z"
-    },
-    {
-      "id": "fm-4965894",
-      "home": "Melbourne Victory",
-      "away": "Wellington Phoenix",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675734.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1300347.png",
-      "league": "A-League Women",
-      "leagueId": 9495,
-      "country": "AUS",
-      "status": "LIVE",
-      "minute": "81‎’‎",
-      "time": "2026-02-20T08:00:00.000Z"
-    },
-    {
-      "id": "fm-4965893",
-      "home": "Central Coast Mariners",
-      "away": "Melbourne City FC",
-      "homeScore": 1,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1531330.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675728.png",
-      "league": "A-League Women",
-      "leagueId": 9495,
-      "country": "AUS",
-      "status": "LIVE",
-      "minute": "82‎’‎",
-      "time": "2026-02-20T08:00:00.000Z"
     },
     {
       "id": "fm-4829517",
@@ -1502,6 +1472,36 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-20T19:45:00.000Z"
+    },
+    {
+      "id": "fm-5142429",
+      "home": "Llanelli",
+      "away": "Haverfordwest",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8341.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2194.png",
+      "league": "Premier League Relegation Group",
+      "leagueId": 919718,
+      "country": "WAL",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-02-20T19:45:00.000Z"
+    },
+    {
+      "id": "fm-4875690",
+      "home": "Paris Saint Germain (W)",
+      "away": "Lens (W)",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/294858.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1784549.png",
+      "league": "Premiere Ligue",
+      "leagueId": 901477,
+      "country": "FRA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-02-20T20:00:00.000Z"
     }
   ]
 }
