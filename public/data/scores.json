@@ -1,21 +1,51 @@
 {
-  "lastUpdated": "2026-02-22T08:59:13.941527+00:00",
-  "matchCount": 427,
-  "liveCount": 1,
+  "lastUpdated": "2026-02-22T09:40:15.055713+00:00",
+  "matchCount": 400,
+  "liveCount": 3,
   "matches": [
+    {
+      "id": "fm-4836302",
+      "home": "Amstetten",
+      "away": "SPG HOGO Wels",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8326.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/946908.png",
+      "league": "2. Liga",
+      "leagueId": 900626,
+      "country": "AUT",
+      "status": "LIVE",
+      "minute": "9‎’‎",
+      "time": "2026-02-22T09:30:00.000Z"
+    },
+    {
+      "id": "fm-4889973",
+      "home": "CS Tunari",
+      "away": "Comunal Selimbar",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/405161.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1277922.png",
+      "league": "Liga II",
+      "leagueId": 901684,
+      "country": "ROU",
+      "status": "LIVE",
+      "minute": "41‎’‎",
+      "time": "2026-02-22T09:00:00.000Z"
+    },
     {
       "id": "fm-1000006752",
       "home": "Solomon Kings FC",
       "away": "Hekari United",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1896045.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/156632.png",
       "league": "OFC Pro League",
       "leagueId": 11527,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "78‎’‎",
       "time": "2026-02-22T08:00:00.000Z"
     },
     {
@@ -512,21 +542,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-22T12:30:00.000Z"
-    },
-    {
-      "id": "fm-4836302",
-      "home": "Amstetten",
-      "away": "SPG HOGO Wels",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8326.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/946908.png",
-      "league": "2. Liga",
-      "leagueId": 900626,
-      "country": "AUT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-22T09:30:00.000Z"
     },
     {
       "id": "fm-4846887",
@@ -1487,21 +1502,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-22T15:20:00.000Z"
-    },
-    {
-      "id": "fm-4863691",
-      "home": "SGS Essen (W)",
-      "away": "RB Leipzig (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/674689.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1513040.png",
-      "league": "Frauen-Bundesliga",
-      "leagueId": 9676,
-      "country": "GER",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-22T17:30:00.000Z"
     }
   ]
 }
