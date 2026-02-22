@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-02-22T22:35:34.329022+00:00",
+  "lastUpdated": "2026-02-22T22:57:04.203632+00:00",
   "matchCount": 425,
-  "liveCount": 20,
+  "liveCount": 17,
   "matches": [
     {
       "id": "fm-5184055",
@@ -15,7 +15,7 @@
       "leagueId": 530,
       "country": "MAR",
       "status": "LIVE",
-      "minute": "35‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T22:00:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 530,
       "country": "MAR",
       "status": "LIVE",
-      "minute": "35‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T22:00:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 530,
       "country": "MAR",
       "status": "LIVE",
-      "minute": "35‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T22:00:00.000Z"
     },
     {
@@ -60,7 +60,7 @@
       "leagueId": 920589,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "70‎’‎",
+      "minute": "92‎’‎",
       "time": "2026-02-22T21:00:00.000Z"
     },
     {
@@ -75,37 +75,7 @@
       "leagueId": 920287,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "74‎’‎",
-      "time": "2026-02-22T21:00:00.000Z"
-    },
-    {
-      "id": "fm-5169203",
-      "home": "Atletico Grau",
-      "away": "ADC Juan Pablo II",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/920789.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1573153.png",
-      "league": "Liga 1 Apertura",
-      "leagueId": 919710,
-      "country": "PER",
-      "status": "LIVE",
-      "minute": "94‎’‎",
-      "time": "2026-02-22T20:30:00.000Z"
-    },
-    {
-      "id": "fm-5149654",
-      "home": "Platense FC",
-      "away": "Juticalpa",
-      "homeScore": 4,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49777.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/655719.png",
-      "league": "Liga Nacional - Clausura",
-      "leagueId": 918407,
-      "country": "HON",
-      "status": "LIVE",
-      "minute": "73‎’‎",
+      "minute": "96‎’‎",
       "time": "2026-02-22T21:00:00.000Z"
     },
     {
@@ -113,14 +83,14 @@
       "home": "Deportivo Mictlan",
       "away": "Deportivo Marquense",
       "homeScore": 2,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49754.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9934.png",
       "league": "Liga Nacional Clausura",
       "leagueId": 917698,
       "country": "GUA",
       "status": "LIVE",
-      "minute": "70‎’‎",
+      "minute": "92‎’‎",
       "time": "2026-02-22T21:00:00.000Z"
     },
     {
@@ -135,7 +105,7 @@
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "42‎’‎",
       "time": "2026-02-22T22:15:00.000Z"
     },
     {
@@ -150,7 +120,7 @@
       "leagueId": 918463,
       "country": "PAN",
       "status": "LIVE",
-      "minute": "65‎’‎",
+      "minute": "87‎’‎",
       "time": "2026-02-22T21:00:00.000Z"
     },
     {
@@ -158,14 +128,14 @@
       "home": "Atletico MG",
       "away": "America MG",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10272.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1757.png",
       "league": "Mineiro Playoff",
       "leagueId": 920992,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "72‎’‎",
+      "minute": "93‎’‎",
       "time": "2026-02-22T21:00:00.000Z"
     },
     {
@@ -180,7 +150,7 @@
       "leagueId": 917521,
       "country": "COL",
       "status": "LIVE",
-      "minute": "72‎’‎",
+      "minute": "93‎’‎",
       "time": "2026-02-22T21:00:00.000Z"
     },
     {
@@ -195,7 +165,7 @@
       "leagueId": 919426,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "72‎’‎",
+      "minute": "93‎’‎",
       "time": "2026-02-22T21:00:00.000Z"
     },
     {
@@ -210,7 +180,7 @@
       "leagueId": 919709,
       "country": "VEN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "67‎’‎",
       "time": "2026-02-22T21:30:00.000Z"
     },
     {
@@ -225,22 +195,7 @@
       "leagueId": 919025,
       "country": "SLV",
       "status": "LIVE",
-      "minute": "74‎’‎",
-      "time": "2026-02-22T21:00:00.000Z"
-    },
-    {
-      "id": "fm-5136768",
-      "home": "Fuerte San Francisco",
-      "away": "Zacatecoluca",
-      "homeScore": 2,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1525664.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1783451.png",
-      "league": "Primera Division - Clausura",
-      "leagueId": 919025,
-      "country": "SLV",
-      "status": "LIVE",
-      "minute": "73‎’‎",
+      "minute": "95‎’‎",
       "time": "2026-02-22T21:00:00.000Z"
     },
     {
@@ -255,7 +210,7 @@
       "leagueId": 919025,
       "country": "SLV",
       "status": "LIVE",
-      "minute": "55‎’‎",
+      "minute": "77‎’‎",
       "time": "2026-02-22T21:15:00.000Z"
     },
     {
@@ -263,14 +218,14 @@
       "home": "Municipal Pérez Zeledón",
       "away": "Guadalupe FC",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49730.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/855904.png",
       "league": "Primera Division Clausura",
       "leagueId": 914695,
       "country": "CRC",
       "status": "LIVE",
-      "minute": "74‎’‎",
+      "minute": "95‎’‎",
       "time": "2026-02-22T21:00:00.000Z"
     },
     {
@@ -285,7 +240,7 @@
       "leagueId": 916553,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "70‎’‎",
+      "minute": "90",
       "time": "2026-02-22T21:00:00.000Z"
     },
     {
@@ -293,14 +248,14 @@
       "home": "Rangers",
       "away": "Antofagasta",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4057.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6201.png",
       "league": "Primera B",
       "leagueId": 9126,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "73‎’‎",
+      "minute": "95‎’‎",
       "time": "2026-02-22T21:00:00.000Z"
     },
     {
@@ -1502,6 +1457,51 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-22T19:00:00.000Z"
+    },
+    {
+      "id": "fm-4818519",
+      "home": "Genk",
+      "away": "Standard Liege",
+      "homeScore": 0,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9987.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9985.png",
+      "league": "Belgian Pro League",
+      "leagueId": 900433,
+      "country": "BEL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-22T12:30:00.000Z"
+    },
+    {
+      "id": "fm-4818521",
+      "home": "RAAL La Louviere",
+      "away": "KV Mechelen",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1218969.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8203.png",
+      "league": "Belgian Pro League",
+      "leagueId": 900433,
+      "country": "BEL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-22T15:00:00.000Z"
+    },
+    {
+      "id": "fm-4818523",
+      "home": "Zulte Waregem",
+      "away": "Anderlecht",
+      "homeScore": 2,
+      "awayScore": 4,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10000.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8635.png",
+      "league": "Belgian Pro League",
+      "leagueId": 900433,
+      "country": "BEL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-22T17:30:00.000Z"
     }
   ]
 }
