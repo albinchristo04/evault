@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T11:44:10.970614+00:00",
+  "lastUpdated": "2026-02-22T11:58:06.626384+00:00",
   "matchCount": 428,
   "liveCount": 51,
   "matches": [
@@ -7,7 +7,7 @@
       "id": "fm-4803292",
       "home": "Genoa",
       "away": "Torino",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
@@ -15,14 +15,14 @@
       "leagueId": 55,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "13‎’‎",
+      "minute": "26‎’‎",
       "time": "2026-02-22T11:30:00.000Z"
     },
     {
       "id": "fm-4870077",
       "home": "Bandırmaspor",
       "away": "Hatayspor",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162975.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95749.png",
@@ -30,7 +30,7 @@
       "leagueId": 165,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "50‎’‎",
+      "minute": "64‎’‎",
       "time": "2026-02-22T10:30:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 165,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "54‎’‎",
+      "minute": "68‎’‎",
       "time": "2026-02-22T10:30:00.000Z"
     },
     {
@@ -60,7 +60,7 @@
       "leagueId": 228,
       "country": "LTU",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -75,7 +75,7 @@
       "leagueId": 905808,
       "country": "POR",
       "status": "LIVE",
-      "minute": "41‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -90,14 +90,14 @@
       "leagueId": 111,
       "country": "NED",
       "status": "LIVE",
-      "minute": "27‎’‎",
+      "minute": "41‎’‎",
       "time": "2026-02-22T11:15:00.000Z"
     },
     {
       "id": "fm-4803608",
       "home": "Arka Gdynia",
       "away": "GKS Katowice",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8322.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4023.png",
@@ -105,22 +105,22 @@
       "leagueId": 899985,
       "country": "POL",
       "status": "LIVE",
-      "minute": "29‎’‎",
+      "minute": "43‎’‎",
       "time": "2026-02-22T11:15:00.000Z"
     },
     {
       "id": "fm-4815450",
       "home": "FC Twente",
       "away": "FC Groningen",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8611.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8674.png",
       "league": "Eredivisie",
       "leagueId": 900368,
       "country": "NED",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "42‎’‎",
       "time": "2026-02-22T11:15:00.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "leagueId": 10289,
       "country": "NED",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "42‎’‎",
       "time": "2026-02-22T11:15:00.000Z"
     },
     {
@@ -150,14 +150,14 @@
       "leagueId": 197,
       "country": "POL",
       "status": "LIVE",
-      "minute": "37‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
       "id": "fm-4835447",
       "home": "Resovia",
       "away": "Hutnik Krakow",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/177360.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585624.png",
@@ -165,14 +165,14 @@
       "leagueId": 8935,
       "country": "POL",
       "status": "LIVE",
-      "minute": "42‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
       "id": "fm-5159585",
       "home": "Bengaluru FC",
       "away": "Northeast United FC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/485935.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/578656.png",
@@ -180,7 +180,7 @@
       "leagueId": 920186,
       "country": "IND",
       "status": "LIVE",
-      "minute": "13‎’‎",
+      "minute": "27‎’‎",
       "time": "2026-02-22T11:30:00.000Z"
     },
     {
@@ -195,7 +195,7 @@
       "leagueId": 902647,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -210,14 +210,14 @@
       "leagueId": 902647,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
       "id": "fm-4889977",
       "home": "FC Bihor Oradea",
       "away": "ASA Targu Mures",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2550.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1787829.png",
@@ -225,7 +225,7 @@
       "leagueId": 901684,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "52‎’‎",
+      "minute": "66‎’‎",
       "time": "2026-02-22T10:30:00.000Z"
     },
     {
@@ -240,7 +240,7 @@
       "leagueId": 185,
       "country": "POR",
       "status": "LIVE",
-      "minute": "41‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -255,7 +255,7 @@
       "leagueId": 900627,
       "country": "UKR",
       "status": "LIVE",
-      "minute": "40‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -270,7 +270,7 @@
       "leagueId": 262,
       "country": "AZE",
       "status": "LIVE",
-      "minute": "56‎’‎",
+      "minute": "70‎’‎",
       "time": "2026-02-22T10:30:00.000Z"
     },
     {
@@ -278,14 +278,14 @@
       "home": "Mtibwa Sugar",
       "away": "Singida Black Stars",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165088.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1171766.png",
       "league": "Premier League",
       "leagueId": 9066,
       "country": "TAN",
       "status": "LIVE",
-      "minute": "33‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -300,14 +300,14 @@
       "leagueId": 901481,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "41‎’‎",
+      "minute": "55‎’‎",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
       "id": "fm-4871972",
       "home": "Sabadell",
       "away": "Atletico Sanluqueno CF",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4033.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/189730.png",
@@ -315,7 +315,7 @@
       "leagueId": 901481,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -330,7 +330,7 @@
       "leagueId": 901483,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -345,14 +345,14 @@
       "leagueId": 901483,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
       "id": "fm-4872317",
       "home": "RC Deportivo Fabril",
       "away": "Numancia",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161745.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8388.png",
@@ -360,7 +360,7 @@
       "leagueId": 901483,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "42‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -368,29 +368,29 @@
       "home": "Real Valladolid B",
       "away": "UD Samano",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161748.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/657830.png",
       "league": "Segunda Federacion - Group 1",
       "leagueId": 901483,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "41‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
       "id": "fm-4872814",
       "home": "CD Basconia",
       "away": "SD Amorebieta",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/189627.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/189624.png",
       "league": "Segunda Federacion - Group 2",
       "leagueId": 901484,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "55‎’‎",
+      "minute": "69‎’‎",
       "time": "2026-02-22T10:30:00.000Z"
     },
     {
@@ -405,7 +405,7 @@
       "leagueId": 901484,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "41‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -420,14 +420,14 @@
       "leagueId": 901484,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
       "id": "fm-4873842",
       "home": "Atletic Lleida",
       "away": "Barbastro",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1783970.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8214.png",
@@ -435,7 +435,7 @@
       "leagueId": 901485,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "41‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -450,7 +450,7 @@
       "leagueId": 901485,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -465,7 +465,7 @@
       "leagueId": 901485,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "42‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -480,7 +480,7 @@
       "leagueId": 901485,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "42‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -488,14 +488,14 @@
       "home": "Girona B",
       "away": "UE Olot",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1784557.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/277406.png",
       "league": "Segunda Federacion - Group 3",
       "leagueId": 901485,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "11‎’‎",
+      "minute": "25‎’‎",
       "time": "2026-02-22T11:30:00.000Z"
     },
     {
@@ -510,7 +510,7 @@
       "leagueId": 901486,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "42‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -525,7 +525,7 @@
       "leagueId": 901486,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "42‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -540,7 +540,7 @@
       "leagueId": 901486,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -555,7 +555,7 @@
       "leagueId": 901486,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "41‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -570,7 +570,7 @@
       "leagueId": 901486,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "41‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -585,7 +585,7 @@
       "leagueId": 901487,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "54‎’‎",
+      "minute": "68‎’‎",
       "time": "2026-02-22T10:30:00.000Z"
     },
     {
@@ -600,7 +600,7 @@
       "leagueId": 901487,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "41‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -615,7 +615,7 @@
       "leagueId": 901487,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "42‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -630,7 +630,7 @@
       "leagueId": 901487,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "42‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -645,7 +645,7 @@
       "leagueId": 901923,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "12‎’‎",
+      "minute": "26‎’‎",
       "time": "2026-02-22T11:30:00.000Z"
     },
     {
@@ -660,7 +660,7 @@
       "leagueId": 901979,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "13‎’‎",
+      "minute": "27‎’‎",
       "time": "2026-02-22T11:30:00.000Z"
     },
     {
@@ -675,7 +675,7 @@
       "leagueId": 901990,
       "country": "ITA",
       "status": "LIVE",
-      "minute": "14‎’‎",
+      "minute": "28‎’‎",
       "time": "2026-02-22T11:30:00.000Z"
     },
     {
@@ -690,7 +690,7 @@
       "leagueId": 71,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "53‎’‎",
+      "minute": "67‎’‎",
       "time": "2026-02-22T10:30:00.000Z"
     },
     {
@@ -705,7 +705,7 @@
       "leagueId": 8984,
       "country": "THA",
       "status": "LIVE",
-      "minute": "42‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -720,7 +720,7 @@
       "leagueId": 9498,
       "country": "THA",
       "status": "LIVE",
-      "minute": "43‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -735,7 +735,7 @@
       "leagueId": 9498,
       "country": "THA",
       "status": "LIVE",
-      "minute": "43‎’‎",
+      "minute": "HT",
       "time": "2026-02-22T11:00:00.000Z"
     },
     {
@@ -750,7 +750,7 @@
       "leagueId": 9498,
       "country": "THA",
       "status": "LIVE",
-      "minute": "14‎’‎",
+      "minute": "28‎’‎",
       "time": "2026-02-22T11:30:00.000Z"
     },
     {
@@ -765,7 +765,7 @@
       "leagueId": 9498,
       "country": "THA",
       "status": "LIVE",
-      "minute": "14‎’‎",
+      "minute": "28‎’‎",
       "time": "2026-02-22T11:30:00.000Z"
     },
     {
