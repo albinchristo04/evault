@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-02-23T04:31:50.202801+00:00",
+  "lastUpdated": "2026-02-23T05:50:55.692017+00:00",
   "matchCount": 78,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5071004",
-      "home": "Seattle Sounders",
-      "away": "Colorado",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/130394.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8314.png",
-      "league": "Major League Soccer",
-      "leagueId": 913550,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "94‎’‎",
-      "time": "2026-02-23T02:15:00.000Z"
-    },
     {
       "id": "fm-4813639",
       "home": "Everton",
@@ -1082,6 +1067,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-23T00:00:00.000Z"
+    },
+    {
+      "id": "fm-5071004",
+      "home": "Seattle Sounders",
+      "away": "Colorado",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/130394.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8314.png",
+      "league": "Major League Soccer",
+      "leagueId": 913550,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-23T02:15:00.000Z"
     },
     {
       "id": "fm-5111341",
