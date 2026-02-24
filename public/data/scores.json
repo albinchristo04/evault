@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-02-24T22:02:51.572436+00:00",
+  "lastUpdated": "2026-02-24T22:50:43.174471+00:00",
   "matchCount": 112,
-  "liveCount": 4,
+  "liveCount": 5,
   "matches": [
     {
       "id": "fm-5103757",
       "home": "Huachipato",
       "away": "Carabobo FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4056.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49681.png",
       "league": "Copa Libertadores Qualification",
       "leagueId": 916146,
       "country": "INT",
       "status": "LIVE",
-      "minute": "2‎’‎",
+      "minute": "50‎’‎",
       "time": "2026-02-24T22:00:00.000Z"
     },
     {
@@ -30,37 +30,7 @@
       "leagueId": 917698,
       "country": "GUA",
       "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-02-24T21:00:00.000Z"
-    },
-    {
-      "id": "fm-5152349",
-      "home": "Envigado",
-      "away": "Deportes Quindio",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4402.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4407.png",
-      "league": "Primera B Apertura",
-      "leagueId": 920002,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "72‎’‎",
-      "time": "2026-02-24T20:30:00.000Z"
-    },
-    {
-      "id": "fm-5152350",
-      "home": "Union Magdalena",
-      "away": "Tigres FC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4408.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193030.png",
-      "league": "Primera B Apertura",
-      "leagueId": 920002,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "HT",
+      "minute": "82‎’‎",
       "time": "2026-02-24T21:00:00.000Z"
     },
     {
@@ -74,8 +44,8 @@
       "league": "Liga Profesional Apertura",
       "leagueId": 905256,
       "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "35‎’‎",
       "time": "2026-02-24T22:15:00.000Z"
     },
     {
@@ -89,9 +59,24 @@
       "league": "Liga Profesional Apertura",
       "leagueId": 905256,
       "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "6‎’‎",
       "time": "2026-02-24T22:45:00.000Z"
+    },
+    {
+      "id": "fm-5152350",
+      "home": "Union Magdalena",
+      "away": "Tigres FC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4408.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193030.png",
+      "league": "Primera B Apertura",
+      "leagueId": 920002,
+      "country": "COL",
+      "status": "LIVE",
+      "minute": "92‎’‎",
+      "time": "2026-02-24T21:00:00.000Z"
     },
     {
       "id": "fm-5161870",
@@ -1322,6 +1307,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-24T00:00:00.000Z"
+    },
+    {
+      "id": "fm-5152349",
+      "home": "Envigado",
+      "away": "Deportes Quindio",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4402.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4407.png",
+      "league": "Primera B Apertura",
+      "leagueId": 920002,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-24T20:30:00.000Z"
     },
     {
       "id": "fm-4850391",
