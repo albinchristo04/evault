@@ -1,43 +1,13 @@
 {
-  "lastUpdated": "2026-02-28T23:30:24.293421+00:00",
+  "lastUpdated": "2026-02-28T23:47:38.895913+00:00",
   "matchCount": 547,
-  "liveCount": 21,
+  "liveCount": 22,
   "matches": [
-    {
-      "id": "fm-5071006",
-      "home": "Colorado",
-      "away": "Portland",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8314.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/307690.png",
-      "league": "Major League Soccer",
-      "leagueId": 913550,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "93‎’‎",
-      "time": "2026-02-28T21:30:00.000Z"
-    },
-    {
-      "id": "fm-5071007",
-      "home": "Minnesota",
-      "away": "Cincinnati",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/207242.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/722265.png",
-      "league": "Major League Soccer",
-      "leagueId": 913550,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "90‎’‎",
-      "time": "2026-02-28T21:30:00.000Z"
-    },
     {
       "id": "fm-5184059",
       "home": "Difaa El Jadida",
       "away": "Union Yacoub El-Mansour",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102033.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1786714.png",
@@ -45,7 +15,7 @@
       "leagueId": 530,
       "country": "MAR",
       "status": "LIVE",
-      "minute": "68‎’‎",
+      "minute": "86‎’‎",
       "time": "2026-02-28T22:00:00.000Z"
     },
     {
@@ -60,7 +30,7 @@
       "leagueId": 530,
       "country": "MAR",
       "status": "LIVE",
-      "minute": "72‎’‎",
+      "minute": "89‎’‎",
       "time": "2026-02-28T22:00:00.000Z"
     },
     {
@@ -75,7 +45,7 @@
       "leagueId": 530,
       "country": "MAR",
       "status": "LIVE",
-      "minute": "68‎’‎",
+      "minute": "86‎’‎",
       "time": "2026-02-28T22:00:00.000Z"
     },
     {
@@ -90,7 +60,7 @@
       "leagueId": 921437,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "53‎’‎",
       "time": "2026-02-28T22:30:00.000Z"
     },
     {
@@ -105,7 +75,7 @@
       "leagueId": 920319,
       "country": "URU",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "47‎’‎",
       "time": "2026-02-28T23:00:00.000Z"
     },
     {
@@ -120,7 +90,7 @@
       "leagueId": 916051,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-02-28T23:00:00.000Z"
     },
     {
@@ -135,7 +105,7 @@
       "leagueId": 916051,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "25‎’‎",
+      "minute": "43‎’‎",
       "time": "2026-02-28T23:00:00.000Z"
     },
     {
@@ -150,7 +120,7 @@
       "leagueId": 917698,
       "country": "GUA",
       "status": "LIVE",
-      "minute": "62‎’‎",
+      "minute": "79‎’‎",
       "time": "2026-02-28T22:00:00.000Z"
     },
     {
@@ -165,7 +135,7 @@
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-02-28T23:00:00.000Z"
     },
     {
@@ -180,23 +150,8 @@
       "leagueId": 918463,
       "country": "PAN",
       "status": "LIVE",
-      "minute": "15‎’‎",
+      "minute": "32‎’‎",
       "time": "2026-02-28T23:15:00.000Z"
-    },
-    {
-      "id": "fm-5185083",
-      "home": "Cruzeiro",
-      "away": "Pouso Alegre",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9781.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1221708.png",
-      "league": "Mineiro Playoff",
-      "leagueId": 920992,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "98‎’‎",
-      "time": "2026-02-28T21:30:00.000Z"
     },
     {
       "id": "fm-5187409",
@@ -210,8 +165,23 @@
       "leagueId": 921210,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "47‎’‎",
       "time": "2026-02-28T23:00:00.000Z"
+    },
+    {
+      "id": "fm-5197374",
+      "home": "Novorizontino",
+      "away": "Corinthians",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581838.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9808.png",
+      "league": "Paulista A1 Playoff",
+      "leagueId": 920997,
+      "country": "BRA",
+      "status": "LIVE",
+      "minute": "15‎’‎",
+      "time": "2026-02-28T23:30:00.000Z"
     },
     {
       "id": "fm-5134496",
@@ -225,7 +195,7 @@
       "leagueId": 917521,
       "country": "COL",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "27‎’‎",
       "time": "2026-02-28T23:20:00.000Z"
     },
     {
@@ -240,7 +210,7 @@
       "leagueId": 920002,
       "country": "COL",
       "status": "LIVE",
-      "minute": "72‎’‎",
+      "minute": "89‎’‎",
       "time": "2026-02-28T22:00:00.000Z"
     },
     {
@@ -255,7 +225,7 @@
       "leagueId": 919426,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "1‎’‎",
+      "minute": "18‎’‎",
       "time": "2026-02-28T23:30:00.000Z"
     },
     {
@@ -270,68 +240,8 @@
       "leagueId": 919709,
       "country": "VEN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "60‎’‎",
       "time": "2026-02-28T22:30:00.000Z"
-    },
-    {
-      "id": "fm-1000005131",
-      "home": "Dominican Republic",
-      "away": "Belize",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1306663.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1660560.png",
-      "league": "Concacaf W Qualifiers D",
-      "leagueId": 1000001201,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "31‎’‎",
-      "time": "2026-02-28T23:00:00.000Z"
-    },
-    {
-      "id": "fm-1000007797",
-      "home": "St. Louis City 2",
-      "away": "Sporting Kansas City II",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1346404.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/722268.png",
-      "league": "MLS Next Pro",
-      "leagueId": 10282,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-02-28T22:00:00.000Z"
-    },
-    {
-      "id": "fm-1000008883",
-      "home": "Guayaquil City",
-      "away": "Aucas",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/194754.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6608.png",
-      "league": "Serie A",
-      "leagueId": 246,
-      "country": "ECU",
-      "status": "LIVE",
-      "minute": "98‎’‎",
-      "time": "2026-02-28T21:30:00.000Z"
-    },
-    {
-      "id": "fm-5197374",
-      "home": "Novorizontino",
-      "away": "Corinthians",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581838.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9808.png",
-      "league": "Paulista A1 Playoff",
-      "leagueId": 920997,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-28T23:30:00.000Z"
     },
     {
       "id": "fm-5112850",
@@ -344,8 +254,8 @@
       "league": "Primera Nacional",
       "leagueId": 916553,
       "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "15‎’‎",
       "time": "2026-02-28T23:30:00.000Z"
     },
     {
@@ -359,9 +269,24 @@
       "league": "Primera Nacional",
       "leagueId": 916553,
       "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "12‎’‎",
       "time": "2026-02-28T23:30:00.000Z"
+    },
+    {
+      "id": "fm-1000005131",
+      "home": "Dominican Republic",
+      "away": "Belize",
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1306663.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1660560.png",
+      "league": "Concacaf W Qualifiers D",
+      "leagueId": 1000001201,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "48‎’‎",
+      "time": "2026-02-28T23:00:00.000Z"
     },
     {
       "id": "fm-1000005640",
@@ -374,9 +299,24 @@
       "league": "Division Profesional",
       "leagueId": 199,
       "country": "PAR",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "18‎’‎",
       "time": "2026-02-28T23:30:00.000Z"
+    },
+    {
+      "id": "fm-1000007797",
+      "home": "St. Louis City 2",
+      "away": "Sporting Kansas City II",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1346404.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/722268.png",
+      "league": "MLS Next Pro",
+      "leagueId": 10282,
+      "country": "USA",
+      "status": "LIVE",
+      "minute": "50‎’‎",
+      "time": "2026-02-28T22:00:00.000Z"
     },
     {
       "id": "fm-1000007129",
@@ -389,8 +329,8 @@
       "league": "Primera B",
       "leagueId": 9126,
       "country": "CHI",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "17‎’‎",
       "time": "2026-02-28T23:30:00.000Z"
     },
     {
@@ -677,6 +617,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-28T19:30:00.000Z"
+    },
+    {
+      "id": "fm-5071006",
+      "home": "Colorado",
+      "away": "Portland",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8314.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/307690.png",
+      "league": "Major League Soccer",
+      "leagueId": 913550,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-28T21:30:00.000Z"
+    },
+    {
+      "id": "fm-5071007",
+      "home": "Minnesota",
+      "away": "Cincinnati",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/207242.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/722265.png",
+      "league": "Major League Soccer",
+      "leagueId": 913550,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-28T21:30:00.000Z"
     },
     {
       "id": "fm-4803307",
@@ -1502,6 +1472,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-02-28T12:30:00.000Z"
+    },
+    {
+      "id": "fm-4825444",
+      "home": "Charlton",
+      "away": "Wrexham",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8451.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9841.png",
+      "league": "Championship",
+      "leagueId": 900638,
+      "country": "ENG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-28T15:00:00.000Z"
+    },
+    {
+      "id": "fm-4825445",
+      "home": "Coventry",
+      "away": "Stoke",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8669.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10194.png",
+      "league": "Championship",
+      "leagueId": 900638,
+      "country": "ENG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-02-28T15:00:00.000Z"
     }
   ]
 }
