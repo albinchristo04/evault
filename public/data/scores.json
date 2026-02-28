@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-02-28T04:08:39.513526+00:00",
+  "lastUpdated": "2026-02-28T05:02:56.733625+00:00",
   "matchCount": 578,
-  "liveCount": 6,
+  "liveCount": 8,
   "matches": [
     {
       "id": "fm-4965716",
       "home": "Auckland FC",
       "away": "Melbourne City FC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1642068.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
@@ -15,14 +15,14 @@
       "leagueId": 901954,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "HT",
       "time": "2026-02-28T04:00:00.000Z"
     },
     {
       "id": "fm-5130242",
       "home": "Yokohama F.Marinos",
       "away": "Tokyo Verdy",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6581.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6223.png",
@@ -30,7 +30,7 @@
       "leagueId": 917951,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "HT",
       "time": "2026-02-28T04:00:00.000Z"
     },
     {
@@ -45,14 +45,44 @@
       "leagueId": 918269,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "4‎’‎",
+      "minute": "HT",
       "time": "2026-02-28T04:00:00.000Z"
+    },
+    {
+      "id": "fm-5130734",
+      "home": "Consadole Sapporo",
+      "away": "FC Gifu",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/112688.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162197.png",
+      "league": "J. League 2/3 100 Year Vision League East-B",
+      "leagueId": 918271,
+      "country": "JPN",
+      "status": "LIVE",
+      "minute": "3‎’‎",
+      "time": "2026-02-28T05:00:00.000Z"
+    },
+    {
+      "id": "fm-5139863",
+      "home": "Ulsan HD FC",
+      "away": "Gangwon FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133896.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/164734.png",
+      "league": "K-League 1",
+      "leagueId": 919356,
+      "country": "KOR",
+      "status": "LIVE",
+      "minute": "3‎’‎",
+      "time": "2026-02-28T05:00:00.000Z"
     },
     {
       "id": "fm-5101781",
       "home": "Juárez",
       "away": "Atlas",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/649424.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6577.png",
@@ -60,7 +90,7 @@
       "leagueId": 916051,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "95‎’‎",
       "time": "2026-02-28T03:00:00.000Z"
     },
     {
@@ -75,7 +105,7 @@
       "leagueId": 916051,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "93‎’‎",
       "time": "2026-02-28T03:06:00.000Z"
     },
     {
@@ -83,14 +113,14 @@
       "home": "Vanuatu United",
       "away": "Hekari United",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1896042.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/156632.png",
       "league": "OFC Pro League",
       "leagueId": 11527,
       "country": "INT",
       "status": "LIVE",
-      "minute": "34‎’‎",
+      "minute": "66‎’‎",
       "time": "2026-02-28T03:30:00.000Z"
     },
     {
@@ -1469,36 +1499,6 @@
       "league": "Championship",
       "leagueId": 900638,
       "country": "ENG",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-28T15:00:00.000Z"
-    },
-    {
-      "id": "fm-4819264",
-      "home": "Airdrieonians",
-      "away": "Greenock Morton",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8176.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8648.png",
-      "league": "Championship",
-      "leagueId": 900476,
-      "country": "SCO",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-02-28T15:00:00.000Z"
-    },
-    {
-      "id": "fm-4819265",
-      "home": "Dunfermline Athletic",
-      "away": "Queen's Park",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8457.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8235.png",
-      "league": "Championship",
-      "leagueId": 900476,
-      "country": "SCO",
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-02-28T15:00:00.000Z"
