@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-02T21:31:15.980573+00:00",
+  "lastUpdated": "2026-03-02T22:00:40.187725+00:00",
   "matchCount": 75,
-  "liveCount": 11,
+  "liveCount": 6,
   "matches": [
     {
       "id": "fm-4837368",
@@ -15,37 +15,7 @@
       "leagueId": 87,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "66‎’‎",
-      "time": "2026-03-02T20:00:00.000Z"
-    },
-    {
-      "id": "fm-4803304",
-      "home": "Udinese",
-      "away": "Fiorentina",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
-      "league": "Serie A",
-      "leagueId": 55,
-      "country": "ITA",
-      "status": "LIVE",
-      "minute": "88‎’‎",
-      "time": "2026-03-02T19:45:00.000Z"
-    },
-    {
-      "id": "fm-4825442",
-      "home": "Birmingham",
-      "away": "Middlesbrough",
-      "homeScore": 1,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8658.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8549.png",
-      "league": "Championship",
-      "leagueId": 900638,
-      "country": "ENG",
-      "status": "LIVE",
-      "minute": "70‎’‎",
+      "minute": "95‎’‎",
       "time": "2026-03-02T20:00:00.000Z"
     },
     {
@@ -60,7 +30,7 @@
       "leagueId": 918407,
       "country": "HON",
       "status": "LIVE",
-      "minute": "1‎’‎",
+      "minute": "30‎’‎",
       "time": "2026-03-02T21:30:00.000Z"
     },
     {
@@ -68,60 +38,15 @@
       "home": "Gil Vicente",
       "away": "Benfica",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9764.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9772.png",
       "league": "Liga Portugal",
       "leagueId": 61,
       "country": "POR",
       "status": "LIVE",
-      "minute": "57‎’‎",
+      "minute": "86‎’‎",
       "time": "2026-03-02T20:15:00.000Z"
-    },
-    {
-      "id": "fm-4832083",
-      "home": "Amiens",
-      "away": "Troyes",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8587.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10242.png",
-      "league": "Ligue 2",
-      "leagueId": 110,
-      "country": "FRA",
-      "status": "LIVE",
-      "minute": "89‎’‎",
-      "time": "2026-03-02T19:45:00.000Z"
-    },
-    {
-      "id": "fm-5100799",
-      "home": "St. Patrick's Athletic",
-      "away": "Galway United FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1854.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/520517.png",
-      "league": "Premier Division",
-      "leagueId": 126,
-      "country": "IRL",
-      "status": "LIVE",
-      "minute": "89‎’‎",
-      "time": "2026-03-02T19:45:00.000Z"
-    },
-    {
-      "id": "fm-4835709",
-      "home": "Zeljeznicar",
-      "away": "Zrinjski Mostar",
-      "homeScore": 0,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10108.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10107.png",
-      "league": "Premier League",
-      "leagueId": 900837,
-      "country": "BIH",
-      "status": "LIVE",
-      "minute": "71‎’‎",
-      "time": "2026-03-02T20:00:00.000Z"
     },
     {
       "id": "fm-5198432",
@@ -135,7 +60,7 @@
       "leagueId": 905798,
       "country": "IRQ",
       "status": "LIVE",
-      "minute": "57‎’‎",
+      "minute": "86‎’‎",
       "time": "2026-03-02T20:15:00.000Z"
     },
     {
@@ -150,7 +75,7 @@
       "leagueId": 199,
       "country": "PAR",
       "status": "LIVE",
-      "minute": "1‎’‎",
+      "minute": "31‎’‎",
       "time": "2026-03-02T21:30:00.000Z"
     },
     {
@@ -165,7 +90,7 @@
       "leagueId": 9126,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "HT",
       "time": "2026-03-02T21:00:00.000Z"
     },
     {
@@ -319,6 +244,21 @@
       "time": "2026-03-02T17:30:00.000Z"
     },
     {
+      "id": "fm-4803304",
+      "home": "Udinese",
+      "away": "Fiorentina",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
+      "league": "Serie A",
+      "leagueId": 55,
+      "country": "ITA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-02T19:45:00.000Z"
+    },
+    {
       "id": "fm-4870091",
       "home": "Manisa Futbol Kulübü",
       "away": "Çorum FK",
@@ -332,6 +272,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-02T17:00:00.000Z"
+    },
+    {
+      "id": "fm-4825442",
+      "home": "Birmingham",
+      "away": "Middlesbrough",
+      "homeScore": 1,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8658.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8549.png",
+      "league": "Championship",
+      "leagueId": 900638,
+      "country": "ENG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-02T20:00:00.000Z"
     },
     {
       "id": "fm-5126239",
@@ -634,6 +589,21 @@
       "time": "2026-03-02T00:30:00.000Z"
     },
     {
+      "id": "fm-4832083",
+      "home": "Amiens",
+      "away": "Troyes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8587.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10242.png",
+      "league": "Ligue 2",
+      "leagueId": 110,
+      "country": "FRA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-02T19:45:00.000Z"
+    },
+    {
       "id": "fm-4933278",
       "home": "Barau",
       "away": "Plateau United",
@@ -647,6 +617,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-02T15:00:00.000Z"
+    },
+    {
+      "id": "fm-5100799",
+      "home": "St. Patrick's Athletic",
+      "away": "Galway United FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1854.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/520517.png",
+      "league": "Premier Division",
+      "leagueId": 126,
+      "country": "IRL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-02T19:45:00.000Z"
     },
     {
       "id": "fm-4819643",
@@ -707,6 +692,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-02T11:00:00.000Z"
+    },
+    {
+      "id": "fm-4835709",
+      "home": "Zeljeznicar",
+      "away": "Zrinjski Mostar",
+      "homeScore": 1,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10108.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10107.png",
+      "league": "Premier League",
+      "leagueId": 900837,
+      "country": "BIH",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-02T20:00:00.000Z"
     },
     {
       "id": "fm-4951010",
