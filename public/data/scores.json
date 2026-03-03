@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-03T22:27:18.352616+00:00",
+  "lastUpdated": "2026-03-03T22:54:03.488545+00:00",
   "matchCount": 179,
-  "liveCount": 7,
+  "liveCount": 6,
   "matches": [
     {
       "id": "fm-5114958",
@@ -15,7 +15,7 @@
       "leagueId": 916149,
       "country": "INT",
       "status": "LIVE",
-      "minute": "27‎’‎",
+      "minute": "HT",
       "time": "2026-03-03T22:00:00.000Z"
     },
     {
@@ -30,23 +30,8 @@
       "leagueId": 916149,
       "country": "INT",
       "status": "LIVE",
-      "minute": "27‎’‎",
+      "minute": "HT",
       "time": "2026-03-03T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5092806",
-      "home": "GKS Katowice",
-      "away": "Widzew Łódź",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4023.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8024.png",
-      "league": "FA Cup",
-      "leagueId": 901279,
-      "country": "POL",
-      "status": "LIVE",
-      "minute": "Pen",
-      "time": "2026-03-03T19:45:00.000Z"
     },
     {
       "id": "fm-5101996",
@@ -60,14 +45,14 @@
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "27‎’‎",
+      "minute": "HT",
       "time": "2026-03-03T22:00:00.000Z"
     },
     {
       "id": "fm-5101991",
       "home": "Huracan",
       "away": "Belgrano",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10081.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10092.png",
@@ -75,7 +60,7 @@
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "12‎’‎",
+      "minute": "39‎’‎",
       "time": "2026-03-03T22:15:00.000Z"
     },
     {
@@ -90,7 +75,7 @@
       "leagueId": 186,
       "country": "POR",
       "status": "LIVE",
-      "minute": "69‎’‎",
+      "minute": "96‎’‎",
       "time": "2026-03-03T20:45:00.000Z"
     },
     {
@@ -105,7 +90,7 @@
       "leagueId": 1000001201,
       "country": "INT",
       "status": "LIVE",
-      "minute": "27‎’‎",
+      "minute": "HT",
       "time": "2026-03-03T22:00:00.000Z"
     },
     {
@@ -662,6 +647,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-03T19:00:00.000Z"
+    },
+    {
+      "id": "fm-5092806",
+      "home": "GKS Katowice",
+      "away": "Widzew Łódź",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4023.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8024.png",
+      "league": "FA Cup",
+      "leagueId": 901279,
+      "country": "POL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-03T19:45:00.000Z"
     },
     {
       "id": "fm-5190387",
