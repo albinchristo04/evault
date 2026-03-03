@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-03T22:54:03.488545+00:00",
-  "matchCount": 179,
-  "liveCount": 6,
+  "lastUpdated": "2026-03-03T23:25:15.981915+00:00",
+  "matchCount": 170,
+  "liveCount": 4,
   "matches": [
     {
       "id": "fm-5114958",
@@ -15,14 +15,14 @@
       "leagueId": 916149,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "63‎’‎",
       "time": "2026-03-03T22:00:00.000Z"
     },
     {
       "id": "fm-5103774",
       "home": "Torque",
       "away": "Defensor Sporting",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/395613.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7796.png",
@@ -30,7 +30,7 @@
       "leagueId": 916149,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "65‎’‎",
       "time": "2026-03-03T22:00:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "64‎’‎",
       "time": "2026-03-03T22:00:00.000Z"
     },
     {
@@ -60,38 +60,8 @@
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "51‎’‎",
       "time": "2026-03-03T22:15:00.000Z"
-    },
-    {
-      "id": "fm-5074293",
-      "home": "Sporting CP",
-      "away": "FC Porto",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9768.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9773.png",
-      "league": "Taca de Portugal",
-      "leagueId": 186,
-      "country": "POR",
-      "status": "LIVE",
-      "minute": "96‎’‎",
-      "time": "2026-03-03T20:45:00.000Z"
-    },
-    {
-      "id": "fm-1000005132",
-      "home": "Suriname",
-      "away": "Haiti",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1764910.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1126571.png",
-      "league": "Concacaf W Qualifiers D",
-      "leagueId": 1000001201,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-03-03T22:00:00.000Z"
     },
     {
       "id": "fm-5113705",
@@ -137,36 +107,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-03T23:30:00.000Z"
-    },
-    {
-      "id": "fm-1000005122",
-      "home": "Bermuda",
-      "away": "Costa Rica",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1660559.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/604109.png",
-      "league": "Concacaf W Qualifiers C",
-      "leagueId": 1000001200,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-03T23:00:00.000Z"
-    },
-    {
-      "id": "fm-1000009843",
-      "home": "CRB",
-      "away": "Porto SC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/104821.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1694586.png",
-      "league": "Copa do Brasil",
-      "leagueId": 9067,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-03T23:00:00.000Z"
     },
     {
       "id": "fm-4813655",
@@ -1502,6 +1442,66 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-03T19:45:00.000Z"
+    },
+    {
+      "id": "fm-5152358",
+      "home": "Tigres FC",
+      "away": "Real Cartagena",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193030.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7731.png",
+      "league": "Primera B Apertura",
+      "leagueId": 920002,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-03T00:00:00.000Z"
+    },
+    {
+      "id": "fm-5152359",
+      "home": "Atletico FC",
+      "away": "Leones",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193031.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193033.png",
+      "league": "Primera B Apertura",
+      "leagueId": 920002,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-03T20:00:00.000Z"
+    },
+    {
+      "id": "fm-5113708",
+      "home": "Laferrere",
+      "away": "Brown de Adrogue",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581808.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/213532.png",
+      "league": "Primera B Metropolitana",
+      "leagueId": 916561,
+      "country": "ARG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-03T20:00:00.000Z"
+    },
+    {
+      "id": "fm-5113715",
+      "home": "Villa San Carlos",
+      "away": "Sportivo Italiano",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/213526.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/213533.png",
+      "league": "Primera B Metropolitana",
+      "leagueId": 916561,
+      "country": "ARG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-03T20:00:00.000Z"
     }
   ]
 }
