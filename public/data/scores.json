@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-03T06:29:33.073375+00:00",
-  "matchCount": 180,
+  "lastUpdated": "2026-03-03T07:27:05.521395+00:00",
+  "matchCount": 179,
   "liveCount": 0,
   "matches": [
     {
@@ -1474,21 +1474,6 @@
       "time": "2026-03-03T13:00:00.000Z"
     },
     {
-      "id": "fm-4850354",
-      "home": "Burghausen",
-      "away": "Nürnberg II",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8408.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/94943.png",
-      "league": "Regionalliga Bayern",
-      "leagueId": 899888,
-      "country": "GER",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-03T18:00:00.000Z"
-    },
-    {
       "id": "fm-4850361",
       "home": "DJK Vilzing",
       "away": "Burghausen",
@@ -1498,6 +1483,21 @@
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8408.png",
       "league": "Regionalliga Bayern",
       "leagueId": 899888,
+      "country": "GER",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-03T18:00:00.000Z"
+    },
+    {
+      "id": "fm-4850677",
+      "home": "BFC Dynamo",
+      "away": "BFC Preussen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95192.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95189.png",
+      "league": "Regionalliga Northeast",
+      "leagueId": 899890,
       "country": "GER",
       "status": "SCHEDULED",
       "minute": null,
