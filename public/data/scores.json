@@ -1,36 +1,21 @@
 {
-  "lastUpdated": "2026-03-04T23:38:49.133829+00:00",
+  "lastUpdated": "2026-03-04T23:58:35.163888+00:00",
   "matchCount": 153,
-  "liveCount": 23,
+  "liveCount": 21,
   "matches": [
     {
       "id": "fm-5146920",
       "home": "KACM",
       "away": "Olympic Club de Safi",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102042.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102047.png",
       "league": "Botola Pro",
       "leagueId": 530,
       "country": "MAR",
       "status": "LIVE",
-      "minute": "65‎’‎",
-      "time": "2026-03-04T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5146918",
-      "home": "RSB Berkane",
-      "away": "Hassania Agadir",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/316652.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102037.png",
-      "league": "Botola Pro",
-      "leagueId": 530,
-      "country": "MAR",
-      "status": "LIVE",
-      "minute": "79‎’‎",
+      "minute": "84‎’‎",
       "time": "2026-03-04T22:00:00.000Z"
     },
     {
@@ -45,29 +30,14 @@
       "leagueId": 530,
       "country": "MAR",
       "status": "LIVE",
-      "minute": "74‎’‎",
-      "time": "2026-03-04T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5203734",
-      "home": "Carabobo FC",
-      "away": "Sporting Cristal",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49681.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1848.png",
-      "league": "Copa Libertadores Qualification",
-      "leagueId": 916146,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "79‎’‎",
+      "minute": "93‎’‎",
       "time": "2026-03-04T22:00:00.000Z"
     },
     {
       "id": "fm-5114959",
       "home": "Blooming",
       "away": "San Antonio Bulo Bulo",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49678.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1297060.png",
@@ -75,7 +45,7 @@
       "leagueId": 916149,
       "country": "INT",
       "status": "LIVE",
-      "minute": "75‎’‎",
+      "minute": "95‎’‎",
       "time": "2026-03-04T22:00:00.000Z"
     },
     {
@@ -90,7 +60,7 @@
       "leagueId": 916149,
       "country": "INT",
       "status": "LIVE",
-      "minute": "80‎’‎",
+      "minute": "Pen",
       "time": "2026-03-04T22:00:00.000Z"
     },
     {
@@ -105,14 +75,14 @@
       "leagueId": 921439,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "76‎’‎",
+      "minute": "96‎’‎",
       "time": "2026-03-04T22:00:00.000Z"
     },
     {
       "id": "fm-5209891",
       "home": "Uniao Recreativa dos Trabalhadores",
       "away": "North Esporte Clube",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/510793.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1860734.png",
@@ -120,14 +90,14 @@
       "leagueId": 921210,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "67‎’‎",
       "time": "2026-03-04T22:30:00.000Z"
     },
     {
       "id": "fm-5212724",
       "home": "Palmeiras",
       "away": "Novorizontino",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10283.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581838.png",
@@ -135,7 +105,7 @@
       "leagueId": 920997,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "36‎’‎",
+      "minute": "56‎’‎",
       "time": "2026-03-04T23:00:00.000Z"
     },
     {
@@ -150,7 +120,7 @@
       "leagueId": 920002,
       "country": "COL",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "HT",
       "time": "2026-03-04T23:00:00.000Z"
     },
     {
@@ -165,7 +135,7 @@
       "leagueId": 916561,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "30‎’‎",
       "time": "2026-03-04T23:30:00.000Z"
     },
     {
@@ -180,23 +150,23 @@
       "leagueId": 916561,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "26‎’‎",
       "time": "2026-03-04T23:30:00.000Z"
     },
     {
-      "id": "fm-5086377",
-      "home": "Municipal Pérez Zeledón",
-      "away": "AD Municipal Liberia",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49730.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/210220.png",
-      "league": "Primera Division Clausura",
-      "leagueId": 914695,
-      "country": "CRC",
+      "id": "fm-5135656",
+      "home": "USA (W)",
+      "away": "Canada (W)",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5909.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/74873.png",
+      "league": "SheBelieves Cup",
+      "leagueId": 918861,
+      "country": "INT",
       "status": "LIVE",
-      "minute": "77‎’‎",
-      "time": "2026-03-04T22:00:00.000Z"
+      "minute": "11‎’‎",
+      "time": "2026-03-04T23:45:00.000Z"
     },
     {
       "id": "fm-1000005142",
@@ -210,7 +180,7 @@
       "leagueId": 1000001202,
       "country": "INT",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "HT",
       "time": "2026-03-04T23:00:00.000Z"
     },
     {
@@ -225,7 +195,7 @@
       "leagueId": 9067,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "77‎’‎",
+      "minute": "97‎’‎",
       "time": "2026-03-04T22:00:00.000Z"
     },
     {
@@ -240,7 +210,7 @@
       "leagueId": 9067,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "74‎’‎",
+      "minute": "93‎’‎",
       "time": "2026-03-04T22:00:00.000Z"
     },
     {
@@ -255,7 +225,7 @@
       "leagueId": 9067,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "76‎’‎",
+      "minute": "96‎’‎",
       "time": "2026-03-04T22:00:00.000Z"
     },
     {
@@ -270,7 +240,7 @@
       "leagueId": 9067,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "66‎’‎",
       "time": "2026-03-04T22:30:00.000Z"
     },
     {
@@ -285,7 +255,7 @@
       "leagueId": 9067,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "63‎’‎",
       "time": "2026-03-04T22:30:00.000Z"
     },
     {
@@ -293,21 +263,21 @@
       "home": "Betim EC",
       "away": "Operario Ferroviario",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/104815.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197429.png",
       "league": "Copa do Brasil",
       "leagueId": 9067,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "66‎’‎",
       "time": "2026-03-04T22:30:00.000Z"
     },
     {
       "id": "fm-1000009870",
       "home": "Rio Branco ES",
       "away": "Athletic Club",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197659.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1221604.png",
@@ -315,7 +285,7 @@
       "leagueId": 9067,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "36‎’‎",
+      "minute": "HT",
       "time": "2026-03-04T23:00:00.000Z"
     },
     {
@@ -330,14 +300,14 @@
       "leagueId": 9067,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "40‎’‎",
+      "minute": "HT",
       "time": "2026-03-04T23:00:00.000Z"
     },
     {
       "id": "fm-1000009858",
       "home": "Ivinhema",
       "away": "Volta Redonda",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197611.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/198135.png",
@@ -345,23 +315,8 @@
       "leagueId": 9067,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "28‎’‎",
       "time": "2026-03-04T23:30:00.000Z"
-    },
-    {
-      "id": "fm-5135656",
-      "home": "USA (W)",
-      "away": "Canada (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5909.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/74873.png",
-      "league": "SheBelieves Cup",
-      "leagueId": 918861,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-04T23:45:00.000Z"
     },
     {
       "id": "fm-4813656",
@@ -619,6 +574,21 @@
       "time": "2026-03-04T08:00:00.000Z"
     },
     {
+      "id": "fm-5146918",
+      "home": "RSB Berkane",
+      "away": "Hassania Agadir",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/316652.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102037.png",
+      "league": "Botola Pro",
+      "leagueId": 530,
+      "country": "MAR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-04T22:00:00.000Z"
+    },
+    {
       "id": "fm-5173359",
       "home": "Real Sociedad",
       "away": "Athletic Club",
@@ -647,6 +617,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-04T00:30:00.000Z"
+    },
+    {
+      "id": "fm-5203734",
+      "home": "Carabobo FC",
+      "away": "Sporting Cristal",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49681.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1848.png",
+      "league": "Copa Libertadores Qualification",
+      "leagueId": 916146,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-04T22:00:00.000Z"
     },
     {
       "id": "fm-5103776",
@@ -1502,6 +1487,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-04T20:00:00.000Z"
+    },
+    {
+      "id": "fm-5086373",
+      "home": "LD Alajuelense",
+      "away": "C.S. Cartaginés",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6335.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49732.png",
+      "league": "Primera Division Clausura",
+      "leagueId": 914695,
+      "country": "CRC",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-04T02:00:00.000Z"
     }
   ]
 }
