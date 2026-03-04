@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-03-04T14:38:16.958741+00:00",
+  "lastUpdated": "2026-03-04T15:24:06.821484+00:00",
   "matchCount": 154,
-  "liveCount": 7,
+  "liveCount": 6,
   "matches": [
     {
       "id": "fm-5085077",
       "home": "Jadran",
       "away": "Radomlje",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2421.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/272871.png",
       "league": "Cup",
       "leagueId": 174,
       "country": "SVN",
       "status": "LIVE",
-      "minute": "37‎’‎",
+      "minute": "67‎’‎",
       "time": "2026-03-04T14:00:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 183,
       "country": "SRB",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "HT",
       "time": "2026-03-04T14:30:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 442,
       "country": "UKR",
       "status": "LIVE",
-      "minute": "13‎’‎",
+      "minute": "HT",
       "time": "2026-03-04T14:25:00.000Z"
     },
     {
@@ -60,38 +60,23 @@
       "leagueId": 899885,
       "country": "BUL",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "68‎’‎",
       "time": "2026-03-04T14:00:00.000Z"
     },
     {
-      "id": "fm-4904843",
-      "home": "Arsimi",
-      "away": "GFK Tikves Kavadarci",
-      "homeScore": 0,
-      "awayScore": 5,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1389831.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/206546.png",
-      "league": "Prva Liga",
-      "leagueId": 249,
-      "country": "MKD",
+      "id": "fm-4933235",
+      "home": "Rivers United FC",
+      "away": "El Kanemi Warriors",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/184466.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/430189.png",
+      "league": "NPFL",
+      "leagueId": 902172,
+      "country": "NGA",
       "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-03-04T13:00:00.000Z"
-    },
-    {
-      "id": "fm-4904845",
-      "home": "Makedonija GP",
-      "away": "Rabotnicki",
-      "homeScore": 3,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/276798.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8138.png",
-      "league": "Prva Liga",
-      "leagueId": 249,
-      "country": "MKD",
-      "status": "LIVE",
-      "minute": "82‎’‎",
-      "time": "2026-03-04T13:00:00.000Z"
+      "minute": "23‎’‎",
+      "time": "2026-03-04T15:00:00.000Z"
     },
     {
       "id": "fm-4879957",
@@ -105,7 +90,7 @@
       "leagueId": 8983,
       "country": "IDN",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "64‎’‎",
       "time": "2026-03-04T14:00:00.000Z"
     },
     {
@@ -859,21 +844,6 @@
       "time": "2026-03-04T19:45:00.000Z"
     },
     {
-      "id": "fm-4933235",
-      "home": "Rivers United FC",
-      "away": "El Kanemi Warriors",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/184466.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/430189.png",
-      "league": "NPFL",
-      "leagueId": 902172,
-      "country": "NGA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-04T15:00:00.000Z"
-    },
-    {
       "id": "fm-5212724",
       "home": "Palmeiras",
       "away": "Novorizontino",
@@ -1502,6 +1472,36 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-04T20:30:00.000Z"
+    },
+    {
+      "id": "fm-5135656",
+      "home": "USA (W)",
+      "away": "Canada (W)",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5909.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/74873.png",
+      "league": "SheBelieves Cup",
+      "leagueId": 918861,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-04T23:45:00.000Z"
+    },
+    {
+      "id": "fm-4859003",
+      "home": "Panathinaikos",
+      "away": "OFI Crete",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10200.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7753.png",
+      "league": "Super League",
+      "leagueId": 900624,
+      "country": "GRE",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-04T16:00:00.000Z"
     }
   ]
 }
