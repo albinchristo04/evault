@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2026-03-07T05:50:28.392785+00:00",
+  "lastUpdated": "2026-03-07T06:22:02.355568+00:00",
   "matchCount": 586,
-  "liveCount": 15,
+  "liveCount": 17,
   "matches": [
     {
-      "id": "fm-5130246",
-      "home": "JEF United Chiba",
-      "away": "Kashiwa Reysol",
-      "homeScore": 2,
+      "id": "fm-4965724",
+      "home": "Newcastle Jets",
+      "away": "Western Sydney",
+      "homeScore": 0,
       "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9756.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8699.png",
-      "league": "J. League 100 Year Vision League East",
-      "leagueId": 917951,
-      "country": "JPN",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6454.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/323834.png",
+      "league": "A-League Men",
+      "leagueId": 901954,
+      "country": "AUS",
       "status": "LIVE",
-      "minute": "89‎’‎",
-      "time": "2026-03-07T04:00:00.000Z"
+      "minute": "22‎’‎",
+      "time": "2026-03-07T06:00:00.000Z"
     },
     {
       "id": "fm-5130247",
       "home": "FC Tokyo",
       "away": "Yokohama F.Marinos",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4399.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6581.png",
@@ -30,8 +30,38 @@
       "leagueId": 917951,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "45",
+      "minute": "57‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
+    },
+    {
+      "id": "fm-5130249",
+      "home": "Urawa Red Diamonds",
+      "away": "Mito Hollyhock",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6244.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162195.png",
+      "league": "J. League 100 Year Vision League East",
+      "leagueId": 917951,
+      "country": "JPN",
+      "status": "LIVE",
+      "minute": "19‎’‎",
+      "time": "2026-03-07T06:00:00.000Z"
+    },
+    {
+      "id": "fm-5130396",
+      "home": "Cerezo Osaka",
+      "away": "Shimizu S-Pulse",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4692.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4426.png",
+      "league": "J. League 100 Year Vision League West",
+      "leagueId": 918259,
+      "country": "JPN",
+      "status": "LIVE",
+      "minute": "19‎’‎",
+      "time": "2026-03-07T06:00:00.000Z"
     },
     {
       "id": "fm-5130515",
@@ -45,7 +75,7 @@
       "leagueId": 918269,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "47‎’‎",
+      "minute": "60‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
@@ -60,7 +90,7 @@
       "leagueId": 918271,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "45",
+      "minute": "53‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
@@ -75,14 +105,14 @@
       "leagueId": 918271,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "47‎’‎",
+      "minute": "60‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
       "id": "fm-5130740",
       "home": "Matsumoto Yamaga",
       "away": "Consadole Sapporo",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/194022.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/112688.png",
@@ -90,7 +120,7 @@
       "leagueId": 918271,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "45",
+      "minute": "60‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
@@ -105,7 +135,7 @@
       "leagueId": 918272,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "62‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
@@ -120,14 +150,14 @@
       "leagueId": 918273,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "45",
+      "minute": "62‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
       "id": "fm-5131117",
       "home": "Renofa Yamaguchi",
       "away": "Sagan Tosu",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614556.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162193.png",
@@ -135,7 +165,7 @@
       "leagueId": 918273,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "45",
+      "minute": "60‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
@@ -150,7 +180,7 @@
       "leagueId": 922584,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "47‎’‎",
+      "minute": "58‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
@@ -165,7 +195,7 @@
       "leagueId": 922584,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "48‎’‎",
+      "minute": "59‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
@@ -180,7 +210,7 @@
       "leagueId": 922584,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "48‎’‎",
+      "minute": "60‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
@@ -195,7 +225,7 @@
       "leagueId": 920066,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "64‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
@@ -210,7 +240,7 @@
       "leagueId": 920066,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "62‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
@@ -225,7 +255,7 @@
       "leagueId": 902144,
       "country": "INT",
       "status": "LIVE",
-      "minute": "49‎’‎",
+      "minute": "60‎’‎",
       "time": "2026-03-07T05:00:00.000Z"
     },
     {
@@ -1339,21 +1369,6 @@
       "time": "2026-03-07T16:00:00.000Z"
     },
     {
-      "id": "fm-4965724",
-      "home": "Newcastle Jets",
-      "away": "Western Sydney",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6454.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/323834.png",
-      "league": "A-League Men",
-      "leagueId": 901954,
-      "country": "AUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-07T06:00:00.000Z"
-    },
-    {
       "id": "fm-4965725",
       "home": "Sydney FC",
       "away": "Melbourne Victory",
@@ -1481,21 +1496,6 @@
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102049.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102047.png",
-      "league": "Botola Pro",
-      "leagueId": 530,
-      "country": "MAR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-07T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5184069",
-      "home": "Renaissance Club Zemamra",
-      "away": "FAR Rabat",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/950070.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102035.png",
       "league": "Botola Pro",
       "leagueId": 530,
       "country": "MAR",
