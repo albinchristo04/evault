@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-07T09:30:05.057487+00:00",
+  "lastUpdated": "2026-03-07T09:52:56.457230+00:00",
   "matchCount": 585,
-  "liveCount": 13,
+  "liveCount": 11,
   "matches": [
     {
       "id": "fm-4965725",
@@ -15,7 +15,7 @@
       "leagueId": 901954,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "49‎’‎",
+      "minute": "51‎’‎",
       "time": "2026-03-07T08:35:00.000Z"
     },
     {
@@ -30,38 +30,8 @@
       "leagueId": 10443,
       "country": "BAN",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-03-07T08:45:00.000Z"
-    },
-    {
-      "id": "fm-5139871",
-      "home": "Gwangju FC",
-      "away": "Incheon United",
-      "homeScore": 3,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/245905.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133895.png",
-      "league": "K-League 1",
-      "leagueId": 919356,
-      "country": "KOR",
-      "status": "LIVE",
-      "minute": "101‎’‎",
-      "time": "2026-03-07T07:30:00.000Z"
-    },
-    {
-      "id": "fm-5155714",
-      "home": "Daegu FC",
-      "away": "Jeonnam Dragons",
-      "homeScore": 4,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133897.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/109377.png",
-      "league": "K-League 2",
-      "leagueId": 920066,
-      "country": "KOR",
-      "status": "LIVE",
-      "minute": "94‎’‎",
-      "time": "2026-03-07T07:30:00.000Z"
     },
     {
       "id": "fm-4889995",
@@ -75,7 +45,7 @@
       "leagueId": 901684,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "HT",
       "time": "2026-03-07T09:00:00.000Z"
     },
     {
@@ -90,7 +60,7 @@
       "leagueId": 901684,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "HT",
       "time": "2026-03-07T09:00:00.000Z"
     },
     {
@@ -105,7 +75,7 @@
       "leagueId": 901684,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "HT",
       "time": "2026-03-07T09:00:00.000Z"
     },
     {
@@ -113,21 +83,21 @@
       "home": "CSM Politehnica Iasi",
       "away": "Campulung Muscel",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/279290.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1661155.png",
       "league": "Liga II",
       "leagueId": 901684,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "26‎’‎",
+      "minute": "HT",
       "time": "2026-03-07T09:00:00.000Z"
     },
     {
       "id": "fm-4889991",
       "home": "CSM Slatina",
       "away": "Ceahlaul Piatra-Neamt",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/279308.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9725.png",
@@ -135,7 +105,7 @@
       "leagueId": 901684,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "HT",
       "time": "2026-03-07T09:00:00.000Z"
     },
     {
@@ -150,14 +120,14 @@
       "leagueId": 922739,
       "country": "KAZ",
       "status": "LIVE",
-      "minute": "27‎’‎",
+      "minute": "HT",
       "time": "2026-03-07T09:00:00.000Z"
     },
     {
       "id": "fm-5186406",
       "home": "Shanghai Shenhua",
       "away": "Dalian Yingbo",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6628.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1477043.png",
@@ -165,7 +135,7 @@
       "leagueId": 920266,
       "country": "CHN",
       "status": "LIVE",
-      "minute": "29‎’‎",
+      "minute": "52‎’‎",
       "time": "2026-03-07T09:00:00.000Z"
     },
     {
@@ -180,7 +150,7 @@
       "leagueId": 911705,
       "country": "INT",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "HT",
       "time": "2026-03-07T09:00:00.000Z"
     },
     {
@@ -195,7 +165,7 @@
       "leagueId": 253,
       "country": "CZE",
       "status": "LIVE",
-      "minute": "15‎’‎",
+      "minute": "38‎’‎",
       "time": "2026-03-07T09:15:00.000Z"
     },
     {
@@ -1496,6 +1466,36 @@
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8427.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8669.png",
+      "league": "Championship",
+      "leagueId": 900638,
+      "country": "ENG",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-07T15:00:00.000Z"
+    },
+    {
+      "id": "fm-4825456",
+      "home": "Charlton",
+      "away": "Birmingham",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8451.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8658.png",
+      "league": "Championship",
+      "leagueId": 900638,
+      "country": "ENG",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-07T15:00:00.000Z"
+    },
+    {
+      "id": "fm-4825457",
+      "home": "Derby",
+      "away": "Sheff Wed",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10170.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10163.png",
       "league": "Championship",
       "leagueId": 900638,
       "country": "ENG",
