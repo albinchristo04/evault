@@ -1,37 +1,22 @@
 {
-  "lastUpdated": "2026-03-08T07:54:09.626510+00:00",
+  "lastUpdated": "2026-03-08T08:29:18.309504+00:00",
   "matchCount": 427,
-  "liveCount": 6,
+  "liveCount": 5,
   "matches": [
     {
-      "id": "fm-5130399",
-      "home": "Gamba Osaka",
-      "away": "V-Varen Nagasaki",
-      "homeScore": 3,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6582.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/194016.png",
-      "league": "J. League 100 Year Vision League West",
-      "leagueId": 918259,
-      "country": "JPN",
+      "id": "fm-5191054",
+      "home": "FC Yenisey Krasnoyarsk",
+      "away": "KamAZ",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/88584.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49695.png",
+      "league": "First League",
+      "leagueId": 901329,
+      "country": "RUS",
       "status": "LIVE",
-      "minute": "93‎’‎",
-      "time": "2026-03-08T06:00:00.000Z"
-    },
-    {
-      "id": "fm-5200992",
-      "home": "Siheung Citizen",
-      "away": "Yeoju FC",
-      "homeScore": 2,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/930090.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/930076.png",
-      "league": "K3 League",
-      "leagueId": 922584,
-      "country": "KOR",
-      "status": "LIVE",
-      "minute": "94‎’‎",
-      "time": "2026-03-08T06:00:00.000Z"
+      "minute": "27‎’‎",
+      "time": "2026-03-08T08:00:00.000Z"
     },
     {
       "id": "fm-5139873",
@@ -45,7 +30,7 @@
       "leagueId": 919356,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "24‎’‎",
+      "minute": "HT",
       "time": "2026-03-08T07:30:00.000Z"
     },
     {
@@ -60,7 +45,7 @@
       "leagueId": 920066,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "24‎’‎",
+      "minute": "HT",
       "time": "2026-03-08T07:30:00.000Z"
     },
     {
@@ -75,14 +60,14 @@
       "leagueId": 920066,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "24‎’‎",
+      "minute": "HT",
       "time": "2026-03-08T07:30:00.000Z"
     },
     {
       "id": "fm-5186409",
       "home": "Zhejiang Professional",
       "away": "Qingdao West Coast",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/51443.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1283248.png",
@@ -90,7 +75,7 @@
       "leagueId": 920266,
       "country": "CHN",
       "status": "LIVE",
-      "minute": "24‎’‎",
+      "minute": "HT",
       "time": "2026-03-08T07:30:00.000Z"
     },
     {
@@ -1444,21 +1429,6 @@
       "time": "2026-03-08T19:30:00.000Z"
     },
     {
-      "id": "fm-5191054",
-      "home": "FC Yenisey Krasnoyarsk",
-      "away": "KamAZ",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/88584.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49695.png",
-      "league": "First League",
-      "leagueId": 901329,
-      "country": "RUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-08T08:00:00.000Z"
-    },
-    {
       "id": "fm-5191053",
       "home": "Torpedo Moscow",
       "away": "Rodina",
@@ -1502,6 +1472,36 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-08T10:45:00.000Z"
+    },
+    {
+      "id": "fm-4867638",
+      "home": "CSKA 1948",
+      "away": "Botev Plovdiv",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/944215.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10131.png",
+      "league": "First Professional League",
+      "leagueId": 899885,
+      "country": "BUL",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-08T13:15:00.000Z"
+    },
+    {
+      "id": "fm-4867642",
+      "home": "CSKA Sofia",
+      "away": "PFC Lokomotiv Sofia 1929",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10144.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10128.png",
+      "league": "First Professional League",
+      "leagueId": 899885,
+      "country": "BUL",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-08T15:45:00.000Z"
     }
   ]
 }
