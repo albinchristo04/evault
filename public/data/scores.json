@@ -1,37 +1,22 @@
 {
-  "lastUpdated": "2026-03-09T01:58:53.919909+00:00",
+  "lastUpdated": "2026-03-09T04:23:41.012790+00:00",
   "matchCount": 79,
-  "liveCount": 2,
+  "liveCount": 1,
   "matches": [
     {
-      "id": "fm-5180921",
-      "home": "Lobos UPNFM",
-      "away": "Juticalpa",
+      "id": "fm-5101803",
+      "home": "Tijuana",
+      "away": "Santos",
       "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/863047.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/655719.png",
-      "league": "Liga Nacional - Clausura",
-      "leagueId": 918407,
-      "country": "HON",
-      "status": "LIVE",
-      "minute": "29‎’‎",
-      "time": "2026-03-09T01:30:00.000Z"
-    },
-    {
-      "id": "fm-1000007430",
-      "home": "Austin FC II",
-      "away": "Ventura County FC",
-      "homeScore": 2,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1451870.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/521005.png",
-      "league": "MLS Next Pro",
-      "leagueId": 10282,
-      "country": "USA",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162418.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7857.png",
+      "league": "Liga MX Clausura",
+      "leagueId": 916051,
+      "country": "MEX",
       "status": "LIVE",
-      "minute": "66‎’‎",
-      "time": "2026-03-09T00:30:00.000Z"
+      "minute": "51‎’‎",
+      "time": "2026-03-09T03:06:00.000Z"
     },
     {
       "id": "fm-5186385",
@@ -362,36 +347,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-09T15:00:00.000Z"
-    },
-    {
-      "id": "fm-5101803",
-      "home": "Tijuana",
-      "away": "Santos",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162418.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7857.png",
-      "league": "Liga MX Clausura",
-      "leagueId": 916051,
-      "country": "MEX",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-09T03:06:00.000Z"
-    },
-    {
-      "id": "fm-5121895",
-      "home": "Comunicaciones FC",
-      "away": "Deportivo Achuapa",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49761.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188305.png",
-      "league": "Liga Nacional Clausura",
-      "leagueId": 917698,
-      "country": "GUA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-09T02:00:00.000Z"
     },
     {
       "id": "fm-4844380",
@@ -979,21 +934,6 @@
       "time": "2026-03-09T23:30:00.000Z"
     },
     {
-      "id": "fm-1000007820",
-      "home": "San Jose Earthquakes II",
-      "away": "Los Angeles FC II",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348115.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1451871.png",
-      "league": "MLS Next Pro",
-      "leagueId": 10282,
-      "country": "USA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-09T02:00:00.000Z"
-    },
-    {
       "id": "fm-4920234",
       "home": "Birmingham U21",
       "away": "Chelsea U21",
@@ -1129,6 +1069,21 @@
       "time": "2026-03-09T17:00:00.000Z"
     },
     {
+      "id": "fm-5180921",
+      "home": "Lobos UPNFM",
+      "away": "Juticalpa",
+      "homeScore": 3,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/863047.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/655719.png",
+      "league": "Liga Nacional - Clausura",
+      "leagueId": 918407,
+      "country": "HON",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-09T01:30:00.000Z"
+    },
+    {
       "id": "fm-5121893",
       "home": "Antigua Guatemala",
       "away": "Coban Imperial",
@@ -1142,6 +1097,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-09T00:00:00.000Z"
+    },
+    {
+      "id": "fm-5121895",
+      "home": "Comunicaciones FC",
+      "away": "Deportivo Achuapa",
+      "homeScore": 4,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49761.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188305.png",
+      "league": "Liga Nacional Clausura",
+      "leagueId": 917698,
+      "country": "GUA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-09T02:00:00.000Z"
     },
     {
       "id": "fm-1000009328",
@@ -1187,6 +1157,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-09T00:00:00.000Z"
+    },
+    {
+      "id": "fm-1000007430",
+      "home": "Austin FC II",
+      "away": "Ventura County FC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1451870.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/521005.png",
+      "league": "MLS Next Pro",
+      "leagueId": 10282,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-09T00:30:00.000Z"
+    },
+    {
+      "id": "fm-1000007820",
+      "home": "San Jose Earthquakes II",
+      "away": "Los Angeles FC II",
+      "homeScore": 4,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348115.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1451871.png",
+      "league": "MLS Next Pro",
+      "leagueId": 10282,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-09T02:00:00.000Z"
     }
   ]
 }
