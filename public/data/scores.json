@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T13:35:58.279522+00:00",
+  "lastUpdated": "2026-03-10T14:28:17.801647+00:00",
   "matchCount": 119,
   "liveCount": 5,
   "matches": [
@@ -15,7 +15,7 @@
       "leagueId": 165,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "36‎’‎",
+      "minute": "70‎’‎",
       "time": "2026-03-10T13:00:00.000Z"
     },
     {
@@ -30,29 +30,29 @@
       "leagueId": 903632,
       "country": "INT",
       "status": "LIVE",
-      "minute": "58‎’‎",
+      "minute": "98‎’‎",
       "time": "2026-03-10T12:15:00.000Z"
     },
     {
       "id": "fm-4904424",
       "home": "West Bromwich Albion U18",
       "away": "Ipswich Town U18",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 5,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113548.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1791531.png",
       "league": "Premier League U18",
       "leagueId": 10068,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "3‎’‎",
+      "minute": "HT",
       "time": "2026-03-10T13:30:00.000Z"
     },
     {
       "id": "fm-4904850",
       "home": "Rabotnicki",
       "away": "Arsimi",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8138.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1389831.png",
@@ -60,7 +60,7 @@
       "leagueId": 249,
       "country": "MKD",
       "status": "LIVE",
-      "minute": "36‎’‎",
+      "minute": "74‎’‎",
       "time": "2026-03-10T13:00:00.000Z"
     },
     {
@@ -68,14 +68,14 @@
       "home": "Bhayangkara Presisi Indonesia FC",
       "away": "Arema",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/185749.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165200.png",
       "league": "Super League",
       "leagueId": 8983,
       "country": "IDN",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "HT",
       "time": "2026-03-10T13:30:00.000Z"
     },
     {
