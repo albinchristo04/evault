@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-03-11T10:07:33.114945+00:00",
+  "lastUpdated": "2026-03-11T10:58:58.362180+00:00",
   "matchCount": 109,
-  "liveCount": 2,
+  "liveCount": 4,
   "matches": [
+    {
+      "id": "fm-4870108",
+      "home": "Hatayspor",
+      "away": "Sivasspor",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95749.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6265.png",
+      "league": "1. Lig",
+      "leagueId": 165,
+      "country": "TUR",
+      "status": "LIVE",
+      "minute": "29‎’‎",
+      "time": "2026-03-11T10:30:00.000Z"
+    },
+    {
+      "id": "fm-4870110",
+      "home": "Istanbulspor",
+      "away": "Amed Sportif",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/106560.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/96498.png",
+      "league": "1. Lig",
+      "leagueId": 165,
+      "country": "TUR",
+      "status": "LIVE",
+      "minute": "29‎’‎",
+      "time": "2026-03-11T10:30:00.000Z"
+    },
     {
       "id": "fm-5189753",
       "home": "Sanfrecce",
@@ -15,7 +45,7 @@
       "leagueId": 903632,
       "country": "INT",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "HT",
       "time": "2026-03-11T10:00:00.000Z"
     },
     {
@@ -23,14 +53,14 @@
       "home": "Vissel Kobe",
       "away": "FC Seoul",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4688.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/92630.png",
       "league": "AFC Champions League Elite Final Stage",
       "leagueId": 903632,
       "country": "INT",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "HT",
       "time": "2026-03-11T10:00:00.000Z"
     },
     {
@@ -182,36 +212,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-11T15:30:00.000Z"
-    },
-    {
-      "id": "fm-4870108",
-      "home": "Hatayspor",
-      "away": "Sivasspor",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95749.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6265.png",
-      "league": "1. Lig",
-      "leagueId": 165,
-      "country": "TUR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-11T10:30:00.000Z"
-    },
-    {
-      "id": "fm-4870110",
-      "home": "Istanbulspor",
-      "away": "Amed Sportif",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/106560.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/96498.png",
-      "league": "1. Lig",
-      "leagueId": 165,
-      "country": "TUR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-11T10:30:00.000Z"
     },
     {
       "id": "fm-4870114",
