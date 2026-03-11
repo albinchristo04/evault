@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-03-11T04:08:55.144147+00:00",
+  "lastUpdated": "2026-03-11T05:17:05.365757+00:00",
   "matchCount": 109,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5165094",
-      "home": "LAFC",
-      "away": "LD Alajuelense",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/867280.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6335.png",
-      "league": "CONCACAF Champions Cup",
-      "leagueId": 915924,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-03-11T03:00:00.000Z"
-    },
     {
       "id": "fm-5205743",
       "home": "Leverkusen",
@@ -1159,21 +1144,6 @@
       "time": "2026-03-11T16:00:00.000Z"
     },
     {
-      "id": "fm-5211910",
-      "home": "Confianca",
-      "away": "Tombense FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162167.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/414725.png",
-      "league": "Copa do Brasil",
-      "leagueId": 9067,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-11T22:00:00.000Z"
-    },
-    {
       "id": "fm-1000009892",
       "home": "Volta Redonda",
       "away": "America RN",
@@ -1271,6 +1241,21 @@
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1697960.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/410824.png",
+      "league": "Copa do Brasil",
+      "leagueId": 9067,
+      "country": "BRA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-11T23:00:00.000Z"
+    },
+    {
+      "id": "fm-5211910",
+      "home": "Confianca",
+      "away": "Tombense FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162167.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/414725.png",
       "league": "Copa do Brasil",
       "leagueId": 9067,
       "country": "BRA",
@@ -1487,6 +1472,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-11T01:00:00.000Z"
+    },
+    {
+      "id": "fm-5165094",
+      "home": "LAFC",
+      "away": "LD Alajuelense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/867280.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6335.png",
+      "league": "CONCACAF Champions Cup",
+      "leagueId": 915924,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-11T03:00:00.000Z"
     },
     {
       "id": "fm-5203737",
