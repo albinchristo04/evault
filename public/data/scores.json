@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-03-11T11:39:45.802880+00:00",
+  "lastUpdated": "2026-03-11T12:01:10.650921+00:00",
   "matchCount": 109,
-  "liveCount": 5,
+  "liveCount": 4,
   "matches": [
     {
       "id": "fm-4870108",
       "home": "Hatayspor",
       "away": "Sivasspor",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95749.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6265.png",
       "league": "1. Lig",
       "leagueId": 165,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "52‎’‎",
+      "minute": "73‎’‎",
       "time": "2026-03-11T10:30:00.000Z"
     },
     {
@@ -30,38 +30,8 @@
       "leagueId": 165,
       "country": "TUR",
       "status": "LIVE",
-      "minute": "52‎’‎",
+      "minute": "74‎’‎",
       "time": "2026-03-11T10:30:00.000Z"
-    },
-    {
-      "id": "fm-5189753",
-      "home": "Sanfrecce",
-      "away": "Johor Darul Ta'zim",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6224.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165228.png",
-      "league": "AFC Champions League Elite Final Stage",
-      "leagueId": 903632,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-03-11T10:00:00.000Z"
-    },
-    {
-      "id": "fm-5189754",
-      "home": "Vissel Kobe",
-      "away": "FC Seoul",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4688.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/92630.png",
-      "league": "AFC Champions League Elite Final Stage",
-      "leagueId": 903632,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-03-11T10:00:00.000Z"
     },
     {
       "id": "fm-4950975",
@@ -75,8 +45,23 @@
       "leagueId": 9066,
       "country": "TAN",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "HT",
       "time": "2026-03-11T11:00:00.000Z"
+    },
+    {
+      "id": "fm-4874538",
+      "home": "Elche Ilicitano",
+      "away": "Getafe B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/189659.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/189672.png",
+      "league": "Segunda Federacion - Group 5",
+      "leagueId": 901487,
+      "country": "ESP",
+      "status": "LIVE",
+      "minute": "1‎’‎",
+      "time": "2026-03-11T12:00:00.000Z"
     },
     {
       "id": "fm-5205743",
@@ -1054,21 +1039,6 @@
       "time": "2026-03-11T15:30:00.000Z"
     },
     {
-      "id": "fm-4874538",
-      "home": "Elche Ilicitano",
-      "away": "Getafe B",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/189659.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/189672.png",
-      "league": "Segunda Federacion - Group 5",
-      "leagueId": 901487,
-      "country": "ESP",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-11T12:00:00.000Z"
-    },
-    {
       "id": "fm-4874508",
       "home": "Tenerife B",
       "away": "Las Palmas B",
@@ -1487,6 +1457,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-11T03:00:00.000Z"
+    },
+    {
+      "id": "fm-5189753",
+      "home": "Sanfrecce",
+      "away": "Johor Darul Ta'zim",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6224.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165228.png",
+      "league": "AFC Champions League Elite Final Stage",
+      "leagueId": 903632,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-11T10:00:00.000Z"
+    },
+    {
+      "id": "fm-5189754",
+      "home": "Vissel Kobe",
+      "away": "FC Seoul",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4688.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/92630.png",
+      "league": "AFC Champions League Elite Final Stage",
+      "leagueId": 903632,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-11T10:00:00.000Z"
     },
     {
       "id": "fm-5203737",
