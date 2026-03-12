@@ -1,36 +1,21 @@
 {
-  "lastUpdated": "2026-03-12T23:26:22.695811+00:00",
+  "lastUpdated": "2026-03-12T23:50:52.527769+00:00",
   "matchCount": 76,
-  "liveCount": 12,
+  "liveCount": 9,
   "matches": [
-    {
-      "id": "fm-5111344",
-      "home": "Cruz Azul (W)",
-      "away": "Necaxa (W)",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980700.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980708.png",
-      "league": "Liga MX Femenil Clausura",
-      "leagueId": 916500,
-      "country": "MEX",
-      "status": "LIVE",
-      "minute": "76‎’‎",
-      "time": "2026-03-12T21:45:00.000Z"
-    },
     {
       "id": "fm-5102021",
       "home": "Estudiantes de Rio Cuarto",
       "away": "Belgrano",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/213591.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10092.png",
       "league": "Liga Profesional Apertura",
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "51‎’‎",
+      "minute": "75‎’‎",
       "time": "2026-03-12T22:15:00.000Z"
     },
     {
@@ -45,7 +30,7 @@
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "70‎’‎",
       "time": "2026-03-12T22:15:00.000Z"
     },
     {
@@ -60,7 +45,7 @@
       "leagueId": 916145,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "62‎’‎",
+      "minute": "87‎’‎",
       "time": "2026-03-12T22:00:00.000Z"
     },
     {
@@ -75,7 +60,7 @@
       "leagueId": 916145,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "59‎’‎",
       "time": "2026-03-12T22:30:00.000Z"
     },
     {
@@ -90,7 +75,7 @@
       "leagueId": 916145,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "24‎’‎",
+      "minute": "49‎’‎",
       "time": "2026-03-12T23:00:00.000Z"
     },
     {
@@ -98,60 +83,15 @@
       "home": "Vila Nova",
       "away": "Operario MS",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/109706.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/246244.png",
       "league": "Copa do Brasil",
       "leagueId": 9067,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "66‎’‎",
+      "minute": "90‎’‎",
       "time": "2026-03-12T22:00:00.000Z"
-    },
-    {
-      "id": "fm-1000009886",
-      "home": "Operario Ferroviario",
-      "away": "Capital FC",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197429.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/304653.png",
-      "league": "Copa do Brasil",
-      "leagueId": 9067,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-03-12T22:30:00.000Z"
-    },
-    {
-      "id": "fm-1000009888",
-      "home": "Sousa",
-      "away": "CRB",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197791.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/104821.png",
-      "league": "Copa do Brasil",
-      "leagueId": 9067,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-03-12T22:30:00.000Z"
-    },
-    {
-      "id": "fm-5211913",
-      "home": "Maranhao",
-      "away": "Ceara",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197781.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/172341.png",
-      "league": "Copa do Brasil",
-      "leagueId": 9067,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-03-12T22:30:00.000Z"
     },
     {
       "id": "fm-1000009887",
@@ -165,8 +105,23 @@
       "leagueId": 9067,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "27‎’‎",
+      "minute": "HT",
       "time": "2026-03-12T23:00:00.000Z"
+    },
+    {
+      "id": "fm-5211915",
+      "home": "Mixto",
+      "away": "Novorizontino",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162173.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581838.png",
+      "league": "Copa do Brasil",
+      "leagueId": 9067,
+      "country": "BRA",
+      "status": "LIVE",
+      "minute": "21‎’‎",
+      "time": "2026-03-12T23:30:00.000Z"
     },
     {
       "id": "fm-1000009325",
@@ -180,23 +135,53 @@
       "leagueId": 1000001317,
       "country": "INT",
       "status": "LIVE",
-      "minute": "68‎’‎",
+      "minute": "93‎’‎",
       "time": "2026-03-12T22:00:00.000Z"
     },
     {
-      "id": "fm-5211915",
-      "home": "Mixto",
-      "away": "Novorizontino",
-      "homeScore": 0,
+      "id": "fm-1000009886",
+      "home": "Operario Ferroviario",
+      "away": "Capital FC",
+      "homeScore": 1,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162173.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581838.png",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197429.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/304653.png",
       "league": "Copa do Brasil",
       "leagueId": 9067,
       "country": "BRA",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-03-12T23:30:00.000Z"
+      "time": "2026-03-12T22:30:00.000Z"
+    },
+    {
+      "id": "fm-1000009888",
+      "home": "Sousa",
+      "away": "CRB",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197791.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/104821.png",
+      "league": "Copa do Brasil",
+      "leagueId": 9067,
+      "country": "BRA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-12T22:30:00.000Z"
+    },
+    {
+      "id": "fm-5211913",
+      "home": "Maranhao",
+      "away": "Ceara",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197781.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/172341.png",
+      "league": "Copa do Brasil",
+      "leagueId": 9067,
+      "country": "BRA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-12T22:30:00.000Z"
     },
     {
       "id": "fm-5206093",
@@ -692,6 +677,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-12T01:00:00.000Z"
+    },
+    {
+      "id": "fm-5111344",
+      "home": "Cruz Azul (W)",
+      "away": "Necaxa (W)",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980700.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980708.png",
+      "league": "Liga MX Femenil Clausura",
+      "leagueId": 916500,
+      "country": "MEX",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-12T21:45:00.000Z"
     },
     {
       "id": "fm-5206127",
