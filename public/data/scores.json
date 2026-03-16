@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-16T06:12:13.652341+00:00",
-  "matchCount": 91,
+  "lastUpdated": "2026-03-16T07:50:12.534761+00:00",
+  "matchCount": 90,
   "liveCount": 0,
   "matches": [
     {
@@ -392,21 +392,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-16T16:00:00.000Z"
-    },
-    {
-      "id": "fm-4816985",
-      "home": "Wieczysta Kraków",
-      "away": "Polonia Bytom",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1286895.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8031.png",
-      "league": "I Liga",
-      "leagueId": 197,
-      "country": "POL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-16T17:00:00.000Z"
     },
     {
       "id": "fm-5169605",
