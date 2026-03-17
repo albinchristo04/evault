@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-03-17T04:49:48.441383+00:00",
+  "lastUpdated": "2026-03-17T05:48:21.993003+00:00",
   "matchCount": 153,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5111357",
-      "home": "Club Leon (W)",
-      "away": "Mazatlan FC (W)",
-      "homeScore": 0,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980705.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1174027.png",
-      "league": "Liga MX Femenil Clausura",
-      "leagueId": 916500,
-      "country": "MEX",
-      "status": "LIVE",
-      "minute": "85‎’‎",
-      "time": "2026-03-17T03:00:00.000Z"
-    },
     {
       "id": "fm-5205736",
       "home": "Sporting CP",
@@ -1502,6 +1487,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-17T18:30:00.000Z"
+    },
+    {
+      "id": "fm-4850352",
+      "home": "Unterhaching",
+      "away": "Augsburg II",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8486.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/338321.png",
+      "league": "Regionalliga Bayern",
+      "leagueId": 899888,
+      "country": "GER",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-17T18:00:00.000Z"
     }
   ]
 }
