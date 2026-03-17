@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T08:34:57.125366+00:00",
+  "lastUpdated": "2026-03-17T09:35:19.486943+00:00",
   "matchCount": 153,
   "liveCount": 1,
   "matches": [
@@ -8,14 +8,14 @@
       "home": "Sydney FC",
       "away": "Melbourne City FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10164.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
       "league": "A-League Men",
       "leagueId": 901954,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "35‎’‎",
+      "minute": "76‎’‎",
       "time": "2026-03-17T08:00:00.000Z"
     },
     {
