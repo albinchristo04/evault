@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-03-17T07:43:13.833478+00:00",
+  "lastUpdated": "2026-03-17T08:34:57.125366+00:00",
   "matchCount": 153,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
+    {
+      "id": "fm-4965667",
+      "home": "Sydney FC",
+      "away": "Melbourne City FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10164.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
+      "league": "A-League Men",
+      "leagueId": 901954,
+      "country": "AUS",
+      "status": "LIVE",
+      "minute": "35‎’‎",
+      "time": "2026-03-17T08:00:00.000Z"
+    },
     {
       "id": "fm-5205736",
       "home": "Sporting CP",
@@ -62,21 +77,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-17T20:00:00.000Z"
-    },
-    {
-      "id": "fm-4965667",
-      "home": "Sydney FC",
-      "away": "Melbourne City FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10164.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
-      "league": "A-League Men",
-      "leagueId": 901954,
-      "country": "AUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-17T08:00:00.000Z"
     },
     {
       "id": "fm-5115538",
