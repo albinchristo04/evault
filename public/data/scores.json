@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-03-20T15:13:00.269930+00:00",
+  "lastUpdated": "2026-03-20T15:55:58.356268+00:00",
   "matchCount": 171,
-  "liveCount": 11,
+  "liveCount": 7,
   "matches": [
-    {
-      "id": "fm-5260824",
-      "home": "Malmö FF",
-      "away": "Kalmar FF",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10237.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9892.png",
-      "league": "Club Friendlies",
-      "leagueId": 915708,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-03-20T14:00:00.000Z"
-    },
     {
       "id": "fm-5159625",
       "home": "Mohun Bagan SG",
@@ -30,7 +15,7 @@
       "leagueId": 920186,
       "country": "IND",
       "status": "LIVE",
-      "minute": "53‎’‎",
+      "minute": "96‎’‎",
       "time": "2026-03-20T14:00:00.000Z"
     },
     {
@@ -45,23 +30,23 @@
       "leagueId": 923169,
       "country": "BLR",
       "status": "LIVE",
-      "minute": "52‎’‎",
+      "minute": "95‎’‎",
       "time": "2026-03-20T14:00:00.000Z"
     },
     {
-      "id": "fm-5215355",
-      "home": "FK Vitebsk",
-      "away": "Gomel",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10075.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10060.png",
+      "id": "fm-4946774",
+      "home": "FK Neftchi",
+      "away": "Imisli FK",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4617.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1786024.png",
       "league": "Premier League",
-      "leagueId": 923169,
-      "country": "BLR",
+      "leagueId": 262,
+      "country": "AZE",
       "status": "LIVE",
-      "minute": "52‎’‎",
-      "time": "2026-03-20T14:00:00.000Z"
+      "minute": "40‎’‎",
+      "time": "2026-03-20T15:15:00.000Z"
     },
     {
       "id": "fm-5249658",
@@ -75,7 +60,7 @@
       "leagueId": 118,
       "country": "ARM",
       "status": "LIVE",
-      "minute": "11‎’‎",
+      "minute": "HT",
       "time": "2026-03-20T15:00:00.000Z"
     },
     {
@@ -90,7 +75,7 @@
       "leagueId": 522,
       "country": "GHA",
       "status": "LIVE",
-      "minute": "9‎’‎",
+      "minute": "52‎’‎",
       "time": "2026-03-20T15:00:00.000Z"
     },
     {
@@ -105,23 +90,8 @@
       "leagueId": 522,
       "country": "GHA",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-03-20T15:00:00.000Z"
-    },
-    {
-      "id": "fm-5204060",
-      "home": "FC Astana",
-      "away": "Tobol Kostanay",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/166865.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7983.png",
-      "league": "Premier League",
-      "leagueId": 922739,
-      "country": "KAZ",
-      "status": "LIVE",
-      "minute": "52‎’‎",
-      "time": "2026-03-20T14:00:00.000Z"
     },
     {
       "id": "fm-5243244",
@@ -135,38 +105,8 @@
       "leagueId": 923880,
       "country": "EGY",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "HT",
       "time": "2026-03-20T15:00:00.000Z"
-    },
-    {
-      "id": "fm-5237570",
-      "home": "GFK Tikves Kavadarci",
-      "away": "AP Brera Strumica",
-      "homeScore": 6,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/206546.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/769984.png",
-      "league": "Prva Liga",
-      "leagueId": 249,
-      "country": "MKD",
-      "status": "LIVE",
-      "minute": "85‎’‎",
-      "time": "2026-03-20T13:30:00.000Z"
-    },
-    {
-      "id": "fm-5237568",
-      "home": "Rabotnicki",
-      "away": "FK Sileks",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8138.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6187.png",
-      "league": "Prva Liga",
-      "leagueId": 249,
-      "country": "MKD",
-      "status": "LIVE",
-      "minute": "84‎’‎",
-      "time": "2026-03-20T13:30:00.000Z"
     },
     {
       "id": "fm-4813675",
@@ -1204,21 +1144,6 @@
       "time": "2026-03-20T20:00:00.000Z"
     },
     {
-      "id": "fm-4946774",
-      "home": "FK Neftchi",
-      "away": "Imisli FK",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4617.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1786024.png",
-      "league": "Premier League",
-      "leagueId": 262,
-      "country": "AZE",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-20T15:15:00.000Z"
-    },
-    {
       "id": "fm-5136318",
       "home": "EB/Streymur",
       "away": "Klaksvik",
@@ -1502,6 +1427,81 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "id": "fm-4850741",
+      "home": "BFC Dynamo",
+      "away": "VSG Altglienicke",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95192.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/339999.png",
+      "league": "Regionalliga Northeast",
+      "leagueId": 899890,
+      "country": "GER",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "id": "fm-4850746",
+      "home": "Hallescher FC",
+      "away": "FSV Zwickau",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7761.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95202.png",
+      "league": "Regionalliga Northeast",
+      "leagueId": 899890,
+      "country": "GER",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "id": "fm-4850744",
+      "home": "RW Erfurt",
+      "away": "Hertha Berlin II",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8148.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8186.png",
+      "league": "Regionalliga Northeast",
+      "leagueId": 899890,
+      "country": "GER",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "id": "fm-4860203",
+      "home": "Sonnenhof Großaspach",
+      "away": "TSV Steinbach",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/94941.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/557592.png",
+      "league": "Regionalliga Southwest",
+      "leagueId": 901354,
+      "country": "GER",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-20T18:00:00.000Z"
+    },
+    {
+      "id": "fm-4860756",
+      "home": "Bochum II",
+      "away": "Sportfreunde Siegen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8200.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9757.png",
+      "league": "Regionalliga West",
+      "leagueId": 901355,
+      "country": "GER",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-03-20T18:30:00.000Z"
     }
   ]
 }
