@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-03-21T05:11:09.204364+00:00",
+  "lastUpdated": "2026-03-21T05:57:11.146655+00:00",
   "matchCount": 639,
   "liveCount": 20,
   "matches": [
-    {
-      "id": "fm-4965735",
-      "home": "Brisbane Roar FC",
-      "away": "Wellington Phoenix",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8118.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/78785.png",
-      "league": "A-League Men",
-      "leagueId": 901954,
-      "country": "AUS",
-      "status": "LIVE",
-      "minute": "52‎’‎",
-      "time": "2026-03-21T04:00:00.000Z"
-    },
     {
       "id": "fm-5130411",
       "home": "Fagiano Okayama FC",
@@ -30,8 +15,23 @@
       "leagueId": 918259,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
+    },
+    {
+      "id": "fm-5130412",
+      "home": "Avispa Fukuoka",
+      "away": "Gamba Osaka",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8270.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6582.png",
+      "league": "J. League 100 Year Vision League West",
+      "leagueId": 918259,
+      "country": "JPN",
+      "status": "LIVE",
+      "minute": "22‎’‎",
+      "time": "2026-03-21T05:30:00.000Z"
     },
     {
       "id": "fm-5130527",
@@ -45,14 +45,14 @@
       "leagueId": 918269,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
       "id": "fm-5130528",
       "home": "SC Sagamihara",
       "away": "Yokohama FC",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/422974.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49615.png",
@@ -60,7 +60,7 @@
       "leagueId": 918269,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
@@ -68,21 +68,21 @@
       "home": "Fukushima United",
       "away": "Fujieda MYFC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/408082.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/305776.png",
       "league": "J. League 2/3 100 Year Vision League East-B",
       "leagueId": 918271,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
       "id": "fm-5130749",
       "home": "Consadole Sapporo",
       "away": "Ventforet Kofu",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/112688.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8539.png",
@@ -90,7 +90,7 @@
       "leagueId": 918271,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
@@ -98,29 +98,29 @@
       "home": "Jubilo Iwata",
       "away": "RB Omiya Ardija",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8065.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4398.png",
       "league": "J. League 2/3 100 Year Vision League East-B",
       "leagueId": 918271,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
       "id": "fm-5130751",
       "home": "Matsumoto Yamaga",
       "away": "FC Gifu",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/194022.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162197.png",
       "league": "J. League 2/3 100 Year Vision League East-B",
       "leagueId": 918271,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
@@ -135,22 +135,22 @@
       "leagueId": 918271,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
       "id": "fm-5131126",
       "home": "Oita Trinita",
       "away": "FC Ryukyu",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4427.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/194021.png",
       "league": "J. League 2/3 100 Year Vision League West-B",
       "leagueId": 918273,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
@@ -165,7 +165,7 @@
       "leagueId": 918273,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
@@ -180,7 +180,7 @@
       "leagueId": 922584,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
@@ -188,14 +188,14 @@
       "home": "Changwon City",
       "away": "Yeoju FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/187943.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/930076.png",
       "league": "K3 League",
       "leagueId": 922584,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
@@ -210,7 +210,7 @@
       "leagueId": 922584,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "12‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
@@ -225,22 +225,22 @@
       "leagueId": 922584,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "11‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
       "id": "fm-5201005",
       "home": "Yangpyeong",
       "away": "Chuncheon FC",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 4,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/739797.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/833668.png",
       "league": "K3 League",
       "leagueId": 922584,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "12‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
@@ -248,14 +248,14 @@
       "home": "Daejeon Hana Citizen",
       "away": "Jeonbuk Hyundai Motors FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133900.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/46038.png",
       "league": "K-League 1",
       "leagueId": 919356,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
@@ -270,14 +270,14 @@
       "leagueId": 920066,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
       "id": "fm-5155729",
       "home": "Paju Frontier",
       "away": "Jeonnam Dragons",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/739803.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/109377.png",
@@ -285,14 +285,14 @@
       "leagueId": 920066,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "9‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
       "id": "fm-5155730",
       "home": "Seongnam FC",
       "away": "Chungnam Asan FC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6614.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/429442.png",
@@ -300,7 +300,7 @@
       "leagueId": 920066,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "HT",
       "time": "2026-03-21T05:00:00.000Z"
     },
     {
