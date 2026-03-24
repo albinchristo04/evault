@@ -1,22 +1,52 @@
 {
-  "lastUpdated": "2026-03-24T22:29:15.682966+00:00",
+  "lastUpdated": "2026-03-24T23:00:53.361005+00:00",
   "matchCount": 63,
-  "liveCount": 1,
+  "liveCount": 3,
   "matches": [
+    {
+      "id": "fm-5140556",
+      "home": "Junior FC",
+      "away": "Bucaramanga",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4401.png",
+      "league": "Primera A Apertura",
+      "leagueId": 917521,
+      "country": "COL",
+      "status": "LIVE",
+      "minute": "1‎’‎",
+      "time": "2026-03-24T23:00:00.000Z"
+    },
     {
       "id": "fm-5243727",
       "home": "Imperatriz",
       "away": "Retro FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197782.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1116984.png",
       "league": "Copa do Nordeste",
       "leagueId": 9429,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "26‎’‎",
+      "minute": "HT",
       "time": "2026-03-24T22:00:00.000Z"
+    },
+    {
+      "id": "fm-5243728",
+      "home": "ASA",
+      "away": "Piaui",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162164.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197640.png",
+      "league": "Copa do Nordeste",
+      "leagueId": 9429,
+      "country": "BRA",
+      "status": "LIVE",
+      "minute": "28‎’‎",
+      "time": "2026-03-24T22:30:00.000Z"
     },
     {
       "id": "fm-5239991",
@@ -34,21 +64,6 @@
       "time": "2026-03-24T23:30:00.000Z"
     },
     {
-      "id": "fm-5140556",
-      "home": "Junior FC",
-      "away": "Bucaramanga",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4401.png",
-      "league": "Primera A Apertura",
-      "leagueId": 917521,
-      "country": "COL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-24T23:00:00.000Z"
-    },
-    {
       "id": "fm-5109324",
       "home": "One Knoxville SC",
       "away": "Corpus Christi",
@@ -62,21 +77,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-24T23:00:00.000Z"
-    },
-    {
-      "id": "fm-5243728",
-      "home": "ASA",
-      "away": "Piaui",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162164.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197640.png",
-      "league": "Copa do Nordeste",
-      "leagueId": 9429,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-24T22:30:00.000Z"
     },
     {
       "id": "fm-5115541",
