@@ -1,37 +1,22 @@
 {
-  "lastUpdated": "2026-03-24T12:05:19.709655+00:00",
-  "matchCount": 66,
-  "liveCount": 2,
+  "lastUpdated": "2026-03-24T13:48:25.427200+00:00",
+  "matchCount": 65,
+  "liveCount": 1,
   "matches": [
     {
-      "id": "fm-4904231",
-      "home": "Birmingham City U18",
-      "away": "Brighton & Hove Albion U18",
+      "id": "fm-5187210",
+      "home": "Aizawl FC",
+      "away": "Chanmari FC",
       "homeScore": 0,
       "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1281663.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113555.png",
-      "league": "Premier League U18",
-      "leagueId": 10068,
-      "country": "ENG",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/624350.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/624342.png",
+      "league": "Indian Football League",
+      "leagueId": 8982,
+      "country": "IND",
       "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-03-24T11:00:00.000Z"
-    },
-    {
-      "id": "fm-4904375",
-      "home": "Sunderland U18",
-      "away": "Middlesbrough U18",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113563.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113557.png",
-      "league": "Premier League U18",
-      "leagueId": 10068,
-      "country": "ENG",
-      "status": "LIVE",
-      "minute": "49‎’‎",
-      "time": "2026-03-24T11:00:00.000Z"
+      "minute": "48‎’‎",
+      "time": "2026-03-24T13:00:00.000Z"
     },
     {
       "id": "fm-5115541",
@@ -77,21 +62,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-24T19:00:00.000Z"
-    },
-    {
-      "id": "fm-5187210",
-      "home": "Aizawl FC",
-      "away": "Chanmari FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/624350.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/624342.png",
-      "league": "Indian Football League",
-      "leagueId": 8982,
-      "country": "IND",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-24T13:00:00.000Z"
     },
     {
       "id": "fm-4825954",
@@ -544,21 +514,6 @@
       "time": "2026-03-24T19:45:00.000Z"
     },
     {
-      "id": "fm-5059873",
-      "home": "Blackburn Rovers U18",
-      "away": "Wolves U18",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113560.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113554.png",
-      "league": "Premier League U18",
-      "leagueId": 10068,
-      "country": "ENG",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-24T13:00:00.000Z"
-    },
-    {
       "id": "fm-5140551",
       "home": "Deportivo Pereira",
       "away": "Cucuta",
@@ -962,6 +917,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-24T01:30:00.000Z"
+    },
+    {
+      "id": "fm-4904231",
+      "home": "Birmingham City U18",
+      "away": "Brighton & Hove Albion U18",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1281663.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113555.png",
+      "league": "Premier League U18",
+      "leagueId": 10068,
+      "country": "ENG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-24T11:00:00.000Z"
+    },
+    {
+      "id": "fm-4904375",
+      "home": "Sunderland U18",
+      "away": "Middlesbrough U18",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113563.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113557.png",
+      "league": "Premier League U18",
+      "leagueId": 10068,
+      "country": "ENG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-24T11:00:00.000Z"
     },
     {
       "id": "fm-1000007458",
