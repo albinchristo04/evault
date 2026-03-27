@@ -1,28 +1,13 @@
 {
-  "lastUpdated": "2026-03-27T22:17:06.176172+00:00",
-  "matchCount": 107,
-  "liveCount": 6,
+  "lastUpdated": "2026-03-27T22:54:57.196247+00:00",
+  "matchCount": 101,
+  "liveCount": 3,
   "matches": [
-    {
-      "id": "fm-5217275",
-      "home": "Morocco",
-      "away": "Ecuador",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
-      "league": "Friendlies",
-      "leagueId": 914609,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "97‎’‎",
-      "time": "2026-03-27T20:15:00.000Z"
-    },
     {
       "id": "fm-5140559",
       "home": "Aguilas Doradas",
       "away": "Alianza FC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193025.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193029.png",
@@ -30,7 +15,7 @@
       "leagueId": 917521,
       "country": "COL",
       "status": "LIVE",
-      "minute": "56‎’‎",
+      "minute": "94‎’‎",
       "time": "2026-03-27T21:00:00.000Z"
     },
     {
@@ -45,14 +30,14 @@
       "leagueId": 916553,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "78‎’‎",
       "time": "2026-03-27T21:15:00.000Z"
     },
     {
       "id": "fm-5269325",
       "home": "Paysandu",
       "away": "Miramar Misiones",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4660.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4424.png",
@@ -60,38 +45,8 @@
       "leagueId": 922760,
       "country": "URU",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "67‎’‎",
       "time": "2026-03-27T21:30:00.000Z"
-    },
-    {
-      "id": "fm-1000005668",
-      "home": "Nacional",
-      "away": "Luqueno",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49689.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49687.png",
-      "league": "Division Profesional",
-      "leagueId": 199,
-      "country": "PAR",
-      "status": "LIVE",
-      "minute": "47‎’‎",
-      "time": "2026-03-27T21:30:00.000Z"
-    },
-    {
-      "id": "fm-1000007162",
-      "home": "Deportes Recoleta",
-      "away": "Deportes Temuco",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1264972.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4060.png",
-      "league": "Primera B",
-      "leagueId": 9126,
-      "country": "CHI",
-      "status": "LIVE",
-      "minute": "59‎’‎",
-      "time": "2026-03-27T21:00:00.000Z"
     },
     {
       "id": "fm-5264689",
@@ -134,21 +89,6 @@
       "league": "USL League One",
       "leagueId": 916345,
       "country": "USA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-27T23:30:00.000Z"
-    },
-    {
-      "id": "fm-1000005670",
-      "home": "Sportivo Ameliano",
-      "away": "Libertad",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1242560.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6620.png",
-      "league": "Division Profesional",
-      "leagueId": 199,
-      "country": "PAR",
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-27T23:30:00.000Z"
@@ -512,6 +452,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-27T20:00:00.000Z"
+    },
+    {
+      "id": "fm-5217275",
+      "home": "Morocco",
+      "away": "Ecuador",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
+      "league": "Friendlies",
+      "leagueId": 914609,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-27T20:15:00.000Z"
     },
     {
       "id": "fm-4824448",
@@ -1502,6 +1457,51 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-27T12:30:00.000Z"
+    },
+    {
+      "id": "fm-5255719",
+      "home": "Naft Maysan",
+      "away": "Erbil",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/191820.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101649.png",
+      "league": "Stars League",
+      "leagueId": 905798,
+      "country": "IRQ",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-27T12:30:00.000Z"
+    },
+    {
+      "id": "fm-5067208",
+      "home": "New Caledonia",
+      "away": "Jamaica",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101595.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5806.png",
+      "league": "World Cup Qualification Inter-Confederation Playoff",
+      "leagueId": 10201,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-27T03:00:00.000Z"
+    },
+    {
+      "id": "fm-4965908",
+      "home": "Brisbane Roar FC",
+      "away": "Perth Glory",
+      "homeScore": 5,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675726.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/675730.png",
+      "league": "A-League Women",
+      "leagueId": 9495,
+      "country": "AUS",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-27T09:00:00.000Z"
     }
   ]
 }
