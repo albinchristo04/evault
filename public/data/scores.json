@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-28T10:03:45.123708+00:00",
-  "matchCount": 382,
+  "lastUpdated": "2026-03-28T10:49:02.834482+00:00",
+  "matchCount": 381,
   "liveCount": 1,
   "matches": [
     {
@@ -15,7 +15,7 @@
       "leagueId": 901093,
       "country": "SVK",
       "status": "LIVE",
-      "minute": "33‎’‎",
+      "minute": "62‎’‎",
       "time": "2026-03-28T09:30:00.000Z"
     },
     {
@@ -606,7 +606,7 @@
     {
       "id": "fm-5125815",
       "home": "Husqvarna FF (W)",
-      "away": "Alingsås FC United (W)",
+      "away": "Alingsås IF (W)",
       "homeScore": 0,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1839524.png",
