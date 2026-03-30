@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-30T08:25:54.321163+00:00",
+  "lastUpdated": "2026-03-30T09:54:52.764896+00:00",
   "matchCount": 55,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
     {
       "id": "fm-5279321",
@@ -14,9 +14,9 @@
       "league": "Friendlies",
       "leagueId": 914609,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-30T08:30:00.000Z"
+      "status": "LIVE",
+      "minute": "2‎’‎",
+      "time": "2026-03-30T09:50:00.000Z"
     },
     {
       "id": "fm-5187290",
