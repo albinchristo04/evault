@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-03-30T06:59:57.087731+00:00",
+  "lastUpdated": "2026-03-30T08:25:54.321163+00:00",
   "matchCount": 55,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5187287",
-      "home": "New Zealand",
-      "away": "Chile",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9762.png",
-      "league": "Friendlies",
-      "leagueId": 914609,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "44‎’‎",
-      "time": "2026-03-30T06:15:00.000Z"
-    },
     {
       "id": "fm-5279321",
       "home": "St. Kitts and Nevis",
@@ -662,6 +647,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-30T03:00:00.000Z"
+    },
+    {
+      "id": "fm-5187287",
+      "home": "New Zealand",
+      "away": "Chile",
+      "homeScore": 4,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9762.png",
+      "league": "Friendlies",
+      "leagueId": 914609,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-30T06:15:00.000Z"
     },
     {
       "id": "fm-5106326",
