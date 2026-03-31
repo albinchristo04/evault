@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-31T23:03:57.130529+00:00",
+  "lastUpdated": "2026-03-31T23:47:39.592510+00:00",
   "matchCount": 108,
-  "liveCount": 6,
+  "liveCount": 3,
   "matches": [
     {
       "id": "fm-5240001",
@@ -15,7 +15,7 @@
       "leagueId": 920319,
       "country": "URU",
       "status": "LIVE",
-      "minute": "46‎’‎",
+      "minute": "90‎’‎",
       "time": "2026-03-31T22:00:00.000Z"
     },
     {
@@ -30,53 +30,8 @@
       "leagueId": 920002,
       "country": "COL",
       "status": "LIVE",
-      "minute": "18‎’‎",
+      "minute": "HT",
       "time": "2026-03-31T22:45:00.000Z"
-    },
-    {
-      "id": "fm-5067218",
-      "home": "DR Congo",
-      "away": "Jamaica",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5806.png",
-      "league": "World Cup Qualification Inter-Confederation Playoff",
-      "leagueId": 10201,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "93‎’‎",
-      "time": "2026-03-31T21:00:00.000Z"
-    },
-    {
-      "id": "fm-1000005678",
-      "home": "2 de Mayo",
-      "away": "Nacional",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49688.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49689.png",
-      "league": "Division Profesional",
-      "leagueId": 199,
-      "country": "PAR",
-      "status": "LIVE",
-      "minute": "74‎’‎",
-      "time": "2026-03-31T21:30:00.000Z"
-    },
-    {
-      "id": "fm-5190458",
-      "home": "Juventude",
-      "away": "Novorizontino",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10274.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581838.png",
-      "league": "Serie B",
-      "leagueId": 8814,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "78‎’‎",
-      "time": "2026-03-31T21:30:00.000Z"
     },
     {
       "id": "fm-5190453",
@@ -90,7 +45,7 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "83‎’‎",
       "time": "2026-03-31T22:00:00.000Z"
     },
     {
@@ -1502,6 +1457,51 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-31T14:30:00.000Z"
+    },
+    {
+      "id": "fm-5276823",
+      "home": "Al-Gharraf",
+      "away": "Al Najaf",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1811195.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101643.png",
+      "league": "Stars League",
+      "leagueId": 905798,
+      "country": "IRQ",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-31T16:30:00.000Z"
+    },
+    {
+      "id": "fm-4679406",
+      "home": "Latvia",
+      "away": "Gibraltar",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5795.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/507764.png",
+      "league": "UEFA Nations League C Qualification",
+      "leagueId": 896148,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-31T16:00:00.000Z"
+    },
+    {
+      "id": "fm-4679408",
+      "home": "Luxembourg",
+      "away": "Malta",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5792.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8495.png",
+      "league": "UEFA Nations League C Qualification",
+      "leagueId": 896148,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-31T16:00:00.000Z"
     }
   ]
 }
