@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-03-31T10:37:27.487967+00:00",
+  "lastUpdated": "2026-03-31T11:31:59.491825+00:00",
   "matchCount": 108,
-  "liveCount": 5,
+  "liveCount": 4,
   "matches": [
-    {
-      "id": "fm-5187281",
-      "home": "Australia",
-      "away": "Curacao",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/287981.png",
-      "league": "Friendlies",
-      "leagueId": 914609,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "67‎’‎",
-      "time": "2026-03-31T09:10:00.000Z"
-    },
     {
       "id": "fm-4687495",
       "home": "Maldives",
@@ -30,7 +15,7 @@
       "leagueId": 896468,
       "country": "INT",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "HT",
       "time": "2026-03-31T10:30:00.000Z"
     },
     {
@@ -38,36 +23,36 @@
       "home": "Chinese Taipei",
       "away": "Sri Lanka",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5896.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5895.png",
       "league": "Asian Cup Qualification Round 3 Grp. D",
       "leagueId": 896471,
       "country": "INT",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "HT",
       "time": "2026-03-31T10:30:00.000Z"
     },
     {
-      "id": "fm-4687555",
-      "home": "Pakistan",
-      "away": "Myanmar",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5910.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
-      "league": "Asian Cup Qualification Round 3 Grp. E",
-      "leagueId": 896472,
+      "id": "fm-4785962",
+      "home": "Latvia U21",
+      "away": "Northern Ireland U21",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5839.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8507.png",
+      "league": "EURO U21 Qualification Grp. F",
+      "leagueId": 897727,
       "country": "INT",
       "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-03-31T09:00:00.000Z"
+      "minute": "32‎’‎",
+      "time": "2026-03-31T11:00:00.000Z"
     },
     {
       "id": "fm-5187215",
       "home": "Gokulam FC",
       "away": "Aizawl FC",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/898335.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/624350.png",
@@ -75,7 +60,7 @@
       "leagueId": 8982,
       "country": "IND",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "HT",
       "time": "2026-03-31T10:30:00.000Z"
     },
     {
@@ -784,21 +769,6 @@
       "time": "2026-03-31T16:30:00.000Z"
     },
     {
-      "id": "fm-4785962",
-      "home": "Latvia U21",
-      "away": "Northern Ireland U21",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5839.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8507.png",
-      "league": "EURO U21 Qualification Grp. F",
-      "leagueId": 897727,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-31T11:00:00.000Z"
-    },
-    {
       "id": "fm-4785960",
       "home": "Georgia U21",
       "away": "Malta U21",
@@ -1472,6 +1442,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-03-31T06:00:00.000Z"
+    },
+    {
+      "id": "fm-5187281",
+      "home": "Australia",
+      "away": "Curacao",
+      "homeScore": 5,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/287981.png",
+      "league": "Friendlies",
+      "leagueId": 914609,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-31T09:10:00.000Z"
+    },
+    {
+      "id": "fm-4687555",
+      "home": "Pakistan",
+      "away": "Myanmar",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5910.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
+      "league": "Asian Cup Qualification Round 3 Grp. E",
+      "leagueId": 896472,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-03-31T09:00:00.000Z"
     },
     {
       "id": "fm-5240003",
