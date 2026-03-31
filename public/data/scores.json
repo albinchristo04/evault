@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-03-31T05:52:17.576572+00:00",
+  "lastUpdated": "2026-03-31T07:11:00.672333+00:00",
   "matchCount": 108,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
+    {
+      "id": "fm-5187280",
+      "home": "Cameroon",
+      "away": "China",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6629.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5822.png",
+      "league": "Friendlies",
+      "leagueId": 914609,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "48‎’‎",
+      "time": "2026-03-31T06:00:00.000Z"
+    },
     {
       "id": "fm-5067299",
       "home": "Bosnia and Herzegovina",
@@ -62,21 +77,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-03-31T18:45:00.000Z"
-    },
-    {
-      "id": "fm-5187280",
-      "home": "Cameroon",
-      "away": "China",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6629.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5822.png",
-      "league": "Friendlies",
-      "leagueId": 914609,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-03-31T06:00:00.000Z"
     },
     {
       "id": "fm-5187281",
@@ -571,7 +571,7 @@
       "country": "INT",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-03-31T16:30:00.000Z"
+      "time": "2026-03-31T16:15:00.000Z"
     },
     {
       "id": "fm-4687567",
