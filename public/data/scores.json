@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-04-02T04:40:26.292714+00:00",
+  "lastUpdated": "2026-04-02T06:02:15.679683+00:00",
   "matchCount": 98,
-  "liveCount": 2,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5111382",
-      "home": "Monterrey (W)",
-      "away": "Pumas (W)",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980703.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980695.png",
-      "league": "Liga MX Femenil Clausura",
-      "leagueId": 916500,
-      "country": "MEX",
-      "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-04-02T03:00:00.000Z"
-    },
-    {
-      "id": "fm-5264897",
-      "home": "Orange County SC",
-      "away": "Phoenix Rising FC",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/267813.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/424268.png",
-      "league": "US Open Cup",
-      "leagueId": 922585,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "122‎’‎",
-      "time": "2026-04-02T02:00:00.000Z"
-    },
     {
       "id": "fm-4824456",
       "home": "VSK Aarhus",
@@ -1084,6 +1054,21 @@
       "time": "2026-04-02T01:00:00.000Z"
     },
     {
+      "id": "fm-5111382",
+      "home": "Monterrey (W)",
+      "away": "Pumas (W)",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980703.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980695.png",
+      "league": "Liga MX Femenil Clausura",
+      "leagueId": 916500,
+      "country": "MEX",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-02T03:00:00.000Z"
+    },
+    {
       "id": "fm-5261035",
       "home": "CD Choloma",
       "away": "Platense FC",
@@ -1322,6 +1307,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-04-02T01:30:00.000Z"
+    },
+    {
+      "id": "fm-5264897",
+      "home": "Orange County SC",
+      "away": "Phoenix Rising FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/267813.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/424268.png",
+      "league": "US Open Cup",
+      "leagueId": 922585,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-02T02:00:00.000Z"
     },
     {
       "id": "fm-4930301",
