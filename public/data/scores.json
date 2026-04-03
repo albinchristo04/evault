@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-03T22:51:20.630844+00:00",
+  "lastUpdated": "2026-04-03T23:31:55.859224+00:00",
   "matchCount": 309,
-  "liveCount": 4,
+  "liveCount": 2,
   "matches": [
     {
       "id": "fm-5102070",
@@ -15,7 +15,7 @@
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "HT",
       "time": "2026-04-03T22:30:00.000Z"
     },
     {
@@ -30,38 +30,8 @@
       "leagueId": 916561,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "70‎’‎",
       "time": "2026-04-03T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5142117",
-      "home": "Anzoategui FC",
-      "away": "Universidad Central",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1349498.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188213.png",
-      "league": "Primera Division - Apertura First Stage",
-      "leagueId": 919709,
-      "country": "VEN",
-      "status": "LIVE",
-      "minute": "63‎’‎",
-      "time": "2026-04-03T21:30:00.000Z"
-    },
-    {
-      "id": "fm-1000010808",
-      "home": "Independiente Petrolero",
-      "away": "Nacional Potosi",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/958325.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/164353.png",
-      "league": "Primera División",
-      "leagueId": 144,
-      "country": "BOL",
-      "status": "LIVE",
-      "minute": "74‎’‎",
-      "time": "2026-04-03T21:15:00.000Z"
     },
     {
       "id": "fm-4837408",
@@ -1496,6 +1466,36 @@
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9786.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8680.png",
+      "league": "League Two",
+      "leagueId": 900640,
+      "country": "ENG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-03T14:00:00.000Z"
+    },
+    {
+      "id": "fm-4826630",
+      "home": "Colchester",
+      "away": "Oldham",
+      "homeScore": 1,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8416.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9785.png",
+      "league": "League Two",
+      "leagueId": 900640,
+      "country": "ENG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-03T14:00:00.000Z"
+    },
+    {
+      "id": "fm-4826631",
+      "home": "Grimsby",
+      "away": "Harrogate Town",
+      "homeScore": 1,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10005.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7946.png",
       "league": "League Two",
       "leagueId": 900640,
       "country": "ENG",
