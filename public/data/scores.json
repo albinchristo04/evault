@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-04T21:39:48.043069+00:00",
+  "lastUpdated": "2026-04-04T21:59:13.232635+00:00",
   "matchCount": 538,
-  "liveCount": 36,
+  "liveCount": 28,
   "matches": [
     {
       "id": "fm-5071069",
@@ -15,14 +15,14 @@
       "leagueId": 913550,
       "country": "USA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "58‎’‎",
       "time": "2026-04-04T20:30:00.000Z"
     },
     {
       "id": "fm-5071072",
       "home": "Salt Lake",
       "away": "Sporting KC",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6606.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6604.png",
@@ -30,23 +30,8 @@
       "leagueId": 913550,
       "country": "USA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "59‎’‎",
       "time": "2026-04-04T20:30:00.000Z"
-    },
-    {
-      "id": "fm-5238351",
-      "home": "Boca Unidos",
-      "away": "Defensores de Vilelas",
-      "homeScore": 1,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/178273.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1925720.png",
-      "league": "Federal A Zona B",
-      "leagueId": 923719,
-      "country": "ARG",
-      "status": "LIVE",
-      "minute": "75‎’‎",
-      "time": "2026-04-04T20:00:00.000Z"
     },
     {
       "id": "fm-5238423",
@@ -60,7 +45,7 @@
       "leagueId": 923720,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "31‎’‎",
+      "minute": "HT",
       "time": "2026-04-04T21:00:00.000Z"
     },
     {
@@ -68,14 +53,14 @@
       "home": "FBC Melgar",
       "away": "Cusco FC",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4417.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/305171.png",
       "league": "Liga 1 Apertura",
       "leagueId": 919710,
       "country": "PER",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "64‎’‎",
       "time": "2026-04-04T20:30:00.000Z"
     },
     {
@@ -90,7 +75,7 @@
       "leagueId": 905256,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "59‎’‎",
       "time": "2026-04-04T20:30:00.000Z"
     },
     {
@@ -105,7 +90,7 @@
       "leagueId": 918463,
       "country": "PAN",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "HT",
       "time": "2026-04-04T21:00:00.000Z"
     },
     {
@@ -120,14 +105,14 @@
       "leagueId": 920228,
       "country": "USA",
       "status": "LIVE",
-      "minute": "73‎’‎",
+      "minute": "92‎’‎",
       "time": "2026-04-04T20:00:00.000Z"
     },
     {
       "id": "fm-5140475",
       "home": "Deportes Limache",
       "away": "Union La Calera",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/584840.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/192435.png",
@@ -135,14 +120,14 @@
       "leagueId": 919426,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "64‎’‎",
       "time": "2026-04-04T20:30:00.000Z"
     },
     {
       "id": "fm-5142123",
       "home": "Zamora FC",
       "away": "Monagas SC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49686.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49683.png",
@@ -150,7 +135,7 @@
       "leagueId": 919709,
       "country": "VEN",
       "status": "LIVE",
-      "minute": "9‎’‎",
+      "minute": "28‎’‎",
       "time": "2026-04-04T21:30:00.000Z"
     },
     {
@@ -158,30 +143,15 @@
       "home": "San Martin de Tucuman",
       "away": "Chacarita Juniors",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/146371.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10093.png",
       "league": "Primera Nacional",
       "leagueId": 916553,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "61‎’‎",
       "time": "2026-04-04T20:30:00.000Z"
-    },
-    {
-      "id": "fm-5109701",
-      "home": "Louisville City FC",
-      "away": "Charleston Battery",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614316.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162183.png",
-      "league": "USL Championship",
-      "leagueId": 8972,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "73‎’‎",
-      "time": "2026-04-04T20:00:00.000Z"
     },
     {
       "id": "fm-5109702",
@@ -195,7 +165,7 @@
       "leagueId": 8972,
       "country": "USA",
       "status": "LIVE",
-      "minute": "65‎’‎",
+      "minute": "84‎’‎",
       "time": "2026-04-04T20:00:00.000Z"
     },
     {
@@ -210,7 +180,7 @@
       "leagueId": 8972,
       "country": "USA",
       "status": "LIVE",
-      "minute": "73‎’‎",
+      "minute": "92‎’‎",
       "time": "2026-04-04T20:00:00.000Z"
     },
     {
@@ -225,7 +195,7 @@
       "leagueId": 8972,
       "country": "USA",
       "status": "LIVE",
-      "minute": "31‎’‎",
+      "minute": "HT",
       "time": "2026-04-04T21:00:00.000Z"
     },
     {
@@ -240,14 +210,14 @@
       "leagueId": 8972,
       "country": "USA",
       "status": "LIVE",
-      "minute": "34‎’‎",
+      "minute": "HT",
       "time": "2026-04-04T21:00:00.000Z"
     },
     {
       "id": "fm-4930304",
       "home": "Dallas Trinity FC (W)",
       "away": "Spokane Zephyr FC (W)",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1669151.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1669155.png",
@@ -255,7 +225,7 @@
       "leagueId": 901708,
       "country": "USA",
       "status": "LIVE",
-      "minute": "2‎’‎",
+      "minute": "22‎’‎",
       "time": "2026-04-04T21:30:00.000Z"
     },
     {
@@ -270,7 +240,7 @@
       "leagueId": 199,
       "country": "PAR",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "29‎’‎",
       "time": "2026-04-04T21:30:00.000Z"
     },
     {
@@ -285,7 +255,7 @@
       "leagueId": 144,
       "country": "BOL",
       "status": "LIVE",
-      "minute": "25‎’‎",
+      "minute": "44‎’‎",
       "time": "2026-04-04T21:15:00.000Z"
     },
     {
@@ -300,14 +270,14 @@
       "leagueId": 246,
       "country": "ECU",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "29‎’‎",
       "time": "2026-04-04T21:30:00.000Z"
     },
     {
       "id": "fm-5103456",
       "home": "Sao Paulo",
       "away": "Cruzeiro",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10277.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9781.png",
@@ -315,7 +285,7 @@
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "27‎’‎",
       "time": "2026-04-04T21:30:00.000Z"
     },
     {
@@ -330,7 +300,7 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "37‎’‎",
+      "minute": "HT",
       "time": "2026-04-04T21:00:00.000Z"
     },
     {
@@ -345,29 +315,14 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "40‎’‎",
+      "minute": "HT",
       "time": "2026-04-04T21:00:00.000Z"
-    },
-    {
-      "id": "fm-1000009345",
-      "home": "Maranhao",
-      "away": "Guarani",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197781.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7817.png",
-      "league": "Serie C",
-      "leagueId": 8971,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-04-04T20:00:00.000Z"
     },
     {
       "id": "fm-1000009343",
       "home": "Brusque",
       "away": "Caxias",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197692.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/172206.png",
@@ -375,38 +330,8 @@
       "leagueId": 8971,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "HT",
       "time": "2026-04-04T21:00:00.000Z"
-    },
-    {
-      "id": "fm-1000010306",
-      "home": "Guapore",
-      "away": "Independencia",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1918576.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197384.png",
-      "league": "Serie D",
-      "leagueId": 9464,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "77‎’‎",
-      "time": "2026-04-04T20:00:00.000Z"
-    },
-    {
-      "id": "fm-1000010312",
-      "home": "Uniao Rondonopolis",
-      "away": "Capital FC",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197821.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/304653.png",
-      "league": "Serie D",
-      "leagueId": 9464,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "81‎’‎",
-      "time": "2026-04-04T20:00:00.000Z"
     },
     {
       "id": "fm-1000010315",
@@ -420,22 +345,7 @@
       "leagueId": 9464,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "75‎’‎",
-      "time": "2026-04-04T20:00:00.000Z"
-    },
-    {
-      "id": "fm-1000010327",
-      "home": "Treze",
-      "away": "Retro FC",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197790.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1116984.png",
-      "league": "Serie D",
-      "leagueId": 9464,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "77‎’‎",
+      "minute": "95‎’‎",
       "time": "2026-04-04T20:00:00.000Z"
     },
     {
@@ -450,37 +360,7 @@
       "leagueId": 9464,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "75‎’‎",
-      "time": "2026-04-04T20:00:00.000Z"
-    },
-    {
-      "id": "fm-1000010342",
-      "home": "Marica FC",
-      "away": "Velo Clube",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1328537.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/606359.png",
-      "league": "Serie D",
-      "leagueId": 9464,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "82‎’‎",
-      "time": "2026-04-04T20:00:00.000Z"
-    },
-    {
-      "id": "fm-1000010348",
-      "home": "EC Sao Jose",
-      "away": "Blumenau Esporte Clube",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197889.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1922597.png",
-      "league": "Serie D",
-      "leagueId": 9464,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "79‎’‎",
+      "minute": "95‎’‎",
       "time": "2026-04-04T20:00:00.000Z"
     },
     {
@@ -495,7 +375,7 @@
       "leagueId": 9464,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "HT",
       "time": "2026-04-04T21:00:00.000Z"
     },
     {
@@ -503,21 +383,21 @@
       "home": "Monte Roraima",
       "away": "Nacional AM",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1918583.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197682.png",
       "league": "Serie D",
       "leagueId": 9464,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "HT",
       "time": "2026-04-04T21:00:00.000Z"
     },
     {
       "id": "fm-1000010343",
       "home": "XV de Piracicaba",
       "away": "Nova Iguacu",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/297804.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/238505.png",
@@ -525,7 +405,7 @@
       "leagueId": 9464,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "37‎’‎",
+      "minute": "HT",
       "time": "2026-04-04T21:00:00.000Z"
     },
     {
@@ -540,7 +420,7 @@
       "leagueId": 9464,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "10‎’‎",
+      "minute": "30‎’‎",
       "time": "2026-04-04T21:30:00.000Z"
     },
     {
@@ -1502,6 +1382,126 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-04-04T14:00:00.000Z"
+    },
+    {
+      "id": "fm-5143704",
+      "home": "Heming",
+      "away": "Nordstrand",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/46909.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8125.png",
+      "league": "3. Divisjon Avd. 1",
+      "leagueId": 919792,
+      "country": "NOR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-04T11:00:00.000Z"
+    },
+    {
+      "id": "fm-4846945",
+      "home": "1860 München",
+      "away": "Waldhof Mannheim",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9753.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9743.png",
+      "league": "3. Liga",
+      "leagueId": 208,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-04T12:00:00.000Z"
+    },
+    {
+      "id": "fm-4846943",
+      "home": "Erzgebirge Aue",
+      "away": "Hoffenheim II",
+      "homeScore": 3,
+      "awayScore": 5,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8319.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/94940.png",
+      "league": "3. Liga",
+      "leagueId": 208,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-04T12:00:00.000Z"
+    },
+    {
+      "id": "fm-4846944",
+      "home": "Hansa Rostock",
+      "away": "Viktoria Köln 1904",
+      "homeScore": 2,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8294.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/276267.png",
+      "league": "3. Liga",
+      "leagueId": 208,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-04T12:00:00.000Z"
+    },
+    {
+      "id": "fm-4846951",
+      "home": "VfL Osnabrück",
+      "away": "FC Schweinfurt",
+      "homeScore": 4,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9775.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7780.png",
+      "league": "3. Liga",
+      "leagueId": 208,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-04T12:00:00.000Z"
+    },
+    {
+      "id": "fm-4846949",
+      "home": "TSV Havelse",
+      "away": "Energie Cottbus",
+      "homeScore": 0,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/89338.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8398.png",
+      "league": "3. Liga",
+      "leagueId": 208,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-04T12:00:00.000Z"
+    },
+    {
+      "id": "fm-4846946",
+      "home": "RW Essen",
+      "away": "MSV Duisburg",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8296.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8293.png",
+      "league": "3. Liga",
+      "leagueId": 208,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-04T14:30:00.000Z"
+    },
+    {
+      "id": "fm-4846948",
+      "home": "VfB Stuttgart II",
+      "away": "Jahn Regensburg",
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8458.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7789.png",
+      "league": "3. Liga",
+      "leagueId": 208,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-04T14:30:00.000Z"
     }
   ]
 }
