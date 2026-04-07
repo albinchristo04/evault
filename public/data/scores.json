@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-07T05:53:33.083085+00:00",
-  "matchCount": 119,
+  "lastUpdated": "2026-04-07T07:13:36.668102+00:00",
+  "matchCount": 118,
   "liveCount": 0,
   "matches": [
     {
@@ -283,21 +283,6 @@
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4235.png",
       "league": "3. Divisjon Avd. 4",
       "leagueId": 919795,
-      "country": "NOR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-04-07T16:00:00.000Z"
-    },
-    {
-      "id": "fm-5144439",
-      "home": "Strømsgodset 2",
-      "away": "Kongsvinger 2",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8181.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4254.png",
-      "league": "3. Divisjon Avd. 5",
-      "leagueId": 919796,
       "country": "NOR",
       "status": "SCHEDULED",
       "minute": null,
@@ -991,7 +976,7 @@
       "country": "GHA",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-04-07T07:00:00.000Z"
+      "time": "2026-04-07T09:00:00.000Z"
     },
     {
       "id": "fm-5243227",
@@ -1496,6 +1481,21 @@
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8155.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4146.png",
+      "league": "Premium liiga",
+      "leagueId": 248,
+      "country": "EST",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-04-07T16:00:00.000Z"
+    },
+    {
+      "id": "fm-1000007843",
+      "home": "Narva Trans",
+      "away": "Tammeka",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2252.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4147.png",
       "league": "Premium liiga",
       "leagueId": 248,
       "country": "EST",
