@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-04-07T07:13:36.668102+00:00",
+  "lastUpdated": "2026-04-07T08:39:37.961469+00:00",
   "matchCount": 118,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
+    {
+      "id": "fm-4926493",
+      "home": "Asante Kotoko SC",
+      "away": "Samartex",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102018.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/639361.png",
+      "league": "Premier League",
+      "leagueId": 522,
+      "country": "GHA",
+      "status": "LIVE",
+      "minute": "IR",
+      "time": "2026-04-07T09:00:00.000Z"
+    },
     {
       "id": "fm-5205791",
       "home": "Real Madrid",
@@ -962,21 +977,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-04-07T15:30:00.000Z"
-    },
-    {
-      "id": "fm-4926493",
-      "home": "Asante Kotoko SC",
-      "away": "Samartex",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102018.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/639361.png",
-      "league": "Premier League",
-      "leagueId": 522,
-      "country": "GHA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-04-07T09:00:00.000Z"
     },
     {
       "id": "fm-5243227",
