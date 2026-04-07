@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-07T22:55:40.594703+00:00",
+  "lastUpdated": "2026-04-07T23:35:36.307372+00:00",
   "matchCount": 118,
-  "liveCount": 9,
+  "liveCount": 6,
   "matches": [
     {
       "id": "fm-5261475",
@@ -15,7 +15,7 @@
       "leagueId": 924594,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "77‎’‎",
       "time": "2026-04-07T22:00:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 924594,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "76‎’‎",
       "time": "2026-04-07T22:00:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 924603,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "71‎’‎",
       "time": "2026-04-07T22:00:00.000Z"
     },
     {
@@ -60,53 +60,8 @@
       "leagueId": 924605,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "77‎’‎",
       "time": "2026-04-07T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5121930",
-      "home": "Deportivo Mixco",
-      "away": "Deportivo Marquense",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188299.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9934.png",
-      "league": "Liga Nacional Clausura",
-      "leagueId": 917698,
-      "country": "GUA",
-      "status": "LIVE",
-      "minute": "90‎’‎",
-      "time": "2026-04-07T21:00:00.000Z"
-    },
-    {
-      "id": "fm-5152407",
-      "home": "Boca Juniors de Cali",
-      "away": "Independiente Yumbo",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193023.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4400.png",
-      "league": "Primera B Apertura",
-      "leagueId": 920002,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "156‎’‎",
-      "time": "2026-04-07T20:00:00.000Z"
-    },
-    {
-      "id": "fm-5136291",
-      "home": "Velez Sarsfield",
-      "away": "Deportivo Armenio",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10079.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/213527.png",
-      "league": "Copa Argentina",
-      "leagueId": 9305,
-      "country": "ARG",
-      "status": "LIVE",
-      "minute": "68‎’‎",
-      "time": "2026-04-07T21:30:00.000Z"
     },
     {
       "id": "fm-5243747",
@@ -120,7 +75,7 @@
       "leagueId": 9429,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "70‎’‎",
       "time": "2026-04-07T22:00:00.000Z"
     },
     {
@@ -135,7 +90,7 @@
       "leagueId": 9429,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "25‎’‎",
+      "minute": "HT",
       "time": "2026-04-07T22:30:00.000Z"
     },
     {
@@ -934,6 +889,21 @@
       "time": "2026-04-07T01:00:00.000Z"
     },
     {
+      "id": "fm-5121930",
+      "home": "Deportivo Mixco",
+      "away": "Deportivo Marquense",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188299.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9934.png",
+      "league": "Liga Nacional Clausura",
+      "leagueId": 917698,
+      "country": "GUA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-07T21:00:00.000Z"
+    },
+    {
       "id": "fm-4844716",
       "home": "Vizela",
       "away": "Benfica B",
@@ -1369,6 +1339,21 @@
       "time": "2026-04-06T23:00:00.000Z"
     },
     {
+      "id": "fm-5152407",
+      "home": "Boca Juniors de Cali",
+      "away": "Independiente Yumbo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193023.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4400.png",
+      "league": "Primera B Apertura",
+      "leagueId": 920002,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-07T20:00:00.000Z"
+    },
+    {
       "id": "fm-5140477",
       "home": "Huachipato",
       "away": "Universidad de Concepcion",
@@ -1502,6 +1487,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-04-07T12:00:00.000Z"
+    },
+    {
+      "id": "fm-5200525",
+      "home": "Mashal Muborak",
+      "away": "Bunyodkor Tashkent",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102144.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102142.png",
+      "league": "Superliga",
+      "leagueId": 540,
+      "country": "UZB",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-07T13:00:00.000Z"
     }
   ]
 }
