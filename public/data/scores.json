@@ -1,21 +1,36 @@
 {
-  "lastUpdated": "2026-04-08T09:36:42.231966+00:00",
+  "lastUpdated": "2026-04-08T10:40:58.971507+00:00",
   "matchCount": 118,
-  "liveCount": 1,
+  "liveCount": 2,
   "matches": [
+    {
+      "id": "fm-5239932",
+      "home": "Gamba Osaka",
+      "away": "Bangkok United",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6582.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102231.png",
+      "league": "AFC Champions League Two Final Stage",
+      "leagueId": 903627,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "16‎’‎",
+      "time": "2026-04-08T10:00:00.000Z"
+    },
     {
       "id": "fm-5130498",
       "home": "Tochigi SC",
       "away": "Vanraure Hachinohe",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/164738.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/584880.png",
       "league": "J. League 2/3 100 Year Vision League East-A",
       "leagueId": 918269,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "3‎’‎",
+      "minute": "50‎’‎",
       "time": "2026-04-08T09:30:00.000Z"
     },
     {
@@ -302,21 +317,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-04-08T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5239932",
-      "home": "Gamba Osaka",
-      "away": "Bangkok United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6582.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102231.png",
-      "league": "AFC Champions League Two Final Stage",
-      "leagueId": 903627,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-04-08T10:00:00.000Z"
     },
     {
       "id": "fm-5261395",
