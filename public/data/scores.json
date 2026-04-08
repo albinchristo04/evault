@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-08T22:53:14.767524+00:00",
+  "lastUpdated": "2026-04-08T23:36:30.180498+00:00",
   "matchCount": 118,
-  "liveCount": 10,
+  "liveCount": 9,
   "matches": [
     {
       "id": "fm-5261550",
@@ -15,14 +15,14 @@
       "leagueId": 924593,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "75‎’‎",
       "time": "2026-04-08T22:00:00.000Z"
     },
     {
       "id": "fm-5261510",
       "home": "Mirassol",
       "away": "Lanus",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/163782.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10082.png",
@@ -30,14 +30,14 @@
       "leagueId": 924598,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "77‎’‎",
       "time": "2026-04-08T22:00:00.000Z"
     },
     {
       "id": "fm-5261395",
       "home": "Deportivo Cuenca",
       "away": "Santos FC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4144.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8514.png",
@@ -45,7 +45,7 @@
       "leagueId": 924602,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "76‎’‎",
       "time": "2026-04-08T22:00:00.000Z"
     },
     {
@@ -60,7 +60,7 @@
       "leagueId": 924602,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "76‎’‎",
       "time": "2026-04-08T22:00:00.000Z"
     },
     {
@@ -75,29 +75,14 @@
       "leagueId": 924604,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "76‎’‎",
       "time": "2026-04-08T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5261045",
-      "home": "Platense FC",
-      "away": "Genesis FC",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49777.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1512967.png",
-      "league": "Liga Nacional - Clausura",
-      "leagueId": 918407,
-      "country": "HON",
-      "status": "LIVE",
-      "minute": "88‎’‎",
-      "time": "2026-04-08T21:00:00.000Z"
     },
     {
       "id": "fm-5243751",
       "home": "Sousa",
       "away": "Botafogo PB",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197791.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197792.png",
@@ -105,7 +90,7 @@
       "leagueId": 9429,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "76‎’‎",
       "time": "2026-04-08T22:00:00.000Z"
     },
     {
@@ -120,14 +105,14 @@
       "leagueId": 9429,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "53‎’‎",
+      "minute": "74‎’‎",
       "time": "2026-04-08T22:00:00.000Z"
     },
     {
       "id": "fm-5243752",
       "home": "Fluminense PI",
       "away": "Piaui",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1223501.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197640.png",
@@ -135,7 +120,7 @@
       "leagueId": 9429,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "43‎’‎",
       "time": "2026-04-08T22:30:00.000Z"
     },
     {
@@ -143,14 +128,14 @@
       "home": "Imperatriz",
       "away": "Maranhao",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197782.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197781.png",
       "league": "Copa do Nordeste",
       "leagueId": 9429,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "HT",
       "time": "2026-04-08T22:30:00.000Z"
     },
     {
@@ -692,6 +677,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-04-08T00:00:00.000Z"
+    },
+    {
+      "id": "fm-5261045",
+      "home": "Platense FC",
+      "away": "Genesis FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49777.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1512967.png",
+      "league": "Liga Nacional - Clausura",
+      "leagueId": 918407,
+      "country": "HON",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-08T21:00:00.000Z"
     },
     {
       "id": "fm-5115839",
