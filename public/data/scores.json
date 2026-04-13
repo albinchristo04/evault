@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-04-13T03:49:59.117779+00:00",
+  "lastUpdated": "2026-04-13T06:07:02.593597+00:00",
   "matchCount": 116,
-  "liveCount": 2,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-1000007475",
-      "home": "Austin FC II",
-      "away": "Houston Dynamo 2",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1451870.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348104.png",
-      "league": "MLS Next Pro",
-      "leagueId": 10282,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "178‎’‎",
-      "time": "2026-04-13T00:30:00.000Z"
-    },
-    {
-      "id": "fm-1000007473",
-      "home": "San Jose Earthquakes II",
-      "away": "Minnesota United 2",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348115.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348105.png",
-      "league": "MLS Next Pro",
-      "leagueId": 10282,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "89‎’‎",
-      "time": "2026-04-13T02:00:00.000Z"
-    },
     {
       "id": "fm-4813691",
       "home": "Man United",
@@ -1502,6 +1472,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-04-12T23:15:00.000Z"
+    },
+    {
+      "id": "fm-5140588",
+      "home": "Bucaramanga",
+      "away": "Chico FC",
+      "homeScore": 5,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4401.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6255.png",
+      "league": "Primera A Apertura",
+      "leagueId": 917521,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-12T23:20:00.000Z"
+    },
+    {
+      "id": "fm-5140589",
+      "home": "Internacional de Bogota",
+      "away": "Alianza FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/47240.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193029.png",
+      "league": "Primera A Apertura",
+      "leagueId": 917521,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-13T01:30:00.000Z"
     }
   ]
 }
