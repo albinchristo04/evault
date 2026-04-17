@@ -1,53 +1,8 @@
 {
-  "lastUpdated": "2026-04-17T03:42:24.404951+00:00",
+  "lastUpdated": "2026-04-17T05:54:39.751959+00:00",
   "matchCount": 202,
-  "liveCount": 3,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5261373",
-      "home": "Cienciano",
-      "away": "Academia Puerto Cabello",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1845.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/657277.png",
-      "league": "Copa Sudamericana Grp. B",
-      "leagueId": 924600,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "82‎’‎",
-      "time": "2026-04-17T02:00:00.000Z"
-    },
-    {
-      "id": "fm-5121946",
-      "home": "Club Xelaju",
-      "away": "Deportivo Achuapa",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49758.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188305.png",
-      "league": "Liga Nacional Clausura",
-      "leagueId": 917698,
-      "country": "GUA",
-      "status": "LIVE",
-      "minute": "37‎’‎",
-      "time": "2026-04-17T03:00:00.000Z"
-    },
-    {
-      "id": "fm-1000006797",
-      "home": "South Island United",
-      "away": "Solomon Kings FC",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1896043.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1896045.png",
-      "league": "OFC Pro League",
-      "leagueId": 11527,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "37‎’‎",
-      "time": "2026-04-17T03:00:00.000Z"
-    },
     {
       "id": "fm-4829582",
       "home": "St. Pauli",
@@ -1502,6 +1457,51 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-04-17T18:00:00.000Z"
+    },
+    {
+      "id": "fm-4832144",
+      "home": "Rodez",
+      "away": "Amiens",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4120.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8587.png",
+      "league": "Ligue 2",
+      "leagueId": 110,
+      "country": "FRA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-04-17T18:00:00.000Z"
+    },
+    {
+      "id": "fm-4879649",
+      "home": "Bourg en Bresse Peronnas",
+      "away": "Caen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6246.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7819.png",
+      "league": "National",
+      "leagueId": 8970,
+      "country": "FRA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-04-17T17:30:00.000Z"
+    },
+    {
+      "id": "fm-4879650",
+      "home": "Concarneau",
+      "away": "Rouen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/47207.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8582.png",
+      "league": "National",
+      "leagueId": 8970,
+      "country": "FRA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-04-17T17:30:00.000Z"
     }
   ]
 }
