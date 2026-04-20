@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-04-20T06:07:04.423520+00:00",
+  "lastUpdated": "2026-04-20T08:25:30.658184+00:00",
   "matchCount": 89,
-  "liveCount": 1,
+  "liveCount": 2,
   "matches": [
+    {
+      "id": "fm-5249988",
+      "home": "Xiamen Chengyi",
+      "away": "Shenzhen 2028",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1727575.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1727569.png",
+      "league": "Cup",
+      "leagueId": 9550,
+      "country": "CHN",
+      "status": "LIVE",
+      "minute": "64‎’‎",
+      "time": "2026-04-20T07:00:00.000Z"
+    },
     {
       "id": "fm-1000005691",
       "home": "Olimpia",
@@ -257,21 +272,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-04-20T20:50:00.000Z"
-    },
-    {
-      "id": "fm-5249988",
-      "home": "Xiamen Chengyi",
-      "away": "Shenzhen 2028",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1727575.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1727569.png",
-      "league": "Cup",
-      "leagueId": 9550,
-      "country": "CHN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-04-20T07:00:00.000Z"
     },
     {
       "id": "fm-4828192",
