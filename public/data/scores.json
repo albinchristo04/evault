@@ -1,37 +1,22 @@
 {
-  "lastUpdated": "2026-04-20T11:44:58.321133+00:00",
+  "lastUpdated": "2026-04-20T12:53:53.300867+00:00",
   "matchCount": 90,
   "liveCount": 4,
   "matches": [
     {
-      "id": "fm-4844988",
-      "home": "FC Oleksandriya",
-      "away": "Veres Rivne",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6072.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1175395.png",
+      "id": "fm-5300000",
+      "home": "FC Noah",
+      "away": "Van",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/866111.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1078400.png",
       "league": "Premier League",
-      "leagueId": 900627,
-      "country": "UKR",
+      "leagueId": 118,
+      "country": "ARM",
       "status": "LIVE",
-      "minute": "83‎’‎",
-      "time": "2026-04-20T10:00:00.000Z"
-    },
-    {
-      "id": "fm-5215376",
-      "home": "Dnyapro Mogilev",
-      "away": "Torpedo Zhodino",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10067.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10072.png",
-      "league": "Premier League",
-      "leagueId": 923169,
-      "country": "BLR",
-      "status": "LIVE",
-      "minute": "41‎’‎",
-      "time": "2026-04-20T11:00:00.000Z"
+      "minute": "HT",
+      "time": "2026-04-20T12:00:00.000Z"
     },
     {
       "id": "fm-4890099",
@@ -45,8 +30,23 @@
       "leagueId": 461,
       "country": "SIN",
       "status": "LIVE",
-      "minute": "IR",
+      "minute": "84‎’‎",
       "time": "2026-04-20T11:30:00.000Z"
+    },
+    {
+      "id": "fm-4879996",
+      "home": "Dewa United FC",
+      "away": "Persib Bandung",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585860.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165196.png",
+      "league": "Super League",
+      "leagueId": 8983,
+      "country": "IDN",
+      "status": "LIVE",
+      "minute": "HT",
+      "time": "2026-04-20T12:00:00.000Z"
     },
     {
       "id": "fm-1000005691",
@@ -634,21 +634,6 @@
       "time": "2026-04-20T17:30:00.000Z"
     },
     {
-      "id": "fm-5300000",
-      "home": "FC Noah",
-      "away": "Van",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/866111.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1078400.png",
-      "league": "Premier League",
-      "leagueId": 118,
-      "country": "ARM",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-04-20T12:00:00.000Z"
-    },
-    {
       "id": "fm-5300001",
       "home": "Shirak",
       "away": "Ararat Armenia",
@@ -737,21 +722,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-04-20T18:45:00.000Z"
-    },
-    {
-      "id": "fm-4879996",
-      "home": "Dewa United FC",
-      "away": "Persib Bandung",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585860.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165196.png",
-      "league": "Super League",
-      "leagueId": 8983,
-      "country": "IDN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-04-20T12:00:00.000Z"
     },
     {
       "id": "fm-4842578",
@@ -1127,6 +1097,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-04-19T23:15:00.000Z"
+    },
+    {
+      "id": "fm-4844988",
+      "home": "FC Oleksandriya",
+      "away": "Veres Rivne",
+      "homeScore": 0,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6072.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1175395.png",
+      "league": "Premier League",
+      "leagueId": 900627,
+      "country": "UKR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-20T10:00:00.000Z"
+    },
+    {
+      "id": "fm-5215376",
+      "home": "Dnyapro Mogilev",
+      "away": "Torpedo Zhodino",
+      "homeScore": 2,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10067.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10072.png",
+      "league": "Premier League",
+      "leagueId": 923169,
+      "country": "BLR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-04-20T11:00:00.000Z"
     },
     {
       "id": "fm-5140596",
