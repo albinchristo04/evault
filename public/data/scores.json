@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-05T21:00:26.602857+00:00",
+  "lastUpdated": "2026-05-05T22:07:58.133476+00:00",
   "matchCount": 90,
-  "liveCount": 0,
+  "liveCount": 5,
   "matches": [
     {
       "id": "fm-5261505",
@@ -14,8 +14,8 @@
       "league": "Copa Libertadores Grp. F",
       "leagueId": 924597,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "7‎’‎",
       "time": "2026-05-05T22:00:00.000Z"
     },
     {
@@ -29,8 +29,8 @@
       "league": "Copa Libertadores Grp. H",
       "leagueId": 924599,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "7‎’‎",
       "time": "2026-05-05T22:00:00.000Z"
     },
     {
@@ -44,8 +44,8 @@
       "league": "Copa Sudamericana Grp. B",
       "leagueId": 924600,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "7‎’‎",
       "time": "2026-05-05T22:00:00.000Z"
     },
     {
@@ -53,14 +53,14 @@
       "home": "Independiente Petrolero",
       "away": "Caracas",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/958325.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7850.png",
       "league": "Copa Sudamericana Grp. E",
       "leagueId": 924603,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "7‎’‎",
       "time": "2026-05-05T22:00:00.000Z"
     },
     {
@@ -74,8 +74,8 @@
       "league": "Copa Sudamericana Grp. F",
       "leagueId": 924604,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "8‎’‎",
       "time": "2026-05-05T22:00:00.000Z"
     },
     {
