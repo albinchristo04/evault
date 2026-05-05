@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T22:07:58.133476+00:00",
+  "lastUpdated": "2026-05-05T23:09:20.526416+00:00",
   "matchCount": 90,
   "liveCount": 5,
   "matches": [
@@ -8,14 +8,14 @@
       "home": "Sporting Cristal",
       "away": "Palmeiras",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1848.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10283.png",
       "league": "Copa Libertadores Grp. F",
       "leagueId": 924597,
       "country": "INT",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "49‎’‎",
       "time": "2026-05-05T22:00:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 924599,
       "country": "INT",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "49‎’‎",
       "time": "2026-05-05T22:00:00.000Z"
     },
     {
@@ -38,14 +38,14 @@
       "home": "Juventud de las Piedras",
       "away": "Atletico MG",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9883.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10272.png",
       "league": "Copa Sudamericana Grp. B",
       "leagueId": 924600,
       "country": "INT",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "49‎’‎",
       "time": "2026-05-05T22:00:00.000Z"
     },
     {
@@ -53,14 +53,14 @@
       "home": "Independiente Petrolero",
       "away": "Caracas",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/958325.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7850.png",
       "league": "Copa Sudamericana Grp. E",
       "leagueId": 924603,
       "country": "INT",
       "status": "LIVE",
-      "minute": "7‎’‎",
+      "minute": "51‎’‎",
       "time": "2026-05-05T22:00:00.000Z"
     },
     {
@@ -68,14 +68,14 @@
       "home": "Deportivo Riestra",
       "away": "Gremio",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/298629.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9769.png",
       "league": "Copa Sudamericana Grp. F",
       "leagueId": 924604,
       "country": "INT",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "51‎’‎",
       "time": "2026-05-05T22:00:00.000Z"
     },
     {
