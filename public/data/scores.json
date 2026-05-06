@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2026-05-06T22:30:32.759204+00:00",
+  "lastUpdated": "2026-05-06T23:29:55.114602+00:00",
   "matchCount": 147,
-  "liveCount": 8,
+  "liveCount": 6,
   "matches": [
     {
       "id": "fm-5261459",
       "home": "Cusco FC",
       "away": "Estudiantes",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/305171.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10094.png",
       "league": "Copa Libertadores Grp. A",
       "leagueId": 924592,
       "country": "INT",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "71‎’‎",
       "time": "2026-05-06T22:00:00.000Z"
     },
     {
       "id": "fm-5261481",
       "home": "Deportivo La Guaira",
       "away": "Bolivar",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/176496.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5983.png",
@@ -30,14 +30,14 @@
       "leagueId": 924594,
       "country": "INT",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "70‎’‎",
       "time": "2026-05-06T22:00:00.000Z"
     },
     {
       "id": "fm-5261426",
       "home": "Torque",
       "away": "Palestino",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/395613.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6455.png",
@@ -45,7 +45,7 @@
       "leagueId": 924604,
       "country": "INT",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "72‎’‎",
       "time": "2026-05-06T22:00:00.000Z"
     },
     {
@@ -53,66 +53,21 @@
       "home": "Audax Italiano",
       "away": "Vasco da Gama",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4058.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10276.png",
       "league": "Copa Sudamericana Grp. G",
       "leagueId": 924605,
       "country": "INT",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "70‎’‎",
       "time": "2026-05-06T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5450866",
-      "home": "Deportivo Mixco",
-      "away": "CSD Municipal",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188299.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9933.png",
-      "league": "Liga Nacional Clausura",
-      "leagueId": 927577,
-      "country": "GUA",
-      "status": "LIVE",
-      "minute": "67‎’‎",
-      "time": "2026-05-06T21:00:00.000Z"
-    },
-    {
-      "id": "fm-5448633",
-      "home": "Union Cocle",
-      "away": "UMECIT FC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1888923.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1514007.png",
-      "league": "LPF Clausura",
-      "leagueId": 928938,
-      "country": "PAN",
-      "status": "LIVE",
-      "minute": "120‎’‎",
-      "time": "2026-05-06T20:00:00.000Z"
-    },
-    {
-      "id": "fm-5455922",
-      "home": "CD Águila",
-      "away": "Alianza FC",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49739.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49740.png",
-      "league": "Primera Division - Clausura",
-      "leagueId": 929068,
-      "country": "SLV",
-      "status": "LIVE",
-      "minute": "71‎’‎",
-      "time": "2026-05-06T21:00:00.000Z"
     },
     {
       "id": "fm-1000011093",
       "home": "ABC",
       "away": "Juazeirense",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/109708.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/298336.png",
@@ -120,7 +75,7 @@
       "leagueId": 9429,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "68‎’‎",
       "time": "2026-05-06T22:00:00.000Z"
     },
     {
@@ -134,8 +89,8 @@
       "league": "Serie D",
       "leagueId": 9464,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "HT",
       "time": "2026-05-06T22:30:00.000Z"
     },
     {
@@ -1129,6 +1084,21 @@
       "time": "2026-05-06T15:30:00.000Z"
     },
     {
+      "id": "fm-5450866",
+      "home": "Deportivo Mixco",
+      "away": "CSD Municipal",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188299.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9933.png",
+      "league": "Liga Nacional Clausura",
+      "leagueId": 927577,
+      "country": "GUA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-05-06T21:00:00.000Z"
+    },
+    {
       "id": "fm-5448632",
       "home": "Alianza FC",
       "away": "Independiente de La Chorrera",
@@ -1142,6 +1112,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-05-06T01:00:00.000Z"
+    },
+    {
+      "id": "fm-5448633",
+      "home": "Union Cocle",
+      "away": "UMECIT FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1888923.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1514007.png",
+      "league": "LPF Clausura",
+      "leagueId": 928938,
+      "country": "PAN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-05-06T20:00:00.000Z"
     },
     {
       "id": "fm-5185296",
@@ -1502,6 +1487,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-05-06T11:00:00.000Z"
+    },
+    {
+      "id": "fm-4910126",
+      "home": "AmaZulu FC",
+      "away": "Lamontville Golden Arrows",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102100.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102097.png",
+      "league": "Premiership",
+      "leagueId": 902634,
+      "country": "RSA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-05-06T17:30:00.000Z"
     }
   ]
 }
