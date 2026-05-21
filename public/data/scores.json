@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-05-21T22:38:48.406786+00:00",
+  "lastUpdated": "2026-05-21T23:39:22.943672+00:00",
   "matchCount": 82,
-  "liveCount": 5,
+  "liveCount": 3,
   "matches": [
     {
       "id": "fm-5261483",
       "home": "Deportivo La Guaira",
       "away": "Independiente Rivadavia",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 4,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/176496.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161729.png",
       "league": "Copa Libertadores Grp. C",
       "leagueId": 924594,
       "country": "INT",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "79‎’‎",
       "time": "2026-05-21T22:00:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 924600,
       "country": "INT",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "79‎’‎",
       "time": "2026-05-21T22:00:00.000Z"
     },
     {
@@ -45,38 +45,8 @@
       "leagueId": 924600,
       "country": "INT",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "79‎’‎",
       "time": "2026-05-21T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5467679",
-      "home": "CD Jaguares",
-      "away": "Independiente Yumbo",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/424270.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4400.png",
-      "league": "Cup Grp. D",
-      "leagueId": 929418,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-05-21T21:00:00.000Z"
-    },
-    {
-      "id": "fm-5655293",
-      "home": "Union Magdalena",
-      "away": "Bogota FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4408.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193032.png",
-      "league": "Primera B Apertura Playoff Grp. B",
-      "leagueId": 927360,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-05-21T21:00:00.000Z"
     },
     {
       "id": "fm-5630366",
@@ -499,6 +469,21 @@
       "time": "2026-05-21T20:30:00.000Z"
     },
     {
+      "id": "fm-5467679",
+      "home": "CD Jaguares",
+      "away": "Independiente Yumbo",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/424270.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4400.png",
+      "league": "Cup Grp. D",
+      "leagueId": 929418,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-05-21T21:00:00.000Z"
+    },
+    {
       "id": "fm-5642628",
       "home": "Ajax",
       "away": "FC Groningen",
@@ -857,6 +842,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-05-21T19:00:00.000Z"
+    },
+    {
+      "id": "fm-5655293",
+      "home": "Union Magdalena",
+      "away": "Bogota FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4408.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193032.png",
+      "league": "Primera B Apertura Playoff Grp. B",
+      "leagueId": 927360,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-05-21T21:00:00.000Z"
     },
     {
       "id": "fm-4927604",
