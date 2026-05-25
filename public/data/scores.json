@@ -1,36 +1,21 @@
 {
-  "lastUpdated": "2026-05-25T21:44:23.237076+00:00",
+  "lastUpdated": "2026-05-25T22:44:28.307685+00:00",
   "matchCount": 114,
   "liveCount": 2,
   "matches": [
-    {
-      "id": "fm-5169307",
-      "home": "Comerciantes Unidos",
-      "away": "Deportivo Garcilaso",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/536945.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/920788.png",
-      "league": "Liga 1 Apertura",
-      "leagueId": 919710,
-      "country": "PER",
-      "status": "LIVE",
-      "minute": "55‎’‎",
-      "time": "2026-05-25T20:30:00.000Z"
-    },
     {
       "id": "fm-5651301",
       "home": "Miramar Misiones",
       "away": "Fenix",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4424.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7808.png",
       "league": "Segunda Division",
       "leagueId": 922761,
       "country": "URU",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "84‎’‎",
       "time": "2026-05-25T21:00:00.000Z"
     },
     {
@@ -38,14 +23,14 @@
       "home": "Botafogo SP",
       "away": "Athletic Club",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8355.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1221604.png",
       "league": "Serie B",
       "leagueId": 8814,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "45‎’‎",
       "time": "2026-05-25T22:00:00.000Z"
     },
     {
@@ -1202,6 +1187,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-05-25T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5169307",
+      "home": "Comerciantes Unidos",
+      "away": "Deportivo Garcilaso",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/536945.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/920788.png",
+      "league": "Liga 1 Apertura",
+      "leagueId": 919710,
+      "country": "PER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-05-25T20:30:00.000Z"
     },
     {
       "id": "fm-5636989",
