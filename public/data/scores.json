@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-05-28T22:42:18.185402+00:00",
+  "lastUpdated": "2026-05-28T23:56:26.282542+00:00",
   "matchCount": 44,
-  "liveCount": 2,
+  "liveCount": 1,
   "matches": [
     {
       "id": "fm-5261508",
       "home": "Cerro Porteno",
       "away": "Sporting Cristal",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6295.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1848.png",
@@ -15,22 +15,7 @@
       "leagueId": 924597,
       "country": "INT",
       "status": "LIVE",
-      "minute": "42‎’‎",
-      "time": "2026-05-28T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5261509",
-      "home": "Palmeiras",
-      "away": "Junior FC",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10283.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
-      "league": "Copa Libertadores Grp. F",
-      "leagueId": 924597,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "42‎’‎",
+      "minute": "94‎’‎",
       "time": "2026-05-28T22:00:00.000Z"
     },
     {
@@ -92,6 +77,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-05-28T00:30:00.000Z"
+    },
+    {
+      "id": "fm-5261509",
+      "home": "Palmeiras",
+      "away": "Junior FC",
+      "homeScore": 4,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10283.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
+      "league": "Copa Libertadores Grp. F",
+      "leagueId": 924597,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-05-28T22:00:00.000Z"
     },
     {
       "id": "fm-5451193",
