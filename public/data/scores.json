@@ -1,68 +1,8 @@
 {
-  "lastUpdated": "2026-05-29T21:57:00.990352+00:00",
+  "lastUpdated": "2026-05-29T23:14:38.229682+00:00",
   "matchCount": 88,
   "liveCount": 4,
   "matches": [
-    {
-      "id": "fm-5467670",
-      "home": "Cucuta",
-      "away": "Fortaleza FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6254.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/244167.png",
-      "league": "Cup Grp. C",
-      "leagueId": 929417,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-05-29T21:00:00.000Z"
-    },
-    {
-      "id": "fm-5169315",
-      "home": "Atletico Grau",
-      "away": "Club Deportivo Moquegua",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/920789.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1573140.png",
-      "league": "Liga 1 Apertura",
-      "leagueId": 919710,
-      "country": "PER",
-      "status": "LIVE",
-      "minute": "84‎’‎",
-      "time": "2026-05-29T20:00:00.000Z"
-    },
-    {
-      "id": "fm-5667091",
-      "home": "Envigado",
-      "away": "Real Cartagena",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4402.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7731.png",
-      "league": "Primera B Apertura",
-      "leagueId": 933431,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "98‎’‎",
-      "time": "2026-05-29T20:00:00.000Z"
-    },
-    {
-      "id": "fm-1000009172",
-      "home": "Halifax Tides FC",
-      "away": "Ottawa Rapid FC",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1739714.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1739719.png",
-      "league": "Northern Super League",
-      "leagueId": 10872,
-      "country": "CAN",
-      "status": "LIVE",
-      "minute": "47‎’‎",
-      "time": "2026-05-29T21:00:00.000Z"
-    },
     {
       "id": "fm-5670395",
       "home": "Cerro Largo",
@@ -74,8 +14,8 @@
       "league": "Liga AUF Uruguaya Intermedio Grp. A",
       "leagueId": 930806,
       "country": "URU",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "44‎’‎",
       "time": "2026-05-29T22:30:00.000Z"
     },
     {
@@ -83,14 +23,14 @@
       "home": "Cobresal",
       "away": "Ñublense",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4055.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49559.png",
       "league": "Primera Division",
       "leagueId": 919426,
       "country": "CHI",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "50‎’‎",
       "time": "2026-05-29T22:00:00.000Z"
     },
     {
@@ -104,8 +44,8 @@
       "league": "USL League One",
       "leagueId": 916345,
       "country": "USA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "37‎’‎",
       "time": "2026-05-29T22:30:00.000Z"
     },
     {
@@ -119,8 +59,8 @@
       "league": "Serie D",
       "leagueId": 9464,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "42‎’‎",
       "time": "2026-05-29T22:30:00.000Z"
     },
     {
@@ -544,6 +484,21 @@
       "time": "2026-05-29T16:00:00.000Z"
     },
     {
+      "id": "fm-5467670",
+      "home": "Cucuta",
+      "away": "Fortaleza FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6254.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/244167.png",
+      "league": "Cup Grp. C",
+      "leagueId": 929417,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-05-29T21:00:00.000Z"
+    },
+    {
       "id": "fm-5104928",
       "home": "Aalesund",
       "away": "HamKam",
@@ -844,6 +799,21 @@
       "time": "2026-05-29T15:30:00.000Z"
     },
     {
+      "id": "fm-5169315",
+      "home": "Atletico Grau",
+      "away": "Club Deportivo Moquegua",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/920789.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1573140.png",
+      "league": "Liga 1 Apertura",
+      "leagueId": 919710,
+      "country": "PER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-05-29T20:00:00.000Z"
+    },
+    {
       "id": "fm-5630533",
       "home": "Nice",
       "away": "Saint-Etienne",
@@ -1084,6 +1054,21 @@
       "time": "2026-05-29T19:00:00.000Z"
     },
     {
+      "id": "fm-5667091",
+      "home": "Envigado",
+      "away": "Real Cartagena",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4402.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7731.png",
+      "league": "Primera B Apertura",
+      "leagueId": 933431,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-05-29T20:00:00.000Z"
+    },
+    {
       "id": "fm-5671507",
       "home": "Real Madrid Castilla",
       "away": "Sabadell",
@@ -1262,6 +1247,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-05-29T16:00:00.000Z"
+    },
+    {
+      "id": "fm-1000009172",
+      "home": "Halifax Tides FC",
+      "away": "Ottawa Rapid FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1739714.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1739719.png",
+      "league": "Northern Super League",
+      "leagueId": 10872,
+      "country": "CAN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-05-29T21:00:00.000Z"
     },
     {
       "id": "fm-1000007887",
