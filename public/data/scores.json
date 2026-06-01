@@ -1,36 +1,21 @@
 {
-  "lastUpdated": "2026-06-01T21:50:59.041946+00:00",
+  "lastUpdated": "2026-06-01T23:25:43.639574+00:00",
   "matchCount": 48,
-  "liveCount": 1,
+  "liveCount": 2,
   "matches": [
-    {
-      "id": "fm-5658895",
-      "home": "CODM Meknes",
-      "away": "Olympique Dcheira",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102032.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/570487.png",
-      "league": "Botola Pro",
-      "leagueId": 530,
-      "country": "MAR",
-      "status": "LIVE",
-      "minute": "90‎’‎",
-      "time": "2026-06-01T20:00:00.000Z"
-    },
     {
       "id": "fm-1000008997",
       "home": "Leones del Norte",
       "away": "CSD Macara",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1370528.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6609.png",
       "league": "Serie A",
       "leagueId": 246,
       "country": "ECU",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "68‎’‎",
       "time": "2026-06-01T22:00:00.000Z"
     },
     {
@@ -44,8 +29,8 @@
       "league": "Serie B",
       "leagueId": 8814,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "65‎’‎",
       "time": "2026-06-01T22:00:00.000Z"
     },
     {
@@ -197,6 +182,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-01T18:00:00.000Z"
+    },
+    {
+      "id": "fm-5658895",
+      "home": "CODM Meknes",
+      "away": "Olympique Dcheira",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102032.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/570487.png",
+      "league": "Botola Pro",
+      "leagueId": 530,
+      "country": "MAR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-01T20:00:00.000Z"
     },
     {
       "id": "fm-5127485",
