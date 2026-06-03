@@ -1,53 +1,8 @@
 {
-  "lastUpdated": "2026-06-03T02:07:58.644286+00:00",
+  "lastUpdated": "2026-06-03T07:05:03.604458+00:00",
   "matchCount": 34,
-  "liveCount": 3,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5629010",
-      "home": "Haiti",
-      "away": "New Zealand",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5934.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
-      "league": "Friendlies",
-      "leagueId": 914609,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "73‎’‎",
-      "time": "2026-06-03T00:36:00.000Z"
-    },
-    {
-      "id": "fm-5666846",
-      "home": "Junior FC",
-      "away": "Atletico Nacional",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6368.png",
-      "league": "Primera A Apertura",
-      "leagueId": 929414,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "70‎’‎",
-      "time": "2026-06-03T00:30:00.000Z"
-    },
-    {
-      "id": "fm-1000012573",
-      "home": "Fortaleza",
-      "away": "Vitoria",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8287.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7733.png",
-      "league": "Copa do Nordeste",
-      "leagueId": 9429,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "99‎’‎",
-      "time": "2026-06-03T00:00:00.000Z"
-    },
     {
       "id": "fm-5648186",
       "home": "Gibraltar",
@@ -80,12 +35,12 @@
     },
     {
       "id": "fm-5425678",
-      "home": "Denmark",
-      "away": "DR Congo",
+      "home": "DR Congo",
+      "away": "Denmark",
       "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png",
       "league": "Friendlies",
       "leagueId": 914609,
       "country": "INT",
@@ -454,6 +409,21 @@
       "time": "2026-06-03T13:00:00.000Z"
     },
     {
+      "id": "fm-5681713",
+      "home": "Union Brescia",
+      "away": "Ascoli",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/189481.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8522.png",
+      "league": "Serie C Promotion Playoff",
+      "leagueId": 927519,
+      "country": "ITA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-06-03T17:00:00.000Z"
+    },
+    {
       "id": "fm-5729190",
       "home": "ADO '20",
       "away": "IJsselmeervogels",
@@ -484,19 +454,34 @@
       "time": "2026-06-03T18:00:00.000Z"
     },
     {
-      "id": "fm-1000010857",
-      "home": "GV San Jose",
-      "away": "Real Tomayapo",
-      "homeScore": 0,
+      "id": "fm-5629010",
+      "home": "Haiti",
+      "away": "New Zealand",
+      "homeScore": 4,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1504770.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1074622.png",
-      "league": "Primera División",
-      "leagueId": 144,
-      "country": "BOL",
-      "status": "SCHEDULED",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5934.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
+      "league": "Friendlies",
+      "leagueId": 914609,
+      "country": "INT",
+      "status": "FINISHED",
       "minute": null,
-      "time": "2026-06-03T22:00:00.000Z"
+      "time": "2026-06-03T00:36:00.000Z"
+    },
+    {
+      "id": "fm-5666846",
+      "home": "Junior FC",
+      "away": "Atletico Nacional",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6368.png",
+      "league": "Primera A Apertura",
+      "leagueId": 929414,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-03T00:30:00.000Z"
     },
     {
       "id": "fm-1000010889",
@@ -512,6 +497,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-03T00:10:00.000Z"
+    },
+    {
+      "id": "fm-1000012573",
+      "home": "Fortaleza",
+      "away": "Vitoria",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8287.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7733.png",
+      "league": "Copa do Nordeste",
+      "leagueId": 9429,
+      "country": "BRA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-03T00:00:00.000Z"
     }
   ]
 }
