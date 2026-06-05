@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-06-05T06:05:41.644944+00:00",
+  "lastUpdated": "2026-06-05T10:12:14.815930+00:00",
   "matchCount": 68,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
+    {
+      "id": "fm-5729892",
+      "home": "Kamatamare Sanuki",
+      "away": "Nagano Parceiro",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/243585.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/243586.png",
+      "league": "J. League 2/3 100 Year Vision League Placement Matches",
+      "leagueId": 933465,
+      "country": "JPN",
+      "status": "LIVE",
+      "minute": "9‎’‎",
+      "time": "2026-06-05T10:00:00.000Z"
+    },
     {
       "id": "fm-5629005",
       "home": "Singapore",
@@ -302,21 +317,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-05T16:00:00.000Z"
-    },
-    {
-      "id": "fm-5729892",
-      "home": "Kamatamare Sanuki",
-      "away": "Nagano Parceiro",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/243585.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/243586.png",
-      "league": "J. League 2/3 100 Year Vision League Placement Matches",
-      "leagueId": 933465,
-      "country": "JPN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-05T10:00:00.000Z"
     },
     {
       "id": "fm-5155816",
