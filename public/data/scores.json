@@ -1,28 +1,13 @@
 {
-  "lastUpdated": "2026-06-07T22:45:45.519091+00:00",
+  "lastUpdated": "2026-06-07T23:49:14.021551+00:00",
   "matchCount": 126,
-  "liveCount": 6,
+  "liveCount": 4,
   "matches": [
-    {
-      "id": "fm-5670403",
-      "home": "Defensor Sporting",
-      "away": "Boston River",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7796.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188313.png",
-      "league": "Liga AUF Uruguaya Intermedio Grp. A",
-      "leagueId": 930806,
-      "country": "URU",
-      "status": "LIVE",
-      "minute": "57‎’‎",
-      "time": "2026-06-07T21:30:00.000Z"
-    },
     {
       "id": "fm-5736485",
       "home": "Carabobo FC",
       "away": "Academia Puerto Cabello",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49681.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/657277.png",
@@ -30,37 +15,22 @@
       "leagueId": 934959,
       "country": "VEN",
       "status": "LIVE",
-      "minute": "45‎’‎",
+      "minute": "85‎’‎",
       "time": "2026-06-07T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5736491",
-      "home": "Tacuarembo FC",
-      "away": "Uruguay Montevideo",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1837.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1257662.png",
-      "league": "Segunda Division",
-      "leagueId": 922761,
-      "country": "URU",
-      "status": "LIVE",
-      "minute": "83‎’‎",
-      "time": "2026-06-07T21:00:00.000Z"
     },
     {
       "id": "fm-1000010977",
       "home": "O'Higgins",
       "away": "Palestino",
       "homeScore": 2,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6296.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6455.png",
       "league": "Copa de la Liga",
       "leagueId": 11697,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "46‎’‎",
+      "minute": "90‎’‎",
       "time": "2026-06-07T22:00:00.000Z"
     },
     {
@@ -68,14 +38,14 @@
       "home": "Deportes Limache",
       "away": "Everton CD",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/584840.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1890.png",
       "league": "Copa de la Liga",
       "leagueId": 11697,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "48‎’‎",
+      "minute": "92‎’‎",
       "time": "2026-06-07T22:00:00.000Z"
     },
     {
@@ -90,7 +60,7 @@
       "leagueId": 10282,
       "country": "USA",
       "status": "LIVE",
-      "minute": "42‎’‎",
+      "minute": "87‎’‎",
       "time": "2026-06-07T22:00:00.000Z"
     },
     {
@@ -769,6 +739,21 @@
       "time": "2026-06-07T18:00:00.000Z"
     },
     {
+      "id": "fm-5670403",
+      "home": "Defensor Sporting",
+      "away": "Boston River",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7796.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188313.png",
+      "league": "Liga AUF Uruguaya Intermedio Grp. A",
+      "leagueId": 930806,
+      "country": "URU",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-07T21:30:00.000Z"
+    },
+    {
       "id": "fm-5670412",
       "home": "Progreso",
       "away": "Albion",
@@ -1037,6 +1022,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-07T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5736491",
+      "home": "Tacuarembo FC",
+      "away": "Uruguay Montevideo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1837.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1257662.png",
+      "league": "Segunda Division",
+      "leagueId": 922761,
+      "country": "URU",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-07T21:00:00.000Z"
     },
     {
       "id": "fm-5681714",
