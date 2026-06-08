@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-06-08T21:04:21.183478+00:00",
+  "lastUpdated": "2026-06-08T22:45:48.286629+00:00",
   "matchCount": 30,
   "liveCount": 2,
   "matches": [
-    {
-      "id": "fm-5740092",
-      "home": "Olympique Dcheira",
-      "away": "Hassania Agadir",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/570487.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102037.png",
-      "league": "Botola Pro",
-      "leagueId": 530,
-      "country": "MAR",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-06-08T20:00:00.000Z"
-    },
-    {
-      "id": "fm-1000008061",
-      "home": "Columbus Crew 2",
-      "away": "Connecticut United",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348126.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1880719.png",
-      "league": "MLS Next Pro",
-      "leagueId": 10282,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "98‎’‎",
-      "time": "2026-06-08T19:00:00.000Z"
-    },
     {
       "id": "fm-5670404",
       "home": "Liverpool FC",
@@ -44,8 +14,8 @@
       "league": "Liga AUF Uruguaya Intermedio Grp. A",
       "leagueId": 930806,
       "country": "URU",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "46‎’‎",
       "time": "2026-06-08T22:00:00.000Z"
     },
     {
@@ -59,8 +29,8 @@
       "league": "Primera A Apertura",
       "leagueId": 929414,
       "country": "COL",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "44‎’‎",
       "time": "2026-06-08T22:00:00.000Z"
     },
     {
@@ -167,6 +137,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-08T18:00:00.000Z"
+    },
+    {
+      "id": "fm-5740092",
+      "home": "Olympique Dcheira",
+      "away": "Hassania Agadir",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/570487.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102037.png",
+      "league": "Botola Pro",
+      "leagueId": 530,
+      "country": "MAR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-08T20:00:00.000Z"
     },
     {
       "id": "fm-5127499",
@@ -452,6 +437,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-08T00:30:00.000Z"
+    },
+    {
+      "id": "fm-1000008061",
+      "home": "Columbus Crew 2",
+      "away": "Connecticut United",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348126.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1880719.png",
+      "league": "MLS Next Pro",
+      "leagueId": 10282,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-08T19:00:00.000Z"
     }
   ]
 }
