@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-06-09T02:53:32.846723+00:00",
-  "matchCount": 74,
-  "liveCount": 1,
+  "lastUpdated": "2026-06-09T06:48:41.723160+00:00",
+  "matchCount": 73,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5293453",
-      "home": "Peru",
-      "away": "Spain",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5798.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
-      "league": "Friendlies",
-      "leagueId": 914609,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-06-09T02:00:00.000Z"
-    },
     {
       "id": "fm-5729571",
       "home": "Philippines",
@@ -437,21 +422,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-09T15:30:00.000Z"
-    },
-    {
-      "id": "fm-5736142",
-      "home": "Ireland U21",
-      "away": "Qatar U21",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5856.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/256074.png",
-      "league": "Friendlies U21",
-      "leagueId": 344,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-09T14:45:00.000Z"
     },
     {
       "id": "fm-5736138",
@@ -1037,6 +1007,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-09T22:00:00.000Z"
+    },
+    {
+      "id": "fm-5293453",
+      "home": "Peru",
+      "away": "Spain",
+      "homeScore": 1,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5798.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
+      "league": "Friendlies",
+      "leagueId": 914609,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-09T02:00:00.000Z"
     },
     {
       "id": "fm-1000007660",
