@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-06-10T22:30:44.076717+00:00",
+  "lastUpdated": "2026-06-10T23:12:57.113480+00:00",
   "matchCount": 34,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5213043",
-      "home": "England",
-      "away": "Costa Rica",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6705.png",
-      "league": "Friendlies",
-      "leagueId": 914609,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "63‎’‎",
-      "time": "2026-06-10T21:00:00.000Z"
-    },
     {
       "id": "fm-5737639",
       "home": "Saudi Arabia",
@@ -77,6 +62,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-10T19:45:00.000Z"
+    },
+    {
+      "id": "fm-5213043",
+      "home": "England",
+      "away": "Costa Rica",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6705.png",
+      "league": "Friendlies",
+      "leagueId": 914609,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-10T21:00:00.000Z"
     },
     {
       "id": "fm-5225903",
