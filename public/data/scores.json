@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-06-10T17:19:03.132892+00:00",
+  "lastUpdated": "2026-06-10T18:17:29.890601+00:00",
   "matchCount": 34,
-  "liveCount": 8,
+  "liveCount": 12,
   "matches": [
+    {
+      "id": "fm-5225903",
+      "home": "KFA",
+      "away": "Fjölnir",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1340091.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4518.png",
+      "league": "2. Deild",
+      "leagueId": 10226,
+      "country": "ISL",
+      "status": "LIVE",
+      "minute": "12‎’‎",
+      "time": "2026-06-10T18:00:00.000Z"
+    },
     {
       "id": "fm-5629951",
       "home": "Falu",
@@ -15,14 +30,14 @@
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "62‎’‎",
+      "minute": "111‎’‎",
       "time": "2026-06-10T16:00:00.000Z"
     },
     {
       "id": "fm-5629972",
       "home": "FBK Balkan",
       "away": "Eskilsminne IF",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1225386.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/303470.png",
@@ -30,7 +45,7 @@
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "17‎’‎",
+      "minute": "60‎’‎",
       "time": "2026-06-10T17:00:00.000Z"
     },
     {
@@ -45,22 +60,22 @@
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "17‎’‎",
+      "minute": "60‎’‎",
       "time": "2026-06-10T17:00:00.000Z"
     },
     {
       "id": "fm-5629971",
       "home": "Lidköpings FK",
       "away": "Skövde AIK",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/538070.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6153.png",
       "league": "Cup",
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "19‎’‎",
+      "minute": "60‎’‎",
       "time": "2026-06-10T17:00:00.000Z"
     },
     {
@@ -68,15 +83,45 @@
       "home": "Malmslätts AIK",
       "away": "Husqvarna FF",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1143337.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6119.png",
       "league": "Cup",
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "17‎’‎",
+      "minute": "60‎’‎",
       "time": "2026-06-10T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5629952",
+      "home": "Football Primetime",
+      "away": "FK Karlskrona",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1988821.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6172.png",
+      "league": "Cup",
+      "leagueId": 931430,
+      "country": "SWE",
+      "status": "LIVE",
+      "minute": "46‎’‎",
+      "time": "2026-06-10T17:30:00.000Z"
+    },
+    {
+      "id": "fm-5629968",
+      "home": "Unik FK",
+      "away": "Karlbergs BK",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/438114.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/303472.png",
+      "league": "Cup",
+      "leagueId": 931430,
+      "country": "SWE",
+      "status": "LIVE",
+      "minute": "15‎’‎",
+      "time": "2026-06-10T18:00:00.000Z"
     },
     {
       "id": "fm-5429865",
@@ -90,7 +135,7 @@
       "leagueId": 928682,
       "country": "INT",
       "status": "LIVE",
-      "minute": "19‎’‎",
+      "minute": "59‎’‎",
       "time": "2026-06-10T17:00:00.000Z"
     },
     {
@@ -105,14 +150,14 @@
       "leagueId": 168,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "17‎’‎",
+      "minute": "57‎’‎",
       "time": "2026-06-10T17:00:00.000Z"
     },
     {
       "id": "fm-5125532",
       "home": "Varbergs BoIS FC",
       "away": "Norrby",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6692.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2014.png",
@@ -120,8 +165,23 @@
       "leagueId": 168,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "17‎’‎",
+      "minute": "59‎’‎",
       "time": "2026-06-10T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5750747",
+      "home": "Excelsior Maassluis",
+      "away": "IJsselmeervogels",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2458.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2153.png",
+      "league": "Tweede Divisie Qualification",
+      "leagueId": 9851,
+      "country": "NED",
+      "status": "LIVE",
+      "minute": "15‎’‎",
+      "time": "2026-06-10T18:00:00.000Z"
     },
     {
       "id": "fm-5293170",
@@ -152,21 +212,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-10T20:00:00.000Z"
-    },
-    {
-      "id": "fm-5225903",
-      "home": "KFA",
-      "away": "Fjölnir",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1340091.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4518.png",
-      "league": "2. Deild",
-      "leagueId": 10226,
-      "country": "ISL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-10T18:00:00.000Z"
     },
     {
       "id": "fm-5225901",
@@ -244,36 +289,6 @@
       "time": "2026-06-10T19:15:00.000Z"
     },
     {
-      "id": "fm-5629952",
-      "home": "Football Primetime",
-      "away": "FK Karlskrona",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1988821.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6172.png",
-      "league": "Cup",
-      "leagueId": 931430,
-      "country": "SWE",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-10T17:30:00.000Z"
-    },
-    {
-      "id": "fm-5629968",
-      "home": "Unik FK",
-      "away": "Karlbergs BK",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/438114.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/303472.png",
-      "league": "Cup",
-      "leagueId": 931430,
-      "country": "SWE",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-10T18:00:00.000Z"
-    },
-    {
       "id": "fm-5653101",
       "home": "Afturelding",
       "away": "Stjarnan",
@@ -302,21 +317,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-10T19:00:00.000Z"
-    },
-    {
-      "id": "fm-5750747",
-      "home": "Excelsior Maassluis",
-      "away": "IJsselmeervogels",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2458.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2153.png",
-      "league": "Tweede Divisie Qualification",
-      "leagueId": 9851,
-      "country": "NED",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-10T18:00:00.000Z"
     },
     {
       "id": "fm-5737639",
