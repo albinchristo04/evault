@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-06-11T04:51:50.204070+00:00",
+  "lastUpdated": "2026-06-11T06:34:59.093998+00:00",
   "matchCount": 28,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5109412",
-      "home": "AV Alta",
-      "away": "Sarasota Paradise",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1701876.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1448561.png",
-      "league": "USL League One",
-      "leagueId": 916345,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "88‎’‎",
-      "time": "2026-06-11T03:00:00.000Z"
-    },
     {
       "id": "fm-4667751",
       "home": "Mexico",
@@ -332,6 +317,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-11T01:30:00.000Z"
+    },
+    {
+      "id": "fm-5109412",
+      "home": "AV Alta",
+      "away": "Sarasota Paradise",
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1701876.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1448561.png",
+      "league": "USL League One",
+      "leagueId": 916345,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-11T03:00:00.000Z"
     },
     {
       "id": "fm-1000007582",
