@@ -1,21 +1,36 @@
 {
-  "lastUpdated": "2026-06-12T13:41:24.176074+00:00",
+  "lastUpdated": "2026-06-12T14:48:01.828842+00:00",
   "matchCount": 46,
-  "liveCount": 2,
+  "liveCount": 3,
   "matches": [
+    {
+      "id": "fm-5215434",
+      "home": "Isloch",
+      "away": "Naftan Novopolotsk",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/439329.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10071.png",
+      "league": "Premier League",
+      "leagueId": 923169,
+      "country": "BLR",
+      "status": "LIVE",
+      "minute": "HT",
+      "time": "2026-06-12T14:00:00.000Z"
+    },
     {
       "id": "fm-4951099",
       "home": "Coastal Union",
       "away": "Namungo FC",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/287669.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1084108.png",
       "league": "Premier League",
       "leagueId": 9066,
       "country": "TAN",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "89‎’‎",
       "time": "2026-06-12T13:00:00.000Z"
     },
     {
@@ -23,14 +38,14 @@
       "home": "Fountain Gate FC",
       "away": "Azam FC",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1396530.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165091.png",
       "league": "Premier League",
       "leagueId": 9066,
       "country": "TAN",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "89‎’‎",
       "time": "2026-06-12T13:00:00.000Z"
     },
     {
@@ -484,21 +499,6 @@
       "time": "2026-06-12T19:00:00.000Z"
     },
     {
-      "id": "fm-5215434",
-      "home": "Isloch",
-      "away": "Naftan Novopolotsk",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/439329.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10071.png",
-      "league": "Premier League",
-      "leagueId": 923169,
-      "country": "BLR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-12T14:00:00.000Z"
-    },
-    {
       "id": "fm-5215430",
       "home": "Belshina Bobruisk",
       "away": "BATE Borisov",
@@ -556,7 +556,7 @@
       "country": "TAN",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-06-12T15:30:00.000Z"
+      "time": "2026-06-12T17:00:00.000Z"
     },
     {
       "id": "fm-5163985",
