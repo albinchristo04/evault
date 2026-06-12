@@ -1,36 +1,21 @@
 {
-  "lastUpdated": "2026-06-12T21:06:55.248288+00:00",
+  "lastUpdated": "2026-06-12T21:48:22.068825+00:00",
   "matchCount": 46,
-  "liveCount": 2,
+  "liveCount": 1,
   "matches": [
-    {
-      "id": "fm-5225784",
-      "home": "Throttur Reykjavik",
-      "away": "HK Kopavogs",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4661.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4516.png",
-      "league": "1. Deild",
-      "leagueId": 216,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "91‎’‎",
-      "time": "2026-06-12T19:15:00.000Z"
-    },
     {
       "id": "fm-5653102",
       "home": "IA Akranes",
       "away": "Vikingur Reykjavik",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8004.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6017.png",
       "league": "Cup",
       "leagueId": 925063,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "72‎’‎",
       "time": "2026-06-12T20:15:00.000Z"
     },
     {
@@ -77,6 +62,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-12T19:00:00.000Z"
+    },
+    {
+      "id": "fm-5225784",
+      "home": "Throttur Reykjavik",
+      "away": "HK Kopavogs",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4661.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4516.png",
+      "league": "1. Deild",
+      "leagueId": 216,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-12T19:15:00.000Z"
     },
     {
       "id": "fm-5143669",
