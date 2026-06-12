@@ -1,51 +1,21 @@
 {
-  "lastUpdated": "2026-06-12T17:55:19.905395+00:00",
+  "lastUpdated": "2026-06-12T18:42:37.778411+00:00",
   "matchCount": 46,
-  "liveCount": 17,
+  "liveCount": 12,
   "matches": [
-    {
-      "id": "fm-5143669",
-      "home": "Follo",
-      "away": "Kjelsås",
-      "homeScore": 1,
-      "awayScore": 4,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7963.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6560.png",
-      "league": "2. Divisjon Avd. 2",
-      "leagueId": 919791,
-      "country": "NOR",
-      "status": "LIVE",
-      "minute": "97‎’‎",
-      "time": "2026-06-12T16:00:00.000Z"
-    },
-    {
-      "id": "fm-5185236",
-      "home": "Dziugas Telsiai",
-      "away": "FA Siauliai",
-      "homeScore": 3,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/624858.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1099941.png",
-      "league": "A Lyga",
-      "leagueId": 228,
-      "country": "LTU",
-      "status": "LIVE",
-      "minute": "94‎’‎",
-      "time": "2026-06-12T16:00:00.000Z"
-    },
     {
       "id": "fm-5185237",
       "home": "Zalgiris Vilnius",
       "away": "Riteriai",
       "homeScore": 3,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4616.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/257518.png",
       "league": "A Lyga",
       "leagueId": 228,
       "country": "LTU",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "82‎’‎",
       "time": "2026-06-12T17:00:00.000Z"
     },
     {
@@ -53,21 +23,21 @@
       "home": "CODM Meknes",
       "away": "Renaissance Club Zemamra",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102032.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/950070.png",
       "league": "Botola Pro",
       "leagueId": 530,
       "country": "MAR",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "79‎’‎",
       "time": "2026-06-12T17:00:00.000Z"
     },
     {
       "id": "fm-5765488",
       "home": "Difaa El Jadida",
       "away": "Olympique Dcheira",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102033.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/570487.png",
@@ -75,7 +45,7 @@
       "leagueId": 530,
       "country": "MAR",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "82‎’‎",
       "time": "2026-06-12T17:00:00.000Z"
     },
     {
@@ -83,14 +53,14 @@
       "home": "Ægir",
       "away": "Breidablik",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/559291.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8332.png",
       "league": "Cup",
       "leagueId": 925063,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "26‎’‎",
+      "minute": "55‎’‎",
       "time": "2026-06-12T17:30:00.000Z"
     },
     {
@@ -98,14 +68,14 @@
       "home": "Vittsjö GIK (W)",
       "away": "Kristianstads DFF (W)",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/300220.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/181470.png",
       "league": "Damallsvenskan",
       "leagueId": 9089,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "87‎’‎",
       "time": "2026-06-12T17:00:00.000Z"
     },
     {
@@ -120,7 +90,7 @@
       "leagueId": 439,
       "country": "GEO",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "75‎’‎",
       "time": "2026-06-12T17:00:00.000Z"
     },
     {
@@ -135,14 +105,14 @@
       "leagueId": 918043,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "86‎’‎",
       "time": "2026-06-12T17:00:00.000Z"
     },
     {
       "id": "fm-5127852",
       "home": "Lunds BK",
       "away": "AFC Malmoe",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6174.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1331261.png",
@@ -150,52 +120,22 @@
       "leagueId": 918053,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "84‎’‎",
       "time": "2026-06-12T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5234905",
-      "home": "Åland United (W)",
-      "away": "HJK (W)",
-      "homeScore": 2,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/552493.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/545023.png",
-      "league": "Kansallinen Liiga",
-      "leagueId": 923619,
-      "country": "FIN",
-      "status": "LIVE",
-      "minute": "100‎’‎",
-      "time": "2026-06-12T16:00:00.000Z"
-    },
-    {
-      "id": "fm-5144497",
-      "home": "Alta",
-      "away": "Tromsø 2",
-      "homeScore": 2,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8353.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6538.png",
-      "league": "3. Divisjon Avd. 5",
-      "leagueId": 919796,
-      "country": "NOR",
-      "status": "LIVE",
-      "minute": "65‎’‎",
-      "time": "2026-06-12T16:30:00.000Z"
     },
     {
       "id": "fm-5144314",
       "home": "Varhaug",
       "away": "Viking 2",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4230.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10018.png",
       "league": "3. Divisjon Avd. 4",
       "leagueId": 919795,
       "country": "NOR",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "86‎’‎",
       "time": "2026-06-12T17:00:00.000Z"
     },
     {
@@ -203,14 +143,14 @@
       "home": "Al Nasr",
       "away": "Kazma",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101710.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101718.png",
       "league": "Premier League",
       "leagueId": 902649,
       "country": "KUW",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-06-12T17:45:00.000Z"
     },
     {
@@ -225,7 +165,7 @@
       "leagueId": 902649,
       "country": "KUW",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-06-12T17:45:00.000Z"
     },
     {
@@ -240,23 +180,8 @@
       "leagueId": 9066,
       "country": "TAN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "82‎’‎",
       "time": "2026-06-12T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5161998",
-      "home": "FK Liepaja",
-      "away": "SK Super Nova",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8016.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/981193.png",
-      "league": "Virsliga",
-      "leagueId": 226,
-      "country": "LVA",
-      "status": "LIVE",
-      "minute": "92‎’‎",
-      "time": "2026-06-12T16:00:00.000Z"
     },
     {
       "id": "fm-4667757",
@@ -469,6 +394,21 @@
       "time": "2026-06-12T02:00:00.000Z"
     },
     {
+      "id": "fm-5143669",
+      "home": "Follo",
+      "away": "Kjelsås",
+      "homeScore": 1,
+      "awayScore": 4,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7963.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6560.png",
+      "league": "2. Divisjon Avd. 2",
+      "leagueId": 919791,
+      "country": "NOR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-12T16:00:00.000Z"
+    },
+    {
       "id": "fm-5185239",
       "home": "FK Panevezys",
       "away": "FK TransINVEST",
@@ -482,6 +422,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-12T15:30:00.000Z"
+    },
+    {
+      "id": "fm-5185236",
+      "home": "Dziugas Telsiai",
+      "away": "FA Siauliai",
+      "homeScore": 4,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/624858.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1099941.png",
+      "league": "A Lyga",
+      "leagueId": 228,
+      "country": "LTU",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-12T16:00:00.000Z"
     },
     {
       "id": "fm-5765485",
@@ -542,6 +497,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-12T15:30:00.000Z"
+    },
+    {
+      "id": "fm-5234905",
+      "home": "Åland United (W)",
+      "away": "HJK (W)",
+      "homeScore": 2,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/552493.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/545023.png",
+      "league": "Kansallinen Liiga",
+      "leagueId": 923619,
+      "country": "FIN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-12T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5144497",
+      "home": "Alta",
+      "away": "Tromsø 2",
+      "homeScore": 3,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8353.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6538.png",
+      "league": "3. Divisjon Avd. 5",
+      "leagueId": 919796,
+      "country": "NOR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-12T16:30:00.000Z"
     },
     {
       "id": "fm-5215434",
@@ -692,6 +677,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-12T15:00:00.000Z"
+    },
+    {
+      "id": "fm-5161998",
+      "home": "FK Liepaja",
+      "away": "SK Super Nova",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8016.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/981193.png",
+      "league": "Virsliga",
+      "leagueId": 226,
+      "country": "LVA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-12T16:00:00.000Z"
     }
   ]
 }
