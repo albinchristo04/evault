@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-06-13T01:24:23.420230+00:00",
+  "lastUpdated": "2026-06-13T02:21:32.672519+00:00",
   "matchCount": 150,
-  "liveCount": 3,
+  "liveCount": 2,
   "matches": [
     {
       "id": "fm-4667771",
       "home": "USA",
       "away": "Paraguay",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
@@ -15,7 +15,7 @@
       "leagueId": 894793,
       "country": "INT",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "58‎’‎",
       "time": "2026-06-13T01:00:00.000Z"
     },
     {
@@ -30,23 +30,8 @@
       "leagueId": 923719,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "55‎’‎",
       "time": "2026-06-13T01:00:00.000Z"
-    },
-    {
-      "id": "fm-5140529",
-      "home": "Audax Italiano",
-      "away": "La Serena",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4058.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1891.png",
-      "league": "Primera División",
-      "leagueId": 273,
-      "country": "CHI",
-      "status": "LIVE",
-      "minute": "65‎’‎",
-      "time": "2026-06-13T00:00:00.000Z"
     },
     {
       "id": "fm-4667758",
@@ -1496,6 +1481,21 @@
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/213537.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/581820.png",
+      "league": "Primera B Metropolitana",
+      "leagueId": 916561,
+      "country": "ARG",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-06-13T18:30:00.000Z"
+    },
+    {
+      "id": "fm-5113890",
+      "home": "Sportivo Italiano",
+      "away": "Excursionistas",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/213533.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/298633.png",
       "league": "Primera B Metropolitana",
       "leagueId": 916561,
       "country": "ARG",
