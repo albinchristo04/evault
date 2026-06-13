@@ -1,51 +1,51 @@
 {
-  "lastUpdated": "2026-06-13T16:32:57.561950+00:00",
+  "lastUpdated": "2026-06-13T17:04:34.975716+00:00",
   "matchCount": 150,
-  "liveCount": 13,
+  "liveCount": 14,
   "matches": [
     {
-      "id": "fm-5653103",
-      "home": "Fylkir",
-      "away": "Grotta",
-      "homeScore": 3,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6434.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/175111.png",
-      "league": "Cup",
-      "leagueId": 925063,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "118‎’‎",
-      "time": "2026-06-13T14:00:00.000Z"
-    },
-    {
-      "id": "fm-5165323",
-      "home": "FC Rustavi",
-      "away": "FC Meshakhte Tkibuli",
+      "id": "fm-5165325",
+      "home": "FC Samgurali Tskhaltubo",
+      "away": "Torpedo Kutaisi",
       "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/321780.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/316427.png",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/316432.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2216.png",
       "league": "Erovnuli Liga",
       "leagueId": 439,
       "country": "GEO",
       "status": "LIVE",
-      "minute": "72‎’‎",
-      "time": "2026-06-13T15:00:00.000Z"
+      "minute": "3‎’‎",
+      "time": "2026-06-13T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5772510",
+      "home": "Portugal U20",
+      "away": "Tunisia U23",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5956.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/318826.png",
+      "league": "Maurice Revello Tournament",
+      "leagueId": 936945,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "2‎’‎",
+      "time": "2026-06-13T17:00:00.000Z"
     },
     {
       "id": "fm-5143953",
       "home": "NTNUI",
       "away": "Aalesund 2",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4361.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8114.png",
       "league": "3. Divisjon Avd. 2",
       "leagueId": 919793,
       "country": "NOR",
       "status": "LIVE",
-      "minute": "2‎’‎",
+      "minute": "34‎’‎",
       "time": "2026-06-13T16:30:00.000Z"
     },
     {
@@ -60,7 +60,7 @@
       "leagueId": 923169,
       "country": "BLR",
       "status": "LIVE",
-      "minute": "32‎’‎",
+      "minute": "47‎’‎",
       "time": "2026-06-13T16:00:00.000Z"
     },
     {
@@ -68,29 +68,44 @@
       "home": "JKT Tanzania",
       "away": "Singida Black Stars",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1045552.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1171766.png",
       "league": "Premier League",
       "leagueId": 9066,
       "country": "TAN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "77‎’‎",
       "time": "2026-06-13T15:30:00.000Z"
+    },
+    {
+      "id": "fm-5750962",
+      "home": "Ponferradina",
+      "away": "Celta Fortuna",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8005.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161743.png",
+      "league": "Primera Federacion Promotion Playoff",
+      "leagueId": 933862,
+      "country": "ESP",
+      "status": "LIVE",
+      "minute": "32‎’‎",
+      "time": "2026-06-13T16:30:00.000Z"
     },
     {
       "id": "fm-5760413",
       "home": "Uruguay Montevideo",
       "away": "Miramar Misiones",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1257662.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4424.png",
       "league": "Segunda Division",
       "leagueId": 922761,
       "country": "URU",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "HT",
       "time": "2026-06-13T16:00:00.000Z"
     },
     {
@@ -105,7 +120,7 @@
       "leagueId": 936335,
       "country": "IRQ",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "95‎’‎",
       "time": "2026-06-13T15:30:00.000Z"
     },
     {
@@ -120,7 +135,7 @@
       "leagueId": 919925,
       "country": "FIN",
       "status": "LIVE",
-      "minute": "31‎’‎",
+      "minute": "HT",
       "time": "2026-06-13T16:00:00.000Z"
     },
     {
@@ -135,7 +150,7 @@
       "leagueId": 919925,
       "country": "FIN",
       "status": "LIVE",
-      "minute": "32‎’‎",
+      "minute": "HT",
       "time": "2026-06-13T16:00:00.000Z"
     },
     {
@@ -150,8 +165,23 @@
       "leagueId": 920263,
       "country": "FIN",
       "status": "LIVE",
-      "minute": "46‎’‎",
+      "minute": "78‎’‎",
       "time": "2026-06-13T15:30:00.000Z"
+    },
+    {
+      "id": "fm-1000009175",
+      "home": "Halifax Tides FC",
+      "away": "Calgary Wild FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1739714.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1739712.png",
+      "league": "Northern Super League",
+      "leagueId": 10872,
+      "country": "CAN",
+      "status": "LIVE",
+      "minute": "25‎’‎",
+      "time": "2026-06-13T16:30:00.000Z"
     },
     {
       "id": "fm-1000007893",
@@ -165,7 +195,7 @@
       "leagueId": 248,
       "country": "EST",
       "status": "LIVE",
-      "minute": "32‎’‎",
+      "minute": "HT",
       "time": "2026-06-13T16:00:00.000Z"
     },
     {
@@ -180,23 +210,8 @@
       "leagueId": 273,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "2‎’‎",
+      "minute": "34‎’‎",
       "time": "2026-06-13T16:30:00.000Z"
-    },
-    {
-      "id": "fm-5162001",
-      "home": "Auda",
-      "away": "FK Jelgava",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2106.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/192962.png",
-      "league": "Virsliga",
-      "leagueId": 226,
-      "country": "LVA",
-      "status": "LIVE",
-      "minute": "73‎’‎",
-      "time": "2026-06-13T15:00:00.000Z"
     },
     {
       "id": "fm-4667758",
@@ -227,21 +242,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-13T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5165325",
-      "home": "FC Samgurali Tskhaltubo",
-      "away": "Torpedo Kutaisi",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/316432.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2216.png",
-      "league": "Erovnuli Liga",
-      "leagueId": 439,
-      "country": "GEO",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-13T17:00:00.000Z"
     },
     {
       "id": "fm-5238309",
@@ -287,21 +287,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-13T18:30:00.000Z"
-    },
-    {
-      "id": "fm-5772510",
-      "home": "Portugal U20",
-      "away": "Tunisia U23",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5956.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/318826.png",
-      "league": "Maurice Revello Tournament",
-      "leagueId": 936945,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-13T17:00:00.000Z"
     },
     {
       "id": "fm-5215433",
@@ -467,21 +452,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-13T18:30:00.000Z"
-    },
-    {
-      "id": "fm-5750962",
-      "home": "Ponferradina",
-      "away": "Celta Fortuna",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8005.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161743.png",
-      "league": "Primera Federacion Promotion Playoff",
-      "leagueId": 933862,
-      "country": "ESP",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-13T16:30:00.000Z"
     },
     {
       "id": "fm-5750963",
@@ -662,21 +632,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-13T21:30:00.000Z"
-    },
-    {
-      "id": "fm-1000009175",
-      "home": "Halifax Tides FC",
-      "away": "Calgary Wild FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1739714.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1739712.png",
-      "league": "Northern Super League",
-      "leagueId": 10872,
-      "country": "CAN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-13T16:30:00.000Z"
     },
     {
       "id": "fm-1000009176",
@@ -1114,6 +1069,21 @@
       "time": "2026-06-13T12:00:00.000Z"
     },
     {
+      "id": "fm-5653103",
+      "home": "Fylkir",
+      "away": "Grotta",
+      "homeScore": 4,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6434.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/175111.png",
+      "league": "Cup",
+      "leagueId": 925063,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-13T14:00:00.000Z"
+    },
+    {
       "id": "fm-5107855",
       "home": "Piteå IF (W)",
       "away": "Brommapojkarna (W)",
@@ -1247,6 +1217,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-13T12:00:00.000Z"
+    },
+    {
+      "id": "fm-5165323",
+      "home": "FC Rustavi",
+      "away": "FC Meshakhte Tkibuli",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/321780.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/316427.png",
+      "league": "Erovnuli Liga",
+      "leagueId": 439,
+      "country": "GEO",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-13T15:00:00.000Z"
     },
     {
       "id": "fm-5127502",
@@ -1496,6 +1481,21 @@
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6539.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8117.png",
+      "league": "3. Divisjon Avd. 3",
+      "leagueId": 919794,
+      "country": "NOR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-13T11:00:00.000Z"
+    },
+    {
+      "id": "fm-5144133",
+      "home": "Sogndal 2",
+      "away": "Djerv 1919",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4384.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/46917.png",
       "league": "3. Divisjon Avd. 3",
       "leagueId": 919794,
       "country": "NOR",
