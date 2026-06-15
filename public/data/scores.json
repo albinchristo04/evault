@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-15T01:12:53.366725+00:00",
+  "lastUpdated": "2026-06-15T02:07:09.326020+00:00",
   "matchCount": 30,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
     {
       "id": "fm-4667784",
@@ -14,8 +14,8 @@
       "league": "World Cup Grp. F",
       "leagueId": 894795,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "7‎’‎",
       "time": "2026-06-15T02:00:00.000Z"
     },
     {
