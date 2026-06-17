@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-06-17T12:33:28.930780+00:00",
+  "lastUpdated": "2026-06-17T13:57:27.750558+00:00",
   "matchCount": 41,
   "liveCount": 1,
   "matches": [
     {
-      "id": "fm-4951109",
-      "home": "Mbeya City",
-      "away": "Simba SC",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/465620.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165086.png",
+      "id": "fm-4951111",
+      "home": "Singida Black Stars",
+      "away": "Dodoma Jiji FC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1171766.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1177034.png",
       "league": "Premier League",
       "leagueId": 9066,
       "country": "TAN",
       "status": "LIVE",
-      "minute": "73‎’‎",
-      "time": "2026-06-17T11:00:00.000Z"
+      "minute": "43‎’‎",
+      "time": "2026-06-17T13:00:00.000Z"
     },
     {
       "id": "fm-4667819",
@@ -334,21 +334,6 @@
       "time": "2026-06-17T14:00:00.000Z"
     },
     {
-      "id": "fm-4951111",
-      "home": "Singida Black Stars",
-      "away": "Dodoma Jiji FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1171766.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1177034.png",
-      "league": "Premier League",
-      "leagueId": 9066,
-      "country": "TAN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-17T13:00:00.000Z"
-    },
-    {
       "id": "fm-5781648",
       "home": "Al-Jahra",
       "away": "Al-Tadhamon",
@@ -602,6 +587,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-17T04:00:00.000Z"
+    },
+    {
+      "id": "fm-4951109",
+      "home": "Mbeya City",
+      "away": "Simba SC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/465620.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165086.png",
+      "league": "Premier League",
+      "leagueId": 9066,
+      "country": "TAN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-17T11:00:00.000Z"
     },
     {
       "id": "fm-5190563",
