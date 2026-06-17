@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-06-17T21:53:51.934632+00:00",
+  "lastUpdated": "2026-06-17T22:36:19.836262+00:00",
   "matchCount": 41,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-4667825",
-      "home": "England",
-      "away": "Croatia",
-      "homeScore": 4,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
-      "league": "World Cup Grp. L",
-      "leagueId": 894801,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "90‎’‎",
-      "time": "2026-06-17T20:00:00.000Z"
-    },
     {
       "id": "fm-4667812",
       "home": "Argentina",
@@ -62,6 +47,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-17T17:00:00.000Z"
+    },
+    {
+      "id": "fm-4667825",
+      "home": "England",
+      "away": "Croatia",
+      "homeScore": 4,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
+      "league": "World Cup Grp. L",
+      "leagueId": 894801,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-17T20:00:00.000Z"
     },
     {
       "id": "fm-5225782",
