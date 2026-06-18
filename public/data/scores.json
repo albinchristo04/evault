@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-06-18T10:32:41.961871+00:00",
+  "lastUpdated": "2026-06-18T11:56:42.784423+00:00",
   "matchCount": 40,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5147571",
-      "home": "AC Oulu",
-      "away": "IFK Mariehamn",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4449.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6634.png",
-      "league": "Veikkausliiga",
-      "leagueId": 919925,
-      "country": "FIN",
-      "status": "LIVE",
-      "minute": "32‎’‎",
-      "time": "2026-06-18T09:59:00.000Z"
-    },
     {
       "id": "fm-4667753",
       "home": "Czechia",
@@ -557,6 +542,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-18T01:30:00.000Z"
+    },
+    {
+      "id": "fm-5147571",
+      "home": "AC Oulu",
+      "away": "IFK Mariehamn",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4449.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6634.png",
+      "league": "Veikkausliiga",
+      "leagueId": 919925,
+      "country": "FIN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-18T09:59:00.000Z"
     },
     {
       "id": "fm-1000007798",
