@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-06-18T20:35:17.433748+00:00",
+  "lastUpdated": "2026-06-18T21:26:45.078316+00:00",
   "matchCount": 40,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-4667759",
-      "home": "Switzerland",
-      "away": "Bosnia and Herzegovina",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
-      "league": "World Cup Grp. B",
-      "leagueId": 894791,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "76‎’‎",
-      "time": "2026-06-18T19:00:00.000Z"
-    },
     {
       "id": "fm-4667760",
       "home": "Canada",
@@ -77,6 +62,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-18T16:00:00.000Z"
+    },
+    {
+      "id": "fm-4667759",
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "homeScore": 4,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
+      "league": "World Cup Grp. B",
+      "leagueId": 894791,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-18T19:00:00.000Z"
     },
     {
       "id": "fm-5778520",
