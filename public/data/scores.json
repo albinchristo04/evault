@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-19T22:31:19.033574+00:00",
+  "lastUpdated": "2026-06-19T23:01:12.683067+00:00",
   "matchCount": 39,
-  "liveCount": 3,
+  "liveCount": 2,
   "matches": [
     {
       "id": "fm-4667766",
@@ -15,7 +15,7 @@
       "leagueId": 894792,
       "country": "INT",
       "status": "LIVE",
-      "minute": "32‎’‎",
+      "minute": "HT",
       "time": "2026-06-19T22:00:00.000Z"
     },
     {
@@ -30,23 +30,8 @@
       "leagueId": 916561,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "HT",
       "time": "2026-06-19T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5774392",
-      "home": "Miramar Misiones",
-      "away": "Huracan FC",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4424.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/215609.png",
-      "league": "Segunda Division",
-      "leagueId": 922761,
-      "country": "URU",
-      "status": "LIVE",
-      "minute": "69‎’‎",
-      "time": "2026-06-19T21:00:00.000Z"
     },
     {
       "id": "fm-4667754",
@@ -542,6 +527,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-19T19:00:00.000Z"
+    },
+    {
+      "id": "fm-5774392",
+      "home": "Miramar Misiones",
+      "away": "Huracan FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4424.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/215609.png",
+      "league": "Segunda Division",
+      "leagueId": 922761,
+      "country": "URU",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-19T21:00:00.000Z"
     },
     {
       "id": "fm-1000008063",
