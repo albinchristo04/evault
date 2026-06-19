@@ -1,36 +1,21 @@
 {
-  "lastUpdated": "2026-06-19T21:37:18.420835+00:00",
+  "lastUpdated": "2026-06-19T22:04:15.766180+00:00",
   "matchCount": 39,
-  "liveCount": 1,
+  "liveCount": 3,
   "matches": [
-    {
-      "id": "fm-5774392",
-      "home": "Miramar Misiones",
-      "away": "Huracan FC",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4424.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/215609.png",
-      "league": "Segunda Division",
-      "leagueId": 922761,
-      "country": "URU",
-      "status": "LIVE",
-      "minute": "35‎’‎",
-      "time": "2026-06-19T21:00:00.000Z"
-    },
     {
       "id": "fm-4667766",
       "home": "Scotland",
       "away": "Morocco",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
       "league": "World Cup Grp. C",
       "leagueId": 894792,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "5‎’‎",
       "time": "2026-06-19T22:00:00.000Z"
     },
     {
@@ -44,9 +29,24 @@
       "league": "Primera B Metropolitana",
       "leagueId": 916561,
       "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "1‎’‎",
       "time": "2026-06-19T22:00:00.000Z"
+    },
+    {
+      "id": "fm-5774392",
+      "home": "Miramar Misiones",
+      "away": "Huracan FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4424.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/215609.png",
+      "league": "Segunda Division",
+      "leagueId": 922761,
+      "country": "URU",
+      "status": "LIVE",
+      "minute": "HT",
+      "time": "2026-06-19T21:00:00.000Z"
     },
     {
       "id": "fm-4667754",
