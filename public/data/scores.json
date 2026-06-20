@@ -1,36 +1,21 @@
 {
-  "lastUpdated": "2026-06-20T02:09:59.961161+00:00",
+  "lastUpdated": "2026-06-20T03:23:34.259779+00:00",
   "matchCount": 145,
   "liveCount": 1,
   "matches": [
-    {
-      "id": "fm-4667767",
-      "home": "Brazil",
-      "away": "Haiti",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5934.png",
-      "league": "World Cup Grp. C",
-      "leagueId": 894792,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "75‎’‎",
-      "time": "2026-06-20T00:30:00.000Z"
-    },
     {
       "id": "fm-4667773",
       "home": "Turkiye",
       "away": "Paraguay",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
       "league": "World Cup Grp. D",
       "leagueId": 894793,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "24‎’‎",
       "time": "2026-06-20T03:00:00.000Z"
     },
     {
@@ -1502,6 +1487,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-20T13:00:00.000Z"
+    },
+    {
+      "id": "fm-5774394",
+      "home": "Fenix",
+      "away": "Oriental",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7808.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/688270.png",
+      "league": "Segunda Division",
+      "leagueId": 922761,
+      "country": "URU",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-06-20T16:00:00.000Z"
     }
   ]
 }
