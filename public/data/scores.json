@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-06-24T21:36:40.682015+00:00",
+  "lastUpdated": "2026-06-24T22:05:23.715558+00:00",
   "matchCount": 27,
-  "liveCount": 1,
+  "liveCount": 2,
   "matches": [
-    {
-      "id": "fm-5496035",
-      "home": "La Serena",
-      "away": "Cobresal",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1891.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4055.png",
-      "league": "Cup Grp. C",
-      "leagueId": 920444,
-      "country": "CHI",
-      "status": "LIVE",
-      "minute": "75‎’‎",
-      "time": "2026-06-24T20:00:00.000Z"
-    },
     {
       "id": "fm-4667769",
       "home": "Morocco",
@@ -29,8 +14,8 @@
       "league": "World Cup Grp. C",
       "leagueId": 894792,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "5‎’‎",
       "time": "2026-06-24T22:00:00.000Z"
     },
     {
@@ -44,8 +29,8 @@
       "league": "World Cup Grp. C",
       "leagueId": 894792,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "5‎’‎",
       "time": "2026-06-24T22:00:00.000Z"
     },
     {
@@ -137,6 +122,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-24T00:30:00.000Z"
+    },
+    {
+      "id": "fm-5496035",
+      "home": "La Serena",
+      "away": "Cobresal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1891.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4055.png",
+      "league": "Cup Grp. C",
+      "leagueId": 920444,
+      "country": "CHI",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-24T20:00:00.000Z"
     },
     {
       "id": "fm-5496082",
