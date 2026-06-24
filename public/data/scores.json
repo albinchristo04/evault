@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2026-06-24T19:38:15.682326+00:00",
+  "lastUpdated": "2026-06-24T20:19:32.975820+00:00",
   "matchCount": 27,
-  "liveCount": 2,
+  "liveCount": 3,
   "matches": [
     {
       "id": "fm-4667762",
       "home": "Bosnia and Herzegovina",
       "away": "Qatar",
       "homeScore": 2,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5902.png",
       "league": "World Cup Grp. B",
       "leagueId": 894791,
       "country": "INT",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "58‎’‎",
       "time": "2026-06-24T19:00:00.000Z"
     },
     {
       "id": "fm-4667761",
       "home": "Switzerland",
       "away": "Canada",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
@@ -30,8 +30,23 @@
       "leagueId": 894791,
       "country": "INT",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "61‎’‎",
       "time": "2026-06-24T19:00:00.000Z"
+    },
+    {
+      "id": "fm-5496035",
+      "home": "La Serena",
+      "away": "Cobresal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1891.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4055.png",
+      "league": "Cup Grp. C",
+      "leagueId": 920444,
+      "country": "CHI",
+      "status": "LIVE",
+      "minute": "19‎’‎",
+      "time": "2026-06-24T20:00:00.000Z"
     },
     {
       "id": "fm-4667769",
@@ -62,21 +77,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-24T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5496035",
-      "home": "La Serena",
-      "away": "Cobresal",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1891.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4055.png",
-      "league": "Cup Grp. C",
-      "leagueId": 920444,
-      "country": "CHI",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-24T20:00:00.000Z"
     },
     {
       "id": "fm-4667827",
