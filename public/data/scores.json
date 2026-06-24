@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-06-24T20:19:32.975820+00:00",
+  "lastUpdated": "2026-06-24T20:58:40.077895+00:00",
   "matchCount": 27,
-  "liveCount": 3,
+  "liveCount": 2,
   "matches": [
     {
       "id": "fm-4667762",
       "home": "Bosnia and Herzegovina",
       "away": "Qatar",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5902.png",
@@ -15,22 +15,7 @@
       "leagueId": 894791,
       "country": "INT",
       "status": "LIVE",
-      "minute": "58‎’‎",
-      "time": "2026-06-24T19:00:00.000Z"
-    },
-    {
-      "id": "fm-4667761",
-      "home": "Switzerland",
-      "away": "Canada",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
-      "league": "World Cup Grp. B",
-      "leagueId": 894791,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "61‎’‎",
+      "minute": "97‎’‎",
       "time": "2026-06-24T19:00:00.000Z"
     },
     {
@@ -45,7 +30,7 @@
       "leagueId": 920444,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "19‎’‎",
+      "minute": "HT",
       "time": "2026-06-24T20:00:00.000Z"
     },
     {
@@ -107,6 +92,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-24T02:00:00.000Z"
+    },
+    {
+      "id": "fm-4667761",
+      "home": "Switzerland",
+      "away": "Canada",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
+      "league": "World Cup Grp. B",
+      "leagueId": 894791,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-24T19:00:00.000Z"
     },
     {
       "id": "fm-5821691",
