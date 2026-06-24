@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-24T02:05:04.531181+00:00",
+  "lastUpdated": "2026-06-24T03:22:10.437499+00:00",
   "matchCount": 27,
-  "liveCount": 3,
+  "liveCount": 1,
   "matches": [
     {
       "id": "fm-4667821",
@@ -15,38 +15,8 @@
       "leagueId": 894800,
       "country": "INT",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "61‎’‎",
       "time": "2026-06-24T02:00:00.000Z"
-    },
-    {
-      "id": "fm-5496027",
-      "home": "Everton CD",
-      "away": "Universidad Catolica",
-      "homeScore": 1,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1890.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6458.png",
-      "league": "Cup Grp. B",
-      "leagueId": 920443,
-      "country": "CHI",
-      "status": "LIVE",
-      "minute": "74‎’‎",
-      "time": "2026-06-24T00:30:00.000Z"
-    },
-    {
-      "id": "fm-5496082",
-      "home": "Palestino",
-      "away": "Audax Italiano",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6455.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4058.png",
-      "league": "Cup Grp. G",
-      "leagueId": 920450,
-      "country": "CHI",
-      "status": "LIVE",
-      "minute": "73‎’‎",
-      "time": "2026-06-24T00:30:00.000Z"
     },
     {
       "id": "fm-4667762",
@@ -392,6 +362,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-23T23:00:00.000Z"
+    },
+    {
+      "id": "fm-5496027",
+      "home": "Everton CD",
+      "away": "Universidad Catolica",
+      "homeScore": 1,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1890.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6458.png",
+      "league": "Cup Grp. B",
+      "leagueId": 920443,
+      "country": "CHI",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-24T00:30:00.000Z"
+    },
+    {
+      "id": "fm-5496082",
+      "home": "Palestino",
+      "away": "Audax Italiano",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6455.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4058.png",
+      "league": "Cup Grp. G",
+      "leagueId": 920450,
+      "country": "CHI",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-24T00:30:00.000Z"
     },
     {
       "id": "fm-5190571",
