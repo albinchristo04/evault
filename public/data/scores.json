@@ -1,37 +1,37 @@
 {
-  "lastUpdated": "2026-06-24T00:12:50.551365+00:00",
+  "lastUpdated": "2026-06-24T01:16:20.030876+00:00",
   "matchCount": 27,
   "liveCount": 2,
   "matches": [
     {
-      "id": "fm-4667827",
-      "home": "Panama",
-      "away": "Croatia",
+      "id": "fm-5496027",
+      "home": "Everton CD",
+      "away": "Universidad Catolica",
       "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5922.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
-      "league": "World Cup Grp. L",
-      "leagueId": 894801,
-      "country": "INT",
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1890.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6458.png",
+      "league": "Cup Grp. B",
+      "leagueId": 920443,
+      "country": "CHI",
       "status": "LIVE",
-      "minute": "54‎’‎",
-      "time": "2026-06-23T23:00:00.000Z"
+      "minute": "46‎’‎",
+      "time": "2026-06-24T00:30:00.000Z"
     },
     {
-      "id": "fm-5190571",
-      "home": "America MG",
-      "away": "Criciuma",
+      "id": "fm-5496082",
+      "home": "Palestino",
+      "away": "Audax Italiano",
       "homeScore": 0,
       "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1757.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7729.png",
-      "league": "Serie B",
-      "leagueId": 8814,
-      "country": "BRA",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6455.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4058.png",
+      "league": "Cup Grp. G",
+      "leagueId": 920450,
+      "country": "CHI",
       "status": "LIVE",
-      "minute": "54‎’‎",
-      "time": "2026-06-23T23:00:00.000Z"
+      "minute": "46‎’‎",
+      "time": "2026-06-24T00:30:00.000Z"
     },
     {
       "id": "fm-4667821",
@@ -124,21 +124,6 @@
       "time": "2026-06-24T16:00:00.000Z"
     },
     {
-      "id": "fm-5496027",
-      "home": "Everton CD",
-      "away": "Universidad Catolica",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1890.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6458.png",
-      "league": "Cup Grp. B",
-      "leagueId": 920443,
-      "country": "CHI",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-24T00:30:00.000Z"
-    },
-    {
       "id": "fm-5496035",
       "home": "La Serena",
       "away": "Cobresal",
@@ -152,21 +137,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-24T20:00:00.000Z"
-    },
-    {
-      "id": "fm-5496082",
-      "home": "Palestino",
-      "away": "Audax Italiano",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6455.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4058.png",
-      "league": "Cup Grp. G",
-      "leagueId": 920450,
-      "country": "CHI",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-24T00:30:00.000Z"
     },
     {
       "id": "fm-5107866",
@@ -407,6 +377,36 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-24T13:00:00.000Z"
+    },
+    {
+      "id": "fm-4667827",
+      "home": "Panama",
+      "away": "Croatia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5922.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
+      "league": "World Cup Grp. L",
+      "leagueId": 894801,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-23T23:00:00.000Z"
+    },
+    {
+      "id": "fm-5190571",
+      "home": "America MG",
+      "away": "Criciuma",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1757.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7729.png",
+      "league": "Serie B",
+      "leagueId": 8814,
+      "country": "BRA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-23T23:00:00.000Z"
     }
   ]
 }
