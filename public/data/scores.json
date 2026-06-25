@@ -1,83 +1,8 @@
 {
-  "lastUpdated": "2026-06-25T02:04:32.136146+00:00",
+  "lastUpdated": "2026-06-25T03:21:46.043596+00:00",
   "matchCount": 40,
-  "liveCount": 6,
+  "liveCount": 1,
   "matches": [
-    {
-      "id": "fm-4667755",
-      "home": "Czechia",
-      "away": "Mexico",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8496.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
-      "league": "World Cup Grp. A",
-      "leagueId": 894790,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-06-25T01:00:00.000Z"
-    },
-    {
-      "id": "fm-4667756",
-      "home": "South Africa",
-      "away": "South Korea",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6316.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
-      "league": "World Cup Grp. A",
-      "leagueId": 894790,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-06-25T01:00:00.000Z"
-    },
-    {
-      "id": "fm-5109813",
-      "home": "Colorado Springs Switchbacks FC",
-      "away": "San Antonio FC",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614321.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/722269.png",
-      "league": "USL Championship",
-      "leagueId": 8972,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "96‎’‎",
-      "time": "2026-06-25T00:00:00.000Z"
-    },
-    {
-      "id": "fm-5109435",
-      "home": "Corpus Christi",
-      "away": "AV Alta",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1128317.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1701876.png",
-      "league": "USL League One",
-      "leagueId": 916345,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "68‎’‎",
-      "time": "2026-06-25T00:30:00.000Z"
-    },
-    {
-      "id": "fm-5109438",
-      "home": "Spokane Velocity FC",
-      "away": "Westchester SC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1584038.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1706430.png",
-      "league": "USL League One",
-      "leagueId": 916345,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-06-25T01:00:00.000Z"
-    },
     {
       "id": "fm-1000007790",
       "home": "Los Angeles FC II",
@@ -90,7 +15,7 @@
       "leagueId": 10282,
       "country": "USA",
       "status": "LIVE",
-      "minute": "1‎’‎",
+      "minute": "62‎’‎",
       "time": "2026-06-25T02:00:00.000Z"
     },
     {
@@ -514,6 +439,36 @@
       "time": "2026-06-25T17:00:00.000Z"
     },
     {
+      "id": "fm-4667755",
+      "home": "Czechia",
+      "away": "Mexico",
+      "homeScore": 0,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8496.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
+      "league": "World Cup Grp. A",
+      "leagueId": 894790,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-25T01:00:00.000Z"
+    },
+    {
+      "id": "fm-4667756",
+      "home": "South Africa",
+      "away": "South Korea",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6316.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
+      "league": "World Cup Grp. A",
+      "leagueId": 894790,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-25T01:00:00.000Z"
+    },
+    {
       "id": "fm-5496051",
       "home": "Union La Calera",
       "away": "Universidad de Chile",
@@ -574,6 +529,21 @@
       "time": "2026-06-24T23:33:00.000Z"
     },
     {
+      "id": "fm-5109813",
+      "home": "Colorado Springs Switchbacks FC",
+      "away": "San Antonio FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614321.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/722269.png",
+      "league": "USL Championship",
+      "leagueId": 8972,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-25T00:00:00.000Z"
+    },
+    {
       "id": "fm-5201623",
       "home": "Charlotte Independence",
       "away": "Greenville Triumph SC",
@@ -602,6 +572,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-24T23:00:00.000Z"
+    },
+    {
+      "id": "fm-5109435",
+      "home": "Corpus Christi",
+      "away": "AV Alta",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1128317.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1701876.png",
+      "league": "USL League One",
+      "leagueId": 916345,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-25T00:30:00.000Z"
+    },
+    {
+      "id": "fm-5109438",
+      "home": "Spokane Velocity FC",
+      "away": "Westchester SC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1584038.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1706430.png",
+      "league": "USL League One",
+      "leagueId": 916345,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-25T01:00:00.000Z"
     }
   ]
 }
