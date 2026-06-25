@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-06-25T16:01:38.137900+00:00",
+  "lastUpdated": "2026-06-25T16:56:41.516546+00:00",
   "matchCount": 42,
-  "liveCount": 6,
+  "liveCount": 7,
   "matches": [
     {
       "id": "fm-5107870",
       "home": "Piteå IF (W)",
       "away": "Hammarby IF (W)",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/181471.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/181469.png",
@@ -15,44 +15,44 @@
       "leagueId": 9089,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "1‎’‎",
-      "time": "2026-06-25T16:00:00.000Z"
-    },
-    {
-      "id": "fm-5144705",
-      "home": "Bjørkelangen",
-      "away": "Sarpsborg 08 2",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4283.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4204.png",
-      "league": "3. Divisjon Avd. 6",
-      "leagueId": 919797,
-      "country": "NOR",
-      "status": "LIVE",
       "minute": "HT",
-      "time": "2026-06-25T15:00:00.000Z"
+      "time": "2026-06-25T16:00:00.000Z"
     },
     {
       "id": "fm-5144147",
       "home": "Åsane 2",
       "away": "Os",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/246204.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2313.png",
       "league": "3. Divisjon Avd. 3",
       "leagueId": 919794,
       "country": "NOR",
       "status": "LIVE",
-      "minute": "2‎’‎",
+      "minute": "HT",
+      "time": "2026-06-25T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5144328",
+      "home": "Staal Jørpeland",
+      "away": "Hinna FK",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4231.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161381.png",
+      "league": "3. Divisjon Avd. 4",
+      "leagueId": 919795,
+      "country": "NOR",
+      "status": "LIVE",
+      "minute": "HT",
       "time": "2026-06-25T16:00:00.000Z"
     },
     {
       "id": "fm-5144329",
       "home": "Våg",
       "away": "Viking 2",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4216.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10018.png",
@@ -60,14 +60,44 @@
       "leagueId": 919795,
       "country": "NOR",
       "status": "LIVE",
-      "minute": "1‎’‎",
+      "minute": "HT",
+      "time": "2026-06-25T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5781574",
+      "home": "Al Fahaheel",
+      "away": "Al-Qadsia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/479160.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101714.png",
+      "league": "Premier League Championship Group",
+      "leagueId": 933976,
+      "country": "KUW",
+      "status": "LIVE",
+      "minute": "HT",
+      "time": "2026-06-25T16:05:00.000Z"
+    },
+    {
+      "id": "fm-5163990",
+      "home": "FC Jazz",
+      "away": "Tampere United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1970.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7932.png",
+      "league": "Ykkonen",
+      "leagueId": 920263,
+      "country": "FIN",
+      "status": "LIVE",
+      "minute": "HT",
       "time": "2026-06-25T16:00:00.000Z"
     },
     {
       "id": "fm-5163989",
       "home": "JJK Jyväskylä",
       "away": "FC Inter Turku II",
-      "homeScore": 0,
+      "homeScore": 6,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4673.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/616809.png",
@@ -75,23 +105,8 @@
       "leagueId": 920263,
       "country": "FIN",
       "status": "LIVE",
-      "minute": "1‎’‎",
-      "time": "2026-06-25T16:00:00.000Z"
-    },
-    {
-      "id": "fm-5162012",
-      "home": "BFC Daugavpils",
-      "away": "Riga FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197864.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/624924.png",
-      "league": "Virsliga",
-      "leagueId": 226,
-      "country": "LVA",
-      "status": "LIVE",
       "minute": "HT",
-      "time": "2026-06-25T15:00:00.000Z"
+      "time": "2026-06-25T16:00:00.000Z"
     },
     {
       "id": "fm-4667782",
@@ -274,21 +289,6 @@
       "time": "2026-06-25T17:00:00.000Z"
     },
     {
-      "id": "fm-5144328",
-      "home": "Staal Jørpeland",
-      "away": "Hinna FK",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4231.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161381.png",
-      "league": "3. Divisjon Avd. 4",
-      "leagueId": 919795,
-      "country": "NOR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-25T16:00:00.000Z"
-    },
-    {
       "id": "fm-5143963",
       "home": "Strindheim",
       "away": "Melhus",
@@ -319,21 +319,6 @@
       "time": "2026-06-25T17:30:00.000Z"
     },
     {
-      "id": "fm-5781574",
-      "home": "Al Fahaheel",
-      "away": "Al-Qadsia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/479160.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101714.png",
-      "league": "Premier League Championship Group",
-      "leagueId": 933976,
-      "country": "KUW",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-25T16:05:00.000Z"
-    },
-    {
       "id": "fm-5781576",
       "home": "Al-Salmiyah",
       "away": "Al-Arabi",
@@ -362,21 +347,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-25T18:45:00.000Z"
-    },
-    {
-      "id": "fm-5163990",
-      "home": "FC Jazz",
-      "away": "Tampere United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1970.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7932.png",
-      "league": "Ykkonen",
-      "leagueId": 920263,
-      "country": "FIN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-25T16:00:00.000Z"
     },
     {
       "id": "fm-5225670",
@@ -497,6 +467,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-24T23:30:00.000Z"
+    },
+    {
+      "id": "fm-5144705",
+      "home": "Bjørkelangen",
+      "away": "Sarpsborg 08 2",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4283.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4204.png",
+      "league": "3. Divisjon Avd. 6",
+      "leagueId": 919797,
+      "country": "NOR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-25T15:00:00.000Z"
     },
     {
       "id": "fm-5109812",
@@ -632,6 +617,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-25T14:00:00.000Z"
+    },
+    {
+      "id": "fm-5162012",
+      "home": "BFC Daugavpils",
+      "away": "Riga FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197864.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/624924.png",
+      "league": "Virsliga",
+      "leagueId": 226,
+      "country": "LVA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-25T15:00:00.000Z"
     }
   ]
 }
