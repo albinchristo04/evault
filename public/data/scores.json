@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-06-25T13:51:58.593178+00:00",
+  "lastUpdated": "2026-06-25T15:01:31.483013+00:00",
   "matchCount": 42,
-  "liveCount": 1,
+  "liveCount": 2,
   "matches": [
     {
       "id": "fm-5835439",
       "home": "Tromsø",
       "away": "Örgryte",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8608.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10002.png",
@@ -15,8 +15,23 @@
       "leagueId": 915708,
       "country": "INT",
       "status": "LIVE",
-      "minute": "47‎’‎",
+      "minute": "64‎’‎",
       "time": "2026-06-25T13:00:00.000Z"
+    },
+    {
+      "id": "fm-5162013",
+      "home": "Grobina",
+      "away": "Auda",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/662738.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2106.png",
+      "league": "Virsliga",
+      "leagueId": 226,
+      "country": "LVA",
+      "status": "LIVE",
+      "minute": "HT",
+      "time": "2026-06-25T14:00:00.000Z"
     },
     {
       "id": "fm-4667782",
@@ -407,21 +422,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-24T23:00:00.000Z"
-    },
-    {
-      "id": "fm-5162013",
-      "home": "Grobina",
-      "away": "Auda",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/662738.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2106.png",
-      "league": "Virsliga",
-      "leagueId": 226,
-      "country": "LVA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-25T14:00:00.000Z"
     },
     {
       "id": "fm-5162012",
