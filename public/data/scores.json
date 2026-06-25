@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-06-25T20:51:10.161774+00:00",
+  "lastUpdated": "2026-06-25T21:34:25.469965+00:00",
   "matchCount": 42,
-  "liveCount": 3,
+  "liveCount": 2,
   "matches": [
     {
       "id": "fm-4667782",
       "home": "Curacao",
       "away": "Ivory Coast",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/287981.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6709.png",
       "league": "World Cup Grp. E",
       "leagueId": 894794,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "73‎’‎",
       "time": "2026-06-25T20:00:00.000Z"
     },
     {
@@ -30,23 +30,8 @@
       "leagueId": 894794,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "74‎’‎",
       "time": "2026-06-25T20:00:00.000Z"
-    },
-    {
-      "id": "fm-5225670",
-      "home": "Breidablik",
-      "away": "Vikingur Reykjavik",
-      "homeScore": 0,
-      "awayScore": 4,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8332.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6017.png",
-      "league": "Besta deildin",
-      "leagueId": 215,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "77‎’‎",
-      "time": "2026-06-25T19:15:00.000Z"
     },
     {
       "id": "fm-1000016171",
@@ -527,6 +512,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-25T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5225670",
+      "home": "Breidablik",
+      "away": "Vikingur Reykjavik",
+      "homeScore": 1,
+      "awayScore": 4,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8332.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6017.png",
+      "league": "Besta deildin",
+      "leagueId": 215,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-25T19:15:00.000Z"
     },
     {
       "id": "fm-1000007790",
