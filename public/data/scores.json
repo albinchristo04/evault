@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-06-26T19:24:40.518348+00:00",
+  "lastUpdated": "2026-06-26T20:09:13.594275+00:00",
   "matchCount": 56,
-  "liveCount": 22,
+  "liveCount": 17,
   "matches": [
     {
       "id": "fm-4667808",
       "home": "Norway",
       "away": "France",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
       "league": "World Cup Grp. I",
       "leagueId": 894798,
       "country": "INT",
       "status": "LIVE",
-      "minute": "24‎’‎",
+      "minute": "HT",
       "time": "2026-06-26T19:00:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 894798,
       "country": "INT",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "HT",
       "time": "2026-06-26T19:00:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 216,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "HT",
       "time": "2026-06-26T19:15:00.000Z"
     },
     {
@@ -53,14 +53,14 @@
       "home": "Fylkir",
       "away": "HK Kopavogs",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6434.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4516.png",
       "league": "1. Deild",
       "leagueId": 216,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "HT",
       "time": "2026-06-26T19:15:00.000Z"
     },
     {
@@ -75,7 +75,7 @@
       "leagueId": 216,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "9‎’‎",
+      "minute": "HT",
       "time": "2026-06-26T19:15:00.000Z"
     },
     {
@@ -83,14 +83,14 @@
       "home": "Leiknir Reykjavik",
       "away": "IR Reykjavik",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6683.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/163250.png",
       "league": "1. Deild",
       "leagueId": 216,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "HT",
       "time": "2026-06-26T19:15:00.000Z"
     },
     {
@@ -98,60 +98,30 @@
       "home": "Selfoss",
       "away": "Haukar",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/114130.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4494.png",
       "league": "2. Deild",
       "leagueId": 10226,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "9‎’‎",
+      "minute": "HT",
       "time": "2026-06-26T19:15:00.000Z"
     },
     {
       "id": "fm-5225920",
       "home": "Throttur Vogar",
       "away": "Fjölnir",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": 2,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/319923.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4518.png",
       "league": "2. Deild",
       "leagueId": 10226,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "8‎’‎",
+      "minute": "HT",
       "time": "2026-06-26T19:15:00.000Z"
-    },
-    {
-      "id": "fm-5127516",
-      "home": "Assyriska FF",
-      "away": "Vasalunds IF",
-      "homeScore": 3,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10225.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1967.png",
-      "league": "Ettan Norra",
-      "leagueId": 918043,
-      "country": "SWE",
-      "status": "LIVE",
-      "minute": "96‎’‎",
-      "time": "2026-06-26T17:30:00.000Z"
-    },
-    {
-      "id": "fm-5127867",
-      "home": "Hässleholms IF",
-      "away": "Tvååkers IF",
-      "homeScore": 4,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/418688.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/241285.png",
-      "league": "Ettan Soedra",
-      "leagueId": 918053,
-      "country": "SWE",
-      "status": "LIVE",
-      "minute": "96‎’‎",
-      "time": "2026-06-26T17:30:00.000Z"
     },
     {
       "id": "fm-5101224",
@@ -165,14 +135,14 @@
       "leagueId": 916016,
       "country": "IRL",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "66‎’‎",
       "time": "2026-06-26T18:45:00.000Z"
     },
     {
       "id": "fm-5101225",
       "home": "Cork City",
       "away": "Bray Wanderers",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2201.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1629.png",
@@ -180,7 +150,7 @@
       "leagueId": 916016,
       "country": "IRL",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "65‎’‎",
       "time": "2026-06-26T18:45:00.000Z"
     },
     {
@@ -195,14 +165,14 @@
       "leagueId": 916016,
       "country": "IRL",
       "status": "LIVE",
-      "minute": "40‎’‎",
+      "minute": "67‎’‎",
       "time": "2026-06-26T18:45:00.000Z"
     },
     {
       "id": "fm-5101227",
       "home": "UCD",
       "away": "Cobh Ramblers",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1578.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2383.png",
@@ -210,7 +180,7 @@
       "leagueId": 916016,
       "country": "IRL",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "67‎’‎",
       "time": "2026-06-26T18:45:00.000Z"
     },
     {
@@ -225,7 +195,7 @@
       "leagueId": 916016,
       "country": "IRL",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "67‎’‎",
       "time": "2026-06-26T18:45:00.000Z"
     },
     {
@@ -240,7 +210,7 @@
       "leagueId": 126,
       "country": "IRL",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "78‎’‎",
       "time": "2026-06-26T18:30:00.000Z"
     },
     {
@@ -255,7 +225,7 @@
       "leagueId": 126,
       "country": "IRL",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "64‎’‎",
       "time": "2026-06-26T18:45:00.000Z"
     },
     {
@@ -263,21 +233,21 @@
       "home": "Dundalk",
       "away": "Waterford FC",
       "homeScore": 2,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1853.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6042.png",
       "league": "Premier Division",
       "leagueId": 126,
       "country": "IRL",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "68‎’‎",
       "time": "2026-06-26T18:45:00.000Z"
     },
     {
       "id": "fm-5100921",
       "home": "Bohemian FC",
       "away": "St. Patrick's Athletic",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4594.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1854.png",
@@ -285,53 +255,8 @@
       "leagueId": 126,
       "country": "IRL",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "46‎’‎",
       "time": "2026-06-26T19:00:00.000Z"
-    },
-    {
-      "id": "fm-5800351",
-      "home": "Al Nasr",
-      "away": "Al-Jahra",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101710.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101712.png",
-      "league": "Premier League Relegation Group",
-      "leagueId": 937273,
-      "country": "KUW",
-      "status": "LIVE",
-      "minute": "79‎’‎",
-      "time": "2026-06-26T17:45:00.000Z"
-    },
-    {
-      "id": "fm-5800352",
-      "home": "Al-Tadhamon",
-      "away": "Al-Shabab SC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101717.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/150412.png",
-      "league": "Premier League Relegation Group",
-      "leagueId": 937273,
-      "country": "KUW",
-      "status": "LIVE",
-      "minute": "77‎’‎",
-      "time": "2026-06-26T17:45:00.000Z"
-    },
-    {
-      "id": "fm-1000015890",
-      "home": "Chadormalu Ardakan SC",
-      "away": "Persepolis",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1396532.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101610.png",
-      "league": "Persian Gulf",
-      "leagueId": 523,
-      "country": "IRN",
-      "status": "LIVE",
-      "minute": "107‎’‎",
-      "time": "2026-06-26T17:00:00.000Z"
     },
     {
       "id": "fm-1000008669",
@@ -619,6 +544,21 @@
       "time": "2026-06-26T17:00:00.000Z"
     },
     {
+      "id": "fm-5127516",
+      "home": "Assyriska FF",
+      "away": "Vasalunds IF",
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10225.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1967.png",
+      "league": "Ettan Norra",
+      "leagueId": 918043,
+      "country": "SWE",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-26T17:30:00.000Z"
+    },
+    {
       "id": "fm-5127868",
       "home": "Kristianstad FC",
       "away": "Trelleborgs FF",
@@ -632,6 +572,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-26T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5127867",
+      "home": "Hässleholms IF",
+      "away": "Tvååkers IF",
+      "homeScore": 4,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/418688.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/241285.png",
+      "league": "Ettan Soedra",
+      "leagueId": 918053,
+      "country": "SWE",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-26T17:30:00.000Z"
     },
     {
       "id": "fm-5143783",
@@ -709,6 +664,36 @@
       "time": "2026-06-26T17:00:00.000Z"
     },
     {
+      "id": "fm-5800351",
+      "home": "Al Nasr",
+      "away": "Al-Jahra",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101710.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101712.png",
+      "league": "Premier League Relegation Group",
+      "leagueId": 937273,
+      "country": "KUW",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-26T17:45:00.000Z"
+    },
+    {
+      "id": "fm-5800352",
+      "home": "Al-Tadhamon",
+      "away": "Al-Shabab SC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101717.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/150412.png",
+      "league": "Premier League Relegation Group",
+      "leagueId": 937273,
+      "country": "KUW",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-26T17:45:00.000Z"
+    },
+    {
       "id": "fm-5186525",
       "home": "Qingdao Hainiu",
       "away": "Yunnan Yukun",
@@ -782,6 +767,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-25T23:00:00.000Z"
+    },
+    {
+      "id": "fm-1000015890",
+      "home": "Chadormalu Ardakan SC",
+      "away": "Persepolis",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1396532.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101610.png",
+      "league": "Persian Gulf",
+      "leagueId": 523,
+      "country": "IRN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-26T17:00:00.000Z"
     },
     {
       "id": "fm-1000007906",
