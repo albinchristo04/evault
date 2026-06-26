@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T22:54:48.504518+00:00",
+  "lastUpdated": "2026-06-26T23:28:20.321256+00:00",
   "matchCount": 56,
   "liveCount": 2,
   "matches": [
@@ -7,15 +7,15 @@
       "id": "fm-1000008669",
       "home": "HFX Wanderers FC",
       "away": "Pacific FC",
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeScore": 4,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1022948.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1022953.png",
       "league": "Premier League",
       "leagueId": 9986,
       "country": "CAN",
       "status": "LIVE",
-      "minute": "57‎’‎",
+      "minute": "90‎’‎",
       "time": "2026-06-26T21:30:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "66‎’‎",
       "time": "2026-06-26T22:00:00.000Z"
     },
     {
