@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-26T21:22:17.902078+00:00",
+  "lastUpdated": "2026-06-26T21:53:04.743591+00:00",
   "matchCount": 56,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
     {
       "id": "fm-1000008669",
@@ -14,8 +14,8 @@
       "league": "Premier League",
       "leagueId": 9986,
       "country": "CAN",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "13‎’‎",
       "time": "2026-06-26T21:30:00.000Z"
     },
     {
