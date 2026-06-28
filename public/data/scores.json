@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-06-28T10:14:02.910005+00:00",
+  "lastUpdated": "2026-06-28T11:02:43.577925+00:00",
   "matchCount": 130,
-  "liveCount": 3,
+  "liveCount": 6,
   "matches": [
+    {
+      "id": "fm-5207141",
+      "home": "Suzhou Dongwu",
+      "away": "Ningbo Professional",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585797.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585867.png",
+      "league": "China League",
+      "leagueId": 920267,
+      "country": "CHN",
+      "status": "LIVE",
+      "minute": "3‎’‎",
+      "time": "2026-06-28T11:00:00.000Z"
+    },
+    {
+      "id": "fm-5127865",
+      "home": "BK Olympic",
+      "away": "Eskilsminne IF",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/241064.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/303470.png",
+      "league": "Ettan Soedra",
+      "leagueId": 918053,
+      "country": "SWE",
+      "status": "LIVE",
+      "minute": "1‎’‎",
+      "time": "2026-06-28T11:00:00.000Z"
+    },
     {
       "id": "fm-5201095",
       "home": "Busan Transport Corp",
@@ -15,14 +45,14 @@
       "leagueId": 922584,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "14‎’‎",
+      "minute": "HT",
       "time": "2026-06-28T10:00:00.000Z"
     },
     {
       "id": "fm-5144514",
       "home": "Strømsgodset 2",
       "away": "Skjervøy",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8181.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4287.png",
@@ -30,14 +60,14 @@
       "leagueId": 919796,
       "country": "NOR",
       "status": "LIVE",
-      "minute": "11‎’‎",
+      "minute": "HT",
       "time": "2026-06-28T10:00:00.000Z"
     },
     {
       "id": "fm-5186531",
       "home": "Qingdao West Coast",
       "away": "Zhejiang Professional",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1283248.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/51443.png",
@@ -45,8 +75,23 @@
       "leagueId": 920266,
       "country": "CHN",
       "status": "LIVE",
-      "minute": "14‎’‎",
+      "minute": "HT",
       "time": "2026-06-28T10:00:00.000Z"
+    },
+    {
+      "id": "fm-5186532",
+      "home": "Dalian Yingbo",
+      "away": "Shanghai Shenhua",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1477043.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6628.png",
+      "league": "Super League",
+      "leagueId": 920266,
+      "country": "CHN",
+      "status": "LIVE",
+      "minute": "2‎’‎",
+      "time": "2026-06-28T11:00:00.000Z"
     },
     {
       "id": "fm-4653705",
@@ -319,21 +364,6 @@
       "time": "2026-06-28T17:00:00.000Z"
     },
     {
-      "id": "fm-5207141",
-      "home": "Suzhou Dongwu",
-      "away": "Ningbo Professional",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585797.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/585867.png",
-      "league": "China League",
-      "leagueId": 920267,
-      "country": "CHN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-28T11:00:00.000Z"
-    },
-    {
       "id": "fm-5207142",
       "home": "Dingnan United",
       "away": "Wuxi Wugo",
@@ -527,21 +557,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-28T14:00:00.000Z"
-    },
-    {
-      "id": "fm-5127865",
-      "home": "BK Olympic",
-      "away": "Eskilsminne IF",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/241064.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/303470.png",
-      "league": "Ettan Soedra",
-      "leagueId": 918053,
-      "country": "SWE",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-28T11:00:00.000Z"
     },
     {
       "id": "fm-5784985",
@@ -1187,21 +1202,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-28T21:00:00.000Z"
-    },
-    {
-      "id": "fm-5186532",
-      "home": "Dalian Yingbo",
-      "away": "Shanghai Shenhua",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1477043.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6628.png",
-      "league": "Super League",
-      "leagueId": 920266,
-      "country": "CHN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-28T11:00:00.000Z"
     },
     {
       "id": "fm-5774042",
