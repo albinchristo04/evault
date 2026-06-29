@@ -1,8 +1,38 @@
 {
-  "lastUpdated": "2026-06-29T08:50:58.874608+00:00",
+  "lastUpdated": "2026-06-29T10:37:25.944609+00:00",
   "matchCount": 27,
   "liveCount": 0,
   "matches": [
+    {
+      "id": "fm-4653711",
+      "home": "Brazil",
+      "away": "Japan",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-06-29T17:00:00.000Z"
+    },
+    {
+      "id": "fm-4653703",
+      "home": "Germany",
+      "away": "Paraguay",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-06-29T20:30:00.000Z"
+    },
     {
       "id": "fm-5225781",
       "home": "Afturelding",
@@ -167,36 +197,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-29T19:00:00.000Z"
-    },
-    {
-      "id": "fm-4653711",
-      "home": "Brazil",
-      "away": "Japan",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-29T17:00:00.000Z"
-    },
-    {
-      "id": "fm-4653703",
-      "home": "Germany",
-      "away": "Paraguay",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-29T20:30:00.000Z"
     },
     {
       "id": "fm-5163994",
