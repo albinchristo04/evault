@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-06-29T23:07:29.259235+00:00",
+  "lastUpdated": "2026-06-29T23:34:31.107092+00:00",
   "matchCount": 27,
-  "liveCount": 2,
+  "liveCount": 1,
   "matches": [
-    {
-      "id": "fm-4653703",
-      "home": "Germany",
-      "away": "Paraguay",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "118‎’‎",
-      "time": "2026-06-29T20:30:00.000Z"
-    },
     {
       "id": "fm-1000015236",
       "home": "Democrata GV",
@@ -30,7 +15,7 @@
       "leagueId": 9464,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "51‎’‎",
+      "minute": "78‎’‎",
       "time": "2026-06-29T22:00:00.000Z"
     },
     {
@@ -47,6 +32,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-29T17:00:00.000Z"
+    },
+    {
+      "id": "fm-4653703",
+      "home": "Germany",
+      "away": "Paraguay",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-29T20:30:00.000Z"
     },
     {
       "id": "fm-5225781",
