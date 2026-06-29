@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-06-29T18:15:23.501473+00:00",
+  "lastUpdated": "2026-06-29T19:03:08.545474+00:00",
   "matchCount": 27,
-  "liveCount": 6,
+  "liveCount": 5,
   "matches": [
-    {
-      "id": "fm-4653711",
-      "home": "Brazil",
-      "away": "Japan",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "54‎’‎",
-      "time": "2026-06-29T17:00:00.000Z"
-    },
     {
       "id": "fm-5136382",
       "home": "B68 Toftir",
@@ -30,37 +15,37 @@
       "leagueId": 250,
       "country": "FRO",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "75‎’‎",
       "time": "2026-06-29T17:30:00.000Z"
     },
     {
       "id": "fm-5136378",
       "home": "HB Torshavn",
       "away": "Skála",
-      "homeScore": 2,
-      "awayScore": 0,
+      "homeScore": 3,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6652.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2228.png",
       "league": "Premier League",
       "leagueId": 250,
       "country": "FRO",
       "status": "LIVE",
-      "minute": "44‎’‎",
+      "minute": "76‎’‎",
       "time": "2026-06-29T17:30:00.000Z"
     },
     {
       "id": "fm-5136381",
       "home": "Vikingur",
       "away": "NSI Runavik",
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeScore": 3,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4666.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8110.png",
       "league": "Premier League",
       "leagueId": 250,
       "country": "FRO",
       "status": "LIVE",
-      "minute": "45‎’‎",
+      "minute": "75‎’‎",
       "time": "2026-06-29T17:30:00.000Z"
     },
     {
@@ -75,23 +60,23 @@
       "leagueId": 933976,
       "country": "KUW",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "52‎’‎",
       "time": "2026-06-29T17:45:00.000Z"
     },
     {
-      "id": "fm-1000015891",
-      "home": "Gol Gohar",
-      "away": "Chadormalu Ardakan SC",
+      "id": "fm-5344662",
+      "home": "Croatia U19",
+      "away": "Ukraine U19",
       "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/389880.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1396532.png",
-      "league": "Persian Gulf",
-      "leagueId": 523,
-      "country": "IRN",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/204263.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6655.png",
+      "league": "EURO U19 Grp. B",
+      "leagueId": 927005,
+      "country": "WAL",
       "status": "LIVE",
-      "minute": "123‎’‎",
-      "time": "2026-06-29T15:30:00.000Z"
+      "minute": "3‎’‎",
+      "time": "2026-06-29T19:00:00.000Z"
     },
     {
       "id": "fm-4653703",
@@ -154,21 +139,6 @@
       "time": "2026-06-29T19:15:00.000Z"
     },
     {
-      "id": "fm-5344662",
-      "home": "Croatia U19",
-      "away": "Ukraine U19",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/204263.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6655.png",
-      "league": "EURO U19 Grp. B",
-      "leagueId": 927005,
-      "country": "WAL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-29T19:00:00.000Z"
-    },
-    {
       "id": "fm-5225671",
       "home": "IA Akranes",
       "away": "Fram Reykjavik",
@@ -197,6 +167,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-29T22:00:00.000Z"
+    },
+    {
+      "id": "fm-4653711",
+      "home": "Brazil",
+      "away": "Japan",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-29T17:00:00.000Z"
     },
     {
       "id": "fm-5838857",
@@ -347,6 +332,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-29T02:00:00.000Z"
+    },
+    {
+      "id": "fm-1000015891",
+      "home": "Gol Gohar",
+      "away": "Chadormalu Ardakan SC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/389880.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1396532.png",
+      "league": "Persian Gulf",
+      "leagueId": 523,
+      "country": "IRN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-29T15:30:00.000Z"
     },
     {
       "id": "fm-1000009452",
