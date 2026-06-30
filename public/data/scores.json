@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-06-30T22:21:22.251663+00:00",
+  "lastUpdated": "2026-06-30T22:55:28.793138+00:00",
   "matchCount": 21,
   "liveCount": 2,
   "matches": [
-    {
-      "id": "fm-4653704",
-      "home": "France",
-      "away": "Sweden",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8520.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "63‎’‎",
-      "time": "2026-06-30T21:00:00.000Z"
-    },
     {
       "id": "fm-5496085",
       "home": "Audax Italiano",
@@ -30,7 +15,7 @@
       "leagueId": 920450,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "18‎’‎",
+      "minute": "HT",
       "time": "2026-06-30T22:00:00.000Z"
     },
     {
@@ -44,8 +29,8 @@
       "league": "Serie C",
       "leagueId": 8971,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "26‎’‎",
       "time": "2026-06-30T22:30:00.000Z"
     },
     {
@@ -77,6 +62,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-30T17:00:00.000Z"
+    },
+    {
+      "id": "fm-4653704",
+      "home": "France",
+      "away": "Sweden",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8520.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-30T21:00:00.000Z"
     },
     {
       "id": "fm-5863646",
