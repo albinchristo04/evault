@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T22:55:28.793138+00:00",
+  "lastUpdated": "2026-06-30T23:30:06.652978+00:00",
   "matchCount": 21,
   "liveCount": 2,
   "matches": [
@@ -8,14 +8,14 @@
       "home": "Audax Italiano",
       "away": "Palestino",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4058.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6455.png",
       "league": "Cup Grp. G",
       "leagueId": 920450,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "68‎’‎",
       "time": "2026-06-30T22:00:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 8971,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "26‎’‎",
+      "minute": "HT",
       "time": "2026-06-30T22:30:00.000Z"
     },
     {
