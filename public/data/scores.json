@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2026-06-30T15:53:18.084930+00:00",
+  "lastUpdated": "2026-06-30T16:46:02.114979+00:00",
   "matchCount": 21,
-  "liveCount": 2,
+  "liveCount": 3,
   "matches": [
     {
       "id": "fm-5767130",
       "home": "VPS",
       "away": "FC Inter Turku",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6597.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6550.png",
       "league": "Cup",
       "leagueId": 927567,
       "country": "FIN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "87‎’‎",
       "time": "2026-06-30T15:00:00.000Z"
     },
     {
       "id": "fm-5162019",
       "home": "RFS",
       "away": "BFC Daugavpils",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/248871.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197864.png",
@@ -30,8 +30,23 @@
       "leagueId": 226,
       "country": "LVA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "87‎’‎",
       "time": "2026-06-30T15:00:00.000Z"
+    },
+    {
+      "id": "fm-5162020",
+      "home": "FK Liepaja",
+      "away": "Ogre United",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8016.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1899459.png",
+      "league": "Virsliga",
+      "leagueId": 226,
+      "country": "LVA",
+      "status": "LIVE",
+      "minute": "46‎’‎",
+      "time": "2026-06-30T16:00:00.000Z"
     },
     {
       "id": "fm-4653712",
@@ -137,21 +152,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-06-30T22:30:00.000Z"
-    },
-    {
-      "id": "fm-5162020",
-      "home": "FK Liepaja",
-      "away": "Ogre United",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8016.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1899459.png",
-      "league": "Virsliga",
-      "leagueId": 226,
-      "country": "LVA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-30T16:00:00.000Z"
     },
     {
       "id": "fm-4653706",
