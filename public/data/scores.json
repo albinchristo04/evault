@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-06-30T07:50:40.070246+00:00",
+  "lastUpdated": "2026-06-30T09:09:50.059505+00:00",
   "matchCount": 20,
   "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-4653712",
-      "home": "Ivory Coast",
-      "away": "Norway",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6709.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-30T17:00:00.000Z"
-    },
-    {
-      "id": "fm-4653704",
-      "home": "France",
-      "away": "Sweden",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8520.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-06-30T21:00:00.000Z"
-    },
     {
       "id": "fm-5863646",
       "home": "CSKA",
@@ -229,6 +199,36 @@
       "time": "2026-06-30T13:00:00.000Z"
     },
     {
+      "id": "fm-4653712",
+      "home": "Ivory Coast",
+      "away": "Norway",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6709.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-06-30T17:00:00.000Z"
+    },
+    {
+      "id": "fm-4653704",
+      "home": "France",
+      "away": "Sweden",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8520.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-06-30T21:00:00.000Z"
+    },
+    {
       "id": "fm-1000009457",
       "home": "Caxias",
       "away": "Anapolis FC",
@@ -274,21 +274,6 @@
       "time": "2026-06-30T16:00:00.000Z"
     },
     {
-      "id": "fm-4653706",
-      "home": "Netherlands",
-      "away": "Morocco",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6708.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "FINISHED",
-      "minute": null,
-      "time": "2026-06-30T01:00:00.000Z"
-    },
-    {
       "id": "fm-5496068",
       "home": "Union Espanola",
       "away": "Colo Colo",
@@ -302,6 +287,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-29T23:30:00.000Z"
+    },
+    {
+      "id": "fm-4653706",
+      "home": "Netherlands",
+      "away": "Morocco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6708.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-06-30T01:00:00.000Z"
     }
   ]
 }
