@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-07-01T18:11:30.548240+00:00",
+  "lastUpdated": "2026-07-01T19:00:52.198684+00:00",
   "matchCount": 22,
-  "liveCount": 4,
+  "liveCount": 2,
   "matches": [
-    {
-      "id": "fm-5127873",
-      "home": "Eskilsminne IF",
-      "away": "Kristianstad FC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/303470.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1965.png",
-      "league": "Ettan Soedra",
-      "leagueId": 918053,
-      "country": "SWE",
-      "status": "LIVE",
-      "minute": "50‎’‎",
-      "time": "2026-07-01T17:00:00.000Z"
-    },
     {
       "id": "fm-5215458",
       "home": "Slavia Mozyr",
@@ -30,29 +15,14 @@
       "leagueId": 923169,
       "country": "BLR",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "72‎’‎",
       "time": "2026-07-01T17:30:00.000Z"
-    },
-    {
-      "id": "fm-5344657",
-      "home": "Denmark U19",
-      "away": "Spain U19",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/401878.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5932.png",
-      "league": "EURO U19 Grp. A",
-      "leagueId": 927004,
-      "country": "WAL",
-      "status": "LIVE",
-      "minute": "54‎’‎",
-      "time": "2026-07-01T17:00:00.000Z"
     },
     {
       "id": "fm-1000008670",
       "home": "Forge FC",
       "away": "Vancouver FC",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1022955.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1436202.png",
@@ -60,7 +30,7 @@
       "leagueId": 9986,
       "country": "CAN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "86‎’‎",
       "time": "2026-07-01T17:00:00.000Z"
     },
     {
@@ -272,6 +242,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-01T00:30:00.000Z"
+    },
+    {
+      "id": "fm-5127873",
+      "home": "Eskilsminne IF",
+      "away": "Kristianstad FC",
+      "homeScore": 3,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/303470.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1965.png",
+      "league": "Ettan Soedra",
+      "leagueId": 918053,
+      "country": "SWE",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-01T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5344657",
+      "home": "Denmark U19",
+      "away": "Spain U19",
+      "homeScore": 0,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/401878.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5932.png",
+      "league": "EURO U19 Grp. A",
+      "leagueId": 927004,
+      "country": "WAL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-01T17:00:00.000Z"
     },
     {
       "id": "fm-5190579",
