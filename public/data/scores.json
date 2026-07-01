@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-07-01T07:48:44.835801+00:00",
+  "lastUpdated": "2026-07-01T09:00:32.036313+00:00",
   "matchCount": 22,
   "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-4653714",
-      "home": "England",
-      "away": "DR Congo",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-01T16:00:00.000Z"
-    },
-    {
-      "id": "fm-4653710",
-      "home": "Belgium",
-      "away": "Senegal",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-01T20:00:00.000Z"
-    },
     {
       "id": "fm-5225925",
       "home": "Haukar",
@@ -139,21 +109,6 @@
       "time": "2026-07-01T17:00:00.000Z"
     },
     {
-      "id": "fm-5215458",
-      "home": "Slavia Mozyr",
-      "away": "Maxline Vitebsk",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10070.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/661598.png",
-      "league": "Premier League",
-      "leagueId": 923169,
-      "country": "BLR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-01T17:30:00.000Z"
-    },
-    {
       "id": "fm-5344657",
       "home": "Denmark U19",
       "away": "Spain U19",
@@ -182,6 +137,51 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-07-01T19:00:00.000Z"
+    },
+    {
+      "id": "fm-4653714",
+      "home": "England",
+      "away": "DR Congo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-01T16:00:00.000Z"
+    },
+    {
+      "id": "fm-4653710",
+      "home": "Belgium",
+      "away": "Senegal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-01T20:00:00.000Z"
+    },
+    {
+      "id": "fm-5215458",
+      "home": "Slavia Mozyr",
+      "away": "Maxline Vitebsk",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10070.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/661598.png",
+      "league": "Premier League",
+      "leagueId": 923169,
+      "country": "BLR",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-01T17:30:00.000Z"
     },
     {
       "id": "fm-1000008670",
@@ -259,21 +259,6 @@
       "time": "2026-07-01T15:00:00.000Z"
     },
     {
-      "id": "fm-4653713",
-      "home": "Mexico",
-      "away": "Ecuador",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "FINISHED",
-      "minute": null,
-      "time": "2026-07-01T02:00:00.000Z"
-    },
-    {
       "id": "fm-5496030",
       "home": "Universidad Catolica",
       "away": "Everton CD",
@@ -287,6 +272,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-01T00:30:00.000Z"
+    },
+    {
+      "id": "fm-4653713",
+      "home": "Mexico",
+      "away": "Ecuador",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-01T02:00:00.000Z"
     },
     {
       "id": "fm-5190579",
