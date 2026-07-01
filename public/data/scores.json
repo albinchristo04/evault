@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-01T23:19:09.245458+00:00",
+  "lastUpdated": "2026-07-01T23:51:36.844751+00:00",
   "matchCount": 22,
-  "liveCount": 4,
+  "liveCount": 3,
   "matches": [
     {
       "id": "fm-5497966",
@@ -15,7 +15,7 @@
       "leagueId": 920442,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "57‎’‎",
+      "minute": "89‎’‎",
       "time": "2026-07-01T22:00:00.000Z"
     },
     {
@@ -23,21 +23,21 @@
       "home": "Cobresal",
       "away": "La Serena",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4055.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1891.png",
       "league": "Cup Grp. C",
       "leagueId": 920444,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "60‎’‎",
+      "minute": "92‎’‎",
       "time": "2026-07-01T22:00:00.000Z"
     },
     {
       "id": "fm-1000008999",
       "home": "LDU de Quito",
       "away": "Orense",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6721.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1014174.png",
@@ -45,23 +45,8 @@
       "leagueId": 246,
       "country": "ECU",
       "status": "LIVE",
-      "minute": "55‎’‎",
+      "minute": "88‎’‎",
       "time": "2026-07-01T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5109439",
-      "home": "Charlotte Independence",
-      "away": "Corpus Christi",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614315.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1128317.png",
-      "league": "USL League One",
-      "leagueId": 9296,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "77‎’‎",
-      "time": "2026-07-01T21:30:00.000Z"
     },
     {
       "id": "fm-4653713",
@@ -317,6 +302,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-06-30T23:30:00.000Z"
+    },
+    {
+      "id": "fm-5109439",
+      "home": "Charlotte Independence",
+      "away": "Corpus Christi",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614315.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1128317.png",
+      "league": "USL League One",
+      "leagueId": 9296,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-01T21:30:00.000Z"
     },
     {
       "id": "fm-5162021",
