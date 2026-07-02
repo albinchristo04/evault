@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-07-02T20:55:34.101389+00:00",
+  "lastUpdated": "2026-07-02T21:27:00.966892+00:00",
   "matchCount": 28,
-  "liveCount": 2,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-4653708",
-      "home": "Spain",
-      "away": "Austria",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "94‎’‎",
-      "time": "2026-07-02T19:00:00.000Z"
-    },
-    {
-      "id": "fm-5225673",
-      "home": "Vikingur Reykjavik",
-      "away": "KA Akureyri",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6017.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2165.png",
-      "league": "Besta deildin",
-      "leagueId": 215,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "82‎’‎",
-      "time": "2026-07-02T19:15:00.000Z"
-    },
     {
       "id": "fm-5496103",
       "home": "Huachipato",
@@ -62,6 +32,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-02T00:00:00.000Z"
+    },
+    {
+      "id": "fm-4653708",
+      "home": "Spain",
+      "away": "Austria",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-02T19:00:00.000Z"
     },
     {
       "id": "fm-5105190",
@@ -362,6 +347,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-02T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5225673",
+      "home": "Vikingur Reykjavik",
+      "away": "KA Akureyri",
+      "homeScore": 3,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6017.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2165.png",
+      "league": "Besta deildin",
+      "leagueId": 215,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-02T19:15:00.000Z"
     },
     {
       "id": "fm-1000007907",
