@@ -1,52 +1,22 @@
 {
-  "lastUpdated": "2026-07-02T02:33:26.187251+00:00",
+  "lastUpdated": "2026-07-02T04:01:01.034524+00:00",
   "matchCount": 28,
   "liveCount": 1,
   "matches": [
     {
-      "id": "fm-5109442",
-      "home": "Spokane Velocity FC",
-      "away": "Forward Madison FC",
+      "id": "fm-5109441",
+      "home": "Union Omaha",
+      "away": "AV Alta",
       "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1584038.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1004919.png",
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1121685.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1701876.png",
       "league": "USL League One",
       "leagueId": 9296,
       "country": "USA",
       "status": "LIVE",
-      "minute": "26‎’‎",
-      "time": "2026-07-02T02:00:00.000Z"
-    },
-    {
-      "id": "fm-4653708",
-      "home": "Spain",
-      "away": "Austria",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-02T19:00:00.000Z"
-    },
-    {
-      "id": "fm-5105190",
-      "home": "Lyn",
-      "away": "Åsane",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10224.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10021.png",
-      "league": "1. Divisjon",
-      "leagueId": 203,
-      "country": "NOR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-02T16:00:00.000Z"
+      "minute": "66‎’‎",
+      "time": "2026-07-02T02:30:00.000Z"
     },
     {
       "id": "fm-5856873",
@@ -244,36 +214,6 @@
       "time": "2026-07-02T22:00:00.000Z"
     },
     {
-      "id": "fm-5215453",
-      "home": "BATE Borisov",
-      "away": "Gomel",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10063.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10060.png",
-      "league": "Premier League",
-      "leagueId": 923169,
-      "country": "BLR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-02T15:00:00.000Z"
-    },
-    {
-      "id": "fm-5215455",
-      "home": "FC Minsk",
-      "away": "Dinamo Minsk",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/56865.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10058.png",
-      "league": "Premier League",
-      "leagueId": 923169,
-      "country": "BLR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-02T17:00:00.000Z"
-    },
-    {
       "id": "fm-5344663",
       "home": "Croatia U19",
       "away": "Italy U19",
@@ -304,6 +244,21 @@
       "time": "2026-07-02T17:00:00.000Z"
     },
     {
+      "id": "fm-4653708",
+      "home": "Spain",
+      "away": "Austria",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-02T19:00:00.000Z"
+    },
+    {
       "id": "fm-5163995",
       "home": "FC Jazz",
       "away": "KPV",
@@ -317,6 +272,51 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-07-02T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5105190",
+      "home": "Lyn",
+      "away": "Åsane",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10224.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10021.png",
+      "league": "1. Divisjon",
+      "leagueId": 203,
+      "country": "NOR",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-02T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5215453",
+      "home": "BATE Borisov",
+      "away": "Gomel",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10063.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10060.png",
+      "league": "Premier League",
+      "leagueId": 923169,
+      "country": "BLR",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-02T15:00:00.000Z"
+    },
+    {
+      "id": "fm-5215455",
+      "home": "FC Minsk",
+      "away": "Dinamo Minsk",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/56865.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10058.png",
+      "league": "Premier League",
+      "leagueId": 923169,
+      "country": "BLR",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-02T17:00:00.000Z"
     },
     {
       "id": "fm-5225672",
@@ -364,19 +364,19 @@
       "time": "2026-07-02T16:00:00.000Z"
     },
     {
-      "id": "fm-5109441",
-      "home": "Union Omaha",
-      "away": "AV Alta",
+      "id": "fm-5496054",
+      "home": "Universidad de Chile",
+      "away": "Union La Calera",
       "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1121685.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1701876.png",
-      "league": "USL League One",
-      "leagueId": 9296,
-      "country": "USA",
-      "status": "SCHEDULED",
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6310.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/192435.png",
+      "league": "Cup Grp. D",
+      "leagueId": 920445,
+      "country": "CHI",
+      "status": "FINISHED",
       "minute": null,
-      "time": "2026-07-02T02:30:00.000Z"
+      "time": "2026-07-02T00:30:00.000Z"
     },
     {
       "id": "fm-4653709",
@@ -394,21 +394,6 @@
       "time": "2026-07-02T00:00:00.000Z"
     },
     {
-      "id": "fm-5496054",
-      "home": "Universidad de Chile",
-      "away": "Union La Calera",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6310.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/192435.png",
-      "league": "Cup Grp. D",
-      "leagueId": 920445,
-      "country": "CHI",
-      "status": "FINISHED",
-      "minute": null,
-      "time": "2026-07-02T00:30:00.000Z"
-    },
-    {
       "id": "fm-5109440",
       "home": "Chattanooga Red Wolves SC",
       "away": "Westchester SC",
@@ -422,6 +407,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-01T23:00:00.000Z"
+    },
+    {
+      "id": "fm-5109442",
+      "home": "Spokane Velocity FC",
+      "away": "Forward Madison FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1584038.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1004919.png",
+      "league": "USL League One",
+      "leagueId": 9296,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-02T02:00:00.000Z"
     }
   ]
 }
