@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T20:30:36.134310+00:00",
+  "lastUpdated": "2026-07-02T20:55:34.101389+00:00",
   "matchCount": 28,
   "liveCount": 2,
   "matches": [
@@ -7,7 +7,7 @@
       "id": "fm-4653708",
       "home": "Spain",
       "away": "Austria",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
@@ -15,7 +15,7 @@
       "leagueId": 894789,
       "country": "INT",
       "status": "LIVE",
-      "minute": "69‎’‎",
+      "minute": "94‎’‎",
       "time": "2026-07-02T19:00:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 215,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "57‎’‎",
+      "minute": "82‎’‎",
       "time": "2026-07-02T19:15:00.000Z"
     },
     {
