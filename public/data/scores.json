@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-07-02T04:01:01.034524+00:00",
+  "lastUpdated": "2026-07-02T05:31:45.143059+00:00",
   "matchCount": 28,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5109441",
-      "home": "Union Omaha",
-      "away": "AV Alta",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1121685.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1701876.png",
-      "league": "USL League One",
-      "leagueId": 9296,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "66‎’‎",
-      "time": "2026-07-02T02:30:00.000Z"
-    },
     {
       "id": "fm-5856873",
       "home": "Niroye Zamini",
@@ -422,6 +407,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-02T02:00:00.000Z"
+    },
+    {
+      "id": "fm-5109441",
+      "home": "Union Omaha",
+      "away": "AV Alta",
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1121685.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1701876.png",
+      "league": "USL League One",
+      "leagueId": 9296,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-02T02:30:00.000Z"
     }
   ]
 }
