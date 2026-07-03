@@ -1,36 +1,21 @@
 {
-  "lastUpdated": "2026-07-03T02:51:57.760021+00:00",
+  "lastUpdated": "2026-07-03T04:19:09.416124+00:00",
   "matchCount": 51,
   "liveCount": 1,
   "matches": [
     {
-      "id": "fm-5109443",
-      "home": "Boise",
-      "away": "One Knoxville SC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1877675.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1358088.png",
-      "league": "USL League One",
-      "leagueId": 9296,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "54‎’‎",
-      "time": "2026-07-03T01:30:00.000Z"
-    },
-    {
       "id": "fm-4653717",
       "home": "Switzerland",
       "away": "Algeria",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6317.png",
       "league": "World Cup",
       "leagueId": 894789,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "60‎’‎",
       "time": "2026-07-03T03:00:00.000Z"
     },
     {
@@ -767,6 +752,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-03T00:00:00.000Z"
+    },
+    {
+      "id": "fm-5109443",
+      "home": "Boise",
+      "away": "One Knoxville SC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1877675.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1358088.png",
+      "league": "USL League One",
+      "leagueId": 9296,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-03T01:30:00.000Z"
     }
   ]
 }
