@@ -1,68 +1,8 @@
 {
-  "lastUpdated": "2026-07-06T17:20:01.080224+00:00",
+  "lastUpdated": "2026-07-06T19:10:56.095340+00:00",
   "matchCount": 25,
-  "liveCount": 4,
+  "liveCount": 1,
   "matches": [
-    {
-      "id": "fm-5874459",
-      "home": "Suduva",
-      "away": "FK TransINVEST",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8337.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1447232.png",
-      "league": "A Lyga",
-      "leagueId": 228,
-      "country": "LTU",
-      "status": "LIVE",
-      "minute": "78‎’‎",
-      "time": "2026-07-06T15:45:00.000Z"
-    },
-    {
-      "id": "fm-5107520",
-      "home": "Brommapojkarna",
-      "away": "GAIS",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8501.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8297.png",
-      "league": "Allsvenskan",
-      "leagueId": 67,
-      "country": "SWE",
-      "status": "LIVE",
-      "minute": "20‎’‎",
-      "time": "2026-07-06T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5107518",
-      "home": "Häcken",
-      "away": "Djurgården",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8428.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9802.png",
-      "league": "Allsvenskan",
-      "leagueId": 67,
-      "country": "SWE",
-      "status": "LIVE",
-      "minute": "20‎’‎",
-      "time": "2026-07-06T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5162026",
-      "home": "SK Super Nova",
-      "away": "Ogre United",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/981193.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1899459.png",
-      "league": "Virsliga",
-      "leagueId": 226,
-      "country": "LVA",
-      "status": "LIVE",
-      "minute": "64‎’‎",
-      "time": "2026-07-06T16:00:00.000Z"
-    },
     {
       "id": "fm-4653844",
       "home": "Portugal",
@@ -74,8 +14,8 @@
       "league": "World Cup",
       "leagueId": 894789,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "11‎’‎",
       "time": "2026-07-06T19:00:00.000Z"
     },
     {
@@ -182,6 +122,51 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-06T01:00:00.000Z"
+    },
+    {
+      "id": "fm-5874459",
+      "home": "Suduva",
+      "away": "FK TransINVEST",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8337.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1447232.png",
+      "league": "A Lyga",
+      "leagueId": 228,
+      "country": "LTU",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-06T15:45:00.000Z"
+    },
+    {
+      "id": "fm-5107520",
+      "home": "Brommapojkarna",
+      "away": "GAIS",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8501.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8297.png",
+      "league": "Allsvenskan",
+      "leagueId": 67,
+      "country": "SWE",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-06T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5107518",
+      "home": "Häcken",
+      "away": "Djurgården",
+      "homeScore": 2,
+      "awayScore": 4,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8428.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9802.png",
+      "league": "Allsvenskan",
+      "leagueId": 67,
+      "country": "SWE",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-06T17:00:00.000Z"
     },
     {
       "id": "fm-5496018",
@@ -377,6 +362,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-06T03:00:00.000Z"
+    },
+    {
+      "id": "fm-5162026",
+      "home": "SK Super Nova",
+      "away": "Ogre United",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/981193.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1899459.png",
+      "league": "Virsliga",
+      "leagueId": 226,
+      "country": "LVA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-06T16:00:00.000Z"
     }
   ]
 }
