@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-07-07T11:47:28.896165+00:00",
+  "lastUpdated": "2026-07-07T13:55:39.141292+00:00",
   "matchCount": 23,
   "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-4653848",
-      "home": "Argentina",
-      "away": "Egypt",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-07T16:00:00.000Z"
-    },
-    {
-      "id": "fm-4653849",
-      "home": "Switzerland",
-      "away": "Colombia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-07T20:00:00.000Z"
-    },
     {
       "id": "fm-5785667",
       "home": "Ararat Armenia",
@@ -259,19 +229,34 @@
       "time": "2026-07-07T18:00:00.000Z"
     },
     {
-      "id": "fm-4653845",
-      "home": "USA",
-      "away": "Belgium",
-      "homeScore": 1,
-      "awayScore": 4,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
+      "id": "fm-4653848",
+      "home": "Argentina",
+      "away": "Egypt",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png",
       "league": "World Cup",
       "leagueId": 894789,
       "country": "INT",
-      "status": "FINISHED",
+      "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-07-07T00:00:00.000Z"
+      "time": "2026-07-07T16:00:00.000Z"
+    },
+    {
+      "id": "fm-4653849",
+      "home": "Switzerland",
+      "away": "Colombia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-07T20:00:00.000Z"
     },
     {
       "id": "fm-5496071",
@@ -302,6 +287,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-07T00:08:00.000Z"
+    },
+    {
+      "id": "fm-4653845",
+      "home": "USA",
+      "away": "Belgium",
+      "homeScore": 1,
+      "awayScore": 4,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-07T00:00:00.000Z"
     },
     {
       "id": "fm-1000009004",
