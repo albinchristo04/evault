@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-07-08T20:48:11.004133+00:00",
+  "lastUpdated": "2026-07-08T21:53:07.918597+00:00",
   "matchCount": 29,
-  "liveCount": 2,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5629310",
-      "home": "FAR Rabat",
-      "away": "Stade Marocain",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102035.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/316661.png",
-      "league": "Throne Cup",
-      "leagueId": 931414,
-      "country": "MAR",
-      "status": "LIVE",
-      "minute": "85‎’‎",
-      "time": "2026-07-08T19:00:00.000Z"
-    },
-    {
-      "id": "fm-1000011237",
-      "home": "CS Saint-Laurent",
-      "away": "Forge FC",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1615753.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1022955.png",
-      "league": "Canadian Championship",
-      "leagueId": 9837,
-      "country": "CAN",
-      "status": "LIVE",
-      "minute": "84‎’‎",
-      "time": "2026-07-08T19:00:00.000Z"
-    },
     {
       "id": "fm-1000010848",
       "home": "CDT Real Oruro",
@@ -334,6 +304,21 @@
       "time": "2026-07-08T13:00:00.000Z"
     },
     {
+      "id": "fm-5629310",
+      "home": "FAR Rabat",
+      "away": "Stade Marocain",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102035.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/316661.png",
+      "league": "Throne Cup",
+      "leagueId": 931414,
+      "country": "MAR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-08T19:00:00.000Z"
+    },
+    {
       "id": "fm-5101051",
       "home": "Athlone Town (W)",
       "away": "Shelbourne (W)",
@@ -362,6 +347,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-08T18:45:00.000Z"
+    },
+    {
+      "id": "fm-1000011237",
+      "home": "CS Saint-Laurent",
+      "away": "Forge FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1615753.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1022955.png",
+      "league": "Canadian Championship",
+      "leagueId": 9837,
+      "country": "CAN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-08T19:00:00.000Z"
     },
     {
       "id": "fm-1000007635",
