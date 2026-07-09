@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-09T07:55:59.074645+00:00",
-  "matchCount": 41,
+  "lastUpdated": "2026-07-09T10:52:58.596274+00:00",
+  "matchCount": 40,
   "liveCount": 0,
   "matches": [
     {
@@ -452,21 +452,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-07-09T18:00:00.000Z"
-    },
-    {
-      "id": "fm-1000016173",
-      "home": "South Georgia Tormenta FC",
-      "away": "Portland Hearts of Pine",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/727430.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1701883.png",
-      "league": "USL League One",
-      "leagueId": 9296,
-      "country": "USA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-08T23:30:00.000Z"
     },
     {
       "id": "fm-5109828",
