@@ -1,37 +1,22 @@
 {
-  "lastUpdated": "2026-07-09T04:17:49.292678+00:00",
+  "lastUpdated": "2026-07-09T07:55:59.074645+00:00",
   "matchCount": 41,
-  "liveCount": 2,
+  "liveCount": 0,
   "matches": [
     {
-      "id": "fm-5109829",
-      "home": "Sacramento Republic FC",
-      "away": "Rhode Island FC",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/521004.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1597140.png",
-      "league": "USL Championship",
-      "leagueId": 8972,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "76‎’‎",
-      "time": "2026-07-09T02:30:00.000Z"
-    },
-    {
-      "id": "fm-1000011230",
-      "home": "Vancouver",
-      "away": "Cavalry FC",
-      "homeScore": 4,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/307691.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1022952.png",
-      "league": "Canadian Championship",
-      "leagueId": 9837,
-      "country": "CAN",
-      "status": "LIVE",
-      "minute": "83‎’‎",
-      "time": "2026-07-09T02:30:00.000Z"
+      "id": "fm-4653851",
+      "home": "France",
+      "away": "Morocco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-09T20:00:00.000Z"
     },
     {
       "id": "fm-5900288",
@@ -46,7 +31,7 @@
       "country": "INT",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-07-09T12:00:00.000Z"
+      "time": "2026-07-09T13:00:00.000Z"
     },
     {
       "id": "fm-5765870",
@@ -469,21 +454,6 @@
       "time": "2026-07-09T18:00:00.000Z"
     },
     {
-      "id": "fm-4653851",
-      "home": "France",
-      "away": "Morocco",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-09T20:00:00.000Z"
-    },
-    {
       "id": "fm-1000016173",
       "home": "South Georgia Tormenta FC",
       "away": "Portland Hearts of Pine",
@@ -514,6 +484,21 @@
       "time": "2026-07-08T23:00:00.000Z"
     },
     {
+      "id": "fm-5109829",
+      "home": "Sacramento Republic FC",
+      "away": "Rhode Island FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/521004.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1597140.png",
+      "league": "USL Championship",
+      "leagueId": 8972,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-09T02:30:00.000Z"
+    },
+    {
       "id": "fm-1000011235",
       "home": "Supra du Quebec",
       "away": "Atlético Ottawa",
@@ -542,6 +527,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-09T02:00:00.000Z"
+    },
+    {
+      "id": "fm-1000011230",
+      "home": "Vancouver",
+      "away": "Cavalry FC",
+      "homeScore": 4,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/307691.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1022952.png",
+      "league": "Canadian Championship",
+      "leagueId": 9837,
+      "country": "CAN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-09T02:30:00.000Z"
     },
     {
       "id": "fm-1000013920",
