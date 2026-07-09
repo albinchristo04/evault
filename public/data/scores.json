@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-09T21:41:17.019995+00:00",
+  "lastUpdated": "2026-07-09T22:57:38.187321+00:00",
   "matchCount": 40,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
     {
       "id": "fm-4653851",
@@ -14,8 +14,8 @@
       "league": "World Cup",
       "leagueId": 894789,
       "country": "INT",
-      "status": "LIVE",
-      "minute": "77‎’‎",
+      "status": "FINISHED",
+      "minute": null,
       "time": "2026-07-09T20:00:00.000Z"
     },
     {
