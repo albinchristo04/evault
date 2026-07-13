@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T20:43:45.164351+00:00",
+  "lastUpdated": "2026-07-13T21:38:07.732018+00:00",
   "matchCount": 22,
   "liveCount": 2,
   "matches": [
@@ -7,31 +7,16 @@
       "id": "fm-5225811",
       "home": "Vestri",
       "away": "Fylkir",
-      "homeScore": 0,
-      "awayScore": 3,
+      "homeScore": 1,
+      "awayScore": 5,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/750462.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6434.png",
       "league": "1. Deild",
       "leagueId": 216,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "28‎’‎",
+      "minute": "64‎’‎",
       "time": "2026-07-13T20:15:00.000Z"
-    },
-    {
-      "id": "fm-5225682",
-      "home": "Breidablik",
-      "away": "Keflavik",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8332.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4472.png",
-      "league": "Besta deildin",
-      "leagueId": 215,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "73‎’‎",
-      "time": "2026-07-13T19:15:00.000Z"
     },
     {
       "id": "fm-5238329",
@@ -44,8 +29,8 @@
       "league": "Federal A Zona A",
       "leagueId": 923718,
       "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "4‎’‎",
       "time": "2026-07-13T21:30:00.000Z"
     },
     {
@@ -242,6 +227,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-12T23:00:00.000Z"
+    },
+    {
+      "id": "fm-5225682",
+      "home": "Breidablik",
+      "away": "Keflavik",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8332.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4472.png",
+      "league": "Besta deildin",
+      "leagueId": 215,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-13T19:15:00.000Z"
     },
     {
       "id": "fm-1000011233",
