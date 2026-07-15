@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-07-15T08:04:24.902168+00:00",
+  "lastUpdated": "2026-07-15T10:13:28.230651+00:00",
   "matchCount": 42,
-  "liveCount": 0,
+  "liveCount": 2,
   "matches": [
+    {
+      "id": "fm-5848061",
+      "home": "Marlin Coast Rangers",
+      "away": "Brunswick Juventus FC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2057414.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162316.png",
+      "league": "Australia Cup",
+      "leagueId": 9471,
+      "country": "AUS",
+      "status": "LIVE",
+      "minute": "43‎’‎",
+      "time": "2026-07-15T09:30:00.000Z"
+    },
     {
       "id": "fm-5848062",
       "home": "FK Beograd",
@@ -14,24 +29,24 @@
       "league": "Australia Cup",
       "leagueId": 9471,
       "country": "AUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-15T09:30:00.000Z"
+      "status": "LIVE",
+      "minute": "12‎’‎",
+      "time": "2026-07-15T10:00:00.000Z"
     },
     {
-      "id": "fm-5848061",
-      "home": "Marlin Coast Rangers",
-      "away": "Brunswick Juventus FC",
+      "id": "fm-4653856",
+      "home": "England",
+      "away": "Argentina",
       "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2057414.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162316.png",
-      "league": "Australia Cup",
-      "leagueId": 9471,
-      "country": "AUS",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
+      "league": "World Cup",
+      "leagueId": 894789,
+      "country": "INT",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-07-15T09:30:00.000Z"
+      "time": "2026-07-15T19:00:00.000Z"
     },
     {
       "id": "fm-5785684",
@@ -257,21 +272,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-07-15T18:30:00.000Z"
-    },
-    {
-      "id": "fm-4653856",
-      "home": "England",
-      "away": "Argentina",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
-      "league": "World Cup",
-      "leagueId": 894789,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-15T19:00:00.000Z"
     },
     {
       "id": "fm-5163725",
