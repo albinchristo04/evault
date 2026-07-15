@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-15T21:30:50.176140+00:00",
+  "lastUpdated": "2026-07-15T22:36:30.570281+00:00",
   "matchCount": 42,
-  "liveCount": 0,
+  "liveCount": 3,
   "matches": [
     {
       "id": "fm-1000010871",
@@ -14,8 +14,8 @@
       "league": "Primera División",
       "leagueId": 144,
       "country": "BOL",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "36‎’‎",
       "time": "2026-07-15T22:00:00.000Z"
     },
     {
@@ -29,8 +29,8 @@
       "league": "Serie A",
       "leagueId": 246,
       "country": "ECU",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "34‎’‎",
       "time": "2026-07-15T22:00:00.000Z"
     },
     {
@@ -38,14 +38,14 @@
       "home": "Leones del Norte",
       "away": "Deportivo Cuenca",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1370528.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4144.png",
       "league": "Serie A",
       "leagueId": 246,
       "country": "ECU",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "37‎’‎",
       "time": "2026-07-15T22:00:00.000Z"
     },
     {
