@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-07-15T05:54:20.410592+00:00",
+  "lastUpdated": "2026-07-15T08:04:24.902168+00:00",
   "matchCount": 42,
   "liveCount": 0,
   "matches": [
+    {
+      "id": "fm-5848062",
+      "home": "FK Beograd",
+      "away": "North Sunshine Eagles SC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162284.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/629991.png",
+      "league": "Australia Cup",
+      "leagueId": 9471,
+      "country": "AUS",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-15T09:30:00.000Z"
+    },
     {
       "id": "fm-5848061",
       "home": "Marlin Coast Rangers",
@@ -17,21 +32,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-07-15T09:30:00.000Z"
-    },
-    {
-      "id": "fm-5848062",
-      "home": "FK Beograd",
-      "away": "North Sunshine Eagles SC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162284.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/629991.png",
-      "league": "Australia Cup",
-      "leagueId": 9471,
-      "country": "AUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-15T10:00:00.000Z"
     },
     {
       "id": "fm-5785684",
