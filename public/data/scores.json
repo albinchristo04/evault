@@ -1,52 +1,37 @@
 {
-  "lastUpdated": "2026-07-16T21:43:35.985531+00:00",
+  "lastUpdated": "2026-07-16T22:41:24.555657+00:00",
   "matchCount": 62,
-  "liveCount": 2,
+  "liveCount": 4,
   "matches": [
-    {
-      "id": "fm-5786506",
-      "home": "Vestri",
-      "away": "Qarabag FK",
-      "homeScore": 0,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/750462.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7981.png",
-      "league": "Europa League Qualification",
-      "leagueId": 937349,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "87‎’‎",
-      "time": "2026-07-16T20:00:00.000Z"
-    },
-    {
-      "id": "fm-1000009020",
-      "home": "Aucas",
-      "away": "Independiente del Valle",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6608.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/192875.png",
-      "league": "Serie A",
-      "leagueId": 246,
-      "country": "ECU",
-      "status": "LIVE",
-      "minute": "13‎’‎",
-      "time": "2026-07-16T21:30:00.000Z"
-    },
     {
       "id": "fm-1000010890",
       "home": "Racing Club",
       "away": "Defensa y Justicia",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10080.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161730.png",
       "league": "Copa Argentina",
       "leagueId": 9305,
       "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "HT",
       "time": "2026-07-16T21:45:00.000Z"
+    },
+    {
+      "id": "fm-1000009020",
+      "home": "Aucas",
+      "away": "Independiente del Valle",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6608.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/192875.png",
+      "league": "Serie A",
+      "leagueId": 246,
+      "country": "ECU",
+      "status": "LIVE",
+      "minute": "HT",
+      "time": "2026-07-16T21:30:00.000Z"
     },
     {
       "id": "fm-5103545",
@@ -59,8 +44,8 @@
       "league": "Serie A",
       "leagueId": 268,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "11‎’‎",
       "time": "2026-07-16T22:30:00.000Z"
     },
     {
@@ -74,8 +59,8 @@
       "league": "Serie A",
       "leagueId": 268,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "10‎’‎",
       "time": "2026-07-16T22:30:00.000Z"
     },
     {
@@ -677,6 +662,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-16T18:30:00.000Z"
+    },
+    {
+      "id": "fm-5786506",
+      "home": "Vestri",
+      "away": "Qarabag FK",
+      "homeScore": 0,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/750462.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7981.png",
+      "league": "Europa League Qualification",
+      "leagueId": 937349,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-16T20:00:00.000Z"
     },
     {
       "id": "fm-5161560",
