@@ -1,28 +1,13 @@
 {
-  "lastUpdated": "2026-07-21T21:47:10.652697+00:00",
+  "lastUpdated": "2026-07-21T22:39:27.719136+00:00",
   "matchCount": 65,
-  "liveCount": 3,
+  "liveCount": 7,
   "matches": [
-    {
-      "id": "fm-5778524",
-      "home": "Fylkir",
-      "away": "Afturelding",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6434.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/163251.png",
-      "league": "Cup",
-      "leagueId": 925063,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "106‎’‎",
-      "time": "2026-07-21T19:30:00.000Z"
-    },
     {
       "id": "fm-5850711",
       "home": "Atletico Nacional",
       "away": "Tigres FC",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6368.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193030.png",
@@ -30,8 +15,38 @@
       "leagueId": 938416,
       "country": "COL",
       "status": "LIVE",
-      "minute": "47‎’‎",
+      "minute": "79‎’‎",
       "time": "2026-07-21T21:00:00.000Z"
+    },
+    {
+      "id": "fm-5850717",
+      "home": "Internacional de Bogota",
+      "away": "Internacional FC de Palmira",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/47240.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/192963.png",
+      "league": "Cup",
+      "leagueId": 938416,
+      "country": "COL",
+      "status": "LIVE",
+      "minute": "39‎’‎",
+      "time": "2026-07-21T22:00:00.000Z"
+    },
+    {
+      "id": "fm-5702730",
+      "home": "Nacional",
+      "away": "Tigre",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8304.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/89396.png",
+      "league": "Copa Sudamericana Knockout Round Play-offs",
+      "leagueId": 1000001658,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "38‎’‎",
+      "time": "2026-07-21T22:00:00.000Z"
     },
     {
       "id": "fm-1000009039",
@@ -45,38 +60,8 @@
       "leagueId": 246,
       "country": "ECU",
       "status": "LIVE",
-      "minute": "18‎’‎",
+      "minute": "48‎’‎",
       "time": "2026-07-21T21:30:00.000Z"
-    },
-    {
-      "id": "fm-5850717",
-      "home": "Internacional de Bogota",
-      "away": "Internacional FC de Palmira",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/47240.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/192963.png",
-      "league": "Cup",
-      "leagueId": 938416,
-      "country": "COL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-21T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5702730",
-      "home": "Nacional",
-      "away": "Tigre",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8304.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/89396.png",
-      "league": "Copa Sudamericana Knockout Round Play-offs",
-      "leagueId": 1000001658,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-21T22:00:00.000Z"
     },
     {
       "id": "fm-5103549",
@@ -89,8 +74,8 @@
       "league": "Serie A",
       "leagueId": 268,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "10‎’‎",
       "time": "2026-07-21T22:30:00.000Z"
     },
     {
@@ -104,8 +89,8 @@
       "league": "Serie B",
       "leagueId": 8814,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "9‎’‎",
       "time": "2026-07-21T22:30:00.000Z"
     },
     {
@@ -119,8 +104,8 @@
       "league": "Serie B",
       "leagueId": 8814,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "7‎’‎",
       "time": "2026-07-21T22:30:00.000Z"
     },
     {
@@ -497,6 +482,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-21T18:15:00.000Z"
+    },
+    {
+      "id": "fm-5778524",
+      "home": "Fylkir",
+      "away": "Afturelding",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6434.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/163251.png",
+      "league": "Cup",
+      "leagueId": 925063,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-21T19:30:00.000Z"
     },
     {
       "id": "fm-5853710",
