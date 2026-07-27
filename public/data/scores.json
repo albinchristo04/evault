@@ -1,88 +1,28 @@
 {
-  "lastUpdated": "2026-07-27T20:03:46.702025+00:00",
+  "lastUpdated": "2026-07-27T21:21:07.629293+00:00",
   "matchCount": 74,
-  "liveCount": 6,
+  "liveCount": 2,
   "matches": [
     {
-      "id": "fm-5760442",
-      "home": "CSKA Sofia",
-      "away": "Botev Plovdiv",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10144.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10131.png",
-      "league": "First Professional League",
-      "leagueId": 936550,
-      "country": "BUL",
-      "status": "LIVE",
-      "minute": "91‎’‎",
-      "time": "2026-07-27T18:15:00.000Z"
-    },
-    {
-      "id": "fm-5853445",
-      "home": "Botosani",
-      "away": "Rapid Bucuresti",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188191.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9738.png",
-      "league": "Superliga",
-      "leagueId": 938428,
-      "country": "ROU",
-      "status": "LIVE",
-      "minute": "74‎’‎",
-      "time": "2026-07-27T18:30:00.000Z"
-    },
-    {
-      "id": "fm-5225693",
-      "home": "KA Akureyri",
-      "away": "Thor Akureyri",
+      "id": "fm-1000013658",
+      "home": "Envigado",
+      "away": "Real Cundinamarca",
       "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2165.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4496.png",
-      "league": "Besta deildin",
-      "leagueId": 215,
-      "country": "ISL",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4402.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193026.png",
+      "league": "Primera B",
+      "leagueId": 9125,
+      "country": "COL",
       "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-07-27T19:15:00.000Z"
-    },
-    {
-      "id": "fm-1000011159",
-      "home": "GV San Jose",
-      "away": "Universitario de Vinto",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1504770.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/879029.png",
-      "league": "Primera División",
-      "leagueId": 144,
-      "country": "BOL",
-      "status": "LIVE",
-      "minute": "47‎’‎",
-      "time": "2026-07-27T19:00:00.000Z"
-    },
-    {
-      "id": "fm-1000009047",
-      "home": "Mushuc Runa",
-      "away": "Libertad",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/304929.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1345405.png",
-      "league": "Serie A",
-      "leagueId": 246,
-      "country": "ECU",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-07-27T19:00:00.000Z"
+      "minute": "50‎’‎",
+      "time": "2026-07-27T20:30:00.000Z"
     },
     {
       "id": "fm-1000005776",
       "home": "Ivory Coast",
       "away": "Burkina Faso",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/604108.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1459480.png",
@@ -90,7 +30,7 @@
       "leagueId": 1000000881,
       "country": "INT",
       "status": "LIVE",
-      "minute": "2‎’‎",
+      "minute": "54‎’‎",
       "time": "2026-07-27T20:00:00.000Z"
     },
     {
@@ -107,21 +47,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-07-27T22:30:00.000Z"
-    },
-    {
-      "id": "fm-1000013658",
-      "home": "Envigado",
-      "away": "Real Cundinamarca",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4402.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193026.png",
-      "league": "Primera B",
-      "leagueId": 9125,
-      "country": "COL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-27T20:30:00.000Z"
     },
     {
       "id": "fm-1000009043",
@@ -407,6 +332,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-27T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5760442",
+      "home": "CSKA Sofia",
+      "away": "Botev Plovdiv",
+      "homeScore": 3,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10144.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10131.png",
+      "league": "First Professional League",
+      "leagueId": 936550,
+      "country": "BUL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-27T18:15:00.000Z"
     },
     {
       "id": "fm-5861867",
@@ -754,6 +694,21 @@
       "time": "2026-07-27T15:30:00.000Z"
     },
     {
+      "id": "fm-5853445",
+      "home": "Botosani",
+      "away": "Rapid Bucuresti",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188191.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9738.png",
+      "league": "Superliga",
+      "leagueId": 938428,
+      "country": "ROU",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-27T18:30:00.000Z"
+    },
+    {
       "id": "fm-5200593",
       "home": "AGMK",
       "away": "Mashal Muborak",
@@ -827,6 +782,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-27T18:00:00.000Z"
+    },
+    {
+      "id": "fm-5225693",
+      "home": "KA Akureyri",
+      "away": "Thor Akureyri",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2165.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4496.png",
+      "league": "Besta deildin",
+      "leagueId": 215,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-27T19:15:00.000Z"
     },
     {
       "id": "fm-1000011113",
@@ -1024,6 +994,21 @@
       "time": "2026-07-26T23:30:00.000Z"
     },
     {
+      "id": "fm-1000011159",
+      "home": "GV San Jose",
+      "away": "Universitario de Vinto",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1504770.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/879029.png",
+      "league": "Primera División",
+      "leagueId": 144,
+      "country": "BOL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-27T19:00:00.000Z"
+    },
+    {
       "id": "fm-1000013172",
       "home": "Deportes Concepcion",
       "away": "O'Higgins",
@@ -1052,6 +1037,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-27T00:15:00.000Z"
+    },
+    {
+      "id": "fm-1000009047",
+      "home": "Mushuc Runa",
+      "away": "Libertad",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/304929.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1345405.png",
+      "league": "Serie A",
+      "leagueId": 246,
+      "country": "ECU",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-27T19:00:00.000Z"
     },
     {
       "id": "fm-1000009490",
