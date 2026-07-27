@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-07-27T08:45:37.950491+00:00",
+  "lastUpdated": "2026-07-27T11:59:57.053930+00:00",
   "matchCount": 74,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
+    {
+      "id": "fm-5844737",
+      "home": "Singapore",
+      "away": "Timor-Leste",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5825.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95801.png",
+      "league": "ASEAN Championship Grp. A",
+      "leagueId": 938328,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "HT",
+      "time": "2026-07-27T11:00:00.000Z"
+    },
     {
       "id": "fm-5105199",
       "home": "Stabæk",
@@ -77,21 +92,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-07-27T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5844737",
-      "home": "Singapore",
-      "away": "Timor-Leste",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5825.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95801.png",
-      "league": "ASEAN Championship Grp. A",
-      "leagueId": 938328,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-27T11:00:00.000Z"
     },
     {
       "id": "fm-5844736",
