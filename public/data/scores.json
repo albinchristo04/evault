@@ -1,53 +1,8 @@
 {
-  "lastUpdated": "2026-07-27T21:21:07.629293+00:00",
+  "lastUpdated": "2026-07-27T22:33:26.509842+00:00",
   "matchCount": 74,
-  "liveCount": 2,
+  "liveCount": 4,
   "matches": [
-    {
-      "id": "fm-1000013658",
-      "home": "Envigado",
-      "away": "Real Cundinamarca",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4402.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193026.png",
-      "league": "Primera B",
-      "leagueId": 9125,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "50‎’‎",
-      "time": "2026-07-27T20:30:00.000Z"
-    },
-    {
-      "id": "fm-1000005776",
-      "home": "Ivory Coast",
-      "away": "Burkina Faso",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/604108.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1459480.png",
-      "league": "Women's Africa Cup of Nations B",
-      "leagueId": 1000000881,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "54‎’‎",
-      "time": "2026-07-27T20:00:00.000Z"
-    },
-    {
-      "id": "fm-1000011191",
-      "home": "Gremio Prudente",
-      "away": "Bandeirante",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/580691.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1995017.png",
-      "league": "Copa Paulista",
-      "leagueId": 11646,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-27T22:30:00.000Z"
-    },
     {
       "id": "fm-1000009043",
       "home": "Guayaquil City",
@@ -59,8 +14,8 @@
       "league": "Serie A",
       "leagueId": 246,
       "country": "ECU",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "HT",
       "time": "2026-07-27T21:30:00.000Z"
     },
     {
@@ -74,8 +29,8 @@
       "league": "Serie B",
       "leagueId": 8814,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "4‎’‎",
       "time": "2026-07-27T22:30:00.000Z"
     },
     {
@@ -89,8 +44,8 @@
       "league": "Serie B",
       "leagueId": 8814,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "4‎’‎",
       "time": "2026-07-27T22:30:00.000Z"
     },
     {
@@ -103,6 +58,21 @@
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/109706.png",
       "league": "Serie B",
       "leagueId": 8814,
+      "country": "BRA",
+      "status": "LIVE",
+      "minute": "2‎’‎",
+      "time": "2026-07-27T22:30:00.000Z"
+    },
+    {
+      "id": "fm-1000011191",
+      "home": "Gremio Prudente",
+      "away": "Bandeirante",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/580691.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1995017.png",
+      "league": "Copa Paulista",
+      "leagueId": 11646,
       "country": "BRA",
       "status": "SCHEDULED",
       "minute": null,
@@ -979,6 +949,21 @@
       "time": "2026-07-27T01:15:00.000Z"
     },
     {
+      "id": "fm-1000013658",
+      "home": "Envigado",
+      "away": "Real Cundinamarca",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4402.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193026.png",
+      "league": "Primera B",
+      "leagueId": 9125,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-27T20:30:00.000Z"
+    },
+    {
       "id": "fm-1000011156",
       "home": "Nacional Potosi",
       "away": "Real Tomayapo",
@@ -1112,6 +1097,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-07-27T17:00:00.000Z"
+    },
+    {
+      "id": "fm-1000005776",
+      "home": "Ivory Coast",
+      "away": "Burkina Faso",
+      "homeScore": 4,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/604108.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1459480.png",
+      "league": "Women's Africa Cup of Nations B",
+      "leagueId": 1000000881,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-07-27T20:00:00.000Z"
     }
   ]
 }
