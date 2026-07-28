@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-28T04:25:00.632858+00:00",
-  "matchCount": 69,
+  "lastUpdated": "2026-07-28T07:11:39.306887+00:00",
+  "matchCount": 68,
   "liveCount": 0,
   "matches": [
     {
@@ -424,21 +424,6 @@
       "time": "2026-07-28T18:00:00.000Z"
     },
     {
-      "id": "fm-5850710",
-      "home": "Union Magdalena",
-      "away": "Santa Fe",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4408.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7818.png",
-      "league": "Cup",
-      "leagueId": 938416,
-      "country": "COL",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-28T20:00:00.000Z"
-    },
-    {
       "id": "fm-5897883",
       "home": "TRAU",
       "away": "Neroca FC",
@@ -467,6 +452,36 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-07-28T14:00:00.000Z"
+    },
+    {
+      "id": "fm-5115889",
+      "home": "Banfield",
+      "away": "Sarmiento",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10087.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/202757.png",
+      "league": "Liga Profesional Clausura",
+      "leagueId": 916957,
+      "country": "ARG",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-28T22:00:00.000Z"
+    },
+    {
+      "id": "fm-5115899",
+      "home": "San Lorenzo",
+      "away": "Gimnasia Mendoza",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10083.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/568727.png",
+      "league": "Liga Profesional Clausura",
+      "leagueId": 916957,
+      "country": "ARG",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-28T22:00:00.000Z"
     },
     {
       "id": "fm-5136395",
@@ -574,6 +589,36 @@
       "time": "2026-07-28T15:30:00.000Z"
     },
     {
+      "id": "fm-5125565",
+      "home": "Helsingborg",
+      "away": "Nordic United FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9859.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1144284.png",
+      "league": "Superettan",
+      "leagueId": 168,
+      "country": "SWE",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-28T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5125566",
+      "home": "Landskrona BoIS",
+      "away": "IFK Norrköping",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8511.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8449.png",
+      "league": "Superettan",
+      "leagueId": 168,
+      "country": "SWE",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-28T17:00:00.000Z"
+    },
+    {
       "id": "fm-5200591",
       "home": "Nasaf Qarshi",
       "away": "Qizilqum Zarafshon",
@@ -617,66 +662,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-07-28T15:00:00.000Z"
-    },
-    {
-      "id": "fm-5125565",
-      "home": "Helsingborg",
-      "away": "Nordic United FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9859.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1144284.png",
-      "league": "Superettan",
-      "leagueId": 168,
-      "country": "SWE",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-28T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5125566",
-      "home": "Landskrona BoIS",
-      "away": "IFK Norrköping",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8511.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8449.png",
-      "league": "Superettan",
-      "leagueId": 168,
-      "country": "SWE",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-28T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5115889",
-      "home": "Banfield",
-      "away": "Sarmiento",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10087.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/202757.png",
-      "league": "Liga Profesional Clausura",
-      "leagueId": 916957,
-      "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-28T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5115899",
-      "home": "San Lorenzo",
-      "away": "Gimnasia Mendoza",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10083.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/568727.png",
-      "league": "Liga Profesional Clausura",
-      "leagueId": 916957,
-      "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-07-28T22:00:00.000Z"
     },
     {
       "id": "fm-1000011102",
