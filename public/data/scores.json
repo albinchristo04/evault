@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-07-31T03:54:04.117989+00:00",
+  "lastUpdated": "2026-07-31T06:41:36.454044+00:00",
   "matchCount": 127,
-  "liveCount": 2,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5849312",
-      "home": "CSD Municipal",
-      "away": "C.S. Cartaginés",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9933.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49732.png",
-      "league": "CONCACAF Central American Cup Grp. D",
-      "leagueId": 938395,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "47‎’‎",
-      "time": "2026-07-31T03:00:00.000Z"
-    },
-    {
-      "id": "fm-5962375",
-      "home": "Inter Santa Tecla",
-      "away": "CD Águila",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1783449.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49739.png",
-      "league": "Primera Division - Apertura",
-      "leagueId": 941466,
-      "country": "SLV",
-      "status": "LIVE",
-      "minute": "94‎’‎",
-      "time": "2026-07-31T02:00:00.000Z"
-    },
     {
       "id": "fm-5764563",
       "home": "Aarhus Fremad",
@@ -1502,6 +1472,36 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-07-31T16:00:00.000Z"
+    },
+    {
+      "id": "fm-1000015663",
+      "home": "Karvina",
+      "away": "FC Vlasim",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/143833.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/175807.png",
+      "league": "FNL",
+      "leagueId": 253,
+      "country": "CZE",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-31T16:00:00.000Z"
+    },
+    {
+      "id": "fm-1000015658",
+      "home": "FC Silon Taborsko",
+      "away": "Dukla Praha",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/157007.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/88657.png",
+      "league": "FNL",
+      "leagueId": 253,
+      "country": "CZE",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-07-31T17:00:00.000Z"
     }
   ]
 }
