@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-04T06:16:07.759279+00:00",
+  "lastUpdated": "2026-08-04T09:13:16.306594+00:00",
   "matchCount": 65,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
+    {
+      "id": "fm-5986221",
+      "home": "Persib Bandung",
+      "away": "Persija Jakarta",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165196.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165191.png",
+      "league": "President's Cup",
+      "leagueId": 942490,
+      "country": "IDN",
+      "status": "LIVE",
+      "minute": "43‎’‎",
+      "time": "2026-08-04T08:30:00.000Z"
+    },
     {
       "id": "fm-5903801",
       "home": "Fortuna Hjørring (W)",
@@ -424,21 +439,6 @@
       "time": "2026-08-04T18:00:00.000Z"
     },
     {
-      "id": "fm-5986221",
-      "home": "Persib Bandung",
-      "away": "Persija Jakarta",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165196.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165191.png",
-      "league": "President's Cup",
-      "leagueId": 942490,
-      "country": "IDN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-04T08:30:00.000Z"
-    },
-    {
       "id": "fm-5986220",
       "home": "Persebaya Surabaya",
       "away": "Arema",
@@ -451,7 +451,7 @@
       "country": "IDN",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-08-04T12:00:00.000Z"
+      "time": "2026-08-04T12:30:00.000Z"
     },
     {
       "id": "fm-5910797",
@@ -602,21 +602,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-04T15:30:00.000Z"
-    },
-    {
-      "id": "fm-5797174",
-      "home": "Dinamo Minsk (W)",
-      "away": "Servette (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1148361.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1209903.png",
-      "league": "Women's Champions League Qualification 2nd Round",
-      "leagueId": 937782,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-04T07:00:00.000Z"
     },
     {
       "id": "fm-5797175",
@@ -917,6 +902,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-04T02:00:00.000Z"
+    },
+    {
+      "id": "fm-5797174",
+      "home": "Dinamo Minsk (W)",
+      "away": "Servette (W)",
+      "homeScore": 0,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1148361.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1209903.png",
+      "league": "Women's Champions League Qualification 2nd Round",
+      "leagueId": 937782,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-04T07:00:00.000Z"
     },
     {
       "id": "fm-1000012454",
