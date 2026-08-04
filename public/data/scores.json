@@ -1,22 +1,37 @@
 {
-  "lastUpdated": "2026-08-04T09:13:16.306594+00:00",
-  "matchCount": 65,
-  "liveCount": 1,
+  "lastUpdated": "2026-08-04T11:35:10.741671+00:00",
+  "matchCount": 64,
+  "liveCount": 2,
   "matches": [
     {
-      "id": "fm-5986221",
-      "home": "Persib Bandung",
-      "away": "Persija Jakarta",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165196.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165191.png",
-      "league": "President's Cup",
-      "leagueId": 942490,
-      "country": "IDN",
+      "id": "fm-5844755",
+      "home": "Myanmar",
+      "away": "Laos",
+      "homeScore": 5,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5891.png",
+      "league": "ASEAN Championship Grp. B",
+      "leagueId": 938329,
+      "country": "INT",
       "status": "LIVE",
-      "minute": "43‎’‎",
-      "time": "2026-08-04T08:30:00.000Z"
+      "minute": "69‎’‎",
+      "time": "2026-08-04T10:00:00.000Z"
+    },
+    {
+      "id": "fm-5449689",
+      "home": "Bayern München",
+      "away": "Jeju SK",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133898.png",
+      "league": "Club Friendlies",
+      "leagueId": 915708,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "35‎’‎",
+      "time": "2026-08-04T11:00:00.000Z"
     },
     {
       "id": "fm-5903801",
@@ -32,21 +47,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-04T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5844755",
-      "home": "Myanmar",
-      "away": "Laos",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5891.png",
-      "league": "ASEAN Championship Grp. B",
-      "leagueId": 938329,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-04T10:00:00.000Z"
     },
     {
       "id": "fm-5844756",
@@ -184,36 +184,6 @@
       "time": "2026-08-04T18:00:00.000Z"
     },
     {
-      "id": "fm-5449689",
-      "home": "Bayern München",
-      "away": "Jeju SK",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133898.png",
-      "league": "Club Friendlies",
-      "leagueId": 915708,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-04T11:00:00.000Z"
-    },
-    {
-      "id": "fm-5899061",
-      "home": "Bournemouth",
-      "away": "Genoa",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
-      "league": "Club Friendlies",
-      "leagueId": 915708,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-04T12:00:00.000Z"
-    },
-    {
       "id": "fm-5898788",
       "home": "BG Pathum United",
       "away": "Aston Villa",
@@ -346,7 +316,7 @@
       "country": "IND",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-08-04T10:30:00.000Z"
+      "time": "2026-08-04T11:30:00.000Z"
     },
     {
       "id": "fm-5897858",
@@ -887,6 +857,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-04T01:00:00.000Z"
+    },
+    {
+      "id": "fm-5986221",
+      "home": "Persib Bandung",
+      "away": "Persija Jakarta",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165196.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165191.png",
+      "league": "President's Cup",
+      "leagueId": 942490,
+      "country": "IDN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-04T08:30:00.000Z"
     },
     {
       "id": "fm-5833762",
