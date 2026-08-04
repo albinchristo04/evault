@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-08-04T03:42:12.984764+00:00",
+  "lastUpdated": "2026-08-04T06:16:07.759279+00:00",
   "matchCount": 65,
-  "liveCount": 2,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5861219",
-      "home": "Club Xelaju",
-      "away": "Aurora FC",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49758.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188294.png",
-      "league": "Liga Nacional Apertura",
-      "leagueId": 938628,
-      "country": "GUA",
-      "status": "LIVE",
-      "minute": "79‎’‎",
-      "time": "2026-08-04T02:00:00.000Z"
-    },
-    {
-      "id": "fm-5833762",
-      "home": "Municipal Pérez Zeledón",
-      "away": "C.S. Cartaginés",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49730.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49732.png",
-      "league": "Primera Division Apertura",
-      "leagueId": 938190,
-      "country": "CRC",
-      "status": "LIVE",
-      "minute": "83‎’‎",
-      "time": "2026-08-04T02:00:00.000Z"
-    },
     {
       "id": "fm-5903801",
       "home": "Fortuna Hjørring (W)",
@@ -454,21 +424,6 @@
       "time": "2026-08-04T18:00:00.000Z"
     },
     {
-      "id": "fm-5986220",
-      "home": "Persebaya Surabaya",
-      "away": "Arema",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/930525.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165200.png",
-      "league": "President's Cup",
-      "leagueId": 942490,
-      "country": "IDN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-04T12:00:00.000Z"
-    },
-    {
       "id": "fm-5986221",
       "home": "Persib Bandung",
       "away": "Persija Jakarta",
@@ -476,6 +431,21 @@
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165196.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165191.png",
+      "league": "President's Cup",
+      "leagueId": 942490,
+      "country": "IDN",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-08-04T08:30:00.000Z"
+    },
+    {
+      "id": "fm-5986220",
+      "home": "Persebaya Surabaya",
+      "away": "Arema",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/930525.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165200.png",
       "league": "President's Cup",
       "leagueId": 942490,
       "country": "IDN",
@@ -874,6 +844,21 @@
       "time": "2026-08-04T01:00:00.000Z"
     },
     {
+      "id": "fm-5861219",
+      "home": "Club Xelaju",
+      "away": "Aurora FC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49758.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188294.png",
+      "league": "Liga Nacional Apertura",
+      "leagueId": 938628,
+      "country": "GUA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-04T02:00:00.000Z"
+    },
+    {
       "id": "fm-5115905",
       "home": "Central Cordoba de Santiago",
       "away": "San Lorenzo",
@@ -917,6 +902,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-04T01:00:00.000Z"
+    },
+    {
+      "id": "fm-5833762",
+      "home": "Municipal Pérez Zeledón",
+      "away": "C.S. Cartaginés",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49730.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49732.png",
+      "league": "Primera Division Apertura",
+      "leagueId": 938190,
+      "country": "CRC",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-04T02:00:00.000Z"
     },
     {
       "id": "fm-1000012454",
