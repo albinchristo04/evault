@@ -1,51 +1,21 @@
 {
-  "lastUpdated": "2026-08-05T21:36:45.150432+00:00",
-  "matchCount": 100,
-  "liveCount": 2,
+  "lastUpdated": "2026-08-05T22:40:01.578838+00:00",
+  "matchCount": 101,
+  "liveCount": 9,
   "matches": [
-    {
-      "id": "fm-1000005785",
-      "home": "Egypt",
-      "away": "Nigeria",
-      "homeScore": 1,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1353680.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5908.png",
-      "league": "Women's Africa Cup of Nations C",
-      "leagueId": 1000000881,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "71‎’‎",
-      "time": "2026-08-05T20:00:00.000Z"
-    },
-    {
-      "id": "fm-1000005786",
-      "home": "Malawi",
-      "away": "Zambia",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1302798.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1202714.png",
-      "league": "Women's Africa Cup of Nations C",
-      "leagueId": 1000000881,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "78‎’‎",
-      "time": "2026-08-05T20:00:00.000Z"
-    },
     {
       "id": "fm-5874650",
       "home": "Santiago Wanderers",
       "away": "Union La Calera",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1849.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/192435.png",
       "league": "Cup Grp. D",
       "leagueId": 920445,
       "country": "CHI",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "42‎’‎",
       "time": "2026-08-05T22:00:00.000Z"
     },
     {
@@ -53,14 +23,14 @@
       "home": "Union San Felipe",
       "away": "Universidad de Chile",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4061.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6310.png",
       "league": "Cup Grp. D",
       "leagueId": 920445,
       "country": "CHI",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "41‎’‎",
       "time": "2026-08-05T22:00:00.000Z"
     },
     {
@@ -74,8 +44,23 @@
       "league": "Liga Profesional Clausura",
       "leagueId": 916957,
       "country": "ARG",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "39‎’‎",
+      "time": "2026-08-05T22:00:00.000Z"
+    },
+    {
+      "id": "fm-5113009",
+      "home": "Quilmes",
+      "away": "Gimnasia Jujuy",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10226.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10095.png",
+      "league": "Primera Nacional",
+      "leagueId": 916553,
+      "country": "ARG",
+      "status": "LIVE",
+      "minute": "36‎’‎",
       "time": "2026-08-05T22:00:00.000Z"
     },
     {
@@ -89,8 +74,8 @@
       "league": "CONCACAF Championship U20",
       "leagueId": 9656,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "10‎’‎",
       "time": "2026-08-05T22:30:00.000Z"
     },
     {
@@ -104,8 +89,8 @@
       "league": "Copa do Brasil",
       "leagueId": 9067,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "40‎’‎",
       "time": "2026-08-05T22:00:00.000Z"
     },
     {
@@ -119,23 +104,23 @@
       "league": "Copa do Brasil",
       "leagueId": 9067,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "9‎’‎",
       "time": "2026-08-05T22:30:00.000Z"
     },
     {
       "id": "fm-1000011173",
       "home": "Nacional Potosi",
       "away": "The Strongest",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/164353.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2527.png",
       "league": "Primera División",
       "leagueId": 144,
       "country": "BOL",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "40‎’‎",
       "time": "2026-08-05T22:00:00.000Z"
     },
     {
@@ -149,8 +134,8 @@
       "league": "Primera División",
       "leagueId": 339,
       "country": "VEN",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "10‎’‎",
       "time": "2026-08-05T22:30:00.000Z"
     },
     {
@@ -1502,6 +1487,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-05T19:00:00.000Z"
+    },
+    {
+      "id": "fm-1000005785",
+      "home": "Egypt",
+      "away": "Nigeria",
+      "homeScore": 2,
+      "awayScore": 6,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1353680.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5908.png",
+      "league": "Women's Africa Cup of Nations C",
+      "leagueId": 1000000881,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-05T20:00:00.000Z"
     }
   ]
 }
