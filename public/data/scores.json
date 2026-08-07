@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-07T22:57:01.263997+00:00",
+  "lastUpdated": "2026-08-07T23:34:32.025473+00:00",
   "matchCount": 154,
-  "liveCount": 8,
+  "liveCount": 6,
   "matches": [
     {
       "id": "fm-5991374",
@@ -15,7 +15,7 @@
       "leagueId": 942853,
       "country": "URU",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "72‎’‎",
       "time": "2026-08-07T22:00:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 916957,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "HT",
       "time": "2026-08-07T22:30:00.000Z"
     },
     {
@@ -38,14 +38,14 @@
       "home": "Comunicaciones",
       "away": "Villa San Carlos",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/213536.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/213526.png",
       "league": "Primera B Metropolitana",
       "leagueId": 916561,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "73‎’‎",
       "time": "2026-08-07T22:00:00.000Z"
     },
     {
@@ -60,23 +60,8 @@
       "leagueId": 916561,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "HT",
       "time": "2026-08-07T22:30:00.000Z"
-    },
-    {
-      "id": "fm-1000017371",
-      "home": "Rubio Nu",
-      "away": "Recoleta",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162557.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1427854.png",
-      "league": "Division Profesional",
-      "leagueId": 199,
-      "country": "PAR",
-      "status": "LIVE",
-      "minute": "68‎’‎",
-      "time": "2026-08-07T21:30:00.000Z"
     },
     {
       "id": "fm-1000007261",
@@ -90,37 +75,22 @@
       "leagueId": 9126,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "73‎’‎",
       "time": "2026-08-07T22:00:00.000Z"
-    },
-    {
-      "id": "fm-1000016446",
-      "home": "ABB",
-      "away": "Guabira",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1297346.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/114830.png",
-      "league": "Primera División",
-      "leagueId": 144,
-      "country": "BOL",
-      "status": "LIVE",
-      "minute": "84‎’‎",
-      "time": "2026-08-07T21:15:00.000Z"
     },
     {
       "id": "fm-5190642",
       "home": "Operario Ferroviario",
       "away": "Sao Bernardo",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197429.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/231931.png",
       "league": "Serie B",
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "25‎’‎",
+      "minute": "HT",
       "time": "2026-08-07T22:30:00.000Z"
     },
     {
@@ -1496,6 +1466,36 @@
       "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/949644.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/207869.png",
+      "league": "Premier League",
+      "leagueId": 938776,
+      "country": "WAL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-07T18:45:00.000Z"
+    },
+    {
+      "id": "fm-5882034",
+      "home": "Caernarfon",
+      "away": "Penybont",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2198.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/474592.png",
+      "league": "Premier League",
+      "leagueId": 938776,
+      "country": "WAL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-07T18:45:00.000Z"
+    },
+    {
+      "id": "fm-5882035",
+      "home": "Cambrian United",
+      "away": "Briton Ferry",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/316361.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/560955.png",
       "league": "Premier League",
       "leagueId": 938776,
       "country": "WAL",
