@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-08-10T04:15:41.077715+00:00",
+  "lastUpdated": "2026-08-10T05:47:14.171018+00:00",
   "matchCount": 81,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5844857",
-      "home": "América",
-      "away": "Portland",
-      "homeScore": 3,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6576.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/307690.png",
-      "league": "Leagues Cup",
-      "leagueId": 938331,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "91‎’‎",
-      "time": "2026-08-10T02:15:00.000Z"
-    },
     {
       "id": "fm-5840308",
       "home": "Plymouth",
@@ -977,6 +962,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-10T02:00:00.000Z"
+    },
+    {
+      "id": "fm-5844857",
+      "home": "América",
+      "away": "Portland",
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6576.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/307690.png",
+      "league": "Leagues Cup",
+      "leagueId": 938331,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-10T02:15:00.000Z"
     },
     {
       "id": "fm-5962667",
