@@ -1,43 +1,13 @@
 {
-  "lastUpdated": "2026-08-10T20:19:20.880100+00:00",
+  "lastUpdated": "2026-08-10T21:06:31.330890+00:00",
   "matchCount": 79,
-  "liveCount": 12,
+  "liveCount": 3,
   "matches": [
-    {
-      "id": "fm-5840308",
-      "home": "Plymouth",
-      "away": "Exeter",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8401.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9833.png",
-      "league": "EFL Cup",
-      "leagueId": 938221,
-      "country": "ENG",
-      "status": "LIVE",
-      "minute": "62‎’‎",
-      "time": "2026-08-10T19:00:00.000Z"
-    },
-    {
-      "id": "fm-5908575",
-      "home": "Pendikspor",
-      "away": "Batman Petrolspor",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95745.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/163008.png",
-      "league": "1. Lig",
-      "leagueId": 165,
-      "country": "TUR",
-      "status": "LIVE",
-      "minute": "88‎’‎",
-      "time": "2026-08-10T18:30:00.000Z"
-    },
     {
       "id": "fm-5225960",
       "home": "Vikingur Olafsvik",
       "away": "Selfoss",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4515.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/114130.png",
@@ -45,38 +15,8 @@
       "leagueId": 10226,
       "country": "ISL",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "92‎’‎",
       "time": "2026-08-10T19:15:00.000Z"
-    },
-    {
-      "id": "fm-5760454",
-      "home": "Botev Plovdiv",
-      "away": "Spartak Varna",
-      "homeScore": 3,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10131.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10145.png",
-      "league": "First Professional League",
-      "leagueId": 936550,
-      "country": "BUL",
-      "status": "LIVE",
-      "minute": "99‎’‎",
-      "time": "2026-08-10T18:15:00.000Z"
-    },
-    {
-      "id": "fm-5948002",
-      "home": "Carshalton Athletic",
-      "away": "Wingate & Finchley",
-      "homeScore": 1,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161809.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/274594.png",
-      "league": "Isthmian Premier Division",
-      "leagueId": 941109,
-      "country": "ENG",
-      "status": "LIVE",
-      "minute": "69‎’‎",
-      "time": "2026-08-10T18:45:00.000Z"
     },
     {
       "id": "fm-5887564",
@@ -90,68 +30,8 @@
       "leagueId": 61,
       "country": "POR",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "91‎’‎",
       "time": "2026-08-10T19:15:00.000Z"
-    },
-    {
-      "id": "fm-5994176",
-      "home": "Rentistas",
-      "away": "Plaza Colonia",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2221.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4669.png",
-      "league": "Segunda Division",
-      "leagueId": 922761,
-      "country": "URU",
-      "status": "LIVE",
-      "minute": "54‎’‎",
-      "time": "2026-08-10T19:00:00.000Z"
-    },
-    {
-      "id": "fm-5853461",
-      "home": "Sepsi OSK",
-      "away": "FCSB",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/583706.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9723.png",
-      "league": "Superliga",
-      "leagueId": 938428,
-      "country": "ROU",
-      "status": "LIVE",
-      "minute": "88‎’‎",
-      "time": "2026-08-10T18:30:00.000Z"
-    },
-    {
-      "id": "fm-5225705",
-      "home": "Fram Reykjavik",
-      "away": "KR Reykjavik",
-      "homeScore": 1,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6291.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8130.png",
-      "league": "Besta deildin",
-      "leagueId": 215,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "47‎’‎",
-      "time": "2026-08-10T19:15:00.000Z"
-    },
-    {
-      "id": "fm-1000007692",
-      "home": "Chicago Fire FC II",
-      "away": "Toronto FC II",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348118.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614319.png",
-      "league": "MLS Next Pro",
-      "leagueId": 10282,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "53‎’‎",
-      "time": "2026-08-10T19:00:00.000Z"
     },
     {
       "id": "fm-1000018873",
@@ -165,23 +45,8 @@
       "leagueId": 339,
       "country": "VEN",
       "status": "LIVE",
-      "minute": "45‎’‎",
+      "minute": "73‎’‎",
       "time": "2026-08-10T19:30:00.000Z"
-    },
-    {
-      "id": "fm-1000009061",
-      "home": "Tecnico Universitario",
-      "away": "Mushuc Runa",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/113054.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/304929.png",
-      "league": "Serie A",
-      "leagueId": 246,
-      "country": "ECU",
-      "status": "LIVE",
-      "minute": "56‎’‎",
-      "time": "2026-08-10T19:00:00.000Z"
     },
     {
       "id": "fm-5991381",
@@ -274,6 +139,21 @@
       "time": "2026-08-10T22:30:00.000Z"
     },
     {
+      "id": "fm-5840308",
+      "home": "Plymouth",
+      "away": "Exeter",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8401.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9833.png",
+      "league": "EFL Cup",
+      "leagueId": 938221,
+      "country": "ENG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-10T19:00:00.000Z"
+    },
+    {
       "id": "fm-5105211",
       "home": "Moss",
       "away": "Odd",
@@ -287,6 +167,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-10T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5908575",
+      "home": "Pendikspor",
+      "away": "Batman Petrolspor",
+      "homeScore": 2,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95745.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/163008.png",
+      "league": "1. Lig",
+      "leagueId": 165,
+      "country": "TUR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-10T18:30:00.000Z"
     },
     {
       "id": "fm-5820699",
@@ -424,6 +319,21 @@
       "time": "2026-08-10T16:00:00.000Z"
     },
     {
+      "id": "fm-5760454",
+      "home": "Botev Plovdiv",
+      "away": "Spartak Varna",
+      "homeScore": 3,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10131.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10145.png",
+      "league": "First Professional League",
+      "leagueId": 936550,
+      "country": "BUL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-10T18:15:00.000Z"
+    },
+    {
       "id": "fm-5861883",
       "home": "Skierniewice",
       "away": "Arka Gdynia",
@@ -437,6 +347,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-10T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5948002",
+      "home": "Carshalton Athletic",
+      "away": "Wingate & Finchley",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161809.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/274594.png",
+      "league": "Isthmian Premier Division",
+      "leagueId": 941109,
+      "country": "ENG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-10T18:45:00.000Z"
     },
     {
       "id": "fm-5844851",
@@ -1024,6 +949,21 @@
       "time": "2026-08-10T17:00:00.000Z"
     },
     {
+      "id": "fm-5994176",
+      "home": "Rentistas",
+      "away": "Plaza Colonia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2221.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4669.png",
+      "league": "Segunda Division",
+      "leagueId": 922761,
+      "country": "URU",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-10T19:00:00.000Z"
+    },
+    {
       "id": "fm-5125584",
       "home": "Norrby",
       "away": "Örebro",
@@ -1054,6 +994,21 @@
       "time": "2026-08-10T15:30:00.000Z"
     },
     {
+      "id": "fm-5853461",
+      "home": "Sepsi OSK",
+      "away": "FCSB",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/583706.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9723.png",
+      "league": "Superliga",
+      "leagueId": 938428,
+      "country": "ROU",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-10T18:30:00.000Z"
+    },
+    {
       "id": "fm-5739478",
       "home": "Silkeborg",
       "away": "OB",
@@ -1067,6 +1022,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-10T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5225705",
+      "home": "Fram Reykjavik",
+      "away": "KR Reykjavik",
+      "homeScore": 2,
+      "awayScore": 5,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6291.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8130.png",
+      "league": "Besta deildin",
+      "leagueId": 215,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-10T19:15:00.000Z"
     },
     {
       "id": "fm-1000019080",
@@ -1097,6 +1067,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-10T00:30:00.000Z"
+    },
+    {
+      "id": "fm-1000007692",
+      "home": "Chicago Fire FC II",
+      "away": "Toronto FC II",
+      "homeScore": 2,
+      "awayScore": 4,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348118.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614319.png",
+      "league": "MLS Next Pro",
+      "leagueId": 10282,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-10T19:00:00.000Z"
     },
     {
       "id": "fm-1000014083",
@@ -1172,6 +1157,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-10T00:00:00.000Z"
+    },
+    {
+      "id": "fm-1000009061",
+      "home": "Tecnico Universitario",
+      "away": "Mushuc Runa",
+      "homeScore": 0,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/113054.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/304929.png",
+      "league": "Serie A",
+      "leagueId": 246,
+      "country": "ECU",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-10T19:00:00.000Z"
     },
     {
       "id": "fm-5162046",
