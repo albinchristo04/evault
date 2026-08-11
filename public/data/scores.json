@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-08-11T21:00:10.456409+00:00",
+  "lastUpdated": "2026-08-11T21:56:57.818398+00:00",
   "matchCount": 113,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-6005787",
-      "home": "Independiente CG",
-      "away": "Sportivo Ameliano",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188286.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1242560.png",
-      "league": "Cup",
-      "leagueId": 10230,
-      "country": "PAR",
-      "status": "LIVE",
-      "minute": "71‎’‎",
-      "time": "2026-08-11T19:30:00.000Z"
-    },
     {
       "id": "fm-1000012928",
       "home": "Fluminense",
@@ -677,6 +662,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-11T17:00:00.000Z"
+    },
+    {
+      "id": "fm-6005787",
+      "home": "Independiente CG",
+      "away": "Sportivo Ameliano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188286.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1242560.png",
+      "league": "Cup",
+      "leagueId": 10230,
+      "country": "PAR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-11T19:30:00.000Z"
     },
     {
       "id": "fm-5908987",
