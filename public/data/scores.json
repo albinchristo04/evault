@@ -1,8 +1,53 @@
 {
-  "lastUpdated": "2026-08-11T08:51:45.660935+00:00",
+  "lastUpdated": "2026-08-11T09:57:39.492384+00:00",
   "matchCount": 113,
-  "liveCount": 0,
+  "liveCount": 3,
   "matches": [
+    {
+      "id": "fm-5980751",
+      "home": "Adelaide United",
+      "away": "Cong An Ha Noi",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8008.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614354.png",
+      "league": "AFC Champions League Elite Qualification",
+      "leagueId": 942290,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "25‎’‎",
+      "time": "2026-08-11T09:30:00.000Z"
+    },
+    {
+      "id": "fm-5982126",
+      "home": "Lions FC",
+      "away": "Melbourne City FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/582215.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
+      "league": "Australia Cup",
+      "leagueId": 9471,
+      "country": "AUS",
+      "status": "LIVE",
+      "minute": "28‎’‎",
+      "time": "2026-08-11T09:30:00.000Z"
+    },
+    {
+      "id": "fm-5982128",
+      "home": "SD Raiders FC",
+      "away": "Macarthur FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1119620.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1209973.png",
+      "league": "Australia Cup",
+      "leagueId": 9471,
+      "country": "AUS",
+      "status": "LIVE",
+      "minute": "26‎’‎",
+      "time": "2026-08-11T09:30:00.000Z"
+    },
     {
       "id": "fm-5864824",
       "home": "Ishøj IF",
@@ -17,21 +62,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-11T16:30:00.000Z"
-    },
-    {
-      "id": "fm-5980751",
-      "home": "Adelaide United",
-      "away": "Cong An Ha Noi",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8008.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614354.png",
-      "league": "AFC Champions League Elite Qualification",
-      "leagueId": 942290,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-11T09:30:00.000Z"
     },
     {
       "id": "fm-5980752",
@@ -77,36 +107,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-11T16:00:00.000Z"
-    },
-    {
-      "id": "fm-5982126",
-      "home": "Lions FC",
-      "away": "Melbourne City FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/582215.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
-      "league": "Australia Cup",
-      "leagueId": 9471,
-      "country": "AUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-11T09:30:00.000Z"
-    },
-    {
-      "id": "fm-5982128",
-      "home": "SD Raiders FC",
-      "away": "Macarthur FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1119620.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1209973.png",
-      "league": "Australia Cup",
-      "leagueId": 9471,
-      "country": "AUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-11T09:30:00.000Z"
     },
     {
       "id": "fm-5959524",
@@ -1429,6 +1429,21 @@
       "time": "2026-08-11T18:45:00.000Z"
     },
     {
+      "id": "fm-5125582",
+      "home": "Helsingborg",
+      "away": "IFK Värnamo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9859.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6181.png",
+      "league": "Superettan",
+      "leagueId": 168,
+      "country": "SWE",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-08-11T17:00:00.000Z"
+    },
+    {
       "id": "fm-5164034",
       "home": "JJK Jyväskylä",
       "away": "Tampere United",
@@ -1487,21 +1502,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-11T15:30:00.000Z"
-    },
-    {
-      "id": "fm-5125582",
-      "home": "Helsingborg",
-      "away": "IFK Värnamo",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9859.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6181.png",
-      "league": "Superettan",
-      "leagueId": 168,
-      "country": "SWE",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-11T17:00:00.000Z"
     }
   ]
 }
