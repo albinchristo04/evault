@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T03:18:08.007576+00:00",
+  "lastUpdated": "2026-08-11T04:44:07.112413+00:00",
   "matchCount": 111,
   "liveCount": 0,
   "matches": [
@@ -1399,21 +1399,6 @@
       "time": "2026-08-11T18:45:00.000Z"
     },
     {
-      "id": "fm-5125582",
-      "home": "Helsingborg",
-      "away": "IFK Värnamo",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9859.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6181.png",
-      "league": "Superettan",
-      "leagueId": 168,
-      "country": "SWE",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-11T17:00:00.000Z"
-    },
-    {
       "id": "fm-5164034",
       "home": "JJK Jyväskylä",
       "away": "Tampere United",
@@ -1472,6 +1457,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-11T15:30:00.000Z"
+    },
+    {
+      "id": "fm-5125582",
+      "home": "Helsingborg",
+      "away": "IFK Värnamo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9859.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6181.png",
+      "league": "Superettan",
+      "leagueId": 168,
+      "country": "SWE",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-08-11T17:00:00.000Z"
     },
     {
       "id": "fm-1000012928",
