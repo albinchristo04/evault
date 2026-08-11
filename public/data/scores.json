@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-08-11T10:51:58.769871+00:00",
+  "lastUpdated": "2026-08-11T11:41:31.404738+00:00",
   "matchCount": 113,
-  "liveCount": 6,
+  "liveCount": 4,
   "matches": [
-    {
-      "id": "fm-5980751",
-      "home": "Adelaide United",
-      "away": "Cong An Ha Noi",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8008.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614354.png",
-      "league": "AFC Champions League Elite Qualification",
-      "leagueId": 942290,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "65‎’‎",
-      "time": "2026-08-11T09:30:00.000Z"
-    },
     {
       "id": "fm-5980752",
       "home": "Gangwon FC",
@@ -30,44 +15,29 @@
       "leagueId": 942290,
       "country": "INT",
       "status": "LIVE",
-      "minute": "20‎’‎",
+      "minute": "52‎’‎",
       "time": "2026-08-11T10:30:00.000Z"
-    },
-    {
-      "id": "fm-5982126",
-      "home": "Lions FC",
-      "away": "Melbourne City FC",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/582215.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/203576.png",
-      "league": "Australia Cup",
-      "leagueId": 9471,
-      "country": "AUS",
-      "status": "LIVE",
-      "minute": "65‎’‎",
-      "time": "2026-08-11T09:30:00.000Z"
     },
     {
       "id": "fm-5982128",
       "home": "SD Raiders FC",
       "away": "Macarthur FC",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1119620.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1209973.png",
       "league": "Australia Cup",
       "leagueId": 9471,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "64‎’‎",
+      "minute": "104‎’‎",
       "time": "2026-08-11T09:30:00.000Z"
     },
     {
       "id": "fm-5900862",
       "home": "Juventus",
       "away": "Palermo",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8540.png",
@@ -75,7 +45,7 @@
       "leagueId": 915708,
       "country": "INT",
       "status": "LIVE",
-      "minute": "39‎’‎",
+      "minute": "72‎’‎",
       "time": "2026-08-11T10:00:00.000Z"
     },
     {
@@ -90,7 +60,7 @@
       "leagueId": 939512,
       "country": "IND",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "52‎’‎",
       "time": "2026-08-11T10:30:00.000Z"
     },
     {
@@ -1502,6 +1472,36 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-11T15:30:00.000Z"
+    },
+    {
+      "id": "fm-1000012928",
+      "home": "Fluminense",
+      "away": "Independiente Rivadavia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9863.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161729.png",
+      "league": "Copa Libertadores 8th Finals",
+      "leagueId": 1000001638,
+      "country": "INT",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-08-11T22:00:00.000Z"
+    },
+    {
+      "id": "fm-1000011206",
+      "home": "Marilia Atletico",
+      "away": "Bandeirante",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/104819.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1995017.png",
+      "league": "Copa Paulista",
+      "leagueId": 11646,
+      "country": "BRA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-08-11T22:30:00.000Z"
     }
   ]
 }
