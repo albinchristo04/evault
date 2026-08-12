@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-12T10:45:20.505449+00:00",
+  "lastUpdated": "2026-08-12T11:33:29.854528+00:00",
   "matchCount": 70,
-  "liveCount": 4,
+  "liveCount": 3,
   "matches": [
     {
       "id": "fm-5982123",
@@ -15,22 +15,7 @@
       "leagueId": 9471,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "57‎’‎",
-      "time": "2026-08-12T09:30:00.000Z"
-    },
-    {
-      "id": "fm-5982125",
-      "home": "Brunswick Juventus FC",
-      "away": "Preston Lions",
-      "homeScore": 1,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162316.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162312.png",
-      "league": "Australia Cup",
-      "leagueId": 9471,
-      "country": "AUS",
-      "status": "LIVE",
-      "minute": "57‎’‎",
+      "minute": "96‎’‎",
       "time": "2026-08-12T09:30:00.000Z"
     },
     {
@@ -45,22 +30,22 @@
       "leagueId": 9471,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "91‎’‎",
       "time": "2026-08-12T09:45:00.000Z"
     },
     {
       "id": "fm-5897888",
       "home": "Neroca FC",
       "away": "FC Raengdai",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/898338.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2068863.png",
       "league": "Durand Cup Group D",
       "leagueId": 939510,
       "country": "IND",
       "status": "LIVE",
-      "minute": "15‎’‎",
+      "minute": "HT",
       "time": "2026-08-12T10:30:00.000Z"
     },
     {
@@ -842,6 +827,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-12T20:00:00.000Z"
+    },
+    {
+      "id": "fm-5982125",
+      "home": "Brunswick Juventus FC",
+      "away": "Preston Lions",
+      "homeScore": 1,
+      "awayScore": 4,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162316.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162312.png",
+      "league": "Australia Cup",
+      "leagueId": 9471,
+      "country": "AUS",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-12T09:30:00.000Z"
     },
     {
       "id": "fm-5848844",
