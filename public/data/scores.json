@@ -1,98 +1,8 @@
 {
-  "lastUpdated": "2026-08-13T21:08:57.409843+00:00",
+  "lastUpdated": "2026-08-13T22:00:51.883977+00:00",
   "matchCount": 82,
-  "liveCount": 6,
+  "liveCount": 2,
   "matches": [
-    {
-      "id": "fm-5225838",
-      "home": "Fylkir",
-      "away": "Afturelding",
-      "homeScore": 4,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6434.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/163251.png",
-      "league": "1. Deild",
-      "leagueId": 216,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "91‎’‎",
-      "time": "2026-08-13T19:15:00.000Z"
-    },
-    {
-      "id": "fm-5225839",
-      "home": "Grotta",
-      "away": "Njardvik",
-      "homeScore": 1,
-      "awayScore": 4,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/175111.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4495.png",
-      "league": "1. Deild",
-      "leagueId": 216,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "97‎’‎",
-      "time": "2026-08-13T19:15:00.000Z"
-    },
-    {
-      "id": "fm-5225840",
-      "home": "HK Kopavogs",
-      "away": "Leiknir Reykjavik",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4516.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6683.png",
-      "league": "1. Deild",
-      "leagueId": 216,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "94‎’‎",
-      "time": "2026-08-13T19:15:00.000Z"
-    },
-    {
-      "id": "fm-5955364",
-      "home": "Austria Wien",
-      "away": "Beitar Jerusalem",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10011.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8173.png",
-      "league": "Conference League Qualification",
-      "leagueId": 937351,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "Pen",
-      "time": "2026-08-13T18:30:00.000Z"
-    },
-    {
-      "id": "fm-6005790",
-      "home": "1 de Marzo Pilar",
-      "away": "Atletico Tembetary",
-      "homeScore": 2,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2132317.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1299349.png",
-      "league": "Cup",
-      "leagueId": 10230,
-      "country": "PAR",
-      "status": "LIVE",
-      "minute": "84‎’‎",
-      "time": "2026-08-13T19:30:00.000Z"
-    },
-    {
-      "id": "fm-1000018953",
-      "home": "South Africa",
-      "away": "Nigeria",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/316118.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5908.png",
-      "league": "Women's Africa Cup of Nations Play-In Round",
-      "leagueId": 1000001260,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "51‎’‎",
-      "time": "2026-08-13T20:00:00.000Z"
-    },
     {
       "id": "fm-1000012926",
       "home": "Mirassol",
@@ -104,8 +14,8 @@
       "league": "Copa Libertadores 8th Finals",
       "leagueId": 1000001638,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "1‎’‎",
       "time": "2026-08-13T22:00:00.000Z"
     },
     {
@@ -119,8 +29,8 @@
       "league": "Copa Sudamericana 8th Finals",
       "leagueId": 1000001655,
       "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "1‎’‎",
       "time": "2026-08-13T22:00:00.000Z"
     },
     {
@@ -197,6 +107,51 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-13T18:00:00.000Z"
+    },
+    {
+      "id": "fm-5225838",
+      "home": "Fylkir",
+      "away": "Afturelding",
+      "homeScore": 3,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6434.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/163251.png",
+      "league": "1. Deild",
+      "leagueId": 216,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-13T19:15:00.000Z"
+    },
+    {
+      "id": "fm-5225839",
+      "home": "Grotta",
+      "away": "Njardvik",
+      "homeScore": 1,
+      "awayScore": 4,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/175111.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4495.png",
+      "league": "1. Deild",
+      "leagueId": 216,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-13T19:15:00.000Z"
+    },
+    {
+      "id": "fm-5225840",
+      "home": "HK Kopavogs",
+      "away": "Leiknir Reykjavik",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4516.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6683.png",
+      "league": "1. Deild",
+      "leagueId": 216,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-13T19:15:00.000Z"
     },
     {
       "id": "fm-5849316",
@@ -499,6 +454,21 @@
       "time": "2026-08-13T18:15:00.000Z"
     },
     {
+      "id": "fm-5955364",
+      "home": "Austria Wien",
+      "away": "Beitar Jerusalem",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10011.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8173.png",
+      "league": "Conference League Qualification",
+      "leagueId": 937351,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-13T18:30:00.000Z"
+    },
+    {
       "id": "fm-5955372",
       "home": "Gent",
       "away": "IFK Göteborg",
@@ -587,6 +557,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-13T19:00:00.000Z"
+    },
+    {
+      "id": "fm-6005790",
+      "home": "1 de Marzo Pilar",
+      "away": "Atletico Tembetary",
+      "homeScore": 2,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2132317.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1299349.png",
+      "league": "Cup",
+      "leagueId": 10230,
+      "country": "PAR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-13T19:30:00.000Z"
     },
     {
       "id": "fm-5897880",
@@ -1232,6 +1217,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-13T17:00:00.000Z"
+    },
+    {
+      "id": "fm-1000018953",
+      "home": "South Africa",
+      "away": "Nigeria",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/316118.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5908.png",
+      "league": "Women's Africa Cup of Nations Play-In Round",
+      "leagueId": 1000001260,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-13T20:00:00.000Z"
     }
   ]
 }
