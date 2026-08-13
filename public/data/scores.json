@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-08-13T11:57:29.165392+00:00",
+  "lastUpdated": "2026-08-13T13:16:01.575686+00:00",
   "matchCount": 83,
-  "liveCount": 2,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5897880",
-      "home": "Jamshedpur FC",
-      "away": "Indian Air Force",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/873038.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1399409.png",
-      "league": "Durand Cup Group C",
-      "leagueId": 939509,
-      "country": "IND",
-      "status": "LIVE",
-      "minute": "64‎’‎",
-      "time": "2026-08-13T10:30:00.000Z"
-    },
-    {
-      "id": "fm-5897898",
-      "home": "Bodoland FC",
-      "away": "Karbi Anglong Morning Star",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1513629.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1782586.png",
-      "league": "Durand Cup Group F",
-      "leagueId": 939512,
-      "country": "IND",
-      "status": "LIVE",
-      "minute": "69‎’‎",
-      "time": "2026-08-13T10:30:00.000Z"
-    },
     {
       "id": "fm-5225835",
       "home": "Ægir",
@@ -932,6 +902,36 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-13T03:00:00.000Z"
+    },
+    {
+      "id": "fm-5897880",
+      "home": "Jamshedpur FC",
+      "away": "Indian Air Force",
+      "homeScore": 6,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/873038.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1399409.png",
+      "league": "Durand Cup Group C",
+      "leagueId": 939509,
+      "country": "IND",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-13T10:30:00.000Z"
+    },
+    {
+      "id": "fm-5897898",
+      "home": "Bodoland FC",
+      "away": "Karbi Anglong Morning Star",
+      "homeScore": 6,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1513629.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1782586.png",
+      "league": "Durand Cup Group F",
+      "leagueId": 939512,
+      "country": "IND",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-13T10:30:00.000Z"
     },
     {
       "id": "fm-5978434",
