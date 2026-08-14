@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-14T22:21:20.785437+00:00",
+  "lastUpdated": "2026-08-14T22:49:00.969069+00:00",
   "matchCount": 176,
-  "liveCount": 3,
+  "liveCount": 4,
   "matches": [
     {
       "id": "fm-6002827",
@@ -15,7 +15,7 @@
       "leagueId": 942853,
       "country": "URU",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "HT",
       "time": "2026-08-14T22:00:00.000Z"
     },
     {
@@ -30,23 +30,8 @@
       "leagueId": 199,
       "country": "PAR",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "62‎’‎",
       "time": "2026-08-14T21:30:00.000Z"
-    },
-    {
-      "id": "fm-1000007705",
-      "home": "Atlanta United 2",
-      "away": "Red Bull New York  II",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/915806.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614318.png",
-      "league": "MLS Next Pro",
-      "leagueId": 10282,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "86‎’‎",
-      "time": "2026-08-14T20:33:00.000Z"
     },
     {
       "id": "fm-5190649",
@@ -59,8 +44,8 @@
       "league": "Serie B",
       "leagueId": 8814,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "19‎’‎",
       "time": "2026-08-14T22:30:00.000Z"
     },
     {
@@ -74,8 +59,8 @@
       "league": "Serie B",
       "leagueId": 8814,
       "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "status": "LIVE",
+      "minute": "19‎’‎",
       "time": "2026-08-14T22:30:00.000Z"
     },
     {
@@ -1502,6 +1487,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-14T14:00:00.000Z"
+    },
+    {
+      "id": "fm-5215489",
+      "home": "Dnyapro Mogilev",
+      "away": "Belshina Bobruisk",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10067.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10064.png",
+      "league": "Premier League",
+      "leagueId": 923169,
+      "country": "BLR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-14T16:00:00.000Z"
     }
   ]
 }
