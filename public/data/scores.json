@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-14T23:07:47.427245+00:00",
+  "lastUpdated": "2026-08-14T23:33:44.001556+00:00",
   "matchCount": 176,
-  "liveCount": 4,
+  "liveCount": 3,
   "matches": [
     {
       "id": "fm-6002827",
@@ -15,29 +15,14 @@
       "leagueId": 942853,
       "country": "URU",
       "status": "LIVE",
-      "minute": "51‎’‎",
+      "minute": "77‎’‎",
       "time": "2026-08-14T22:00:00.000Z"
-    },
-    {
-      "id": "fm-1000017379",
-      "home": "Recoleta",
-      "away": "2 de Mayo",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1427854.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49688.png",
-      "league": "Division Profesional",
-      "leagueId": 199,
-      "country": "PAR",
-      "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-08-14T21:30:00.000Z"
     },
     {
       "id": "fm-5190649",
       "home": "Ponte Preta",
       "away": "Nautico",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8630.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2369.png",
@@ -45,7 +30,7 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "HT",
       "time": "2026-08-14T22:30:00.000Z"
     },
     {
@@ -60,7 +45,7 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "HT",
       "time": "2026-08-14T22:30:00.000Z"
     },
     {
@@ -1502,6 +1487,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-14T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5882040",
+      "home": "Airbus UK Broughton",
+      "away": "Ammanford",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2200.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/949644.png",
+      "league": "Premier League",
+      "leagueId": 938776,
+      "country": "WAL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-14T18:45:00.000Z"
     }
   ]
 }
