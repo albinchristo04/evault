@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-15T09:08:57.083096+00:00",
+  "lastUpdated": "2026-08-15T09:37:34.033908+00:00",
   "matchCount": 622,
-  "liveCount": 17,
+  "liveCount": 19,
   "matches": [
     {
       "id": "fm-5867161",
@@ -15,7 +15,7 @@
       "leagueId": 10650,
       "country": "GER",
       "status": "LIVE",
-      "minute": "9‎’‎",
+      "minute": "38‎’‎",
       "time": "2026-08-15T09:00:00.000Z"
     },
     {
@@ -30,14 +30,14 @@
       "leagueId": 938422,
       "country": "RUS",
       "status": "LIVE",
-      "minute": "9‎’‎",
+      "minute": "37‎’‎",
       "time": "2026-08-15T09:00:00.000Z"
     },
     {
       "id": "fm-5803531",
       "home": "Kashima Antlers",
       "away": "Nagoya Grampus",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4397.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8006.png",
@@ -45,14 +45,14 @@
       "leagueId": 937875,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "33‎’‎",
       "time": "2026-08-15T09:00:00.000Z"
     },
     {
       "id": "fm-5803533",
       "home": "Mito Hollyhock",
       "away": "Gamba Osaka",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162195.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6582.png",
@@ -60,29 +60,44 @@
       "leagueId": 937875,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "34‎’‎",
       "time": "2026-08-15T09:00:00.000Z"
+    },
+    {
+      "id": "fm-5803535",
+      "home": "Shimizu S-Pulse",
+      "away": "Yokohama F.Marinos",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4426.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6581.png",
+      "league": "J. League",
+      "leagueId": 937875,
+      "country": "JPN",
+      "status": "LIVE",
+      "minute": "3‎’‎",
+      "time": "2026-08-15T09:30:00.000Z"
     },
     {
       "id": "fm-5836218",
       "home": "Blaublitz Akita",
       "away": "Kataller Toyama",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/194015.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/164737.png",
       "league": "J. League 2",
       "leagueId": 938215,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "34‎’‎",
       "time": "2026-08-15T09:00:00.000Z"
     },
     {
       "id": "fm-5836223",
       "home": "Tochigi City FC",
       "away": "Vanraure Hachinohe",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/194029.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/584880.png",
@@ -90,14 +105,29 @@
       "leagueId": 938215,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "34‎’‎",
       "time": "2026-08-15T09:00:00.000Z"
+    },
+    {
+      "id": "fm-5836219",
+      "home": "Fujieda MYFC",
+      "away": "Iwaki FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/305776.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/860934.png",
+      "league": "J. League 2",
+      "leagueId": 938215,
+      "country": "JPN",
+      "status": "LIVE",
+      "minute": "4‎’‎",
+      "time": "2026-08-15T09:30:00.000Z"
     },
     {
       "id": "fm-5987097",
       "home": "FC Gifu",
       "away": "Kochi United SC",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162197.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/860937.png",
@@ -105,7 +135,7 @@
       "leagueId": 9136,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "33‎’‎",
       "time": "2026-08-15T09:00:00.000Z"
     },
     {
@@ -120,7 +150,7 @@
       "leagueId": 9136,
       "country": "JPN",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "34‎’‎",
       "time": "2026-08-15T09:00:00.000Z"
     },
     {
@@ -135,14 +165,14 @@
       "leagueId": 942122,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "47‎’‎",
+      "minute": "75‎’‎",
       "time": "2026-08-15T08:00:00.000Z"
     },
     {
       "id": "fm-5976840",
       "home": "Cetatea Suceava",
       "away": "CSM Olimpia Satu Mare",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188193.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1795466.png",
@@ -150,7 +180,7 @@
       "leagueId": 942122,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "50‎’‎",
+      "minute": "79‎’‎",
       "time": "2026-08-15T08:00:00.000Z"
     },
     {
@@ -165,7 +195,7 @@
       "leagueId": 942122,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "49‎’‎",
+      "minute": "77‎’‎",
       "time": "2026-08-15T08:00:00.000Z"
     },
     {
@@ -180,14 +210,14 @@
       "leagueId": 942122,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "46‎’‎",
+      "minute": "75‎’‎",
       "time": "2026-08-15T08:00:00.000Z"
     },
     {
       "id": "fm-5976843",
       "home": "CSM Resita",
       "away": "CSL Stefanesti",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/408363.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/405357.png",
@@ -195,7 +225,7 @@
       "leagueId": 942122,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "46‎’‎",
+      "minute": "75‎’‎",
       "time": "2026-08-15T08:00:00.000Z"
     },
     {
@@ -210,14 +240,14 @@
       "leagueId": 942122,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "46‎’‎",
+      "minute": "75‎’‎",
       "time": "2026-08-15T08:00:00.000Z"
     },
     {
       "id": "fm-5976847",
       "home": "FC Metaloglobus Bucuresti",
       "away": "Comunal Selimbar",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/404509.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1277922.png",
@@ -225,7 +255,7 @@
       "leagueId": 942122,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "52‎’‎",
+      "minute": "80‎’‎",
       "time": "2026-08-15T08:00:00.000Z"
     },
     {
@@ -240,7 +270,7 @@
       "leagueId": 942122,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "61‎’‎",
       "time": "2026-08-15T08:00:00.000Z"
     },
     {
@@ -248,14 +278,14 @@
       "home": "Ramnicu Valcea",
       "away": "CSM Slatina",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188199.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/279308.png",
       "league": "Liga II",
       "leagueId": 942122,
       "country": "ROU",
       "status": "LIVE",
-      "minute": "50‎’‎",
+      "minute": "79‎’‎",
       "time": "2026-08-15T08:00:00.000Z"
     },
     {
@@ -1472,36 +1502,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-15T11:30:00.000Z"
-    },
-    {
-      "id": "fm-5847101",
-      "home": "Freiburg",
-      "away": "Crystal Palace",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
-      "league": "Club Friendlies",
-      "leagueId": 915708,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-15T12:00:00.000Z"
-    },
-    {
-      "id": "fm-5958679",
-      "home": "Chelsea",
-      "away": "Real Sociedad",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
-      "league": "Club Friendlies",
-      "leagueId": 915708,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-15T13:00:00.000Z"
     }
   ]
 }
