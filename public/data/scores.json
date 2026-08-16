@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-16T07:40:58.658323+00:00",
+  "lastUpdated": "2026-08-16T08:03:05.644074+00:00",
   "matchCount": 421,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
+    {
+      "id": "fm-5976844",
+      "home": "FC Bacau",
+      "away": "Steaua Bucuresti",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1787830.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1277917.png",
+      "league": "Liga II",
+      "leagueId": 942122,
+      "country": "ROU",
+      "status": "LIVE",
+      "minute": "2‎’‎",
+      "time": "2026-08-16T08:00:00.000Z"
+    },
     {
       "id": "fm-5793186",
       "home": "Arsenal",
@@ -1487,21 +1502,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-16T18:15:00.000Z"
-    },
-    {
-      "id": "fm-5104980",
-      "home": "Aalesund",
-      "away": "Vålerenga",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8404.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8007.png",
-      "league": "Eliteserien",
-      "leagueId": 59,
-      "country": "NOR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-16T12:30:00.000Z"
     }
   ]
 }
