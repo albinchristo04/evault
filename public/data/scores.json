@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T23:08:45.053182+00:00",
+  "lastUpdated": "2026-08-17T23:34:54.653594+00:00",
   "matchCount": 105,
   "liveCount": 3,
   "matches": [
@@ -15,7 +15,7 @@
       "leagueId": 916957,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "57‎’‎",
       "time": "2026-08-17T22:15:00.000Z"
     },
     {
@@ -30,14 +30,14 @@
       "leagueId": 9126,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "53‎’‎",
+      "minute": "79‎’‎",
       "time": "2026-08-17T22:00:00.000Z"
     },
     {
       "id": "fm-1000007281",
       "home": "Deportes Copiapo",
       "away": "Curico Unido",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/192436.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162905.png",
@@ -45,7 +45,7 @@
       "leagueId": 9126,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "47‎’‎",
+      "minute": "73‎’‎",
       "time": "2026-08-17T22:00:00.000Z"
     },
     {
