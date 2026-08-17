@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-08-17T05:07:35.678506+00:00",
+  "lastUpdated": "2026-08-17T05:47:30.533094+00:00",
   "matchCount": 105,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-1000014532",
-      "home": "Tijuana",
-      "away": "Cruz Azul",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162418.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6578.png",
-      "league": "Liga MX",
-      "leagueId": 230,
-      "country": "MEX",
-      "status": "LIVE",
-      "minute": "92‎’‎",
-      "time": "2026-08-17T03:00:00.000Z"
-    },
     {
       "id": "fm-5868014",
       "home": "Deportivo A Coruña",
@@ -1442,6 +1427,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-17T01:10:00.000Z"
+    },
+    {
+      "id": "fm-1000014532",
+      "home": "Tijuana",
+      "away": "Cruz Azul",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162418.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6578.png",
+      "league": "Liga MX",
+      "leagueId": 230,
+      "country": "MEX",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-17T03:00:00.000Z"
     },
     {
       "id": "fm-1000007713",
