@@ -1,28 +1,13 @@
 {
-  "lastUpdated": "2026-08-17T04:23:16.323405+00:00",
+  "lastUpdated": "2026-08-17T05:07:35.678506+00:00",
   "matchCount": 105,
-  "liveCount": 3,
+  "liveCount": 1,
   "matches": [
-    {
-      "id": "fm-5071275",
-      "home": "Seattle Sounders",
-      "away": "Vancouver",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/130394.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/307691.png",
-      "league": "Major League Soccer",
-      "leagueId": 913550,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-08-17T02:30:00.000Z"
-    },
     {
       "id": "fm-1000014532",
       "home": "Tijuana",
       "away": "Cruz Azul",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162418.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6578.png",
@@ -30,23 +15,8 @@
       "leagueId": 230,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "47‎’‎",
+      "minute": "92‎’‎",
       "time": "2026-08-17T03:00:00.000Z"
-    },
-    {
-      "id": "fm-1000007712",
-      "home": "San Jose Earthquakes II",
-      "away": "St. Louis City 2",
-      "homeScore": 0,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348115.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1346404.png",
-      "league": "MLS Next Pro",
-      "leagueId": 10282,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "89‎’‎",
-      "time": "2026-08-17T02:30:00.000Z"
     },
     {
       "id": "fm-5868014",
@@ -1249,6 +1219,21 @@
       "time": "2026-08-17T00:30:00.000Z"
     },
     {
+      "id": "fm-5071275",
+      "home": "Seattle Sounders",
+      "away": "Vancouver",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/130394.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/307691.png",
+      "league": "Major League Soccer",
+      "leagueId": 913550,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-17T02:30:00.000Z"
+    },
+    {
       "id": "fm-5977315",
       "home": "Chivas (W)",
       "away": "Atletico de San Luis (W)",
@@ -1502,6 +1487,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-17T02:00:00.000Z"
+    },
+    {
+      "id": "fm-1000007712",
+      "home": "San Jose Earthquakes II",
+      "away": "St. Louis City 2",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348115.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1346404.png",
+      "league": "MLS Next Pro",
+      "leagueId": 10282,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-17T02:30:00.000Z"
     }
   ]
 }
