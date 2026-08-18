@@ -1,23 +1,8 @@
 {
-  "lastUpdated": "2026-08-18T04:47:50.042875+00:00",
+  "lastUpdated": "2026-08-18T05:15:39.269314+00:00",
   "matchCount": 121,
-  "liveCount": 1,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-1000014534",
-      "home": "Pachuca",
-      "away": "Puebla",
-      "homeScore": 2,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7848.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7847.png",
-      "league": "Liga MX",
-      "leagueId": 230,
-      "country": "MEX",
-      "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-08-18T03:06:00.000Z"
-    },
     {
       "id": "fm-5844765",
       "home": "Thailand",
@@ -1496,6 +1481,21 @@
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/861453.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6102.png",
+      "league": "Lowland League West",
+      "leagueId": 1000001703,
+      "country": "SCO",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-08-18T18:45:00.000Z"
+    },
+    {
+      "id": "fm-1000016685",
+      "home": "Kilwinning Rangers",
+      "away": "Albion Rovers",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1402055.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8612.png",
       "league": "Lowland League West",
       "leagueId": 1000001703,
       "country": "SCO",
