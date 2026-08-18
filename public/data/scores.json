@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-08-18T13:53:20.602495+00:00",
+  "lastUpdated": "2026-08-18T14:30:05.034623+00:00",
   "matchCount": 121,
-  "liveCount": 2,
+  "liveCount": 3,
   "matches": [
     {
       "id": "fm-5844765",
       "home": "Thailand",
       "away": "Singapore",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5825.png",
       "league": "ASEAN Championship",
       "leagueId": 938330,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "70‎’‎",
       "time": "2026-08-18T13:00:00.000Z"
     },
     {
@@ -30,8 +30,23 @@
       "leagueId": 9066,
       "country": "TAN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "71‎’‎",
       "time": "2026-08-18T13:00:00.000Z"
+    },
+    {
+      "id": "fm-5200625",
+      "home": "Sogdiana",
+      "away": "Qizilqum Zarafshon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/115129.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102147.png",
+      "league": "Superliga",
+      "leagueId": 540,
+      "country": "UZB",
+      "status": "LIVE",
+      "minute": "30‎’‎",
+      "time": "2026-08-18T14:00:00.000Z"
     },
     {
       "id": "fm-5987800",
@@ -1352,21 +1367,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-18T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5200625",
-      "home": "Sogdiana",
-      "away": "Qizilqum Zarafshon",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/115129.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102147.png",
-      "league": "Superliga",
-      "leagueId": 540,
-      "country": "UZB",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-18T14:00:00.000Z"
     },
     {
       "id": "fm-5200620",
