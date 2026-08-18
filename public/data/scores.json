@@ -1,36 +1,21 @@
 {
-  "lastUpdated": "2026-08-18T21:22:25.981345+00:00",
+  "lastUpdated": "2026-08-18T21:47:00.355039+00:00",
   "matchCount": 121,
-  "liveCount": 2,
+  "liveCount": 1,
   "matches": [
-    {
-      "id": "fm-6005791",
-      "home": "Benjamin Aceval",
-      "away": "Nacional",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188291.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49689.png",
-      "league": "Cup",
-      "leagueId": 10230,
-      "country": "PAR",
-      "status": "LIVE",
-      "minute": "88‎’‎",
-      "time": "2026-08-18T19:30:00.000Z"
-    },
     {
       "id": "fm-1000017715",
       "home": "Deportivo Riestra",
       "away": "Gimnasia LP",
       "homeScore": 1,
-      "awayScore": 2,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/298629.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10103.png",
       "league": "Copa Argentina",
       "leagueId": 9305,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "64‎’‎",
+      "minute": "88‎’‎",
       "time": "2026-08-18T20:00:00.000Z"
     },
     {
@@ -272,6 +257,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-18T16:30:00.000Z"
+    },
+    {
+      "id": "fm-6005791",
+      "home": "Benjamin Aceval",
+      "away": "Nacional",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188291.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49689.png",
+      "league": "Cup",
+      "leagueId": 10230,
+      "country": "PAR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-18T19:30:00.000Z"
     },
     {
       "id": "fm-6030439",
