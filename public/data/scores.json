@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T23:25:02.096740+00:00",
+  "lastUpdated": "2026-08-18T23:46:00.517968+00:00",
   "matchCount": 121,
   "liveCount": 3,
   "matches": [
@@ -8,14 +8,14 @@
       "home": "Independiente Rivadavia",
       "away": "Fluminense",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/161729.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9863.png",
       "league": "Copa Libertadores 8th Finals",
       "leagueId": 1000001638,
       "country": "INT",
       "status": "LIVE",
-      "minute": "67‎’‎",
+      "minute": "88‎’‎",
       "time": "2026-08-18T22:00:00.000Z"
     },
     {
@@ -23,14 +23,14 @@
       "home": "Recoleta",
       "away": "Boca Juniors",
       "homeScore": 0,
-      "awayScore": 3,
+      "awayScore": 4,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1427854.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10077.png",
       "league": "Copa Sudamericana 8th Finals",
       "leagueId": 1000001655,
       "country": "INT",
       "status": "LIVE",
-      "minute": "67‎’‎",
+      "minute": "88‎’‎",
       "time": "2026-08-18T22:00:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "57‎’‎",
       "time": "2026-08-18T22:30:00.000Z"
     },
     {
