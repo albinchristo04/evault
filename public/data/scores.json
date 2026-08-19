@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-19T19:55:24.456014+00:00",
+  "lastUpdated": "2026-08-19T20:23:25.460501+00:00",
   "matchCount": 102,
-  "liveCount": 25,
+  "liveCount": 20,
   "matches": [
     {
       "id": "fm-5868012",
@@ -15,38 +15,8 @@
       "leagueId": 87,
       "country": "ESP",
       "status": "LIVE",
-      "minute": "48‎’‎",
+      "minute": "55‎’‎",
       "time": "2026-08-19T19:05:00.000Z"
-    },
-    {
-      "id": "fm-5225969",
-      "home": "Hviti Riddarinn",
-      "away": "KFG",
-      "homeScore": 0,
-      "awayScore": 4,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1360600.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/542586.png",
-      "league": "2. Deild",
-      "leagueId": 10226,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "94‎’‎",
-      "time": "2026-08-19T18:00:00.000Z"
-    },
-    {
-      "id": "fm-5225970",
-      "home": "Kormákur/Hvöt",
-      "away": "Haukar",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1599412.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4494.png",
-      "league": "2. Deild",
-      "leagueId": 10226,
-      "country": "ISL",
-      "status": "LIVE",
-      "minute": "94‎’‎",
-      "time": "2026-08-19T18:00:00.000Z"
     },
     {
       "id": "fm-5987799",
@@ -60,7 +30,7 @@
       "leagueId": 937348,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "66‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
     },
     {
@@ -75,7 +45,7 @@
       "leagueId": 937348,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "66‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
     },
     {
@@ -83,14 +53,14 @@
       "home": "NEC Nijmegen",
       "away": "Bodø/Glimt",
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8464.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8402.png",
       "league": "Champions League Qualification",
       "leagueId": 937348,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "64‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
     },
     {
@@ -105,23 +75,8 @@
       "leagueId": 937348,
       "country": "INT",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "67‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
-    },
-    {
-      "id": "fm-5995928",
-      "home": "Barcelona",
-      "away": "Al Ahly SC",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101745.png",
-      "league": "Club Friendlies",
-      "leagueId": 915708,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "86‎’‎",
-      "time": "2026-08-19T18:00:00.000Z"
     },
     {
       "id": "fm-6005793",
@@ -135,23 +90,8 @@
       "leagueId": 10230,
       "country": "PAR",
       "status": "LIVE",
-      "minute": "25‎’‎",
+      "minute": "HT",
       "time": "2026-08-19T19:30:00.000Z"
-    },
-    {
-      "id": "fm-5853723",
-      "home": "Al-Ula FC",
-      "away": "Al Fateh FC",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1793879.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/177356.png",
-      "league": "King's Cup",
-      "leagueId": 9942,
-      "country": "KSA",
-      "status": "LIVE",
-      "minute": "94‎’‎",
-      "time": "2026-08-19T18:00:00.000Z"
     },
     {
       "id": "fm-5907517",
@@ -165,14 +105,14 @@
       "leagueId": 940374,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "48‎’‎",
+      "minute": "76‎’‎",
       "time": "2026-08-19T18:45:00.000Z"
     },
     {
       "id": "fm-5949194",
       "home": "Avro",
       "away": "Workington",
-      "homeScore": 1,
+      "homeScore": 4,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1290988.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/105553.png",
@@ -180,37 +120,22 @@
       "leagueId": 941116,
       "country": "ENG",
       "status": "LIVE",
-      "minute": "50‎’‎",
+      "minute": "78‎’‎",
       "time": "2026-08-19T18:45:00.000Z"
-    },
-    {
-      "id": "fm-5113004",
-      "home": "Chacarita Juniors",
-      "away": "Atletico Guemes",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10093.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/719912.png",
-      "league": "Primera Nacional",
-      "leagueId": 916553,
-      "country": "ARG",
-      "status": "LIVE",
-      "minute": "85‎’‎",
-      "time": "2026-08-19T18:00:00.000Z"
     },
     {
       "id": "fm-5101068",
       "home": "Peamount United (W)",
       "away": "Athlone Town (W)",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/359330.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1252958.png",
       "league": "Women's Premier Division",
       "leagueId": 10210,
       "country": "IRL",
       "status": "LIVE",
-      "minute": "52‎’‎",
+      "minute": "80‎’‎",
       "time": "2026-08-19T18:45:00.000Z"
     },
     {
@@ -225,7 +150,7 @@
       "leagueId": 1000001473,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "68‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
     },
     {
@@ -240,7 +165,7 @@
       "leagueId": 1000001473,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "68‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
     },
     {
@@ -255,14 +180,14 @@
       "leagueId": 1000001473,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "66‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
     },
     {
       "id": "fm-1000012803",
       "home": "Nairn County",
       "away": "Lossiemouth",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/97920.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5754.png",
@@ -270,7 +195,7 @@
       "leagueId": 1000001473,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "70‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
     },
     {
@@ -278,21 +203,21 @@
       "home": "Rothes",
       "away": "Formartine United",
       "homeScore": 2,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/97917.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/351618.png",
       "league": "Highland League",
       "leagueId": 1000001473,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "66‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
     },
     {
       "id": "fm-1000012805",
       "home": "Strathspey Thistle",
       "away": "Brora Rangers",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/575415.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/97904.png",
@@ -300,29 +225,29 @@
       "leagueId": 1000001473,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "67‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
     },
     {
       "id": "fm-1000012875",
       "home": "Wick Academy",
       "away": "Invergordon",
-      "homeScore": 0,
-      "awayScore": 1,
+      "homeScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1776.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1809963.png",
       "league": "Highland League",
       "leagueId": 1000001473,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "65‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
     },
     {
       "id": "fm-1000016687",
       "home": "Auchinleck Talbot",
       "away": "Beith Juniors",
-      "homeScore": 6,
+      "homeScore": 7,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/183952.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/792770.png",
@@ -330,14 +255,14 @@
       "leagueId": 1000001703,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "55‎’‎",
+      "minute": "83‎’‎",
       "time": "2026-08-19T18:45:00.000Z"
     },
     {
       "id": "fm-1000016688",
       "home": "Pollok",
       "away": "Johnstone Burgh",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/97922.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1809964.png",
@@ -345,14 +270,14 @@
       "leagueId": 1000001703,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "53‎’‎",
+      "minute": "81‎’‎",
       "time": "2026-08-19T18:45:00.000Z"
     },
     {
       "id": "fm-1000016689",
       "home": "Troon Juniors",
       "away": "Renfrew FC",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6114.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2063860.png",
@@ -360,14 +285,14 @@
       "leagueId": 1000001703,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "54‎’‎",
+      "minute": "82‎’‎",
       "time": "2026-08-19T18:45:00.000Z"
     },
     {
       "id": "fm-1000013677",
       "home": "Tigres FC",
       "away": "Envigado",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193030.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4402.png",
@@ -375,7 +300,7 @@
       "leagueId": 9125,
       "country": "COL",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "62‎’‎",
       "time": "2026-08-19T19:00:00.000Z"
     },
     {
@@ -574,6 +499,36 @@
       "time": "2026-08-19T18:00:00.000Z"
     },
     {
+      "id": "fm-5225969",
+      "home": "Hviti Riddarinn",
+      "away": "KFG",
+      "homeScore": 0,
+      "awayScore": 5,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1360600.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/542586.png",
+      "league": "2. Deild",
+      "leagueId": 10226,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T18:00:00.000Z"
+    },
+    {
+      "id": "fm-5225970",
+      "home": "Kormákur/Hvöt",
+      "away": "Haukar",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1599412.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4494.png",
+      "league": "2. Deild",
+      "leagueId": 10226,
+      "country": "ISL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T18:00:00.000Z"
+    },
+    {
       "id": "fm-5225972",
       "home": "Selfoss",
       "away": "Kari",
@@ -677,6 +632,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-19T09:30:00.000Z"
+    },
+    {
+      "id": "fm-5995928",
+      "home": "Barcelona",
+      "away": "Al Ahly SC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101745.png",
+      "league": "Club Friendlies",
+      "leagueId": 915708,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T18:00:00.000Z"
     },
     {
       "id": "fm-5849318",
@@ -1024,6 +994,21 @@
       "time": "2026-08-19T16:30:00.000Z"
     },
     {
+      "id": "fm-5853723",
+      "home": "Al-Ula FC",
+      "away": "Al Fateh FC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1793879.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/177356.png",
+      "league": "King's Cup",
+      "leagueId": 9942,
+      "country": "KSA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T18:00:00.000Z"
+    },
+    {
       "id": "fm-5215492",
       "home": "ML Vitebsk",
       "away": "Baranovichi",
@@ -1097,6 +1082,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-19T12:00:00.000Z"
+    },
+    {
+      "id": "fm-5113004",
+      "home": "Chacarita Juniors",
+      "away": "Atletico Guemes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10093.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/719912.png",
+      "league": "Primera Nacional",
+      "leagueId": 916553,
+      "country": "ARG",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T18:00:00.000Z"
     },
     {
       "id": "fm-5911828",
