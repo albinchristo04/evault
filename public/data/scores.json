@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T23:29:36.633491+00:00",
+  "lastUpdated": "2026-08-19T23:50:01.766175+00:00",
   "matchCount": 102,
   "liveCount": 8,
   "matches": [
@@ -7,7 +7,7 @@
       "id": "fm-5161606",
       "home": "Racing Louisville (W)",
       "away": "Seattle Reign FC (W)",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1237244.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/433031.png",
@@ -15,7 +15,7 @@
       "leagueId": 920228,
       "country": "USA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "52‎’‎",
       "time": "2026-08-19T22:30:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 9305,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "55‎’‎",
+      "minute": "75‎’‎",
       "time": "2026-08-19T22:15:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 1000001638,
       "country": "INT",
       "status": "LIVE",
-      "minute": "70‎’‎",
+      "minute": "91‎’‎",
       "time": "2026-08-19T22:00:00.000Z"
     },
     {
@@ -60,7 +60,7 @@
       "leagueId": 1000001638,
       "country": "INT",
       "status": "LIVE",
-      "minute": "70‎’‎",
+      "minute": "90‎’‎",
       "time": "2026-08-19T22:00:00.000Z"
     },
     {
@@ -75,7 +75,7 @@
       "leagueId": 11646,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "70‎’‎",
+      "minute": "91‎’‎",
       "time": "2026-08-19T22:00:00.000Z"
     },
     {
@@ -83,14 +83,14 @@
       "home": "Atlético-MG",
       "away": "Bragantino",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10272.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/109705.png",
       "league": "Copa Sudamericana 8th Finals",
       "leagueId": 1000001655,
       "country": "INT",
       "status": "LIVE",
-      "minute": "65‎’‎",
+      "minute": "86‎’‎",
       "time": "2026-08-19T22:00:00.000Z"
     },
     {
@@ -105,7 +105,7 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "56‎’‎",
       "time": "2026-08-19T22:30:00.000Z"
     },
     {
@@ -120,7 +120,7 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "54‎’‎",
       "time": "2026-08-19T22:30:00.000Z"
     },
     {
