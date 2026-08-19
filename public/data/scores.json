@@ -1,28 +1,13 @@
 {
-  "lastUpdated": "2026-08-19T11:57:10.644701+00:00",
+  "lastUpdated": "2026-08-19T12:49:34.526013+00:00",
   "matchCount": 102,
-  "liveCount": 9,
+  "liveCount": 5,
   "matches": [
-    {
-      "id": "fm-6014071",
-      "home": "APIA Leichhardt FC",
-      "away": "Melbourne Victory",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162237.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6230.png",
-      "league": "Australia Cup",
-      "leagueId": 9471,
-      "country": "AUS",
-      "status": "LIVE",
-      "minute": "113‎’‎",
-      "time": "2026-08-19T09:30:00.000Z"
-    },
     {
       "id": "fm-5998282",
       "home": "Mbeya City",
       "away": "Dodoma Jiji FC",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/465620.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1177034.png",
@@ -30,8 +15,23 @@
       "leagueId": 9066,
       "country": "TAN",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "90‎’‎",
       "time": "2026-08-19T11:00:00.000Z"
+    },
+    {
+      "id": "fm-6022191",
+      "home": "Chelsea U18",
+      "away": "Norwich U18",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113552.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113570.png",
+      "league": "Premier League U18",
+      "leagueId": 10068,
+      "country": "ENG",
+      "status": "LIVE",
+      "minute": "HT",
+      "time": "2026-08-19T12:00:00.000Z"
     },
     {
       "id": "fm-5186548",
@@ -45,68 +45,8 @@
       "leagueId": 920266,
       "country": "CHN",
       "status": "LIVE",
-      "minute": "22‎’‎",
+      "minute": "54‎’‎",
       "time": "2026-08-19T11:35:00.000Z"
-    },
-    {
-      "id": "fm-1000017549",
-      "home": "Chungnam Asan FC",
-      "away": "Daejeon Hana Citizen",
-      "homeScore": 2,
-      "awayScore": 3,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/429442.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133900.png",
-      "league": "Cup",
-      "leagueId": 9551,
-      "country": "KOR",
-      "status": "LIVE",
-      "minute": "96‎’‎",
-      "time": "2026-08-19T10:00:00.000Z"
-    },
-    {
-      "id": "fm-1000017551",
-      "home": "Pohang Steelers",
-      "away": "Jinju Citizen",
-      "homeScore": 3,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/109373.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1211057.png",
-      "league": "Cup",
-      "leagueId": 9551,
-      "country": "KOR",
-      "status": "LIVE",
-      "minute": "95‎’‎",
-      "time": "2026-08-19T10:00:00.000Z"
-    },
-    {
-      "id": "fm-1000017553",
-      "home": "Jeonbuk Hyundai Motors FC",
-      "away": "Dangjin Citizen",
-      "homeScore": 2,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/46038.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1335275.png",
-      "league": "Cup",
-      "leagueId": 9551,
-      "country": "KOR",
-      "status": "LIVE",
-      "minute": "ET",
-      "time": "2026-08-19T10:00:00.000Z"
-    },
-    {
-      "id": "fm-1000017550",
-      "home": "FC Anyang",
-      "away": "Jeju SK",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/429440.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133898.png",
-      "league": "Cup",
-      "leagueId": 9551,
-      "country": "KOR",
-      "status": "LIVE",
-      "minute": "69‎’‎",
-      "time": "2026-08-19T10:30:00.000Z"
     },
     {
       "id": "fm-1000017555",
@@ -120,7 +60,7 @@
       "leagueId": 9551,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "71‎’‎",
+      "minute": "111‎’‎",
       "time": "2026-08-19T10:30:00.000Z"
     },
     {
@@ -135,7 +75,7 @@
       "leagueId": 9551,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "68‎’‎",
+      "minute": "PET",
       "time": "2026-08-19T10:30:00.000Z"
     },
     {
@@ -814,21 +754,6 @@
       "time": "2026-08-19T16:00:00.000Z"
     },
     {
-      "id": "fm-6022191",
-      "home": "Chelsea U18",
-      "away": "Norwich U18",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113552.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1113570.png",
-      "league": "Premier League U18",
-      "leagueId": 10068,
-      "country": "ENG",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-19T12:00:00.000Z"
-    },
-    {
       "id": "fm-5113004",
       "home": "Chacarita Juniors",
       "away": "Atletico Guemes",
@@ -1354,6 +1279,21 @@
       "time": "2026-08-19T22:30:00.000Z"
     },
     {
+      "id": "fm-6014071",
+      "home": "APIA Leichhardt FC",
+      "away": "Melbourne Victory",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162237.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6230.png",
+      "league": "Australia Cup",
+      "leagueId": 9471,
+      "country": "AUS",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T09:30:00.000Z"
+    },
+    {
       "id": "fm-5849318",
       "home": "C.S. Cartaginés",
       "away": "Verdes FC",
@@ -1474,6 +1414,36 @@
       "time": "2026-08-19T00:30:00.000Z"
     },
     {
+      "id": "fm-1000017549",
+      "home": "Chungnam Asan FC",
+      "away": "Daejeon Hana Citizen",
+      "homeScore": 2,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/429442.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133900.png",
+      "league": "Cup",
+      "leagueId": 9551,
+      "country": "KOR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T10:00:00.000Z"
+    },
+    {
+      "id": "fm-1000017551",
+      "home": "Pohang Steelers",
+      "away": "Jinju Citizen",
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/109373.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1211057.png",
+      "league": "Cup",
+      "leagueId": 9551,
+      "country": "KOR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T10:00:00.000Z"
+    },
+    {
       "id": "fm-1000017552",
       "home": "Gimpo FC",
       "away": "Gimcheon Sangmu",
@@ -1481,6 +1451,21 @@
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/833649.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133901.png",
+      "league": "Cup",
+      "leagueId": 9551,
+      "country": "KOR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T10:00:00.000Z"
+    },
+    {
+      "id": "fm-1000017553",
+      "home": "Jeonbuk Hyundai Motors FC",
+      "away": "Dangjin Citizen",
+      "homeScore": 2,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/46038.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1335275.png",
       "league": "Cup",
       "leagueId": 9551,
       "country": "KOR",
@@ -1502,6 +1487,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-19T10:00:00.000Z"
+    },
+    {
+      "id": "fm-1000017550",
+      "home": "FC Anyang",
+      "away": "Jeju SK",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/429440.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/133898.png",
+      "league": "Cup",
+      "leagueId": 9551,
+      "country": "KOR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T10:30:00.000Z"
     }
   ]
 }
