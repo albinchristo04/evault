@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T08:51:25.923333+00:00",
+  "lastUpdated": "2026-08-19T09:30:32.155915+00:00",
   "matchCount": 102,
   "liveCount": 0,
   "matches": [
@@ -935,7 +935,7 @@
     },
     {
       "id": "fm-1000013045",
-      "home": "Atletico MG",
+      "home": "Atlético-MG",
       "away": "Bragantino",
       "homeScore": 0,
       "awayScore": 0,
@@ -1356,7 +1356,7 @@
     {
       "id": "fm-5190663",
       "home": "Fortaleza",
-      "away": "Sao Bernardo",
+      "away": "São Bernardo",
       "homeScore": 0,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8287.png",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "fm-5190665",
-      "home": "Avai FC",
+      "home": "Avaí",
       "away": "Sport Recife",
       "homeScore": 0,
       "awayScore": 0,
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "fm-1000013055",
-      "home": "Sao Paulo",
+      "home": "São Paulo",
       "away": "Bolivar",
       "homeScore": 3,
       "awayScore": 1,
