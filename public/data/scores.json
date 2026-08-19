@@ -1,21 +1,66 @@
 {
-  "lastUpdated": "2026-08-19T16:36:13.738255+00:00",
+  "lastUpdated": "2026-08-19T17:00:08.577732+00:00",
   "matchCount": 102,
-  "liveCount": 23,
+  "liveCount": 24,
   "matches": [
+    {
+      "id": "fm-5903807",
+      "home": "Brøndby IF (W)",
+      "away": "HB Køge (W)",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8502.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1170164.png",
+      "league": "A-Liga",
+      "leagueId": 939688,
+      "country": "DEN",
+      "status": "LIVE",
+      "minute": "1‎’‎",
+      "time": "2026-08-19T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5903810",
+      "home": "Fortuna Hjørring (W)",
+      "away": "AGF (W)",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10206.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1166877.png",
+      "league": "A-Liga",
+      "leagueId": 939688,
+      "country": "DEN",
+      "status": "LIVE",
+      "minute": "1‎’‎",
+      "time": "2026-08-19T17:00:00.000Z"
+    },
+    {
+      "id": "fm-5903808",
+      "home": "Kolding IF (W)",
+      "away": "OB Q (W)",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/88747.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/774368.png",
+      "league": "A-Liga",
+      "leagueId": 939688,
+      "country": "DEN",
+      "status": "LIVE",
+      "minute": "1‎’‎",
+      "time": "2026-08-19T17:00:00.000Z"
+    },
     {
       "id": "fm-5820438",
       "home": "Vaexjoe Norra IF",
       "away": "IFK Värnamo",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1723316.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6181.png",
       "league": "Cup",
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "36‎’‎",
+      "minute": "HT",
       "time": "2026-08-19T16:00:00.000Z"
     },
     {
@@ -23,21 +68,21 @@
       "home": "Ängelholms FF",
       "away": "Kalmar FF",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8189.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9892.png",
       "league": "Cup",
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "29‎’‎",
       "time": "2026-08-19T16:30:00.000Z"
     },
     {
       "id": "fm-5820442",
       "home": "Enköping",
       "away": "Västerås SK",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8425.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6194.png",
@@ -45,7 +90,7 @@
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "30‎’‎",
       "time": "2026-08-19T16:30:00.000Z"
     },
     {
@@ -60,7 +105,7 @@
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "30‎’‎",
       "time": "2026-08-19T16:30:00.000Z"
     },
     {
@@ -75,7 +120,7 @@
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "30‎’‎",
       "time": "2026-08-19T16:30:00.000Z"
     },
     {
@@ -83,14 +128,14 @@
       "home": "IFK Östersund",
       "away": "Degerfors",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/517337.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6544.png",
       "league": "Cup",
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "30‎’‎",
       "time": "2026-08-19T16:30:00.000Z"
     },
     {
@@ -105,7 +150,7 @@
       "leagueId": 931430,
       "country": "SWE",
       "status": "LIVE",
-      "minute": "6‎’‎",
+      "minute": "30‎’‎",
       "time": "2026-08-19T16:30:00.000Z"
     },
     {
@@ -120,7 +165,7 @@
       "leagueId": 943628,
       "country": "GRE",
       "status": "LIVE",
-      "minute": "37‎’‎",
+      "minute": "HT",
       "time": "2026-08-19T16:00:00.000Z"
     },
     {
@@ -135,37 +180,22 @@
       "leagueId": 242,
       "country": "DEN",
       "status": "LIVE",
-      "minute": "27‎’‎",
+      "minute": "HT",
       "time": "2026-08-19T16:00:00.000Z"
-    },
-    {
-      "id": "fm-5897568",
-      "home": "KamAZ",
-      "away": "Tekstilshchik",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49695.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49705.png",
-      "league": "First League",
-      "leagueId": 938422,
-      "country": "RUS",
-      "status": "LIVE",
-      "minute": "77‎’‎",
-      "time": "2026-08-19T15:00:00.000Z"
     },
     {
       "id": "fm-5897574",
       "home": "Veles Moscow",
       "away": "Nizhny Novgorod",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/859606.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/657508.png",
       "league": "First League",
       "leagueId": 938422,
       "country": "RUS",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "28‎’‎",
       "time": "2026-08-19T16:30:00.000Z"
     },
     {
@@ -180,7 +210,7 @@
       "leagueId": 9942,
       "country": "KSA",
       "status": "LIVE",
-      "minute": "21‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-08-19T16:15:00.000Z"
     },
     {
@@ -188,14 +218,14 @@
       "home": "Jeddah",
       "away": "Al Kholood",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 3,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1017737.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1523706.png",
       "league": "King's Cup",
       "leagueId": 9942,
       "country": "KSA",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "29‎’‎",
       "time": "2026-08-19T16:30:00.000Z"
     },
     {
@@ -210,7 +240,7 @@
       "leagueId": 923169,
       "country": "BLR",
       "status": "LIVE",
-      "minute": "35‎’‎",
+      "minute": "HT",
       "time": "2026-08-19T16:00:00.000Z"
     },
     {
@@ -225,7 +255,7 @@
       "leagueId": 9066,
       "country": "TAN",
       "status": "LIVE",
-      "minute": "36‎’‎",
+      "minute": "HT",
       "time": "2026-08-19T16:00:00.000Z"
     },
     {
@@ -240,7 +270,7 @@
       "leagueId": 940452,
       "country": "GER",
       "status": "LIVE",
-      "minute": "5‎’‎",
+      "minute": "29‎’‎",
       "time": "2026-08-19T16:30:00.000Z"
     },
     {
@@ -248,30 +278,15 @@
       "home": "Rubin",
       "away": "Spartak",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8683.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8643.png",
       "league": "Cup Grp. A",
       "leagueId": 938418,
       "country": "RUS",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "66‎’‎",
       "time": "2026-08-19T15:30:00.000Z"
-    },
-    {
-      "id": "fm-5200621",
-      "home": "Mashal Muborak",
-      "away": "Andijon",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102144.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102151.png",
-      "league": "Superliga",
-      "leagueId": 540,
-      "country": "UZB",
-      "status": "LIVE",
-      "minute": "76‎’‎",
-      "time": "2026-08-19T15:00:00.000Z"
     },
     {
       "id": "fm-5105400",
@@ -285,7 +300,7 @@
       "leagueId": 916229,
       "country": "NOR",
       "status": "LIVE",
-      "minute": "36‎’‎",
+      "minute": "HT",
       "time": "2026-08-19T16:00:00.000Z"
     },
     {
@@ -300,7 +315,7 @@
       "leagueId": 523,
       "country": "IRN",
       "status": "LIVE",
-      "minute": "35‎’‎",
+      "minute": "HT",
       "time": "2026-08-19T16:00:00.000Z"
     },
     {
@@ -315,7 +330,7 @@
       "leagueId": 523,
       "country": "IRN",
       "status": "LIVE",
-      "minute": "34‎’‎",
+      "minute": "HT",
       "time": "2026-08-19T16:00:00.000Z"
     },
     {
@@ -330,7 +345,7 @@
       "leagueId": 523,
       "country": "IRN",
       "status": "LIVE",
-      "minute": "35‎’‎",
+      "minute": "HT",
       "time": "2026-08-19T16:00:00.000Z"
     },
     {
@@ -338,14 +353,14 @@
       "home": "Malavan",
       "away": "Zob Ahan",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101612.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/101618.png",
       "league": "Persian Gulf",
       "leagueId": 523,
       "country": "IRN",
       "status": "LIVE",
-      "minute": "37‎’‎",
+      "minute": "HT",
       "time": "2026-08-19T16:00:00.000Z"
     },
     {
@@ -452,51 +467,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-19T18:00:00.000Z"
-    },
-    {
-      "id": "fm-5903807",
-      "home": "Brøndby IF (W)",
-      "away": "HB Køge (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8502.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1170164.png",
-      "league": "A-Liga",
-      "leagueId": 939688,
-      "country": "DEN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-19T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5903810",
-      "home": "Fortuna Hjørring (W)",
-      "away": "AGF (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10206.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1166877.png",
-      "league": "A-Liga",
-      "leagueId": 939688,
-      "country": "DEN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-19T17:00:00.000Z"
-    },
-    {
-      "id": "fm-5903808",
-      "home": "Kolding IF (W)",
-      "away": "OB Q (W)",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/88747.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/774368.png",
-      "league": "A-Liga",
-      "leagueId": 939688,
-      "country": "DEN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-19T17:00:00.000Z"
     },
     {
       "id": "fm-5987799",
@@ -1219,6 +1189,21 @@
       "time": "2026-08-19T13:30:00.000Z"
     },
     {
+      "id": "fm-5897568",
+      "home": "KamAZ",
+      "away": "Tekstilshchik",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49695.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49705.png",
+      "league": "First League",
+      "leagueId": 938422,
+      "country": "RUS",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T15:00:00.000Z"
+    },
+    {
       "id": "fm-5998282",
       "home": "Mbeya City",
       "away": "Dodoma Jiji FC",
@@ -1307,6 +1292,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-19T14:00:00.000Z"
+    },
+    {
+      "id": "fm-5200621",
+      "home": "Mashal Muborak",
+      "away": "Andijon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102144.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102151.png",
+      "league": "Superliga",
+      "leagueId": 540,
+      "country": "UZB",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T15:00:00.000Z"
     },
     {
       "id": "fm-1000011148",
