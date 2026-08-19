@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T21:22:18.840999+00:00",
+  "lastUpdated": "2026-08-19T21:50:02.220236+00:00",
   "matchCount": 102,
   "liveCount": 3,
   "matches": [
@@ -15,14 +15,14 @@
       "leagueId": 938628,
       "country": "GUA",
       "status": "LIVE",
-      "minute": "17‎’‎",
+      "minute": "44‎’‎",
       "time": "2026-08-19T21:00:00.000Z"
     },
     {
       "id": "fm-1000007718",
       "home": "New York City FC II",
       "away": "FC Cincinnati 2",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348108.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348109.png",
@@ -30,7 +30,7 @@
       "leagueId": 10282,
       "country": "USA",
       "status": "LIVE",
-      "minute": "17‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-08-19T21:00:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 274,
       "country": "COL",
       "status": "LIVE",
-      "minute": "23‎’‎",
+      "minute": "50‎’‎",
       "time": "2026-08-19T21:00:00.000Z"
     },
     {
