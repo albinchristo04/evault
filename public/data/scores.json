@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T14:55:18.912431+00:00",
+  "lastUpdated": "2026-08-19T15:28:06.909186+00:00",
   "matchCount": 102,
   "liveCount": 8,
   "matches": [
@@ -7,7 +7,7 @@
       "id": "fm-6030441",
       "home": "Nestos Chrisoupolis",
       "away": "Apollon Pontou",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/488150.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6281.png",
@@ -15,7 +15,7 @@
       "leagueId": 943628,
       "country": "GRE",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "65‎’‎",
       "time": "2026-08-19T14:00:00.000Z"
     },
     {
@@ -30,29 +30,29 @@
       "leagueId": 943628,
       "country": "GRE",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "67‎’‎",
       "time": "2026-08-19T14:00:00.000Z"
     },
     {
       "id": "fm-6030443",
       "home": "Zakynthos APS",
       "away": "Kifisia FC",
-      "homeScore": 0,
-      "awayScore": 3,
+      "homeScore": 1,
+      "awayScore": 4,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162388.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/488099.png",
       "league": "Cup Preliminary Round",
       "leagueId": 943628,
       "country": "GRE",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "70‎’‎",
       "time": "2026-08-19T14:00:00.000Z"
     },
     {
       "id": "fm-6030444",
       "home": "Kalamata",
       "away": "Panetolikos",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1585.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162386.png",
@@ -60,7 +60,7 @@
       "leagueId": 943628,
       "country": "GRE",
       "status": "LIVE",
-      "minute": "38‎’‎",
+      "minute": "50‎’‎",
       "time": "2026-08-19T14:15:00.000Z"
     },
     {
@@ -75,53 +75,53 @@
       "leagueId": 943496,
       "country": "IND",
       "status": "LIVE",
-      "minute": "65‎’‎",
+      "minute": "98‎’‎",
       "time": "2026-08-19T13:30:00.000Z"
     },
     {
-      "id": "fm-5998283",
-      "home": "Pamba Jiji",
-      "away": "Simba SC",
-      "homeScore": 1,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1056183.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165086.png",
-      "league": "Premier League",
-      "leagueId": 9066,
-      "country": "TAN",
-      "status": "LIVE",
-      "minute": "76‎’‎",
-      "time": "2026-08-19T13:15:00.000Z"
-    },
-    {
-      "id": "fm-5851888",
-      "home": "Krylya Sovetov",
-      "away": "Zenit",
+      "id": "fm-5897568",
+      "home": "KamAZ",
+      "away": "Tekstilshchik",
       "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8709.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8698.png",
-      "league": "Cup Grp. C",
-      "leagueId": 938420,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49695.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49705.png",
+      "league": "First League",
+      "leagueId": 938422,
       "country": "RUS",
       "status": "LIVE",
-      "minute": "76‎’‎",
-      "time": "2026-08-19T13:15:00.000Z"
+      "minute": "27‎’‎",
+      "time": "2026-08-19T15:00:00.000Z"
     },
     {
       "id": "fm-5200623",
       "home": "AGMK",
       "away": "Dinamo Samarkand",
       "homeScore": 0,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/115128.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102149.png",
       "league": "Superliga",
       "leagueId": 540,
       "country": "UZB",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "69‎’‎",
       "time": "2026-08-19T14:00:00.000Z"
+    },
+    {
+      "id": "fm-5200621",
+      "home": "Mashal Muborak",
+      "away": "Andijon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102144.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102151.png",
+      "league": "Superliga",
+      "leagueId": 540,
+      "country": "UZB",
+      "status": "LIVE",
+      "minute": "27‎’‎",
+      "time": "2026-08-19T15:00:00.000Z"
     },
     {
       "id": "fm-5868012",
@@ -529,21 +529,6 @@
       "time": "2026-08-19T18:00:00.000Z"
     },
     {
-      "id": "fm-5897568",
-      "home": "KamAZ",
-      "away": "Tekstilshchik",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49695.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49705.png",
-      "league": "First League",
-      "leagueId": 938422,
-      "country": "RUS",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-19T15:00:00.000Z"
-    },
-    {
       "id": "fm-5897574",
       "home": "Veles Moscow",
       "away": "Nizhny Novgorod",
@@ -752,21 +737,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-19T17:45:00.000Z"
-    },
-    {
-      "id": "fm-5200621",
-      "home": "Mashal Muborak",
-      "away": "Andijon",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102144.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/102151.png",
-      "league": "Superliga",
-      "leagueId": 540,
-      "country": "UZB",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-19T15:00:00.000Z"
     },
     {
       "id": "fm-5105400",
@@ -1279,6 +1249,21 @@
       "time": "2026-08-19T11:00:00.000Z"
     },
     {
+      "id": "fm-5998283",
+      "home": "Pamba Jiji",
+      "away": "Simba SC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1056183.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165086.png",
+      "league": "Premier League",
+      "leagueId": 9066,
+      "country": "TAN",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T13:15:00.000Z"
+    },
+    {
       "id": "fm-6022191",
       "home": "Chelsea U18",
       "away": "Norwich U18",
@@ -1292,6 +1277,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-19T12:00:00.000Z"
+    },
+    {
+      "id": "fm-5851888",
+      "home": "Krylya Sovetov",
+      "away": "Zenit",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8709.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8698.png",
+      "league": "Cup Grp. C",
+      "leagueId": 938420,
+      "country": "RUS",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-19T13:15:00.000Z"
     },
     {
       "id": "fm-5186548",
