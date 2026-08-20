@@ -1,28 +1,13 @@
 {
-  "lastUpdated": "2026-08-20T21:12:32.637099+00:00",
+  "lastUpdated": "2026-08-20T21:46:17.985224+00:00",
   "matchCount": 118,
-  "liveCount": 2,
+  "liveCount": 1,
   "matches": [
-    {
-      "id": "fm-6005795",
-      "home": "Tacuary",
-      "away": "Libertad",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49679.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6620.png",
-      "league": "Cup",
-      "leagueId": 10230,
-      "country": "PAR",
-      "status": "LIVE",
-      "minute": "86‎’‎",
-      "time": "2026-08-20T19:30:00.000Z"
-    },
     {
       "id": "fm-1000013679",
       "home": "Real Santander",
       "away": "Barranquilla FC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193022.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193027.png",
@@ -30,7 +15,7 @@
       "leagueId": 9125,
       "country": "COL",
       "status": "LIVE",
-      "minute": "41‎’‎",
+      "minute": "54‎’‎",
       "time": "2026-08-20T20:30:00.000Z"
     },
     {
@@ -857,6 +842,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-20T17:00:00.000Z"
+    },
+    {
+      "id": "fm-6005795",
+      "home": "Tacuary",
+      "away": "Libertad",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49679.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6620.png",
+      "league": "Cup",
+      "leagueId": 10230,
+      "country": "PAR",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-20T19:30:00.000Z"
     },
     {
       "id": "fm-6040433",
