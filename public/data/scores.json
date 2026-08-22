@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-08-22T06:02:37.104492+00:00",
+  "lastUpdated": "2026-08-22T06:56:19.762642+00:00",
   "matchCount": 635,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
+    {
+      "id": "fm-5836229",
+      "home": "Consadole Sapporo",
+      "away": "RB Omiya Ardija",
+      "homeScore": 0,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/112688.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4398.png",
+      "league": "J. League 2",
+      "leagueId": 938215,
+      "country": "JPN",
+      "status": "LIVE",
+      "minute": "HT",
+      "time": "2026-08-22T06:00:00.000Z"
+    },
     {
       "id": "fm-5795364",
       "home": "Hull",
@@ -1481,21 +1496,6 @@
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1899.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8067.png",
-      "league": "Cup",
-      "leagueId": 206,
-      "country": "NOR",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-22T14:00:00.000Z"
-    },
-    {
-      "id": "fm-5835770",
-      "home": "Elverum",
-      "away": "Ull/Kisa",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2292.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10232.png",
       "league": "Cup",
       "leagueId": 206,
       "country": "NOR",
