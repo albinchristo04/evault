@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-22T22:30:26.712947+00:00",
+  "lastUpdated": "2026-08-22T22:51:31.361064+00:00",
   "matchCount": 632,
-  "liveCount": 17,
+  "liveCount": 20,
   "matches": [
     {
       "id": "fm-6012149",
@@ -15,14 +15,14 @@
       "leagueId": 942853,
       "country": "URU",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "62‎’‎",
       "time": "2026-08-22T21:30:00.000Z"
     },
     {
       "id": "fm-5962676",
       "home": "Atletico Independiente",
       "away": "Genesis FC",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2096906.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1512967.png",
@@ -30,22 +30,22 @@
       "leagueId": 941508,
       "country": "HON",
       "status": "LIVE",
-      "minute": "70‎’‎",
+      "minute": "91‎’‎",
       "time": "2026-08-22T21:00:00.000Z"
     },
     {
       "id": "fm-5861233",
       "home": "Aurora FC",
       "away": "CD Suchitepequez",
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeScore": 3,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188294.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49756.png",
       "league": "Liga Nacional Apertura",
       "leagueId": 938628,
       "country": "GUA",
       "status": "LIVE",
-      "minute": "66‎’‎",
+      "minute": "87‎’‎",
       "time": "2026-08-22T21:00:00.000Z"
     },
     {
@@ -60,8 +60,23 @@
       "leagueId": 916957,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "62‎’‎",
       "time": "2026-08-22T21:30:00.000Z"
+    },
+    {
+      "id": "fm-5161609",
+      "home": "Kansas City Current (W)",
+      "away": "Seattle Reign FC (W)",
+      "homeScore": 0,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1237561.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/433031.png",
+      "league": "NWSL",
+      "leagueId": 920228,
+      "country": "USA",
+      "status": "LIVE",
+      "minute": "19‎’‎",
+      "time": "2026-08-22T22:30:00.000Z"
     },
     {
       "id": "fm-5114003",
@@ -75,7 +90,7 @@
       "leagueId": 916561,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "26‎’‎",
+      "minute": "HT",
       "time": "2026-08-22T22:00:00.000Z"
     },
     {
@@ -90,14 +105,29 @@
       "leagueId": 941466,
       "country": "SLV",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "62‎’‎",
       "time": "2026-08-22T21:00:00.000Z"
+    },
+    {
+      "id": "fm-5109904",
+      "home": "Loudoun United FC",
+      "away": "New Mexico United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1003205.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1003208.png",
+      "league": "USL Championship",
+      "leagueId": 8972,
+      "country": "USA",
+      "status": "LIVE",
+      "minute": "15‎’‎",
+      "time": "2026-08-22T22:30:00.000Z"
     },
     {
       "id": "fm-1000007724",
       "home": "New York City FC II",
       "away": "New England Revolution II",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1348108.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1121686.png",
@@ -105,23 +135,8 @@
       "leagueId": 10282,
       "country": "USA",
       "status": "LIVE",
-      "minute": "60‎’‎",
+      "minute": "81‎’‎",
       "time": "2026-08-22T21:00:00.000Z"
-    },
-    {
-      "id": "fm-1000008692",
-      "home": "Cavalry FC",
-      "away": "Atlético Ottawa",
-      "homeScore": 3,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1022952.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1135780.png",
-      "league": "Premier League",
-      "leagueId": 9986,
-      "country": "CAN",
-      "status": "LIVE",
-      "minute": "84‎’‎",
-      "time": "2026-08-22T20:30:00.000Z"
     },
     {
       "id": "fm-1000014097",
@@ -135,7 +150,7 @@
       "leagueId": 274,
       "country": "COL",
       "status": "LIVE",
-      "minute": "67‎’‎",
+      "minute": "88‎’‎",
       "time": "2026-08-22T21:05:00.000Z"
     },
     {
@@ -150,7 +165,7 @@
       "leagueId": 9126,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "58‎’‎",
       "time": "2026-08-22T21:30:00.000Z"
     },
     {
@@ -158,14 +173,14 @@
       "home": "Metropolitanos FC",
       "away": "Deportivo Tachira",
       "homeScore": 1,
-      "awayScore": 0,
+      "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/365280.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1896.png",
       "league": "Primera División",
       "leagueId": 339,
       "country": "VEN",
       "status": "LIVE",
-      "minute": "31‎’‎",
+      "minute": "HT",
       "time": "2026-08-22T22:00:00.000Z"
     },
     {
@@ -180,7 +195,7 @@
       "leagueId": 144,
       "country": "BOL",
       "status": "LIVE",
-      "minute": "57‎’‎",
+      "minute": "78‎’‎",
       "time": "2026-08-22T21:15:00.000Z"
     },
     {
@@ -195,14 +210,14 @@
       "leagueId": 273,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "60‎’‎",
       "time": "2026-08-22T21:30:00.000Z"
     },
     {
       "id": "fm-1000009074",
       "home": "Tecnico Universitario",
       "away": "Guayaquil City",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/113054.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/194754.png",
@@ -210,7 +225,7 @@
       "leagueId": 246,
       "country": "ECU",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "60‎’‎",
       "time": "2026-08-22T21:30:00.000Z"
     },
     {
@@ -225,7 +240,7 @@
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "63‎’‎",
       "time": "2026-08-22T21:30:00.000Z"
     },
     {
@@ -240,7 +255,7 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "69‎’‎",
+      "minute": "91‎’‎",
       "time": "2026-08-22T21:00:00.000Z"
     },
     {
@@ -255,37 +270,37 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "59‎’‎",
       "time": "2026-08-22T21:30:00.000Z"
     },
     {
-      "id": "fm-5161609",
-      "home": "Kansas City Current (W)",
-      "away": "Seattle Reign FC (W)",
+      "id": "fm-1000009514",
+      "home": "Confiança",
+      "away": "Anápolis",
       "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1237561.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/433031.png",
-      "league": "NWSL",
-      "leagueId": 920228,
-      "country": "USA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162167.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/412808.png",
+      "league": "Série C",
+      "leagueId": 8971,
+      "country": "BRA",
+      "status": "LIVE",
+      "minute": "22‎’‎",
       "time": "2026-08-22T22:30:00.000Z"
     },
     {
-      "id": "fm-5109904",
-      "home": "Loudoun United FC",
-      "away": "New Mexico United",
+      "id": "fm-1000009519",
+      "home": "Santa Cruz",
+      "away": "Caxias",
       "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1003205.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1003208.png",
-      "league": "USL Championship",
-      "leagueId": 8972,
-      "country": "USA",
-      "status": "SCHEDULED",
-      "minute": null,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9920.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/172206.png",
+      "league": "Série C",
+      "leagueId": 8971,
+      "country": "BRA",
+      "status": "LIVE",
+      "minute": "19‎’‎",
       "time": "2026-08-22T22:30:00.000Z"
     },
     {
@@ -317,36 +332,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-22T22:00:00.000Z"
-    },
-    {
-      "id": "fm-1000009514",
-      "home": "Confiança",
-      "away": "Anápolis",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162167.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/412808.png",
-      "league": "Série C",
-      "leagueId": 8971,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-22T22:30:00.000Z"
-    },
-    {
-      "id": "fm-1000009519",
-      "home": "Santa Cruz",
-      "away": "Caxias",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9920.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/172206.png",
-      "league": "Série C",
-      "leagueId": 8971,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-22T22:30:00.000Z"
     },
     {
       "id": "fm-5795364",
@@ -1496,6 +1481,21 @@
       "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8235.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8143.png",
+      "league": "Championship",
+      "leagueId": 937668,
+      "country": "SCO",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-22T14:00:00.000Z"
+    },
+    {
+      "id": "fm-5794307",
+      "home": "Raith Rovers",
+      "away": "Ayr United",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10250.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9913.png",
       "league": "Championship",
       "leagueId": 937668,
       "country": "SCO",
