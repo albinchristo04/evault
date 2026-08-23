@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-23T21:32:40.340025+00:00",
+  "lastUpdated": "2026-08-23T21:54:11.138927+00:00",
   "matchCount": 408,
-  "liveCount": 22,
+  "liveCount": 24,
   "matches": [
     {
       "id": "fm-5071305",
@@ -15,7 +15,7 @@
       "leagueId": 913550,
       "country": "USA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "55‎’‎",
       "time": "2026-08-23T20:30:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 942853,
       "country": "URU",
       "status": "LIVE",
-      "minute": "2‎’‎",
+      "minute": "24‎’‎",
       "time": "2026-08-23T21:30:00.000Z"
     },
     {
@@ -45,14 +45,14 @@
       "leagueId": 941508,
       "country": "HON",
       "status": "LIVE",
-      "minute": "32‎’‎",
+      "minute": "HT",
       "time": "2026-08-23T21:00:00.000Z"
     },
     {
       "id": "fm-5861234",
       "home": "Deportivo Mixco",
       "away": "Guastatoya",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188299.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188303.png",
@@ -60,7 +60,7 @@
       "leagueId": 938628,
       "country": "GUA",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "HT",
       "time": "2026-08-23T21:00:00.000Z"
     },
     {
@@ -75,7 +75,7 @@
       "leagueId": 916957,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "75‎’‎",
+      "minute": "97‎’‎",
       "time": "2026-08-23T20:00:00.000Z"
     },
     {
@@ -90,7 +90,7 @@
       "leagueId": 941168,
       "country": "PAN",
       "status": "LIVE",
-      "minute": "29‎’‎",
+      "minute": "HT",
       "time": "2026-08-23T21:00:00.000Z"
     },
     {
@@ -105,7 +105,7 @@
       "leagueId": 920228,
       "country": "USA",
       "status": "LIVE",
-      "minute": "56‎’‎",
+      "minute": "78‎’‎",
       "time": "2026-08-23T20:00:00.000Z"
     },
     {
@@ -120,7 +120,7 @@
       "leagueId": 941466,
       "country": "SLV",
       "status": "LIVE",
-      "minute": "31‎’‎",
+      "minute": "HT",
       "time": "2026-08-23T21:00:00.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "leagueId": 938190,
       "country": "CRC",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "HT",
       "time": "2026-08-23T21:00:00.000Z"
     },
     {
@@ -150,7 +150,7 @@
       "leagueId": 131,
       "country": "PER",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "59‎’‎",
       "time": "2026-08-23T20:30:00.000Z"
     },
     {
@@ -165,7 +165,7 @@
       "leagueId": 10282,
       "country": "USA",
       "status": "LIVE",
-      "minute": "70‎’‎",
+      "minute": "92‎’‎",
       "time": "2026-08-23T20:00:00.000Z"
     },
     {
@@ -180,7 +180,7 @@
       "leagueId": 9986,
       "country": "CAN",
       "status": "LIVE",
-      "minute": "64‎’‎",
+      "minute": "85‎’‎",
       "time": "2026-08-23T20:00:00.000Z"
     },
     {
@@ -195,14 +195,14 @@
       "leagueId": 274,
       "country": "COL",
       "status": "LIVE",
-      "minute": "27‎’‎",
+      "minute": "HT",
       "time": "2026-08-23T21:05:00.000Z"
     },
     {
       "id": "fm-1000007290",
       "home": "Antofagasta",
       "away": "Deportes Temuco",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6201.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4060.png",
@@ -210,7 +210,7 @@
       "leagueId": 9126,
       "country": "CHI",
       "status": "LIVE",
-      "minute": "32‎’‎",
+      "minute": "HT",
       "time": "2026-08-23T21:00:00.000Z"
     },
     {
@@ -225,7 +225,7 @@
       "leagueId": 144,
       "country": "BOL",
       "status": "LIVE",
-      "minute": "18‎’‎",
+      "minute": "39‎’‎",
       "time": "2026-08-23T21:15:00.000Z"
     },
     {
@@ -240,8 +240,23 @@
       "leagueId": 246,
       "country": "ECU",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "62‎’‎",
       "time": "2026-08-23T20:30:00.000Z"
+    },
+    {
+      "id": "fm-5103596",
+      "home": "Santos FC",
+      "away": "Mirassol",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8514.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/163782.png",
+      "league": "Série A",
+      "leagueId": 268,
+      "country": "BRA",
+      "status": "LIVE",
+      "minute": "20‎’‎",
+      "time": "2026-08-23T21:30:00.000Z"
     },
     {
       "id": "fm-5103603",
@@ -255,7 +270,7 @@
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "1‎’‎",
+      "minute": "23‎’‎",
       "time": "2026-08-23T21:30:00.000Z"
     },
     {
@@ -270,14 +285,29 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "30‎’‎",
+      "minute": "HT",
       "time": "2026-08-23T21:00:00.000Z"
+    },
+    {
+      "id": "fm-5190675",
+      "home": "Criciúma",
+      "away": "Fortaleza",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7729.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8287.png",
+      "league": "Série B",
+      "leagueId": 8814,
+      "country": "BRA",
+      "status": "LIVE",
+      "minute": "20‎’‎",
+      "time": "2026-08-23T21:30:00.000Z"
     },
     {
       "id": "fm-1000009515",
       "home": "Maranhão",
       "away": "AO Itabaiana",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197781.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197398.png",
@@ -285,7 +315,7 @@
       "leagueId": 8971,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "2‎’‎",
+      "minute": "23‎’‎",
       "time": "2026-08-23T21:30:00.000Z"
     },
     {
@@ -300,14 +330,14 @@
       "leagueId": 8971,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "3‎’‎",
+      "minute": "24‎’‎",
       "time": "2026-08-23T21:30:00.000Z"
     },
     {
       "id": "fm-1000019981",
       "home": "ASA",
       "away": "Gama",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/162164.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1756.png",
@@ -315,7 +345,7 @@
       "leagueId": 9464,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "67‎’‎",
+      "minute": "89‎’‎",
       "time": "2026-08-23T20:00:00.000Z"
     },
     {
@@ -330,7 +360,7 @@
       "leagueId": 10791,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "373‎’‎",
+      "minute": "395‎’‎",
       "time": "2026-08-23T15:00:00.000Z"
     },
     {
@@ -409,21 +439,6 @@
       "time": "2026-08-23T16:30:00.000Z"
     },
     {
-      "id": "fm-5103596",
-      "home": "Santos FC",
-      "away": "Mirassol",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8514.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/163782.png",
-      "league": "Série A",
-      "leagueId": 268,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-23T21:30:00.000Z"
-    },
-    {
       "id": "fm-5103601",
       "home": "Coritiba",
       "away": "Corinthians",
@@ -437,21 +452,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-08-23T22:30:00.000Z"
-    },
-    {
-      "id": "fm-5190675",
-      "home": "Criciúma",
-      "away": "Fortaleza",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/7729.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8287.png",
-      "league": "Série B",
-      "leagueId": 8814,
-      "country": "BRA",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-08-23T21:30:00.000Z"
     },
     {
       "id": "fm-5795369",
