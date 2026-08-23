@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-23T22:42:43.288640+00:00",
+  "lastUpdated": "2026-08-23T23:01:16.938949+00:00",
   "matchCount": 408,
-  "liveCount": 20,
+  "liveCount": 15,
   "matches": [
     {
       "id": "fm-6012152",
@@ -15,7 +15,7 @@
       "leagueId": 942853,
       "country": "URU",
       "status": "LIVE",
-      "minute": "51‎’‎",
+      "minute": "70‎’‎",
       "time": "2026-08-23T21:30:00.000Z"
     },
     {
@@ -30,44 +30,14 @@
       "leagueId": 942125,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "40‎’‎",
+      "minute": "HT",
       "time": "2026-08-23T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5962679",
-      "home": "CD Marathon",
-      "away": "Real Espana",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9932.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49783.png",
-      "league": "Liga Nacional - Apertura",
-      "leagueId": 941508,
-      "country": "HON",
-      "status": "LIVE",
-      "minute": "81‎’‎",
-      "time": "2026-08-23T21:00:00.000Z"
-    },
-    {
-      "id": "fm-5861234",
-      "home": "Deportivo Mixco",
-      "away": "Guastatoya",
-      "homeScore": 3,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188299.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188303.png",
-      "league": "Liga Nacional Apertura",
-      "leagueId": 938628,
-      "country": "GUA",
-      "status": "LIVE",
-      "minute": "81‎’‎",
-      "time": "2026-08-23T21:00:00.000Z"
     },
     {
       "id": "fm-5115959",
       "home": "River Plate",
       "away": "Velez Sarsfield",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10076.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10079.png",
@@ -75,23 +45,8 @@
       "leagueId": 916957,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "27‎’‎",
+      "minute": "45‎’‎",
       "time": "2026-08-23T22:15:00.000Z"
-    },
-    {
-      "id": "fm-5954313",
-      "home": "Herrera FC",
-      "away": "CD Universitario",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1514006.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/165475.png",
-      "league": "LPF Apertura",
-      "leagueId": 941168,
-      "country": "PAN",
-      "status": "LIVE",
-      "minute": "84‎’‎",
-      "time": "2026-08-23T21:00:00.000Z"
     },
     {
       "id": "fm-5161614",
@@ -105,7 +60,7 @@
       "leagueId": 920228,
       "country": "USA",
       "status": "LIVE",
-      "minute": "34‎’‎",
+      "minute": "HT",
       "time": "2026-08-23T22:00:00.000Z"
     },
     {
@@ -120,7 +75,7 @@
       "leagueId": 941466,
       "country": "SLV",
       "status": "LIVE",
-      "minute": "79‎’‎",
+      "minute": "97‎’‎",
       "time": "2026-08-23T21:00:00.000Z"
     },
     {
@@ -135,7 +90,7 @@
       "leagueId": 938190,
       "country": "CRC",
       "status": "LIVE",
-      "minute": "81‎’‎",
+      "minute": "IR",
       "time": "2026-08-23T21:00:00.000Z"
     },
     {
@@ -150,23 +105,8 @@
       "leagueId": 274,
       "country": "COL",
       "status": "LIVE",
-      "minute": "78‎’‎",
+      "minute": "96‎’‎",
       "time": "2026-08-23T21:05:00.000Z"
-    },
-    {
-      "id": "fm-1000007290",
-      "home": "Antofagasta",
-      "away": "Deportes Temuco",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6201.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4060.png",
-      "league": "Primera B",
-      "leagueId": 9126,
-      "country": "CHI",
-      "status": "LIVE",
-      "minute": "82‎’‎",
-      "time": "2026-08-23T21:00:00.000Z"
     },
     {
       "id": "fm-1000019022",
@@ -180,7 +120,7 @@
       "leagueId": 144,
       "country": "BOL",
       "status": "LIVE",
-      "minute": "71‎’‎",
+      "minute": "90‎’‎",
       "time": "2026-08-23T21:15:00.000Z"
     },
     {
@@ -195,7 +135,7 @@
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "47‎’‎",
+      "minute": "66‎’‎",
       "time": "2026-08-23T21:30:00.000Z"
     },
     {
@@ -210,7 +150,7 @@
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "50‎’‎",
+      "minute": "69‎’‎",
       "time": "2026-08-23T21:30:00.000Z"
     },
     {
@@ -225,23 +165,8 @@
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "13‎’‎",
+      "minute": "31‎’‎",
       "time": "2026-08-23T22:30:00.000Z"
-    },
-    {
-      "id": "fm-5190672",
-      "home": "Operário",
-      "away": "Vila Nova",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197429.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/109706.png",
-      "league": "Série B",
-      "leagueId": 8814,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "80‎’‎",
-      "time": "2026-08-23T21:00:00.000Z"
     },
     {
       "id": "fm-5190675",
@@ -255,14 +180,14 @@
       "leagueId": 8814,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "50‎’‎",
+      "minute": "69‎’‎",
       "time": "2026-08-23T21:30:00.000Z"
     },
     {
       "id": "fm-1000009515",
       "home": "Maranhão",
       "away": "AO Itabaiana",
-      "homeScore": 3,
+      "homeScore": 4,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197781.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/197398.png",
@@ -270,7 +195,7 @@
       "leagueId": 8971,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "49‎’‎",
+      "minute": "68‎’‎",
       "time": "2026-08-23T21:30:00.000Z"
     },
     {
@@ -285,7 +210,7 @@
       "leagueId": 8971,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "52‎’‎",
+      "minute": "71‎’‎",
       "time": "2026-08-23T21:30:00.000Z"
     },
     {
@@ -300,7 +225,7 @@
       "leagueId": 10791,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "444‎’‎",
+      "minute": "462‎’‎",
       "time": "2026-08-23T15:00:00.000Z"
     },
     {
@@ -1502,6 +1427,81 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-23T13:30:00.000Z"
+    },
+    {
+      "id": "fm-5750684",
+      "home": "VfB Krieschow",
+      "away": "Mainz",
+      "homeScore": 0,
+      "awayScore": 9,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/860781.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9905.png",
+      "league": "DFB Pokal",
+      "leagueId": 936417,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-23T13:30:00.000Z"
+    },
+    {
+      "id": "fm-5750689",
+      "home": "Westfalia Rhynern",
+      "away": "Dynamo Dresden",
+      "homeScore": 0,
+      "awayScore": 6,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/208110.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8480.png",
+      "league": "DFB Pokal",
+      "leagueId": 936417,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-23T13:30:00.000Z"
+    },
+    {
+      "id": "fm-5750699",
+      "home": "1. FC Phönix Lübeck",
+      "away": "Paderborn",
+      "homeScore": 2,
+      "awayScore": 4,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1072445.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8460.png",
+      "league": "DFB Pokal",
+      "leagueId": 936417,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-23T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5750673",
+      "home": "Düsseldorf",
+      "away": "Freiburg",
+      "homeScore": 1,
+      "awayScore": 5,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8194.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8358.png",
+      "league": "DFB Pokal",
+      "leagueId": 936417,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-23T16:00:00.000Z"
+    },
+    {
+      "id": "fm-5750682",
+      "home": "RW Essen",
+      "away": "St. Pauli",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8296.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8152.png",
+      "league": "DFB Pokal",
+      "leagueId": 936417,
+      "country": "GER",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-23T16:00:00.000Z"
     }
   ]
 }
