@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-08-23T23:32:10.488846+00:00",
+  "lastUpdated": "2026-08-23T23:53:45.069895+00:00",
   "matchCount": 408,
-  "liveCount": 6,
+  "liveCount": 5,
   "matches": [
     {
       "id": "fm-5977324",
       "home": "Pachuca (W)",
       "away": "Chivas (W)",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 1,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980692.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/980702.png",
@@ -15,7 +15,7 @@
       "leagueId": 942125,
       "country": "MEX",
       "status": "LIVE",
-      "minute": "68‎’‎",
+      "minute": "89‎’‎",
       "time": "2026-08-23T22:00:00.000Z"
     },
     {
@@ -23,14 +23,14 @@
       "home": "River Plate",
       "away": "Velez Sarsfield",
       "homeScore": 2,
-      "awayScore": 0,
+      "awayScore": 2,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10076.png",
       "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10079.png",
       "league": "Liga Profesional Clausura",
       "leagueId": 916957,
       "country": "ARG",
       "status": "LIVE",
-      "minute": "57‎’‎",
+      "minute": "79‎’‎",
       "time": "2026-08-23T22:15:00.000Z"
     },
     {
@@ -45,23 +45,8 @@
       "leagueId": 920228,
       "country": "USA",
       "status": "LIVE",
-      "minute": "65‎’‎",
+      "minute": "87‎’‎",
       "time": "2026-08-23T22:00:00.000Z"
-    },
-    {
-      "id": "fm-5103596",
-      "home": "Santos FC",
-      "away": "Mirassol",
-      "homeScore": 1,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8514.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/163782.png",
-      "league": "Série A",
-      "leagueId": 268,
-      "country": "BRA",
-      "status": "LIVE",
-      "minute": "97‎’‎",
-      "time": "2026-08-23T21:30:00.000Z"
     },
     {
       "id": "fm-5103601",
@@ -75,7 +60,7 @@
       "leagueId": 268,
       "country": "BRA",
       "status": "LIVE",
-      "minute": "HT",
+      "minute": "60‎’‎",
       "time": "2026-08-23T22:30:00.000Z"
     },
     {
@@ -90,7 +75,7 @@
       "leagueId": 10791,
       "country": "SCO",
       "status": "LIVE",
-      "minute": "493‎’‎",
+      "minute": "515‎’‎",
       "time": "2026-08-23T15:00:00.000Z"
     },
     {
@@ -1502,6 +1487,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-23T14:45:00.000Z"
+    },
+    {
+      "id": "fm-5874470",
+      "home": "De Graafschap (W)",
+      "away": "SC Heerenveen (W)",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1818162.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1354251.png",
+      "league": "Eredivisie Vrouwen",
+      "leagueId": 10289,
+      "country": "NED",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-23T10:15:00.000Z"
     }
   ]
 }
