@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-08-24T03:35:20.500244+00:00",
+  "lastUpdated": "2026-08-24T04:25:49.895657+00:00",
   "matchCount": 114,
-  "liveCount": 2,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5861235",
-      "home": "Deportivo Malacateco",
-      "away": "San Pedro",
-      "homeScore": 2,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/89674.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188292.png",
-      "league": "Liga Nacional Apertura",
-      "leagueId": 938628,
-      "country": "GUA",
-      "status": "LIVE",
-      "minute": "69‎’‎",
-      "time": "2026-08-24T02:00:00.000Z"
-    },
-    {
-      "id": "fm-1000007730",
-      "home": "Ventura County FC",
-      "away": "Portland Timbers 2",
-      "homeScore": 2,
-      "awayScore": 2,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/521005.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/614322.png",
-      "league": "MLS Next Pro",
-      "leagueId": 10282,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "73‎’‎",
-      "time": "2026-08-24T02:00:00.000Z"
-    },
     {
       "id": "fm-5795372",
       "home": "Fulham",
@@ -1399,6 +1369,21 @@
       "time": "2026-08-24T00:00:00.000Z"
     },
     {
+      "id": "fm-5861235",
+      "home": "Deportivo Malacateco",
+      "away": "San Pedro",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/89674.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/188292.png",
+      "league": "Liga Nacional Apertura",
+      "leagueId": 938628,
+      "country": "GUA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-24T02:00:00.000Z"
+    },
+    {
       "id": "fm-5115958",
       "home": "Racing Club",
       "away": "Boca Juniors",
@@ -1502,6 +1487,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-08-23T23:00:00.000Z"
+    },
+    {
+      "id": "fm-1000014543",
+      "home": "Pumas",
+      "away": "Necaxa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1946.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1842.png",
+      "league": "Liga MX",
+      "leagueId": 230,
+      "country": "MEX",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-08-24T01:00:00.000Z"
     }
   ]
 }
