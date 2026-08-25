@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T10:46:04.725121+00:00",
+  "lastUpdated": "2026-08-25T11:11:44.482737+00:00",
   "matchCount": 145,
   "liveCount": 4,
   "matches": [
@@ -15,7 +15,7 @@
       "leagueId": 9471,
       "country": "AUS",
       "status": "LIVE",
-      "minute": "58‎’‎",
+      "minute": "83‎’‎",
       "time": "2026-08-25T09:30:00.000Z"
     },
     {
@@ -30,7 +30,7 @@
       "leagueId": 919356,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "16‎’‎",
+      "minute": "41‎’‎",
       "time": "2026-08-25T10:30:00.000Z"
     },
     {
@@ -45,7 +45,7 @@
       "leagueId": 919356,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "16‎’‎",
+      "minute": "41‎’‎",
       "time": "2026-08-25T10:30:00.000Z"
     },
     {
@@ -60,7 +60,7 @@
       "leagueId": 919356,
       "country": "KOR",
       "status": "LIVE",
-      "minute": "16‎’‎",
+      "minute": "41‎’‎",
       "time": "2026-08-25T10:30:00.000Z"
     },
     {
@@ -726,7 +726,7 @@
     {
       "id": "fm-6065378",
       "home": "FK Varnsdorf",
-      "away": "Usti nad Labem",
+      "away": "Ústí nad Labem",
       "homeScore": 0,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/183966.png",
@@ -740,7 +740,7 @@
     },
     {
       "id": "fm-6065379",
-      "home": "Horni Redice",
+      "home": "Horní Ředice",
       "away": "Dukla Praha",
       "homeScore": 0,
       "awayScore": 0,
@@ -756,7 +756,7 @@
     {
       "id": "fm-6065381",
       "home": "Motorlet Prague",
-      "away": "Vysocina Jihlava",
+      "away": "Vysočina Jihlava",
       "homeScore": 0,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1084276.png",
@@ -770,7 +770,7 @@
     },
     {
       "id": "fm-6065380",
-      "home": "SK Zapy",
+      "home": "SK Zápy",
       "away": "Bohemians 1905",
       "homeScore": 0,
       "awayScore": 0,
@@ -785,8 +785,8 @@
     },
     {
       "id": "fm-6065382",
-      "home": "Unicov",
-      "away": "FC Zlin",
+      "home": "Uničov",
+      "away": "FC Zlín",
       "homeScore": 0,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1951.png",
@@ -800,8 +800,8 @@
     },
     {
       "id": "fm-6065383",
-      "home": "Hluboka nad Vltavou",
-      "away": "Zizkov",
+      "home": "Hluboká nad Vltavou",
+      "away": "Žižkov",
       "homeScore": 0,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1801336.png",
@@ -816,7 +816,7 @@
     {
       "id": "fm-6005796",
       "home": "General Caballero JLM",
-      "away": "Rubio Nu",
+      "away": "Rubio Ñú",
       "homeScore": 0,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1055181.png",
@@ -1101,7 +1101,7 @@
     {
       "id": "fm-5976860",
       "home": "FC Unirea Slobozia",
-      "away": "FC Metaloglobus Bucuresti",
+      "away": "FC Metaloglobus București",
       "homeScore": 0,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/364411.png",
@@ -1341,7 +1341,7 @@
     {
       "id": "fm-5114013",
       "home": "Arsenal Sarandi",
-      "away": "Ituzaingo",
+      "away": "Ituzaingó",
       "homeScore": 0,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10098.png",
@@ -1371,7 +1371,7 @@
     {
       "id": "fm-5114018",
       "home": "Real Pilar",
-      "away": "Brown de Adrogue",
+      "away": "Brown de Adrogué",
       "homeScore": 0,
       "awayScore": 0,
       "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1018433.png",
@@ -1385,7 +1385,7 @@
     },
     {
       "id": "fm-5114019",
-      "home": "San Martin Burzaco",
+      "home": "San Martín Burzaco",
       "away": "Argentino de Quilmes",
       "homeScore": 0,
       "awayScore": 0,
@@ -1415,7 +1415,7 @@
     },
     {
       "id": "fm-5114022",
-      "home": "Villa Dalmine",
+      "home": "Villa Dálmine",
       "away": "CA Talleres Remedios de Escalada",
       "homeScore": 0,
       "awayScore": 0,
