@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-09-10T06:02:28.076226+00:00",
+  "lastUpdated": "2026-09-10T11:11:57.750485+00:00",
   "matchCount": 100,
-  "liveCount": 0,
+  "liveCount": 1,
   "matches": [
+    {
+      "id": "fm-1000021093",
+      "home": "Fenerbahçe U19",
+      "away": "Roma U19",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/394215.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/597676.png",
+      "league": "UEFA Youth League League Stage",
+      "leagueId": 1000001457,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "10‎’‎",
+      "time": "2026-09-10T11:00:00.000Z"
+    },
     {
       "id": "fm-6106331",
       "home": "Fenerbahçe",
@@ -874,36 +889,6 @@
       "time": "2026-09-10T17:00:00.000Z"
     },
     {
-      "id": "fm-1000021087",
-      "home": "Barcelona U19",
-      "away": "Feyenoord U19",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/394213.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/889586.png",
-      "league": "UEFA Youth League League Stage",
-      "leagueId": 1000001457,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-09-10T07:30:00.000Z"
-    },
-    {
-      "id": "fm-1000021093",
-      "home": "Fenerbahçe U19",
-      "away": "Roma U19",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/394215.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/597676.png",
-      "league": "UEFA Youth League League Stage",
-      "leagueId": 1000001457,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-09-10T11:00:00.000Z"
-    },
-    {
       "id": "fm-1000021094",
       "home": "PSV Eindhoven U19",
       "away": "Shakhtar Donetsk U19",
@@ -1502,6 +1487,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-09-10T00:30:00.000Z"
+    },
+    {
+      "id": "fm-1000021087",
+      "home": "Barcelona U19",
+      "away": "Feyenoord U19",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/394213.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/889586.png",
+      "league": "UEFA Youth League League Stage",
+      "leagueId": 1000001457,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-09-10T07:30:00.000Z"
     }
   ]
 }
