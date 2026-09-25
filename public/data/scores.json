@@ -1,22 +1,37 @@
 {
-  "lastUpdated": "2026-09-25T05:29:14.988132+00:00",
-  "matchCount": 95,
-  "liveCount": 1,
+  "lastUpdated": "2026-09-25T10:28:36.033803+00:00",
+  "matchCount": 93,
+  "liveCount": 2,
   "matches": [
     {
-      "id": "fm-6300692",
-      "home": "Uzbekistan U23",
-      "away": "Saudi Arabia U23",
-      "homeScore": 1,
+      "id": "fm-5924776",
+      "home": "Australia",
+      "away": "Brazil",
+      "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/613636.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/610874.png",
-      "league": "Asian Games",
-      "leagueId": 944026,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
+      "league": "Friendlies",
+      "leagueId": 914609,
       "country": "INT",
       "status": "LIVE",
-      "minute": "25‎’‎",
-      "time": "2026-09-25T05:00:00.000Z"
+      "minute": "17‎’‎",
+      "time": "2026-09-25T10:00:00.000Z"
+    },
+    {
+      "id": "fm-6232978",
+      "home": "Bangladesh",
+      "away": "Malaysia",
+      "homeScore": 0,
+      "awayScore": 3,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95797.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5823.png",
+      "league": "FIFA ASEAN Cup Premier Division Grp. A",
+      "leagueId": 943302,
+      "country": "INT",
+      "status": "LIVE",
+      "minute": "70‎’‎",
+      "time": "2026-09-25T09:00:00.000Z"
     },
     {
       "id": "fm-5181788",
@@ -137,21 +152,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-09-25T18:45:00.000Z"
-    },
-    {
-      "id": "fm-5924776",
-      "home": "Australia",
-      "away": "Brazil",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
-      "league": "Friendlies",
-      "leagueId": 914609,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-09-25T10:00:00.000Z"
     },
     {
       "id": "fm-6280205",
@@ -437,36 +437,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-09-25T10:30:00.000Z"
-    },
-    {
-      "id": "fm-6280583",
-      "home": "Chattogram City",
-      "away": "Bangladesh Police",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2251315.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1503792.png",
-      "league": "Bangladesh Football League",
-      "leagueId": 10443,
-      "country": "BAN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-09-25T09:00:00.000Z"
-    },
-    {
-      "id": "fm-6280584",
-      "home": "Fakirerpool",
-      "away": "Mohammedan",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1695974.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1503794.png",
-      "league": "Bangladesh Football League",
-      "leagueId": 10443,
-      "country": "BAN",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-09-25T09:00:00.000Z"
     },
     {
       "id": "fm-5959622",
@@ -797,21 +767,6 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-09-25T16:30:00.000Z"
-    },
-    {
-      "id": "fm-6232978",
-      "home": "Bangladesh",
-      "away": "Malaysia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/95797.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5823.png",
-      "league": "FIFA ASEAN Cup Premier Division Grp. A",
-      "leagueId": 943302,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-09-25T09:00:00.000Z"
     },
     {
       "id": "fm-6232979",
@@ -1307,6 +1262,21 @@
       "status": "SCHEDULED",
       "minute": null,
       "time": "2026-09-25T16:00:00.000Z"
+    },
+    {
+      "id": "fm-6300692",
+      "home": "Uzbekistan U23",
+      "away": "Saudi Arabia U23",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/613636.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/610874.png",
+      "league": "Asian Games",
+      "leagueId": 944026,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-09-25T05:00:00.000Z"
     },
     {
       "id": "fm-5991879",
