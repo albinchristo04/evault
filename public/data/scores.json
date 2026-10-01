@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-10-01T02:23:07.098272+00:00",
+  "lastUpdated": "2026-10-01T09:15:07.401643+00:00",
   "matchCount": 67,
-  "liveCount": 2,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5109977",
-      "home": "Sacramento Republic FC",
-      "away": "Las Vegas Lights FC",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/521004.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/915809.png",
-      "league": "USL Championship",
-      "leagueId": 8972,
-      "country": "USA",
-      "status": "LIVE",
-      "minute": "13‎’‎",
-      "time": "2026-10-01T02:00:00.000Z"
-    },
-    {
-      "id": "fm-1000014067",
-      "home": "Atlético Nacional",
-      "away": "Junior FC",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6368.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
-      "league": "Primera A",
-      "leagueId": 1000001696,
-      "country": "COL",
-      "status": "LIVE",
-      "minute": "64‎’‎",
-      "time": "2026-10-01T01:00:00.000Z"
-    },
     {
       "id": "fm-5181829",
       "home": "Germany",
@@ -154,21 +124,6 @@
       "time": "2026-10-01T18:45:00.000Z"
     },
     {
-      "id": "fm-6315046",
-      "home": "Panama",
-      "away": "New Zealand",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5922.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
-      "league": "Friendlies",
-      "leagueId": 914609,
-      "country": "INT",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-10-01T06:10:00.000Z"
-    },
-    {
       "id": "fm-6315047",
       "home": "Japan",
       "away": "Ecuador",
@@ -196,7 +151,7 @@
       "country": "INT",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-10-01T12:00:00.000Z"
+      "time": "2026-10-01T14:00:00.000Z"
     },
     {
       "id": "fm-6280451",
@@ -844,6 +799,21 @@
       "time": "2026-10-01T00:00:00.000Z"
     },
     {
+      "id": "fm-6315046",
+      "home": "Panama",
+      "away": "New Zealand",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5922.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
+      "league": "Friendlies",
+      "leagueId": 914609,
+      "country": "INT",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-10-01T06:10:00.000Z"
+    },
+    {
       "id": "fm-5071384",
       "home": "Red Bull New York",
       "away": "St. Louis City",
@@ -979,6 +949,21 @@
       "time": "2026-10-01T00:00:00.000Z"
     },
     {
+      "id": "fm-5109977",
+      "home": "Sacramento Republic FC",
+      "away": "Las Vegas Lights FC",
+      "homeScore": 3,
+      "awayScore": 2,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/521004.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/915809.png",
+      "league": "USL Championship",
+      "leagueId": 8972,
+      "country": "USA",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-10-01T02:00:00.000Z"
+    },
+    {
       "id": "fm-1000008711",
       "home": "Atlético Ottawa",
       "away": "Cavalry FC",
@@ -992,6 +977,21 @@
       "status": "FINISHED",
       "minute": null,
       "time": "2026-09-30T23:00:00.000Z"
+    },
+    {
+      "id": "fm-1000014067",
+      "home": "Atlético Nacional",
+      "away": "Junior FC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6368.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
+      "league": "Primera A",
+      "leagueId": 1000001696,
+      "country": "COL",
+      "status": "FINISHED",
+      "minute": null,
+      "time": "2026-10-01T01:00:00.000Z"
     },
     {
       "id": "fm-5109481",
