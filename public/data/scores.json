@@ -1,38 +1,8 @@
 {
-  "lastUpdated": "2026-10-14T01:35:39.850586+00:00",
-  "matchCount": 133,
-  "liveCount": 2,
+  "lastUpdated": "2026-10-14T06:40:30.319613+00:00",
+  "matchCount": 132,
+  "liveCount": 0,
   "matches": [
-    {
-      "id": "fm-5833804",
-      "home": "C.S. Cartaginés",
-      "away": "Puntarenas FC",
-      "homeScore": 2,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49732.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/9935.png",
-      "league": "Primera Division Apertura",
-      "leagueId": 938190,
-      "country": "CRC",
-      "status": "LIVE",
-      "minute": "75‎’‎",
-      "time": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "fm-1000021775",
-      "home": "Boca Juniors",
-      "away": "Vasco da Gama",
-      "homeScore": 0,
-      "awayScore": 1,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10077.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/10276.png",
-      "league": "Copa Sudamericana - Semi-finals",
-      "leagueId": 1000001660,
-      "country": "INT",
-      "status": "LIVE",
-      "minute": "HT",
-      "time": "2026-10-14T00:30:00.000Z"
-    },
     {
       "id": "fm-6106309",
       "home": "Feyenoord",
@@ -1024,21 +994,6 @@
       "time": "2026-10-14T11:00:00.000Z"
     },
     {
-      "id": "fm-5833805",
-      "home": "Deportiva San Carlos",
-      "away": "Inter San Carlos",
-      "homeScore": 0,
-      "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/49728.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/210656.png",
-      "league": "Primera Division Apertura",
-      "leagueId": 938190,
-      "country": "CRC",
-      "status": "SCHEDULED",
-      "minute": null,
-      "time": "2026-10-14T02:00:00.000Z"
-    },
-    {
       "id": "fm-5916056",
       "home": "Eintracht Frankfurt II",
       "away": "VfR Mannheim",
@@ -1489,19 +1444,64 @@
       "time": "2026-10-14T16:00:00.000Z"
     },
     {
-      "id": "fm-1000014172",
-      "home": "Millonarios",
-      "away": "Once Caldas",
+      "id": "fm-1000014084",
+      "home": "Junior FC",
+      "away": "Deportivo Pereira",
       "homeScore": 0,
       "awayScore": 0,
-      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4403.png",
-      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/6024.png",
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/2254.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/4404.png",
       "league": "Primera A",
       "leagueId": 1000001696,
       "country": "COL",
       "status": "SCHEDULED",
       "minute": null,
-      "time": "2026-10-14T01:30:00.000Z"
+      "time": "2026-10-14T21:30:00.000Z"
+    },
+    {
+      "id": "fm-1000013753",
+      "home": "Real Cundinamarca",
+      "away": "Bogotá FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193026.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/193032.png",
+      "league": "Primera B",
+      "leagueId": 1000001589,
+      "country": "COL",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-10-14T22:00:00.000Z"
+    },
+    {
+      "id": "fm-1000018470",
+      "home": "Hajer",
+      "away": "Al-Orobah FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/272869.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/463259.png",
+      "league": "Saudi First Division",
+      "leagueId": 1000001576,
+      "country": "KSA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-10-14T14:55:00.000Z"
+    },
+    {
+      "id": "fm-1000018474",
+      "home": "Al-Jandal",
+      "away": "Al Akhdoud",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeImage": "https://images.fotmob.com/image_resources/logo/teamlogo/1652183.png",
+      "awayImage": "https://images.fotmob.com/image_resources/logo/teamlogo/582759.png",
+      "league": "Saudi First Division",
+      "leagueId": 1000001576,
+      "country": "KSA",
+      "status": "SCHEDULED",
+      "minute": null,
+      "time": "2026-10-14T15:30:00.000Z"
     }
   ]
 }
